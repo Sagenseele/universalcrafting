@@ -1,0 +1,10 @@
+{
+	icon: "exnihilocreatio:block_end_cake",
+	x: 0.5d,
+	y: -3.5d,
+	tasks: [{
+		uid: "9502c2ee",
+		type: "dimension",
+		dim: 1
+	}]
+}

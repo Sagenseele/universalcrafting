@@ -1,0 +1,20 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	dependencies: [
+		"296f304e"
+	],
+	tasks: [{
+		uid: "15ddb13d",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "210dac33",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "oreCertusQuartz"
+	}]
+}

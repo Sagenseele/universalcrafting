@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "81f2606e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "bloodmagic:soul_snare"
+		}]
+	}]
+}

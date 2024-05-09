@@ -1,0 +1,10 @@
+{
+	x: 1.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "b1f92da6",
+		type: "forge_energy",
+		disable_toast: true,
+		value: 10000L
+	}]
+}

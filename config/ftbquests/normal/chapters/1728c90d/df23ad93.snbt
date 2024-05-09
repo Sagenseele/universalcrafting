@@ -1,0 +1,19 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	text: [
+		"Get flour by putting wheat into the harvestcraft grinder"
+	],
+	dependencies: [
+		"b3299cc6"
+	],
+	tasks: [{
+		uid: "9605957f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "harvestcraft:flouritem"
+		}],
+		consume_items: true
+	}]
+}

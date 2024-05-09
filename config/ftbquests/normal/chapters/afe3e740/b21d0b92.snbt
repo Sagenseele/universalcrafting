@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "55fc8c6a",
+		type: "fluid",
+		disable_toast: true,
+		fluid: "water",
+		amount: 4000
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: -2.0d,
+	y: -4.5d,
+	dependencies: [
+		"f328f32a"
+	],
+	tasks: [{
+		uid: "771dfac2",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "ae2stuff:grower"
+		}]
+	}]
+}

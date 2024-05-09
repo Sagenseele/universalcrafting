@@ -1,0 +1,36 @@
+{
+	title: "Tier IV",
+	icon: "bloodmagic:decorative_brick 1 1",
+	x: 4.5d,
+	y: 0.5d,
+	dependencies: [
+		"3e41def8"
+	],
+	tasks: [{
+		uid: "f6620703",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "minecraft:stone"
+		}],
+		count: 28L
+	},
+	{
+		uid: "b264c80c",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "minecraft:stonebrick"
+		}],
+		count: 8L
+	},
+	{
+		uid: "36701cba",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "bloodmagic:decorative_brick 1 1"
+		}],
+		count: 4L
+	}]
+}

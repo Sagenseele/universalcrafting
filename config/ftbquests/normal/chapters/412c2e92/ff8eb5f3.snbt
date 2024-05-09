@@ -1,0 +1,15 @@
+{
+	x: -0.5d,
+	y: -0.5d,
+	dependencies: [
+		"84ff4bb1"
+	],
+	tasks: [{
+		uid: "a6efbd86",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "kubejs:steel_beam"
+		}]
+	}]
+}

@@ -1,0 +1,37 @@
+{
+	title: "Weaponsmith",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "tconstruct:cleaver"
+	},
+	x: 0.5d,
+	y: 8.0d,
+	description: "For some heavy hitting",
+	dependencies: [
+		"4446416a",
+		"89412073",
+		"64cfda2c"
+	],
+	tasks: [{
+		uid: "153972b7",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "52ea7209",
+		type: "item",
+		item: {
+			id: "tconstruct:large_sword_blade",
+			tag: {
+				Material: "wood"
+			}
+		}
+	},
+	{
+		uid: "f10866e9",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "weaponsmith1"
+	}]
+}

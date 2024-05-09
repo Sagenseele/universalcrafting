@@ -1,0 +1,20 @@
+{
+	title: "Advanced Ranged Combat",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "tconstruct:shuriken"
+	},
+	x: 0.5d,
+	y: 10.0d,
+	dependencies: [
+		"0cde7f92",
+		"f7aab7ba",
+		"2eb7ee95"
+	],
+	tasks: [{
+		uid: "27999017",
+		type: "checkmark"
+	}]
+}

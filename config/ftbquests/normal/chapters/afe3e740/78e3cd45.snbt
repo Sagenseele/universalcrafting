@@ -1,0 +1,18 @@
+{
+	x: 3.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "a7afef9d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:fishing_rod"
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

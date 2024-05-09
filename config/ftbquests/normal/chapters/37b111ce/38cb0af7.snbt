@@ -1,0 +1,24 @@
+{
+	x: 6.0d,
+	y: -1.0d,
+	dependencies: [
+		"662fd83b"
+	],
+	tasks: [{
+		uid: "12453ccd",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "lubricant",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

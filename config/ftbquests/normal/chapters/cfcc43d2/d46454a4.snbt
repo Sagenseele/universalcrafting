@@ -1,0 +1,20 @@
+{
+	x: -0.5d,
+	y: 0.5d,
+	dependencies: [
+		"cfa3d9a0"
+	],
+	tasks: [{
+		uid: "973de4f7",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "guideapi:bloodmagic-guide"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

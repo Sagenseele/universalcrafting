@@ -1,0 +1,9 @@
+{
+	x: -2.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "38585772",
+		type: "forge_energy",
+		value: 5000L
+	}]
+}

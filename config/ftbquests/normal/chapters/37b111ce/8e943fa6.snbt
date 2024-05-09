@@ -1,0 +1,17 @@
+{
+	title: "Blast Oven",
+	x: 0.0d,
+	y: -3.0d,
+	dependencies: [
+		"52af6fb6"
+	],
+	tasks: [{
+		uid: "d8d04427",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 1"
+		}],
+		count: 27L
+	}]
+}

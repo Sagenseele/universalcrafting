@@ -1,0 +1,23 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "7893c89f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "botania:altar"
+		}]
+	}],
+	rewards: [{
+		uid: "85a93ee4",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:lexicon",
+			tag: {}
+		}
+	}]
+}

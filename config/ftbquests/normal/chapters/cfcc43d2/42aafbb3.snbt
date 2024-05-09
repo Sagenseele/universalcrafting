@@ -1,0 +1,51 @@
+{
+	title: "Serenade of the Nether",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "minecraft:lava_bucket"
+	},
+	x: 0.5d,
+	y: -4.0d,
+	text: [
+		"If I need lava for any purpose I can just perform the Serenade of the Nether ritual. I can read about it in the Sanguine Scientiem"
+	],
+	dependencies: [
+		"3997a5d7"
+	],
+	tasks: [{
+		uid: "76f996c5",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "bloodmagic:ritual_controller"
+		}]
+	},
+	{
+		uid: "d8fbe4eb",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "bloodmagic:ritual_stone"
+		}],
+		count: 4L
+	},
+	{
+		uid: "56af72b3",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:inscription_tool",
+			tag: {
+				uses: 10
+			},
+			Damage: 2s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

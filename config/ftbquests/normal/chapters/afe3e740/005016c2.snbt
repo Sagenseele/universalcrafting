@@ -1,0 +1,24 @@
+{
+	title: "Aquaculture 2",
+	icon: "aquaculture:fish 1 6",
+	x: 3.5d,
+	y: 4.0d,
+	description: "Sussy Fishy",
+	dependencies: [
+		"668a1b12",
+		"9628a4bc",
+		"325a474f",
+		"78e3cd45"
+	],
+	tasks: [{
+		uid: "cc3c0155",
+		type: "checkmark",
+		disable_toast: true
+	}],
+	rewards: [{
+		uid: "5a59deda",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "aquaculture2"
+	}]
+}

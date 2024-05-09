@@ -1,0 +1,24 @@
+{
+	title: "Distillation Tower",
+	x: 4.5d,
+	y: -2.0d,
+	dependencies: [
+		"9089e899",
+		"aee6fbb8"
+	],
+	tasks: [{
+		uid: "35d13005",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersivepetroleum:schematic",
+			tag: {
+				multiblock: "IP:DistillationTower"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

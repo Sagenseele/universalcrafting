@@ -1,0 +1,25 @@
+{
+	icon: "minecraft:planks",
+	x: -2.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "84d01d3c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "plankWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any plankWood"
+				}
+			}
+		}],
+		count: 768L,
+		consume_items: true
+	}]
+}

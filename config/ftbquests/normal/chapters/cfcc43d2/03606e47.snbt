@@ -1,0 +1,22 @@
+{
+	x: 2.0d,
+	y: -6.0d,
+	dependencies: [
+		"abab6d4d"
+	],
+	tasks: [{
+		uid: "2095722d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:blood_orb",
+			tag: {
+				orb: "bloodmagic:archmage"
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

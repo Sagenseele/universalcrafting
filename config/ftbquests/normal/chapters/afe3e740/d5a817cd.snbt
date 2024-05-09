@@ -1,0 +1,37 @@
+{
+	title: "Agricraft",
+	icon: "agricraft:seed_analyzer",
+	x: -2.5d,
+	y: 4.0d,
+	description: "Harder, better, faster, stronger seeds",
+	dependencies: [
+		"244e54a5",
+		"8f34e270",
+		"207ea36a",
+		"95cae3ee",
+		"ba6a4c77",
+		"3d3430b2"
+	],
+	tasks: [{
+		uid: "5be747a1",
+		type: "checkmark",
+		disable_toast: true
+	}],
+	rewards: [{
+		uid: "3fd88a0f",
+		type: "item",
+		item: "agricraft:crop_sticks",
+		count: 16
+	},
+	{
+		uid: "5fdeb2fd",
+		type: "item",
+		item: "agricraft:seed_analyzer"
+	},
+	{
+		uid: "cbd5d4e5",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "agricraft"
+	}]
+}

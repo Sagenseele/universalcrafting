@@ -1,0 +1,26 @@
+{
+	x: 1.5d,
+	y: -0.5d,
+	dependencies: [
+		"52af6fb6"
+	],
+	tasks: [{
+		uid: "5308c5bb",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "plankTreatedWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any plankTreatedWood"
+				}
+			}
+		}]
+	}]
+}

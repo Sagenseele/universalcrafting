@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 0.5d,
+	dependencies: [
+		"0592a5a0"
+	],
+	tasks: [{
+		uid: "74fa9f74",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "extendedcrafting:table_advanced"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: -1.0d,
+	y: -1.0d,
+	dependencies: [
+		"b3299cc6"
+	],
+	tasks: [{
+		uid: "6bddaf54",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "cookingforblockheads:toaster"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: -1.5d,
+	dependencies: [
+		"b54a2704"
+	],
+	tasks: [{
+		uid: "7e42371d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "astralsorcery:blockattunementaltar"
+		}]
+	}]
+}

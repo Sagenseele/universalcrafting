@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: -0.5d,
+	dependencies: [
+		"6a993b5e"
+	],
+	tasks: [{
+		uid: "5692cda0",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "astralsorcery:blockattunementrelay"
+		}]
+	}]
+}

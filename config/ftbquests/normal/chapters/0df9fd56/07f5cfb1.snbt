@@ -1,0 +1,11 @@
+{
+	icon: "minecraft:netherrack",
+	x: 1.5d,
+	y: -1.5d,
+	description: "Delightfully hellish, Steve",
+	tasks: [{
+		uid: "387df5cd",
+		type: "dimension",
+		dim: -1
+	}]
+}

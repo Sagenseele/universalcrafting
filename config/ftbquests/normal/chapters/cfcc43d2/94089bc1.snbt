@@ -1,0 +1,21 @@
+{
+	x: 6.5d,
+	y: 5.0d,
+	dependencies: [
+		"3c7d3aa3"
+	],
+	tasks: [{
+		uid: "84d6c657",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sigil_green_grove",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: 6.5d,
+	y: 4.0d,
+	text: [
+		"Maybe I can create a sigil that interacts directly with the infernal forces of the Nether and gives me lava in return for life force."
+	],
+	dependencies: [
+		"3c7d3aa3"
+	],
+	tasks: [{
+		uid: "6ed2a312",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sigil_lava"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

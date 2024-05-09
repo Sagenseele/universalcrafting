@@ -1,0 +1,15 @@
+{
+	x: 8.0d,
+	y: 0.25d,
+	dependencies: [
+		"61a0b6dd"
+	],
+	tasks: [{
+		uid: "b7433226",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "botania:rune 1 14"
+		}]
+	}]
+}

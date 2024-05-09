@@ -1,0 +1,12 @@
+{
+	x: 1.5d,
+	y: 3.5d,
+	tasks: [{
+		uid: "4f86daba",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "extendedcrafting:table_basic"
+		}]
+	}]
+}

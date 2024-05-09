@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: -4.5d,
+	dependencies: [
+		"f0aa0789"
+	],
+	tasks: [{
+		uid: "1d824a27",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "ae2stuff:inscriber"
+		}]
+	}]
+}

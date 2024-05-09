@@ -1,0 +1,36 @@
+{
+	title: "Tier III",
+	icon: "minecraft:glowstone",
+	x: 4.5d,
+	y: -0.5d,
+	dependencies: [
+		"b1a9dc87"
+	],
+	tasks: [{
+		uid: "bde9a4c7",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "bloodmagic:blood_rune"
+		}],
+		count: 20L
+	},
+	{
+		uid: "57166a06",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "minecraft:stonebrick"
+		}],
+		count: 8L
+	},
+	{
+		uid: "f5fa6771",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "minecraft:glowstone"
+		}],
+		count: 4L
+	}]
+}

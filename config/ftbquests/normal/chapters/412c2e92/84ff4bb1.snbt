@@ -1,0 +1,16 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "ed46b2ed",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:tool"
+		}],
+		ignore_nbt: 1b
+	}]
+}

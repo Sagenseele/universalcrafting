@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	dependencies: [
+		"d3398a6f"
+	],
+	tasks: [{
+		uid: "b194adaf",
+		type: "item",
+		items: [{
+			item: "bhc:yellow_heart_canister"
+		}]
+	}]
+}

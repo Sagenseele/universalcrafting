@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: -1.5d,
+	dependencies: [
+		"b54a2704"
+	],
+	tasks: [{
+		uid: "814606d6",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "astralsorcery:blockmachine"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 0.5d,
+	y: 0.0d,
+	dependencies: [
+		"ff8eb5f3"
+	],
+	tasks: [{
+		uid: "2631da63",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "thermalexpansion:frame"
+		}]
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: -3.5d,
+	y: -1.5d,
+	description: "Modern problems require modern tools",
+	dependencies: [
+		"394da98a"
+	],
+	tasks: [{
+		uid: "b46c7c59",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			id: "tconstruct:toolforge",
+			tag: {
+				textureBlock: {
+					id: "minecraft:iron_block",
+					Count: 1,
+					Damage: 0s
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

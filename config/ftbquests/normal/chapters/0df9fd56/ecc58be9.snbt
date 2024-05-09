@@ -1,0 +1,15 @@
+{
+	x: -3.5d,
+	y: 1.5d,
+	description: "Hot stuff",
+	dependencies: [
+		"5ee8fd21"
+	],
+	tasks: [{
+		uid: "fb54a3cc",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_controller"
+		}]
+	}]
+}

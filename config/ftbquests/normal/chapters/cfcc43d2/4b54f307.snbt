@@ -1,0 +1,27 @@
+{
+	title: "Tier V",
+	icon: "minecraft:beacon",
+	x: 4.0d,
+	y: 1.5d,
+	dependencies: [
+		"8e6d7ec5"
+	],
+	tasks: [{
+		uid: "88d90199",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "minecraft:stone"
+		}],
+		count: 52L
+	},
+	{
+		uid: "3a301217",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "minecraft:beacon"
+		}],
+		count: 4L
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 8.0d,
+	y: -2.0d,
+	dependencies: [
+		"dfbc7198"
+	],
+	tasks: [{
+		uid: "39901ce5",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "industrialforegoing:plastic"
+		}]
+	}]
+}

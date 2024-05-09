@@ -1,0 +1,25 @@
+{
+	title: "64x Sapling",
+	icon: "minecraft:sapling",
+	x: 0.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "5175e712",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "treeSapling",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any treeSapling"
+				}
+			}
+		}],
+		count: 64L
+	}]
+}

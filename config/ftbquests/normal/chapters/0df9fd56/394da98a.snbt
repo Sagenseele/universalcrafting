@@ -1,0 +1,74 @@
+{
+	x: -2.0d,
+	y: 0.0d,
+	description: "Tools for everyone!",
+	tasks: [{
+		uid: "7cd54b27",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "tconstruct:tooltables 1 3"
+		}]
+	},
+	{
+		uid: "3b79e71f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "tconstruct:pattern"
+		}],
+		count: 8L
+	},
+	{
+		uid: "39d88e8b",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "tconstruct:tooltables 1 4"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e916b8c0",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "tconstruct:tooltables 1 5"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "487cc28d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:planks",
+					Count: 1,
+					Damage: 0s
+				}
+			},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "567b45fa",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:log",
+					Count: 1,
+					Damage: 0s
+				}
+			},
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "a72a6713",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "minecraft:hopper"
+		}],
+		count: 4L,
+		consume_items: true
+	}]
+}

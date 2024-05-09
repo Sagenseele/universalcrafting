@@ -1,0 +1,15 @@
+{
+	title: "I am Grout",
+	x: -2.0d,
+	y: 1.5d,
+	description: "Never gets old",
+	tasks: [{
+		uid: "15152d49",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "tconstruct:soil"
+		}],
+		count: 16L
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	title: "Infusion Crafting",
+	x: 2.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "2a5f53de",
+		type: "item",
+		items: [{
+			item: "thaumcraft:infusion_matrix"
+		}]
+	}]
+}

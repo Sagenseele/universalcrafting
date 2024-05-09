@@ -1,0 +1,24 @@
+{
+	icon: "minecraft:skull 1 4",
+	x: 0.0d,
+	y: 9.0d,
+	tasks: [{
+		uid: "69ae1aad",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "itemSkull",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any itemSkull"
+				}
+			}
+		}],
+		count: 8L
+	}]
+}

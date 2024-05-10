@@ -1,0 +1,13 @@
+{
+	title: "Ore Processing",
+	x: 0.0d,
+	y: -3.0d,
+	text: [
+		"This tab should provide an overview of how to process ores. This chapter is inspired by Create - Above and Beyond. Another good mod pack, which you should try after this one."
+	],
+	tasks: [{
+		uid: "55b20e0e",
+		type: "checkmark",
+		disable_toast: true
+	}]
+}

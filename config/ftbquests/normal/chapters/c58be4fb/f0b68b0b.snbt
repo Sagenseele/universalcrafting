@@ -1,0 +1,15 @@
+{
+	title: "Industrial Grinding Machine",
+	icon: "modularmachinery:blockcontroller",
+	x: -3.5d,
+	y: 2.0d,
+	shape: "square",
+	dependencies: [
+		"7593a08b"
+	],
+	tasks: [{
+		uid: "dd8d8f20",
+		type: "checkmark",
+		disable_toast: true
+	}]
+}

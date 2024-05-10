@@ -1,0 +1,12 @@
+{
+	x: 0.5d,
+	y: 1.0d,
+	text: [
+		"Jei: You can hover over any item and press 'A' to bookmark it to the left. Hover over your Bookmark and press 'A' again to unpin it."
+	],
+	tasks: [{
+		uid: "a08a6b22",
+		type: "checkmark",
+		title: "Tipps and Tricks"
+	}]
+}

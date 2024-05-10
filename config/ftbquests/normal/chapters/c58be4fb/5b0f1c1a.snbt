@@ -1,0 +1,16 @@
+{
+	title: "Compressor",
+	icon: "modularmachinery:blockcontroller",
+	x: -3.5d,
+	y: 0.0d,
+	shape: "square",
+	description: "3 to 1",
+	dependencies: [
+		"544b0e12"
+	],
+	tasks: [{
+		uid: "00d22a79",
+		type: "checkmark",
+		disable_toast: true
+	}]
+}

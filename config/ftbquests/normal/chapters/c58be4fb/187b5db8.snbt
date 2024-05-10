@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 5.0d,
+	dependencies: [
+		"2d6ac3cb"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "1a95ae53",
+		type: "checkmark",
+		title: "Ingot",
+		icon: "minecraft:gold_ingot",
+		disable_toast: true
+	}]
+}

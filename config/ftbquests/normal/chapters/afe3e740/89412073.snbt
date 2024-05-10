@@ -5,6 +5,6 @@
 		uid: "6afdb3e3",
 		type: "forge_energy",
 		disable_toast: true,
-		value: 1000L
+		value: 7500L
 	}]
 }

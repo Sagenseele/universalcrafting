@@ -17,5 +17,11 @@
 		uid: "2437b75a",
 		type: "checkmark",
 		disable_toast: true
+	}],
+	rewards: [{
+		uid: "87b5b945",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "betterbuilderswands"
 	}]
 }

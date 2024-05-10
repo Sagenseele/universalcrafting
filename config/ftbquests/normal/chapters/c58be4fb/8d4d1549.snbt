@@ -1,0 +1,16 @@
+{
+	title: "Crafting Table",
+	icon: "minecraft:crafting_table",
+	x: -2.0d,
+	y: 0.0d,
+	shape: "square",
+	description: "4 to 1",
+	dependencies: [
+		"544b0e12"
+	],
+	tasks: [{
+		uid: "a65ec54f",
+		type: "checkmark",
+		disable_toast: true
+	}]
+}

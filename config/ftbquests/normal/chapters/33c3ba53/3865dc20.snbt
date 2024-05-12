@@ -1,0 +1,12 @@
+{
+	x: 12.5d,
+	y: -3.5d,
+	shape: "square",
+	tasks: [{
+		uid: "28c7919e",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity 1 49"
+		}]
+	}]
+}

@@ -1,10 +1,14 @@
 {
 	icon: "minecraft:skull 1 1",
-	x: 0.5d,
-	y: -2.0d,
+	x: -0.5d,
+	y: -1.5d,
+	dependencies: [
+		"07f5cfb1"
+	],
 	tasks: [{
 		uid: "ec856627",
 		type: "kill",
+		disable_toast: true,
 		entity: "minecraft:wither",
 		value: 1L
 	}]

@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: -4.982142857142858d,
+	dependencies: [
+		"f0aa0789"
+	],
+	tasks: [{
+		uid: "e3c0e256",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:security_station"
+		}]
+	}]
+}

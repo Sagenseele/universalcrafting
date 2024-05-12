@@ -1,0 +1,50 @@
+{
+	x: 9.5d,
+	y: -1.5d,
+	shape: "octagon",
+	dependencies: [
+		"2d7a3938",
+		"f80b0209",
+		"4f4b48c8",
+		"3865dc20",
+		"e5a57922",
+		"33fdf474",
+		"1c0dc380",
+		"50479549",
+		"1bf19ebf",
+		"5fb3c97c",
+		"2205b5ca",
+		"b2558b1a",
+		"03c765d7",
+		"c35eafcf",
+		"3169437a",
+		"0621c3f5",
+		"910398d7",
+		"8c39fb21",
+		"e7836e5b",
+		"50905249",
+		"cc317cab",
+		"7ba52646",
+		"4d524f36",
+		"1eb72ad1",
+		"26a07909",
+		"d7abb142",
+		"3d30b2d9",
+		"dbbfc8d5",
+		"a0e0df0a",
+		"bd6518c9",
+		"158b26a6",
+		"0a966ef8",
+		"2ee62695",
+		"325c61a9",
+		"ba905de9",
+		"cb3a8705"
+	],
+	tasks: [{
+		uid: "032975fa",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_ultimate"
+		}]
+	}]
+}

@@ -4,6 +4,9 @@
 	x: 6.5d,
 	y: 8.0d,
 	description: "Unique Machines",
+	dependencies: [
+		"469304ef"
+	],
 	tasks: [{
 		uid: "fc5e19ce",
 		type: "checkmark",

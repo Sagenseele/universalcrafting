@@ -1,0 +1,15 @@
+{
+	x: 8.0d,
+	y: -1.9821428571428577d,
+	description: "Do also drop from Withers",
+	dependencies: [
+		"e677d7b2"
+	],
+	tasks: [{
+		uid: "5be7b6ef",
+		type: "item",
+		items: [{
+			item: "ae2wtlib:infinity_booster_card"
+		}]
+	}]
+}

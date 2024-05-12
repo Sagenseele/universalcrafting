@@ -9,6 +9,9 @@
 	x: 3.5d,
 	y: 8.0d,
 	description: "Industrial Sized Mobfarms",
+	dependencies: [
+		"55bf6a41"
+	],
 	tasks: [{
 		uid: "d71f87f7",
 		type: "checkmark",

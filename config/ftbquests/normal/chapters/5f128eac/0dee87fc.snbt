@@ -6,6 +6,7 @@
 	tasks: [{
 		uid: "e5309396",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			item: "minecraft:obsidian"
 		}],
@@ -14,6 +15,7 @@
 	{
 		uid: "8fdc96f7",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
@@ -26,6 +28,7 @@
 	{
 		uid: "e3f923ee",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			item: "minecraft:iron_bars"
 		}]
@@ -33,6 +36,7 @@
 	{
 		uid: "83876c75",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			item: "minecraft:nether_brick"
 		}],

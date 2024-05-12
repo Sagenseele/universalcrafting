@@ -1,7 +1,10 @@
 {
 	title: "Infusion Crafting",
-	x: 2.0d,
+	x: 6.0d,
 	y: 0.0d,
+	dependencies: [
+		"507ac7db"
+	],
 	tasks: [{
 		uid: "2a5f53de",
 		type: "item",

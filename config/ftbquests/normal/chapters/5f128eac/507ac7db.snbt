@@ -1,0 +1,25 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	dependencies: [
+		"38ca72cd"
+	],
+	tasks: [{
+		uid: "00e9d44a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "nitor",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any nitor"
+				}
+			}
+		}]
+	}]
+}

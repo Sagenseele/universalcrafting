@@ -8,6 +8,7 @@
 	},
 	x: 0.5d,
 	y: 10.0d,
+	description: "Most OP of Tinkers Tools",
 	dependencies: [
 		"0cde7f92",
 		"f7aab7ba",
@@ -15,6 +16,13 @@
 	],
 	tasks: [{
 		uid: "27999017",
-		type: "checkmark"
+		type: "checkmark",
+		disable_toast: true
+	}],
+	rewards: [{
+		uid: "2fb3e5b9",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "weapons2"
 	}]
 }

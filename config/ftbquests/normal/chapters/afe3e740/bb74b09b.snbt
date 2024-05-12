@@ -6,6 +6,7 @@
 	tasks: [{
 		uid: "5175e712",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			ForgeCaps: {
 				Parent: {

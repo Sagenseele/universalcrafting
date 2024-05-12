@@ -1,0 +1,14 @@
+{
+	x: 8.5d,
+	y: -5.5d,
+	dependencies: [
+		"fd9562d1"
+	],
+	tasks: [{
+		uid: "e37c2928",
+		type: "item",
+		items: [{
+			item: "storagenetwork:process_kabel"
+		}]
+	}]
+}

@@ -4,6 +4,7 @@
 	tasks: [{
 		uid: "38585772",
 		type: "forge_energy",
+		disable_toast: true,
 		value: 5000L
 	}]
 }

@@ -1,0 +1,14 @@
+{
+	x: 6.5d,
+	y: -7.5d,
+	dependencies: [
+		"fd9562d1"
+	],
+	tasks: [{
+		uid: "570786ab",
+		type: "item",
+		items: [{
+			item: "storagenetwork:upgrade"
+		}]
+	}]
+}

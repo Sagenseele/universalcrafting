@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: -1.0d,
+	dependencies: [
+		"dc1232c1"
+	],
+	tasks: [{
+		uid: "39a7a52b",
+		type: "item",
+		items: [{
+			item: "thaumcraft:crucible"
+		}]
+	}]
+}

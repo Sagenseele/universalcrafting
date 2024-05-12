@@ -1,0 +1,7 @@
+{
+	title: "Storage Solutions",
+	icon: "storagenetwork:master",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "71064d21",
+		type: "item",
+		items: [{
+			item: "bloodtinker:blood_bronze_ingot"
+		}]
+	}]
+}

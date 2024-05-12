@@ -1,10 +1,10 @@
 {
 	title: "Botania",
 	icon: {
-		ForgeCaps: {
-			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "botania:terrasword"
+		id: "botania:specialflower",
+		tag: {
+			type: "puredaisy"
+		}
 	},
 	always_invisible: false,
 	group: 0,

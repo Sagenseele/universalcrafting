@@ -8,6 +8,9 @@ recipes.remove(<betterbuilderswands:wandiron>);
 recipes.remove(<betterbuilderswands:wanddiamond>);
 recipes.remove(<betterbuilderswands:wandunbreakable>);
 
+//Steel Beams
+recipes.addShapeless(<kubejs:steel_beam> * 1, [<immersiveengineering:tool:0>.reuse(), <ore:ingotsteel>, <ore:ingotsteel>, <ore:ingotsteel>]);
+
 //Rework snare
 recipes.replaceAllOccurences(<minecraft:redstone>, <botania:petal>, <bloodmagic:soul_snare>);
 
@@ -31,6 +34,9 @@ recipes.addShaped("unbreakablewand", <betterbuilderswands:wandunbreakable>, [
     [null, <harvestcraft:gingerbreaditem>, null],
     [<harvestcraft:gingerbreaditem>, null, null]
 ]);
+
+//Simple Storage network
+recipes.remove(<storagenetwork:simple_kabel>);
 
 //Bread
 furnace.remove(<minecraft:bread>);

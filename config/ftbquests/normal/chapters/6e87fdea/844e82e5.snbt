@@ -1,0 +1,14 @@
+{
+	x: 8.0d,
+	y: -4.0d,
+	dependencies: [
+		"fd9562d1"
+	],
+	tasks: [{
+		uid: "f0404dd8",
+		type: "item",
+		items: [{
+			item: "storagenetwork:storage_kabel"
+		}]
+	}]
+}

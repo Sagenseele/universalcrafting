@@ -4,6 +4,7 @@
 	tasks: [{
 		uid: "64080306",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			id: "tconstruct:knife_blade",
 			tag: {

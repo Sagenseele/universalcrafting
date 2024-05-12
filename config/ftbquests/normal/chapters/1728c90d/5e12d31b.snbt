@@ -1,6 +1,7 @@
 {
-	x: -1.0d,
-	y: -1.0d,
+	x: -1.5d,
+	y: 0.0d,
+	description: "How about some toast?",
 	dependencies: [
 		"b3299cc6"
 	],

@@ -1,0 +1,14 @@
+{
+	x: 8.0d,
+	y: -7.0d,
+	dependencies: [
+		"fd9562d1"
+	],
+	tasks: [{
+		uid: "c916c66c",
+		type: "item",
+		items: [{
+			item: "storagenetwork:request"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 3.5d,
+	y: 3.5d,
+	tasks: [{
+		uid: "79048973",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:interface"
+		}]
+	}]
+}

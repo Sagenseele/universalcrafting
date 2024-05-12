@@ -16,7 +16,8 @@
 	],
 	tasks: [{
 		uid: "153972b7",
-		type: "checkmark"
+		type: "checkmark",
+		disable_toast: true
 	}],
 	rewards: [{
 		uid: "52ea7209",
@@ -32,6 +33,6 @@
 		uid: "f10866e9",
 		type: "gamestage",
 		auto: "no_toast",
-		stage: "weaponsmith1"
+		stage: "weapons1"
 	}]
 }

@@ -1,0 +1,23 @@
+{
+	title: "Woot",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "woot:yahhammer"
+	},
+	x: 3.5d,
+	y: 8.0d,
+	description: "Industrial Sized Mobfarms",
+	tasks: [{
+		uid: "d71f87f7",
+		type: "checkmark",
+		disable_toast: true
+	}],
+	rewards: [{
+		uid: "32f2ba0f",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "woot"
+	}]
+}

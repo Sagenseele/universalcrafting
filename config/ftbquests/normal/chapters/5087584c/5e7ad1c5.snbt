@@ -1,0 +1,12 @@
+{
+	x: -3.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "e2f88285",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "nuclearcraft:part"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 6.5d,
+	y: -3.5d,
+	dependencies: [
+		"fd9562d1"
+	],
+	tasks: [{
+		uid: "637b66a0",
+		type: "item",
+		items: [{
+			item: "storagenetwork:ex_kabel"
+		}]
+	}]
+}

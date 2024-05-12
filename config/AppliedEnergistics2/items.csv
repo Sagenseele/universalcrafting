@@ -2654,11 +2654,7 @@ appliedenergistics2:sky_stone_block, Sky Stone
 appliedenergistics2:smooth_sky_stone_block, Sky Stone Block
 appliedenergistics2:sky_stone_brick, Sky Stone Brick
 appliedenergistics2:sky_stone_small_brick, Sky Stone Small Brick
-appliedenergistics2:sky_stone_chest, Sky Stone Chest
-appliedenergistics2:smooth_sky_stone_chest, Sky Stone Block Chest
 appliedenergistics2:sky_compass, Meteorite Compass
-appliedenergistics2:grindstone, Quartz Grindstone
-appliedenergistics2:crank, Wooden Crank
 appliedenergistics2:inscriber, Inscriber
 appliedenergistics2:wireless_access_point, ME Wireless Access Point
 appliedenergistics2:charger, Charger
@@ -3681,7 +3677,6 @@ appliedenergistics2:material:47, Singularity
 appliedenergistics2:material:45, Sky Stone Dust
 appliedenergistics2:material:41, Wireless Receiver
 appliedenergistics2:material:42, Wireless Booster
-appliedenergistics2:material:40, Wooden Gear
 appliedenergistics2:part:300, ME Annihilation Plane
 appliedenergistics2:part:120, Cable Anchor
 appliedenergistics2:part:20, ME Covered Cable - White
@@ -5341,35 +5336,35 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Hammer Head Pattern
 tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Sledge Hammer Head Pattern
 tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Sledge Hammer Head Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
 tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Sign Plate Pattern
 tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -6731,66 +6726,66 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Hammer Head Cast
 tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Sledge Hammer Head Cast
 tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Sledge Hammer Head Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Tough Binding Cast
 tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Sign Plate Cast
 tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Tough Tool Rod Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Hammer Head Clay Cast
 tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Sledge Hammer Head Clay Cast
 tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Sledge Hammer Head Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
 tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
 tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -8930,7 +8925,6 @@ storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
 storagedrawers:framingtable, Framing Table
 thaumicenergistics:infusion_provider, Essentia Infusion Provider
-thaumicenergistics:arcane_assembler, Arcane Assembler
 thaumicenergistics:essentia_cell_1k, 1k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_4k, 4k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_16k, 16k ME Essentia Storage Cell
@@ -8941,7 +8935,6 @@ thaumicenergistics:essentia_export, ME Essentia Export Bus
 thaumicenergistics:essentia_storage, ME Essentia Storage Bus
 thaumicenergistics:essentia_terminal, ME Essentia Terminal
 thaumicenergistics:arcane_terminal, Arcane Crafting Terminal
-thaumicenergistics:arcane_inscriber, Arcane Inscriber
 thaumicenergistics:diffusion_core, Diffusion Core
 thaumicenergistics:coalescence_core, Coalescence Core
 thaumicenergistics:essentia_component_1k, 1k ME Essentia Storage Component
@@ -8949,8 +8942,6 @@ thaumicenergistics:essentia_component_4k, 4k ME Essentia Storage Component
 thaumicenergistics:essentia_component_16k, 16k ME Essentia Storage Component
 thaumicenergistics:essentia_component_64k, 64k ME Essentia Storage Component
 thaumicenergistics:upgrade_arcane, Arcane Charging Upgrade
-thaumicenergistics:knowledge_core, Knowledge Core
-thaumicenergistics:blank_knowledge_core, Blank Knowledge Core
 thaumicenergistics:dummy_aspect, item.thaumicenergistics.dummy_aspect.name
 thaumicperiphery:caster_elementium, Elementium Caster's Gauntlet
 thaumicperiphery:pauldron, Pauldron
@@ -8958,6 +8949,14 @@ thaumicperiphery:pauldron_repulsion, Pauldron of Repulsion
 thaumicperiphery:malignant_heart, Malignant Heart
 thaumicperiphery:magic_quiver, Conjurer's Quiver
 thaumicperiphery:vis_phylactery, Vis Phylactery
+thaumictinkerer:share_book, Tome of Knowledge Sharing
+thaumictinkerer:black_quartz, Smokey Quartz
+thaumictinkerer:connector, Transvector Binder
+thaumictinkerer:soul_mould, Soul Mould
+thaumictinkerer:energetic_nitor, Energetic Nitor
+thaumictinkerer:spellbinding_cloth, Spellbinding Cloth
+thaumictinkerer:blood_sword, Cursed Spirit's Blade
+thaumictinkerer:mob_aspect, item.thaumictinkerer:mob_aspect.name
 thaumictinkerer:funnel, Essentia Funnel
 thaumictinkerer:dissimulation, Dissimulation Block
 thaumictinkerer:transvector_interface, Transvector Interface
@@ -8970,14 +8969,6 @@ thaumictinkerer:enchantment_pillar, Enchanting Pillar
 thaumictinkerer:animation_tablet, Dynamism Tablet
 thaumictinkerer:black_quartz_block, Black Quartz Block
 thaumictinkerer:dummy_nitor, tile.thaumictinkerer:dummy_nitor.name
-thaumictinkerer:share_book, Tome of Knowledge Sharing
-thaumictinkerer:black_quartz, Smokey Quartz
-thaumictinkerer:connector, Transvector Binder
-thaumictinkerer:soul_mould, Soul Mould
-thaumictinkerer:energetic_nitor, Energetic Nitor
-thaumictinkerer:spellbinding_cloth, Spellbinding Cloth
-thaumictinkerer:blood_sword, Cursed Spirit's Blade
-thaumictinkerer:mob_aspect, item.thaumictinkerer:mob_aspect.name
 tcomplement:sledge_head:0, Electrical Sledge Hammer Head
 tcomplement:sledge_head:0, Energetic Sledge Hammer Head
 tcomplement:sledge_head:0, Vibrant Sledge Hammer Head

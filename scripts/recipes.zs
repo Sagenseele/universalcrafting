@@ -16,7 +16,7 @@ Pulverizer.addRecipe(<contenttweaker:nutrient_pulp>, <minecraft:wheat>*64, 1500)
 //Nutrient Bar
 recipes.addShaped("nutrient_bar_ct", <contenttweaker:nutrient_bar> * 2, [
     [<contenttweaker:nutrient_pulp>, <contenttweaker:nutrient_pulp>, <contenttweaker:nutrient_pulp>],
-    [<contenttweaker:nutrient_pulp>, <liquid:lifeessence>, <contenttweaker:nutrient_pulp>],
+    [<contenttweaker:nutrient_pulp>, <liquid:lifeessence> * 1000, <contenttweaker:nutrient_pulp>],
     [<contenttweaker:nutrient_pulp>, <contenttweaker:nutrient_pulp>, <contenttweaker:nutrient_pulp>]
 ]);
 mods.nuclearcraft.infuser.addRecipe([<contenttweaker:nutrient_pulp> * 4, <liquid:lifeessence> * 250, <contenttweaker:nutrient_bar>]);

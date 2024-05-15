@@ -6,6 +6,7 @@
 		type: "item",
 		items: [{
 			item: "bloodtinker:blood_bronze_ingot"
-		}]
+		}],
+		count: 16L
 	}]
 }

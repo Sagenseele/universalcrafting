@@ -2,7 +2,7 @@
 	x: 1.5d,
 	y: 0.0d,
 	text: [
-		"Get flour by putting wheat into the harvestcraft grinder"
+		"Get two times the flour by putting wheat into the harvestcraft grinder"
 	],
 	dependencies: [
 		"b3299cc6"

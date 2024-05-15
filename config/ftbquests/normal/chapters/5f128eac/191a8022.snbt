@@ -1,14 +1,14 @@
 {
 	x: 2.0d,
-	y: -1.5d,
+	y: 0.5d,
 	dependencies: [
 		"dc1232c1"
 	],
 	tasks: [{
-		uid: "39a7a52b",
+		uid: "87139ab9",
 		type: "item",
 		items: [{
-			item: "thaumcraft:crucible"
+			item: "thaumcraft:arcane_workbench"
 		}]
 	}]
 }

@@ -1,8 +1,9 @@
 {
 	title: "Infusion Crafting",
-	x: 6.0d,
-	y: 0.0d,
+	x: 5.999999999999993d,
+	y: -0.1964285714285694d,
 	dependencies: [
+		"1e5878ac",
 		"507ac7db"
 	],
 	tasks: [{

@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "37560863",
+		type: "item",
+		items: [{
+			item: "harvestcraft:market"
+		}]
+	}]
+}

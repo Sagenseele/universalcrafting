@@ -2,7 +2,8 @@
 	x: 0.0d,
 	y: 5.0d,
 	dependencies: [
-		"2d6ac3cb"
+		"2d6ac3cb",
+		"e71d379b"
 	],
 	dependency_requirement: "one_completed",
 	tasks: [{

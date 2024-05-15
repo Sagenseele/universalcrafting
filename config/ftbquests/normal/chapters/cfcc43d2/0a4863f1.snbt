@@ -10,5 +10,15 @@
 		items: [{
 			item: "bloodmagic:altar"
 		}]
+	}],
+	rewards: [{
+		uid: "f809c1ec",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "guideapi:bloodmagic-guide"
+		}
 	}]
 }

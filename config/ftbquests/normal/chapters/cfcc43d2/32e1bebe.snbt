@@ -1,17 +1,15 @@
 {
-	x: 2.0d,
-	y: 2.5d,
-	dependencies: [
-		"dc1232c1"
-	],
+	x: 0.0d,
+	y: -1.5d,
 	tasks: [{
-		uid: "c73bebb8",
+		uid: "0f93c670",
 		type: "item",
 		items: [{
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
 			},
-			id: "thaumcraft:thaumonomicon"
+			id: "bloodmagic:sacrificial_dagger",
+			tag: {}
 		}],
 		ignore_nbt: 1b
 	}]

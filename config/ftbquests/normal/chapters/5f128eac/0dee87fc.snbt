@@ -2,7 +2,10 @@
 	title: "Infernal Furnace",
 	icon: "thaumcraft:infernal_furnace",
 	x: 4.0d,
-	y: 1.5d,
+	y: 2.5d,
+	dependencies: [
+		"b6c31411"
+	],
 	tasks: [{
 		uid: "e5309396",
 		type: "item",

@@ -1,0 +1,22 @@
+{
+	title: "Fluid",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "gold",
+			Amount: 1000
+		}
+	},
+	x: 0.5d,
+	y: 3.0d,
+	dependencies: [
+		"340601a2"
+	],
+	tasks: [{
+		uid: "fed82ae0",
+		type: "checkmark"
+	}]
+}

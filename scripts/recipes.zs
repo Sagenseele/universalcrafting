@@ -1,12 +1,31 @@
 import mods.thaumcraft.Infusion;
+import mods.thermalexpansion.Pulverizer;
 
 mods.thaumcraft.Infusion.registerRecipe("chargedCertusQuartz", "", <appliedenergistics2:material:1>, 10, [<aspect:ordo> *20, <aspect:fabrico> *50, <aspect:potentia> *20, <aspect:permutatio> *20, <aspect:vitreus> *20], <appliedenergistics2:material>, [<astralsorcery:itemcraftingcomponent:3>, <astralsorcery:itemcraftingcomponent:3>, <astralsorcery:itemcraftingcomponent:3>, <astralsorcery:itemcraftingcomponent:3>]);
 
-//Builderswands
-recipes.remove(<betterbuilderswands:wandstone>);
-recipes.remove(<betterbuilderswands:wandiron>);
-recipes.remove(<betterbuilderswands:wanddiamond>);
-recipes.remove(<betterbuilderswands:wandunbreakable>);
+//Cooking for Blockheads
+recipes.replaceAllOccurences(<minecraft:diamond>, <ore:goldIngot>, <cookingforblockheads:recipe_book:2>);
+
+//Machine Case
+recipes.replaceAllOccurences(<minecraft:redstone_block>, <ore:itemRubber>, <teslacorelib:machine_case>);
+
+//nutrient_pulp
+recipes.addShapeless(<contenttweaker:nutrient_pulp>, [<ore:gearStone>.reuse(), <ore:listAllveggie>, <ore:listAllveggie>, <ore:listAllveggie>]);
+Pulverizer.addRecipe(<contenttweaker:nutrient_pulp>, <minecraft:wheat>*64, 1500);
+
+//Nutrient Bar
+recipes.addShaped("nutrient_bar_ct", <contenttweaker:nutrient_bar> * 2, [
+    [<contenttweaker:nutrient_pulp>, <contenttweaker:nutrient_pulp>, <contenttweaker:nutrient_pulp>],
+    [<contenttweaker:nutrient_pulp>, <liquid:lifeessence>, <contenttweaker:nutrient_pulp>],
+    [<contenttweaker:nutrient_pulp>, <contenttweaker:nutrient_pulp>, <contenttweaker:nutrient_pulp>]
+]);
+mods.nuclearcraft.infuser.addRecipe([<contenttweaker:nutrient_pulp> * 4, <liquid:lifeessence> * 250, <contenttweaker:nutrient_bar>]);
+
+//Harvestcraft
+recipes.replaceAllOccurences(<minecraft:repeater>, <ore:blockCopper>, <harvestcraft:grinder>);
+recipes.replaceAllOccurences(<minecraft:emerald>, <ore:blockGold>, <harvestcraft:market>);
+
+
 
 //Steel Beams
 recipes.addShapeless(<kubejs:steel_beam> * 1, [<immersiveengineering:tool:0>.reuse(), <ore:ingotsteel>, <ore:ingotsteel>, <ore:ingotsteel>]);
@@ -14,21 +33,8 @@ recipes.addShapeless(<kubejs:steel_beam> * 1, [<immersiveengineering:tool:0>.reu
 //Rework snare
 recipes.replaceAllOccurences(<minecraft:redstone>, <botania:petal>, <bloodmagic:soul_snare>);
 
-recipes.addShaped("stonewand", <betterbuilderswands:wandstone>, [
-    [null, null, <harvestcraft:cobblestonecobbleritem>],
-    [null, <harvestcraft:gingerbreaditem>, null],
-    [<harvestcraft:gingerbreaditem>, null, null]
-]);
-recipes.addShaped("ironwand", <betterbuilderswands:wandiron>, [
-    [null, null, <harvestcraft:cevicheitem>],
-    [null, <harvestcraft:gingerbreaditem>, null],
-    [<harvestcraft:gingerbreaditem>, null, null]
-]);
-recipes.addShaped("diamondwand", <betterbuilderswands:wanddiamond>, [
-    [null, null, <harvestcraft:creeperwingsitem>],
-    [null, <harvestcraft:gingerbreaditem>, null],
-    [<harvestcraft:gingerbreaditem>, null, null]
-]);
+//Builderswands
+recipes.remove(<betterbuilderswands:wandunbreakable>);
 recipes.addShaped("unbreakablewand", <betterbuilderswands:wandunbreakable>, [
     [null, null, <harvestcraft:bbqchickenbiscuititem>],
     [null, <harvestcraft:gingerbreaditem>, null],
@@ -45,7 +51,7 @@ recipes.replaceAllOccurences(<ore:flourEqualswheat>, <harvestcraft:doughitem>, <
 
 //Plastic
 furnace.remove(<industrialforegoing:plastic>);
-mods.nuclearcraft.infuser.addRecipe([<industrialforegoing:dryrubber>, <liquid:diesel>, <industrialforegoing:plastic>]);
+mods.nuclearcraft.infuser.addRecipe([<industrialforegoing:dryrubber>, <liquid:diesel> * 100, <industrialforegoing:plastic>]);
 
 //Nerf infuser
 recipes.replaceAllOccurences(<thermalfoundation:material:259>, <appliedenergistics2:material:24>, <thermalexpansion:machine:9>);
@@ -57,7 +63,7 @@ recipes.remove(<harvestcraft:saltitem>);
 recipes.remove(<immersiveengineering:tool>);
 mods.bloodmagic.BloodAltar.addRecipe(<immersiveengineering:tool>, <thermalfoundation:tool.hammer_iron>, 2, 2500,30,10);
 
-//Remove Alloy Recipes
+//Remove Steel Alloy Recipe
 mods.tconstruct.Alloy.removeRecipe(<liquid:steel>);
 
 //Remove machine frame and IF machine recipes

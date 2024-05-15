@@ -42,22 +42,22 @@ mods.extendedcrafting.TableCrafting.addShaped(3, <appliedenergistics2:material:1
 // Logic Press
 mods.extendedcrafting.TableCrafting.addShaped(3, <appliedenergistics2:material:15>, [
     [<ore:plateInvar>, <ore:plateInvar>, <ore:plateInvar>, <ore:ingotKnightslime>, <ore:plateInvar>, <ore:plateInvar>, <ore:plateInvar>],
-    [<ore:plateInvar>, <ore:itemRubber>, <ore:itemRubber>, <ore:itemRubber>, <ore:itemRubber>, <ore:itemRubber>, <ore:plateInvar>],
-    [<ore:plateInvar>, <ore:itemRubber>, <extendedcrafting:material:16>, <ore:ingotAstralStarmetal>, <extendedcrafting:material:16>, <ore:itemRubber>, <ore:plateInvar>],
-    [<ore:ingotKnightslime>, <ore:itemRubber>, <ore:ingotAstralStarmetal>, <extendedcrafting:material:11>, <ore:ingotAstralStarmetal>, <ore:itemRubber>, <ore:ingotKnightslime>],
-    [<ore:plateInvar>, <ore:itemRubber>, <extendedcrafting:material:16>, <ore:ingotAstralStarmetal>, <extendedcrafting:material:16>, <ore:itemRubber>, <ore:plateInvar>],
-    [<ore:plateInvar>, <ore:itemRubber>, <ore:itemRubber>, <ore:itemRubber>, <ore:itemRubber>, <ore:itemRubber>, <ore:plateInvar>],
+    [<ore:plateInvar>, <ore:ingotThaumium>, <ore:ingotThaumium>, <ore:ingotThaumium>, <ore:ingotThaumium>, <ore:ingotThaumium>, <ore:plateInvar>],
+    [<ore:plateInvar>, <ore:ingotThaumium>, <extendedcrafting:material:16>, <ore:ingotAstralStarmetal>, <extendedcrafting:material:16>, <ore:ingotThaumium>, <ore:plateInvar>],
+    [<ore:ingotKnightslime>, <ore:ingotThaumium>, <ore:ingotAstralStarmetal>, <extendedcrafting:material:11>, <ore:ingotAstralStarmetal>, <ore:ingotThaumium>, <ore:ingotKnightslime>],
+    [<ore:plateInvar>, <ore:ingotThaumium>, <extendedcrafting:material:16>, <ore:ingotAstralStarmetal>, <extendedcrafting:material:16>, <ore:ingotThaumium>, <ore:plateInvar>],
+    [<ore:plateInvar>, <ore:ingotThaumium>, <ore:ingotThaumium>, <ore:ingotThaumium>, <ore:ingotThaumium>, <ore:ingotThaumium>, <ore:plateInvar>],
     [<ore:plateInvar>, <ore:plateInvar>, <ore:plateInvar>, <ore:ingotKnightslime>, <ore:plateInvar>, <ore:plateInvar>, <ore:plateInvar>]
 ]);
 
 // Engineering Press
 mods.extendedcrafting.TableCrafting.addShaped(3, <appliedenergistics2:material:14>, [
     [<ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>, <tconstruct:large_plate>.withTag({Material: "magmaslime"}), <ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>],
-    [<ore:plateEnderium>, <thermalexpansion:frame>, <ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>, <thermalexpansion:frame>, <ore:plateEnderium>],
+    [<ore:plateEnderium>, null, <ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>, null, <ore:plateEnderium>],
     [<ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>, <ore:manaDiamond>, <ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>],
     [<tconstruct:large_plate>.withTag({Material: "magmaslime"}), <ore:plateEnderium>, <ore:manaDiamond>, <bloodmagic:teleposition_focus:1>, <ore:manaDiamond>, <ore:plateEnderium>, <tconstruct:large_plate>.withTag({Material: "magmaslime"})],
     [<ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>, <ore:manaDiamond>, <ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>],
-    [<ore:plateEnderium>, <thermalexpansion:frame>, <ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>, <thermalexpansion:frame>, <ore:plateEnderium>],
+    [<ore:plateEnderium>, null, <ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>, null, <ore:plateEnderium>],
     [<ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>, <tconstruct:large_plate>.withTag({Material: "magmaslime"}), <ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>]
 ]);
 

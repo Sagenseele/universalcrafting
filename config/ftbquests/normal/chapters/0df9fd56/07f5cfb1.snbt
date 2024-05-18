@@ -1,7 +1,7 @@
 {
 	icon: "minecraft:netherrack",
-	x: 1.0d,
-	y: -1.5d,
+	x: -3.5d,
+	y: 1.5d,
 	description: "Delightfully hellish, Steve",
 	tasks: [{
 		uid: "387df5cd",

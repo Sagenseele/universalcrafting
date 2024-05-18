@@ -1,0 +1,14 @@
+{
+	x: 7.0d,
+	y: 1.5d,
+	dependencies: [
+		"d73688d9"
+	],
+	tasks: [{
+		uid: "9d641a97",
+		type: "item",
+		items: [{
+			item: "furnaceoverhaul:end_furnace"
+		}]
+	}]
+}

@@ -7,6 +7,6 @@
 		items: [{
 			item: "bloodtinker:blood_bronze_ingot"
 		}],
-		count: 16L
+		count: 12L
 	}]
 }

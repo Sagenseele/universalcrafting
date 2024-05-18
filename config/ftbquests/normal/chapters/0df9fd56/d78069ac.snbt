@@ -1,7 +1,7 @@
 {
 	title: "Tinkers Pickaxe",
-	x: -3.5d,
-	y: 0.0d,
+	x: 8.5d,
+	y: -4.5d,
 	dependencies: [
 		"394da98a"
 	],

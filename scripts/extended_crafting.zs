@@ -1,12 +1,3 @@
-// Machine Frame
-mods.extendedcrafting.TableCrafting.addShaped(2, <thermalexpansion:frame>, [
-    [<kubejs:steel_beam>, <ore:plateIron>, <ore:blockGlass>, <ore:plateIron>, <kubejs:steel_beam>],
-    [<ore:plateIron>, <ore:plateIron>, <ore:gearTin>, <ore:plateIron>, <ore:plateIron>],
-    [<ore:blockGlass>, <ore:gearTin>, <ore:blockCopper>, <ore:gearTin>, <ore:blockGlass>],
-    [<ore:plateIron>, <ore:plateIron>, <ore:gearTin>, <ore:plateIron>, <ore:plateIron>],
-    [<kubejs:steel_beam>, <ore:plateIron>, <ore:blockGlass>, <ore:plateIron>, <kubejs:steel_beam>]
-]);
-
 //Quantum Compressor
 recipes.remove(<extendedcrafting:compressor>);
 mods.extendedcrafting.TableCrafting.addShaped(2, <extendedcrafting:compressor>, [
@@ -30,35 +21,35 @@ mods.extendedcrafting.TableCrafting.addShaped(3, <appliedenergistics2:material:1
 
 // Calculation Press
 mods.extendedcrafting.TableCrafting.addShaped(3, <appliedenergistics2:material:13>, [
-    [<ore:plateGold>, <ore:plateGold>, <ore:plateGold>, <ore:ingotTerrasteel>, <ore:plateGold>, <ore:plateGold>, <ore:plateGold>],
-    [<ore:plateGold>, <ore:ingotTerrasteel>, <botania:rune:15>, <botania:rune:0>, <botania:rune:8>, <ore:ingotTerrasteel>, <ore:plateGold>],
-    [<ore:plateGold>, <botania:rune:14>, null, <botania:rune:4>, null, <botania:rune:9>, <ore:plateGold>],
-    [<ore:ingotTerrasteel>, <botania:rune:1>, <botania:rune:7>, null, <botania:rune:5>, <botania:rune:2>, <ore:ingotTerrasteel>],
-    [<ore:plateGold>, <botania:rune:10>, null, <botania:rune:6>, null, <botania:rune:11>, <ore:plateGold>],
-    [<ore:plateGold>, <ore:ingotTerrasteel>, <botania:rune:13>, <botania:rune:3>, <botania:rune:12>, <ore:ingotTerrasteel>, <ore:plateGold>],
-    [<ore:plateGold>, <ore:plateGold>, <ore:plateGold>, <ore:ingotTerrasteel>, <ore:plateGold>, <ore:plateGold>, <ore:plateGold>]
+    [<tconstruct:large_plate>.withTag({Material: "bloodbronze"}), <tconstruct:large_plate>.withTag({Material: "constantan"}), <tconstruct:materials:11>, <tconstruct:materials:10>, <tconstruct:materials:9>, <tconstruct:large_plate>.withTag({Material: "energetic_alloy"}), <tconstruct:large_plate>.withTag({Material: "vibrant_alloy"})],
+    [<tconstruct:large_plate>.withTag({Material: "electrum"}), null, <tconstruct:throwball>, <tconstruct:throwball>, <tconstruct:throwball>, null, <tconstruct:large_plate>.withTag({Material: "electrical_steel"})],
+    [<tconstruct:materials:9>, <tconstruct:throwball>, <tconstruct:pan_head>.withTag({Material: "xu_enchanted_metal"}), <tconstruct:sharpening_kit>.withTag({Material: "paper"}), <tconstruct:pan_head>.withTag({Material: "boron"}), <tconstruct:throwball>, <tconstruct:materials:11>],
+    [<tconstruct:materials:10>, <tconstruct:throwball>, <tconstruct:sharpening_kit>.withTag({Material: "paper"}), <tconstruct:large_plate>.withTag({Material: "manyullyn"}), <tconstruct:sharpening_kit>.withTag({Material: "paper"}), <tconstruct:throwball>, <tconstruct:materials:10>],
+    [<tconstruct:materials:11>, <tconstruct:throwball>, <tconstruct:pan_head>.withTag({Material: "xu_demonic_metal"}), <tconstruct:sharpening_kit>.withTag({Material: "paper"}), <tconstruct:pan_head>.withTag({Material: "treatedwood"}), <tconstruct:throwball>, <tconstruct:materials:9>],
+    [<tconstruct:large_plate>.withTag({Material: "redstone_alloy"}), null, <tconstruct:throwball>, <tconstruct:throwball>, <tconstruct:throwball>, null, <tconstruct:large_plate>.withTag({Material: "bronze"})],
+    [<tconstruct:large_plate>.withTag({Material: "conductive_iron"}), <tconstruct:large_plate>.withTag({Material: "pulsating_iron"}), <tconstruct:materials:9>, <tconstruct:materials:10>, <tconstruct:materials:11>, <tconstruct:large_plate>.withTag({Material: "dark_steel"}), <tconstruct:large_plate>.withTag({Material: "steel"})]
 ]);
 
 // Logic Press
 mods.extendedcrafting.TableCrafting.addShaped(3, <appliedenergistics2:material:15>, [
-    [<ore:plateInvar>, <ore:plateInvar>, <ore:plateInvar>, <ore:ingotKnightslime>, <ore:plateInvar>, <ore:plateInvar>, <ore:plateInvar>],
-    [<ore:plateInvar>, <ore:ingotThaumium>, <ore:ingotThaumium>, <ore:ingotThaumium>, <ore:ingotThaumium>, <ore:ingotThaumium>, <ore:plateInvar>],
-    [<ore:plateInvar>, <ore:ingotThaumium>, <extendedcrafting:material:16>, <ore:ingotAstralStarmetal>, <extendedcrafting:material:16>, <ore:ingotThaumium>, <ore:plateInvar>],
-    [<ore:ingotKnightslime>, <ore:ingotThaumium>, <ore:ingotAstralStarmetal>, <extendedcrafting:material:11>, <ore:ingotAstralStarmetal>, <ore:ingotThaumium>, <ore:ingotKnightslime>],
-    [<ore:plateInvar>, <ore:ingotThaumium>, <extendedcrafting:material:16>, <ore:ingotAstralStarmetal>, <extendedcrafting:material:16>, <ore:ingotThaumium>, <ore:plateInvar>],
-    [<ore:plateInvar>, <ore:ingotThaumium>, <ore:ingotThaumium>, <ore:ingotThaumium>, <ore:ingotThaumium>, <ore:ingotThaumium>, <ore:plateInvar>],
-    [<ore:plateInvar>, <ore:plateInvar>, <ore:plateInvar>, <ore:ingotKnightslime>, <ore:plateInvar>, <ore:plateInvar>, <ore:plateInvar>]
+    [<thaumcraft:stone_arcane>, <thaumcraft:stone_arcane>, <thaumcraft:stone_arcane>, <ore:nitor>, <thaumcraft:stone_arcane>, <thaumcraft:stone_arcane>, <thaumcraft:stone_arcane>],
+    [<thaumcraft:stone_arcane>, <ore:plateThaumium>, <ore:plateThaumium>, <ore:plateThaumium>, <ore:plateThaumium>, <ore:plateThaumium>, <thaumcraft:stone_arcane>],
+    [<thaumcraft:stone_arcane>, <ore:plateThaumium>, null, <thaumcraft:fabric>, null, <ore:plateThaumium>, <thaumcraft:stone_arcane>],
+    [<ore:nitor>, <ore:plateThaumium>, <thaumcraft:fabric>, <thaumcraft:salis_mundus>, <thaumcraft:fabric>, <ore:plateThaumium>, <ore:nitor>],
+    [<thaumcraft:stone_arcane>, <ore:plateThaumium>, null, <thaumcraft:fabric>, null, <ore:plateThaumium>, <thaumcraft:stone_arcane>],
+    [<thaumcraft:stone_arcane>, <ore:plateThaumium>, <ore:plateThaumium>, <ore:plateThaumium>, <ore:plateThaumium>, <ore:plateThaumium>, <thaumcraft:stone_arcane>],
+    [<thaumcraft:stone_arcane>, <thaumcraft:stone_arcane>, <thaumcraft:stone_arcane>, <ore:nitor>, <thaumcraft:stone_arcane>, <thaumcraft:stone_arcane>, <thaumcraft:stone_arcane>]
 ]);
 
 // Engineering Press
 mods.extendedcrafting.TableCrafting.addShaped(3, <appliedenergistics2:material:14>, [
-    [<ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>, <tconstruct:large_plate>.withTag({Material: "magmaslime"}), <ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>],
-    [<ore:plateEnderium>, null, <ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>, null, <ore:plateEnderium>],
-    [<ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>, <ore:manaDiamond>, <ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>],
-    [<tconstruct:large_plate>.withTag({Material: "magmaslime"}), <ore:plateEnderium>, <ore:manaDiamond>, <bloodmagic:teleposition_focus:1>, <ore:manaDiamond>, <ore:plateEnderium>, <tconstruct:large_plate>.withTag({Material: "magmaslime"})],
-    [<ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>, <ore:manaDiamond>, <ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>],
-    [<ore:plateEnderium>, null, <ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>, null, <ore:plateEnderium>],
-    [<ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>, <tconstruct:large_plate>.withTag({Material: "magmaslime"}), <ore:plateEnderium>, <ore:plateEnderium>, <ore:plateEnderium>]
+    [<botania:quartz:3>, <botania:quartz:3>, <botania:quartz:3>, null, <botania:quartz:4>, <botania:quartz:4>, <botania:quartz:4>],
+    [<botania:quartz:3>, <botania:spark>, <botania:quartz:3>, <ore:ingotManasteel>, <botania:quartz:4>, <botania:spark>, <botania:quartz:4>],
+    [<botania:quartz:3>, <botania:quartz:3>, <botania:quartz:3>, null, <botania:quartz:4>, <botania:quartz:4>, <botania:quartz:4>],
+    [null, <ore:ingotManasteel>, null, <ore:manaDiamond>, null, <ore:ingotManasteel>, null],
+    [<botania:quartz:2>, <botania:quartz:2>, <botania:quartz:2>, null, <botania:quartz:0>, <botania:quartz:0>, <botania:quartz:0>],
+    [<botania:quartz:2>, <botania:spark>, <botania:quartz:2>, <ore:ingotManasteel>, <botania:quartz:0>, <botania:spark>, <botania:quartz:0>],
+    [<botania:quartz:2>, <botania:quartz:2>, <botania:quartz:2>, null, <botania:quartz:0>, <botania:quartz:0>, <botania:quartz:0>]
 ]);
 
 //Processing Upgrade
@@ -66,11 +57,11 @@ recipes.remove(<furnaceoverhaul:processing_upgrade>);
 mods.extendedcrafting.TableCrafting.addShaped(4, <furnaceoverhaul:processing_upgrade>, [
     [<thaumcraft:causality_collapser>, <nuclearcraft:alloy:15>, null, null, <aquaculture:loot:1>, null, null, <nuclearcraft:alloy:15>, <thaumcraft:causality_collapser>],
     [<nuclearcraft:alloy:15>, <botania:manaresource:14>, <astralsorcery:iteminfusedglass>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "fabrico"}]}), <nuclearcraft:part:3>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "fabrico"}]}), <astralsorcery:iteminfusedglass>, <botania:manaresource:14>, <nuclearcraft:alloy:15>],
-    [null, <astralsorcery:iteminfusedglass>, <harvestcraft:gourmetporkburgeritem>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <thaumcraft:ingot>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <harvestcraft:gourmetmuttonburgeritem>, <astralsorcery:iteminfusedglass>, null],
+    [null, <astralsorcery:iteminfusedglass>, <harvestcraft:gourmetporkburgeritem>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <ore:ingotVoid>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <harvestcraft:gourmetmuttonburgeritem>, <astralsorcery:iteminfusedglass>, null],
     [null, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "fabrico"}]}), <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <industrialforegoing:pink_slime_ingot>, <industrialforegoing:pink_slime_ingot>, <industrialforegoing:pink_slime_ingot>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "fabrico"}]}), null],
-    [<aquaculture:loot:1>, <nuclearcraft:part:3>, <thaumcraft:ingot>, <industrialforegoing:pink_slime_ingot>, <harvestcraft:netherstartoastitem>, <industrialforegoing:pink_slime_ingot>, <thaumcraft:ingot>, <nuclearcraft:part:3>, <aquaculture:loot:1>],
+    [<aquaculture:loot:1>, <nuclearcraft:part:3>, <ore:ingotVoid>, <industrialforegoing:pink_slime_ingot>, <harvestcraft:netherstartoastitem>, <industrialforegoing:pink_slime_ingot>, <ore:ingotVoid>, <nuclearcraft:part:3>, <aquaculture:loot:1>],
     [null, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "fabrico"}]}), <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <industrialforegoing:pink_slime_ingot>, <industrialforegoing:pink_slime_ingot>, <industrialforegoing:pink_slime_ingot>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "fabrico"}]}), null],
-    [null, <astralsorcery:iteminfusedglass>, <harvestcraft:gourmetbeefburgeritem>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <thaumcraft:ingot>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <harvestcraft:gourmetvenisonburgeritem>, <astralsorcery:iteminfusedglass>, null],
+    [null, <astralsorcery:iteminfusedglass>, <harvestcraft:gourmetbeefburgeritem>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <ore:ingotVoid>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <harvestcraft:gourmetvenisonburgeritem>, <astralsorcery:iteminfusedglass>, null],
     [<nuclearcraft:alloy:15>, <botania:manaresource:14>, <astralsorcery:iteminfusedglass>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "fabrico"}]}), <nuclearcraft:part:3>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "fabrico"}]}), <astralsorcery:iteminfusedglass>, <botania:manaresource:14>, <nuclearcraft:alloy:15>],
     [<thaumcraft:causality_collapser>, <nuclearcraft:alloy:15>, null, null, <aquaculture:loot:1>, null, null, <nuclearcraft:alloy:15>, <thaumcraft:causality_collapser>]
 ]);

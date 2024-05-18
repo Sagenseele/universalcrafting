@@ -1,7 +1,7 @@
 {
 	icon: "minecraft:skull 1 5",
-	x: 1.0d,
-	y: -3.0d,
+	x: -2.0d,
+	y: 3.0d,
 	description: "...the end.",
 	dependencies: [
 		"b0997b8c"

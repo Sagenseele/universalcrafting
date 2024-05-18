@@ -1,0 +1,11 @@
+{
+	x: 3.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "d544ad7e",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:frame 1 64"
+		}]
+	}]
+}

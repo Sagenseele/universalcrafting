@@ -1,6 +1,9 @@
 {
 	x: -0.5d,
 	y: 0.5d,
+	text: [
+		"Right Click to change through altar tiers. Sneak right click on altar to show preview."
+	],
 	dependencies: [
 		"cfa3d9a0"
 	],

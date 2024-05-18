@@ -1,0 +1,14 @@
+{
+	x: 8.5d,
+	y: 1.5d,
+	dependencies: [
+		"0753a9b3"
+	],
+	tasks: [{
+		uid: "db50d4f1",
+		type: "item",
+		items: [{
+			item: "furnaceoverhaul:zenith_furnace"
+		}]
+	}]
+}

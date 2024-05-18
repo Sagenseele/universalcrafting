@@ -1,0 +1,19 @@
+{
+	x: -3.5d,
+	y: -3.0d,
+	dependencies: [
+		"47707df2"
+	],
+	tasks: [{
+		uid: "d3037eec",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "excompressum:compressed_crook"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

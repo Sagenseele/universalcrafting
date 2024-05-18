@@ -1,7 +1,7 @@
 {
 	title: "I am Grout",
-	x: -2.0d,
-	y: 1.5d,
+	x: 7.0d,
+	y: -4.5d,
 	description: "Never gets old",
 	tasks: [{
 		uid: "15152d49",

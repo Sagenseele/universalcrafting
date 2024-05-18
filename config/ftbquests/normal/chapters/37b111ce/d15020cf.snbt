@@ -1,0 +1,24 @@
+{
+	title: "Pumpjack",
+	x: 3.0d,
+	y: -2.0d,
+	dependencies: [
+		"aee6fbb8",
+		"2917f3cc"
+	],
+	tasks: [{
+		uid: "b0731195",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersivepetroleum:schematic",
+			tag: {
+				multiblock: "IP:Pumpjack"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -6,7 +6,7 @@
 		},
 		id: "tconstruct:shuriken"
 	},
-	x: 0.5d,
+	x: -2.5d,
 	y: 10.0d,
 	description: "Most OP of Tinkers Tools",
 	dependencies: [

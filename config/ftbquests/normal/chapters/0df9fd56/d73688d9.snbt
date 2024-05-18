@@ -1,0 +1,14 @@
+{
+	x: 5.5d,
+	y: 1.5d,
+	dependencies: [
+		"3e17e0b1"
+	],
+	tasks: [{
+		uid: "98c0ecfd",
+		type: "item",
+		items: [{
+			item: "furnaceoverhaul:emerald_furnace"
+		}]
+	}]
+}

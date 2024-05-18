@@ -1,7 +1,7 @@
 {
 	icon: "tconstruct:smeltery_controller",
-	x: -3.5d,
-	y: 1.5d,
+	x: 7.0d,
+	y: -3.0d,
 	description: "Hot stuff",
 	dependencies: [
 		"5ee8fd21"

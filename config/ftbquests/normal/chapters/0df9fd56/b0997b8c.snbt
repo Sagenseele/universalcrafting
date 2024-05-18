@@ -1,7 +1,7 @@
 {
 	icon: "exnihilocreatio:block_end_cake",
-	x: -0.5d,
-	y: -3.0d,
+	x: -2.0d,
+	y: 1.5d,
 	description: "My only friend...",
 	tasks: [{
 		uid: "9502c2ee",

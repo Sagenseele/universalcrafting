@@ -16,7 +16,6 @@
 			tag: {
 				orb: "bloodmagic:archmage"
 			}
-		}],
-		ignore_nbt: 1b
+		}]
 	}]
 }

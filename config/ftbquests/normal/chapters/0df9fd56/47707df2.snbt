@@ -1,0 +1,16 @@
+{
+	x: -3.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "69b6fa67",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "exnihilocreatio:crook_wood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

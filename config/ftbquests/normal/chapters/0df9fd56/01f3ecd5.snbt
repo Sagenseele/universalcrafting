@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: -3.0d,
+	dependencies: [
+		"2ca328d2"
+	],
+	tasks: [{
+		uid: "d030e690",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:item_mesh 1 4"
+		}]
+	}]
+}

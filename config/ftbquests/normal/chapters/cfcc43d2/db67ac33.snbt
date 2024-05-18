@@ -1,8 +1,11 @@
 {
-	x: 0.5d,
-	y: 3.0d,
+	x: -1.5d,
+	y: 4.5d,
+	text: [
+		"Put it into the same chunk as a demon crucible to catch the will energy floating inside the chunk."
+	],
 	dependencies: [
-		"fc384abd"
+		"e2d52ab2"
 	],
 	tasks: [{
 		uid: "2b63d061",

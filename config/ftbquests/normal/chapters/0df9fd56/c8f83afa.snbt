@@ -1,0 +1,16 @@
+{
+	x: 2.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "f43d2aa2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "furnaceoverhaul:blank_upgrade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

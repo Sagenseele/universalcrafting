@@ -2,9 +2,7 @@
 	title: "Shiny Quartz make Ape Brain happy",
 	x: 0.5d,
 	y: -1.5d,
-	dependencies: [
-		"4d8cd56c"
-	],
+	dependency_requirement: "one_completed",
 	tasks: [{
 		uid: "02531367",
 		type: "item",

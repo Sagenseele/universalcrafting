@@ -1,0 +1,15 @@
+{
+	x: 17.0d,
+	y: -1.0d,
+	dependencies: [
+		"a6515ecd"
+	],
+	tasks: [{
+		uid: "bda181d5",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:redstone_seeds"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: -0.5d,
+	dependencies: [
+		"5d08ecef"
+	],
+	tasks: [{
+		uid: "c3a221e4",
+		type: "item",
+		items: [{
+			item: "woot:stygianironore"
+		}]
+	}]
+}

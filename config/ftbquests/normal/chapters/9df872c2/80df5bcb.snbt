@@ -1,0 +1,15 @@
+{
+	x: 13.5d,
+	y: -3.5d,
+	dependencies: [
+		"a6515ecd"
+	],
+	tasks: [{
+		uid: "8291d722",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:blizz_seeds"
+		}]
+	}]
+}

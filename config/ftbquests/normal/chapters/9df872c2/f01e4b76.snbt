@@ -1,0 +1,15 @@
+{
+	x: -0.5d,
+	y: 4.0d,
+	dependencies: [
+		"6ad6a5c0"
+	],
+	tasks: [{
+		uid: "7e0d9b85",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "quantumflux:quibitcluster 1 3"
+		}]
+	}]
+}

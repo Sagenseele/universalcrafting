@@ -1,0 +1,15 @@
+{
+	x: 14.5d,
+	y: -3.0d,
+	dependencies: [
+		"a6515ecd"
+	],
+	tasks: [{
+		uid: "bddbcebb",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:guardian_seeds"
+		}]
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: -0.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "c54372de",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "quantumflux:quibitcluster 1 1"
+		}]
+	}]
+}

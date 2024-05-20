@@ -1,0 +1,15 @@
+{
+	x: 6.5d,
+	y: 0.5d,
+	dependencies: [
+		"fb24f3a3"
+	],
+	tasks: [{
+		uid: "b9ad0abf",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:mystical_flower_seeds"
+		}]
+	}]
+}

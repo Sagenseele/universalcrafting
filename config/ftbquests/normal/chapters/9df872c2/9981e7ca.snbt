@@ -1,0 +1,15 @@
+{
+	x: 12.0d,
+	y: 9.0d,
+	dependencies: [
+		"ee03c0a5"
+	],
+	tasks: [{
+		uid: "d27e1135",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:lapis_lazuli_seeds"
+		}]
+	}]
+}

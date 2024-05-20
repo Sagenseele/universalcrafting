@@ -1,0 +1,15 @@
+{
+	x: 12.5d,
+	y: -5.5d,
+	dependencies: [
+		"a6515ecd"
+	],
+	tasks: [{
+		uid: "84011f4e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:brass_seeds"
+		}]
+	}]
+}

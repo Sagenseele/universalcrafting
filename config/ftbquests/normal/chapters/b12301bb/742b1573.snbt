@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: -1.0d,
+	dependencies: [
+		"477645a5"
+	],
+	tasks: [{
+		uid: "20bfa3ef",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:extraction_chamber"
+		}]
+	}]
+}

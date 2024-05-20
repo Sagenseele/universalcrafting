@@ -1,0 +1,21 @@
+{
+	x: -0.5d,
+	y: 5.0d,
+	text: [
+		"The imaginary time block accelerates growth rates immensly. Uses 500 rf/t and has the range:",
+		"x:9,",
+		"z:9,",
+		"y:2"
+	],
+	dependencies: [
+		"f01e4b76"
+	],
+	tasks: [{
+		uid: "78dce083",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "quantumflux:imaginarytime"
+		}]
+	}]
+}

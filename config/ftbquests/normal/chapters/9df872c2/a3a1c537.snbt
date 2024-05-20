@@ -1,0 +1,15 @@
+{
+	x: 2.0d,
+	y: 9.0d,
+	dependencies: [
+		"665a7eb4"
+	],
+	tasks: [{
+		uid: "994c21eb",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:enderium_seeds"
+		}]
+	}]
+}

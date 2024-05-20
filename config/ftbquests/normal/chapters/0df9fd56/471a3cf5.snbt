@@ -1,0 +1,13 @@
+{
+	x: 8.5d,
+	y: -1.0d,
+	description: "Superior item collector",
+	tasks: [{
+		uid: "60754e13",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "randomthings:advanceditemcollector"
+		}]
+	}]
+}

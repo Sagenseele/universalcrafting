@@ -1,0 +1,15 @@
+{
+	x: 12.5d,
+	y: -2.0d,
+	dependencies: [
+		"a6515ecd"
+	],
+	tasks: [{
+		uid: "755b9db9",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:aquamarine_seeds"
+		}]
+	}]
+}

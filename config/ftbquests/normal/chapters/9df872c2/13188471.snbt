@@ -1,0 +1,15 @@
+{
+	x: 9.0d,
+	y: 7.0d,
+	dependencies: [
+		"ee03c0a5"
+	],
+	tasks: [{
+		uid: "eb18eb9a",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:invar_seeds"
+		}]
+	}]
+}

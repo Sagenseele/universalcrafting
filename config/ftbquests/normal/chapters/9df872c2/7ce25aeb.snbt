@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	dependencies: [
+		"6aa683d7"
+	],
+	tasks: [{
+		uid: "2cdcae32",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagradditions:special"
+		}]
+	}]
+}

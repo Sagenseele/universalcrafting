@@ -1,0 +1,15 @@
+{
+	x: 13.0d,
+	y: 4.5d,
+	dependencies: [
+		"ee03c0a5"
+	],
+	tasks: [{
+		uid: "1c43f724",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:elementium_seeds"
+		}]
+	}]
+}

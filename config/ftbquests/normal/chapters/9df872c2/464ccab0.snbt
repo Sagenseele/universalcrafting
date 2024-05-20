@@ -1,0 +1,15 @@
+{
+	x: 10.0d,
+	y: 6.5d,
+	dependencies: [
+		"ee03c0a5"
+	],
+	tasks: [{
+		uid: "ec9000b4",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:hop_graphite_seeds"
+		}]
+	}]
+}

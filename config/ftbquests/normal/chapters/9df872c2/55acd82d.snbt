@@ -1,0 +1,15 @@
+{
+	x: 9.5d,
+	y: -4.5d,
+	dependencies: [
+		"a6515ecd"
+	],
+	tasks: [{
+		uid: "746889c0",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:skeleton_seeds"
+		}]
+	}]
+}

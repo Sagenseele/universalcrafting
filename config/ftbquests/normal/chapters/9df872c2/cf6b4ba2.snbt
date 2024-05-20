@@ -1,0 +1,15 @@
+{
+	x: 11.0d,
+	y: 6.5d,
+	dependencies: [
+		"ee03c0a5"
+	],
+	tasks: [{
+		uid: "e4c0fac2",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:cobalt_seeds"
+		}]
+	}]
+}

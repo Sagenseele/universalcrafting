@@ -1,0 +1,15 @@
+{
+	x: 13.0d,
+	y: 3.5d,
+	dependencies: [
+		"ee03c0a5"
+	],
+	tasks: [{
+		uid: "1eed14a2",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:thorium_seeds"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	dependencies: [
+		"fb24f3a3"
+	],
+	tasks: [{
+		uid: "32397a9e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:aluminum_brass_seeds"
+		}]
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: -1.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "31a2cfc6",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:tier1_inferium_seeds"
+		}]
+	}]
+}

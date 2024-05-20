@@ -1,0 +1,12 @@
+{
+	x: -2.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "d2aed71d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:crafting 1 16"
+		}]
+	}]
+}

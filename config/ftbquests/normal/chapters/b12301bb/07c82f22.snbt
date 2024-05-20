@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	dependencies: [
+		"477645a5"
+	],
+	tasks: [{
+		uid: "74eb41d9",
+		type: "item",
+		items: [{
+			item: "deepmoblearningbm:digital_will_injector"
+		}]
+	}]
+}

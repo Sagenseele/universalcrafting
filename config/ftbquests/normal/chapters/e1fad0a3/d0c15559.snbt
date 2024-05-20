@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 0.5d,
+	dependencies: [
+		"56e4d47d"
+	],
+	tasks: [{
+		uid: "79349ac0",
+		type: "item",
+		items: [{
+			item: "woot:anvil"
+		}]
+	}]
+}

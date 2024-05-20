@@ -1,0 +1,15 @@
+{
+	x: 14.0d,
+	y: 3.5d,
+	dependencies: [
+		"ee03c0a5"
+	],
+	tasks: [{
+		uid: "0771a150",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:steel_seeds"
+		}]
+	}]
+}

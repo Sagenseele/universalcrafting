@@ -1,0 +1,15 @@
+{
+	x: 16.5d,
+	y: 1.0d,
+	dependencies: [
+		"a6515ecd"
+	],
+	tasks: [{
+		uid: "7ec2af85",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:lead_seeds"
+		}]
+	}]
+}

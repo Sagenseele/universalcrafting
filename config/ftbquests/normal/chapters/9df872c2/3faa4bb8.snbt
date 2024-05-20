@@ -1,0 +1,15 @@
+{
+	x: 16.5d,
+	y: 0.0d,
+	dependencies: [
+		"a6515ecd"
+	],
+	tasks: [{
+		uid: "c960730f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:conductive_iron_seeds"
+		}]
+	}]
+}

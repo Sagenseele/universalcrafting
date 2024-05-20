@@ -1,0 +1,15 @@
+{
+	x: 11.0d,
+	y: 4.5d,
+	dependencies: [
+		"ee03c0a5"
+	],
+	tasks: [{
+		uid: "4f38e621",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:mithril_seeds"
+		}]
+	}]
+}

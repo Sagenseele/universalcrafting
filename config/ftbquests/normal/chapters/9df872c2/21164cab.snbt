@@ -1,0 +1,15 @@
+{
+	x: 10.5d,
+	y: 8.5d,
+	dependencies: [
+		"ee03c0a5"
+	],
+	tasks: [{
+		uid: "38ad71fb",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:nickel_seeds"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 0.5d,
+	y: -2.0d,
+	dependencies: [
+		"80d2a44d"
+	],
+	tasks: [{
+		uid: "acfb8e6e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:water_seeds"
+		}]
+	}]
+}

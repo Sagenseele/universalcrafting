@@ -1,0 +1,15 @@
+{
+	x: 11.5d,
+	y: -2.5d,
+	dependencies: [
+		"a6515ecd"
+	],
+	tasks: [{
+		uid: "2bf104f4",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:quicksilver_seeds"
+		}]
+	}]
+}

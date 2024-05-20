@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: -3.0d,
+	dependencies: [
+		"fb24f3a3"
+	],
+	tasks: [{
+		uid: "e4fd010c",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:slime_seeds"
+		}]
+	}]
+}

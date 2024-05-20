@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: -1.0d,
+	description: "Please use me!",
+	text: [
+		"Can be used to interact with block/entity infront of it. Can use items in its inventory too."
+	],
+	tasks: [{
+		uid: "add47649",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "extrautils2:user"
+		}]
+	}]
+}

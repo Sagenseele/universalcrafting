@@ -1,0 +1,15 @@
+{
+	x: 13.5d,
+	y: -1.0d,
+	dependencies: [
+		"a6515ecd"
+	],
+	tasks: [{
+		uid: "e7a41530",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:obsidian_seeds"
+		}]
+	}]
+}

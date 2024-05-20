@@ -1,0 +1,15 @@
+{
+	x: 14.0d,
+	y: 7.5d,
+	dependencies: [
+		"ee03c0a5"
+	],
+	tasks: [{
+		uid: "bca5ac7f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:end_seeds"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 2.0d,
+	y: -0.5d,
+	dependencies: [
+		"80d2a44d"
+	],
+	tasks: [{
+		uid: "7571438e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:dirt_seeds"
+		}]
+	}]
+}

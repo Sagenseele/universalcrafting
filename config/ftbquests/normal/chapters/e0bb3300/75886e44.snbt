@@ -1,0 +1,13 @@
+{
+	x: 0.5d,
+	y: 1.0d,
+	text: [
+		"Use the Research Lab, where new mods and items can be unlocked."
+	],
+	tasks: [{
+		uid: "c3b05c40",
+		type: "checkmark",
+		title: "Research Lab",
+		disable_toast: true
+	}]
+}

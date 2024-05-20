@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	dependencies: [
+		"bf112591"
+	],
+	tasks: [{
+		uid: "8f230900",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "deepmoblearning:data_model_blank"
+		}]
+	}]
+}

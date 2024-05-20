@@ -1,0 +1,19 @@
+{
+	x: 2.5d,
+	y: -4.5d,
+	dependencies: [
+		"191a8022"
+	],
+	tasks: [{
+		uid: "901278c8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:scribing_tools"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

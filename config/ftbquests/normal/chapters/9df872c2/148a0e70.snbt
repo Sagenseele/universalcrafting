@@ -1,0 +1,15 @@
+{
+	x: 0.5d,
+	y: -4.0d,
+	dependencies: [
+		"80d2a44d"
+	],
+	tasks: [{
+		uid: "aed8e233",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:stone_seeds"
+		}]
+	}]
+}

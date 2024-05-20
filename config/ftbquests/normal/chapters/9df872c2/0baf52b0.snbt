@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: -1.0d,
+	dependencies: [
+		"fb24f3a3"
+	],
+	tasks: [{
+		uid: "8af5962c",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:copper_seeds"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 6.5d,
+	y: -0.5d,
+	dependencies: [
+		"fb24f3a3"
+	],
+	tasks: [{
+		uid: "90ef7b13",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:marble_seeds"
+		}]
+	}]
+}

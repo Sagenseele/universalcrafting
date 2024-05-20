@@ -1,0 +1,17 @@
+{
+	x: 3.5d,
+	y: -4.5d,
+	text: [
+		"Right click with Scribing tools on Wooden Table"
+	],
+	dependencies: [
+		"191a8022"
+	],
+	tasks: [{
+		uid: "6ae84eb4",
+		type: "item",
+		items: [{
+			item: "thaumcraft:table_wood"
+		}]
+	}]
+}

@@ -2,8 +2,8 @@ import mods.thaumcraft.Infusion;
 import mods.thermalexpansion.Pulverizer;
 
 //EIO Filter
-recipes.replaceAllOccurences(<enderio:item_material:41>, <thaumcraftcrystal_essence>, <enderio:item_advanced_item_filter>);
-recipes.replaceAllOccurences(<enderio:item_material:45>, <thaumcraftcrystal_essence>, <enderio:item_big_item_filter>);
+recipes.replaceAllOccurences(<enderio:item_material:41>, <thaumcraft:crystal_essence>, <enderio:item_advanced_item_filter>);
+recipes.replaceAllOccurences(<enderio:item_material:45>, <thaumcraft:crystal_essence>, <enderio:item_big_item_filter>);
 
 //EIO Fluid Conduits also hardenedGlass
 recipes.replaceAllOccurences(<ore:fusedQuartz>, <ore:blockGlassHardened>, <enderio:item_liquid_conduit>);

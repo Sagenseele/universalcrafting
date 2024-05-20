@@ -1,9 +1,18 @@
 import mods.thaumcraft.Infusion;
 import mods.thermalexpansion.Pulverizer;
 
+//EIO Filter
+recipes.replaceAllOccurences(<enderio:item_material:41>, <thaumcraftcrystal_essence>, <enderio:item_advanced_item_filter>);
+recipes.replaceAllOccurences(<enderio:item_material:45>, <thaumcraftcrystal_essence>, <enderio:item_big_item_filter>);
+
+//EIO Fluid Conduits also hardenedGlass
+recipes.replaceAllOccurences(<ore:fusedQuartz>, <ore:blockGlassHardened>, <enderio:item_liquid_conduit>);
+recipes.replaceAllOccurences(<ore:fusedQuartz>, <ore:blockGlassHardened>, <enderio:item_liquid_conduit:1>);
+recipes.replaceAllOccurences(<ore:fusedQuartz>, <ore:blockGlassHardened>, <enderio:item_liquid_conduit:2>);
+
 //Charged Certus Quartz
 //mods.thaumcraft.Infusion.registerRecipe("chargedCertusQuartz", "", <appliedenergistics2:material:1>, 10, [<aspect:ordo> *20, <aspect:fabrico> *50, <aspect:potentia> *20, <aspect:permutatio> *20, <aspect:vitreus> *20], <appliedenergistics2:material>, [<astralsorcery:itemcraftingcomponent:3>, <astralsorcery:itemcraftingcomponent:3>, <astralsorcery:itemcraftingcomponent:3>, <astralsorcery:itemcraftingcomponent:3>]);
-mods.bloodmagic.BloodAltar.addRecipe(<appliedenergistics2:material:1>, <appliedenergistics2:material>, 2, 5000,30,10);
+mods.bloodmagic.BloodAltar.addRecipe(<appliedenergistics2:material:1>, <appliedenergistics2:material>, 3, 5000,50,10);
 
 //Cooking for Blockheads
 recipes.replaceAllOccurences(<minecraft:diamond>, <ore:ingotGold>, <cookingforblockheads:recipe_book:2>);
@@ -91,7 +100,6 @@ recipes.removeByRecipeName("industrialforegoing:mob_duplicator_thermal");
 recipes.removeByRecipeName("industrialforegoing:oredictionary_converter_thermal");
 recipes.removeByRecipeName("industrialforegoing:block_destroyer_thermal");
 recipes.removeByRecipeName("industrialforegoing:crop_recolector_thermal");
-recipes.removeByRecipeName("industrialforegoing:latex_processing_unit_thermal");
 recipes.removeByRecipeName("industrialforegoing:dye_mixer_thermal");
 recipes.removeByRecipeName("industrialforegoing:black_hole_controller_reworked_thermal");
 recipes.removeByRecipeName("industrialforegoing:mob_relocator_thermal");

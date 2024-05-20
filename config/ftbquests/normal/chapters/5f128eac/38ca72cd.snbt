@@ -1,8 +1,11 @@
 {
-	x: 2.0d,
-	y: -1.5d,
+	x: 3.0d,
+	y: -0.5d,
+	text: [
+		"Right Click with Salis Mundus on a cauldron"
+	],
 	dependencies: [
-		"dc1232c1"
+		"b6c31411"
 	],
 	tasks: [{
 		uid: "39a7a52b",

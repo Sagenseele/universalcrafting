@@ -372,7 +372,7 @@
       "minecraft:wither"
     ],
     "lootItems": [
-      "minecraft:nether_star,3"
+      "minecraft:nether_star,1"
     ],
     "deepLearnerDisplay": {
       "hearts": 150,
@@ -399,8 +399,9 @@
       "minecraft:wither_skeleton"
     ],
     "lootItems": [
-      "minecraft:skull,18,1",
-      "minecraft:coal,64"
+      "minecraft:skull,3,1",
+      "minecraft:coal,32",
+      "bhc:wither_bone,5"
     ],
     "trial": {
       "entities": "minecraft:wither_skeleton",

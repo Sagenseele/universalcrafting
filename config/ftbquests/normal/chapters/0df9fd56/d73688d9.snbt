@@ -7,6 +7,7 @@
 	tasks: [{
 		uid: "98c0ecfd",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			item: "furnaceoverhaul:emerald_furnace"
 		}]

@@ -9,6 +9,7 @@
 		type: "item",
 		items: [{
 			item: "bhc:green_heart_canister"
-		}]
+		}],
+		count: 10L
 	}]
 }

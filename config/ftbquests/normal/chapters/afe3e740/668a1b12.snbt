@@ -1,6 +1,6 @@
 {
 	icon: "minecraft:fish",
-	x: 3.0d,
+	x: 7.0d,
 	y: 3.0d,
 	tasks: [{
 		uid: "ea360d88",

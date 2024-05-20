@@ -1,12 +1,13 @@
 {
 	x: 1.5d,
-	y: 4.5d,
+	y: 4.0d,
 	dependencies: [
 		"c8f83afa"
 	],
 	tasks: [{
 		uid: "91c12960",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}

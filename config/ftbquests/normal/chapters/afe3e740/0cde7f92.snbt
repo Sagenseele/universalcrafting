@@ -6,8 +6,8 @@
 		},
 		id: "tconstruct:cleaver"
 	},
-	x: -2.5d,
-	y: 8.0d,
+	x: 4.0d,
+	y: 4.0d,
 	description: "For some heavy hitting",
 	dependencies: [
 		"4446416a",

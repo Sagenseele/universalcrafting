@@ -8,6 +8,7 @@
 	tasks: [{
 		uid: "520328ab",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}

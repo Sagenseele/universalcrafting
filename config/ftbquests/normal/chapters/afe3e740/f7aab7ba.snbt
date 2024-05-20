@@ -1,7 +1,7 @@
 {
 	icon: "minecraft:skull 1 4",
-	x: -3.0d,
-	y: 9.0d,
+	x: 3.5d,
+	y: 5.0d,
 	tasks: [{
 		uid: "69ae1aad",
 		type: "item",

@@ -1,8 +1,8 @@
 {
-	title: "Modular Machinery",
+	title: "[WIP] Modular Machinery",
 	icon: "modularmachinery:blockcontroller",
-	x: 6.5d,
-	y: 8.0d,
+	x: 0.5d,
+	y: 9.0d,
 	description: "Unique Machines",
 	dependencies: [
 		"469304ef"

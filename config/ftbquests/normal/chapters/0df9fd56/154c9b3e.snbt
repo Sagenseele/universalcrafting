@@ -4,6 +4,7 @@
 	tasks: [{
 		uid: "f0a057f0",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			item: "furnaceoverhaul:iron_furnace"
 		}]

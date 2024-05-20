@@ -6,8 +6,8 @@
 		},
 		id: "woot:yahhammer"
 	},
-	x: 3.5d,
-	y: 8.0d,
+	x: -2.5d,
+	y: 9.0d,
 	description: "Industrial Sized Mobfarms",
 	dependencies: [
 		"55bf6a41"

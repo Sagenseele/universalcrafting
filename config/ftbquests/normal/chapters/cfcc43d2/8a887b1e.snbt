@@ -9,6 +9,7 @@
 		type: "item",
 		items: [{
 			item: "bloodmagic:item_demon_crystal"
-		}]
+		}],
+		count: 12L
 	}]
 }

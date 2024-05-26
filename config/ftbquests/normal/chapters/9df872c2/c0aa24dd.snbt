@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:fluix_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "02c5bff6",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -10,5 +10,10 @@
 		items: [{
 			item: "storagenetwork:process_kabel"
 		}]
+	}],
+	rewards: [{
+		uid: "11a00e28",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

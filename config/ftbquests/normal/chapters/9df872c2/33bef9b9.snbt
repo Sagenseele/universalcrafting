@@ -8,5 +8,10 @@
 		items: [{
 			item: "quantumflux:quibitcluster 1 1"
 		}]
+	}],
+	rewards: [{
+		uid: "73094480",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

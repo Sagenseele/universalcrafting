@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:electrum_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "974c1d1d",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

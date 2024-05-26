@@ -11,5 +11,10 @@
 			item: "tconstruct:soil"
 		}],
 		count: 16L
+	}],
+	rewards: [{
+		uid: "8d205ba0",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

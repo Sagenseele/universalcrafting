@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:uranium_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "99ccbc4d",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -13,5 +13,10 @@
 		items: [{
 			item: "thaumcraft:arcane_workbench"
 		}]
+	}],
+	rewards: [{
+		uid: "8750179a",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

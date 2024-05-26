@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:marble_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "cfa47d62",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

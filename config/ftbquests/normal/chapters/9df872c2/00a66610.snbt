@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:rock_crystal_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "b22039da",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

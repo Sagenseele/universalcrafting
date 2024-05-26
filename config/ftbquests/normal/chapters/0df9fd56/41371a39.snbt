@@ -1,0 +1,16 @@
+{
+	x: -3.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "cac7a56d",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:cobblestone_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "e872d813",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

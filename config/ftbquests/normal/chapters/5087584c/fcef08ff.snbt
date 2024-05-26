@@ -1,6 +1,6 @@
 {
-	x: 2.5d,
-	y: -1.5d,
+	x: 3.0d,
+	y: -2.0d,
 	dependencies: [
 		"06450e04"
 	],
@@ -12,5 +12,10 @@
 			item: "nuclearcraft:part 1 2"
 		}],
 		consume_items: false
+	}],
+	rewards: [{
+		uid: "054043b2",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

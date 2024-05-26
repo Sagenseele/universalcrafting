@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:sky_stone_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "4344b916",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -11,5 +11,10 @@
 		items: [{
 			item: "ae2stuff:grower"
 		}]
+	}],
+	rewards: [{
+		uid: "f02fd7c9",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

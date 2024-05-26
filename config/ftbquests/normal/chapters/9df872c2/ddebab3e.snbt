@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:nether_quartz_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "c8bb6e18",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

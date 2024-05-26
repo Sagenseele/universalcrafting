@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:constantan_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "82d1f915",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

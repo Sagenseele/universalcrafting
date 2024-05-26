@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:nickel_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "8378a7d0",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

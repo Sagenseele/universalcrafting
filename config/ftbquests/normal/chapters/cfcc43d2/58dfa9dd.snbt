@@ -9,6 +9,12 @@
 		type: "item",
 		items: [{
 			item: "contenttweaker:nutrient_bar"
-		}]
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "6802d751",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

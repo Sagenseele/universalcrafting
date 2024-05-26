@@ -11,5 +11,11 @@
 		items: [{
 			item: "mysticalagradditions:dragon_egg_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "9e300632",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 2
 	}]
 }

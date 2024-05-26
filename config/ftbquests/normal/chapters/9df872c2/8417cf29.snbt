@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:silicon_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "1696dc73",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

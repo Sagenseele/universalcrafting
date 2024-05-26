@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:redstone_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "6d7f1cb8",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

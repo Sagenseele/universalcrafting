@@ -11,5 +11,10 @@
 		items: [{
 			item: "industrialforegoing:plastic"
 		}]
+	}],
+	rewards: [{
+		uid: "389f3fbd",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

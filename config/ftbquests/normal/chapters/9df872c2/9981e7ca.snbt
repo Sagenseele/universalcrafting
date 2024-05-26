@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:lapis_lazuli_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "b1bfb02c",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

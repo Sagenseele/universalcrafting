@@ -12,6 +12,14 @@
     "will": 10.0
   },
   {
+    "id": "wither",
+    "will": 10.0
+  },
+  {
+    "id": "botania_gaia_guardian",
+    "will": 10.0
+  },
+  {
     "id": "enderman",
     "will": 2.0
   },
@@ -58,9 +66,5 @@
   {
     "id": "tinker_slime",
     "will": 0.67
-  },
-  {
-    "id": "mo_android",
-    "will": 1.0
   }
 ]

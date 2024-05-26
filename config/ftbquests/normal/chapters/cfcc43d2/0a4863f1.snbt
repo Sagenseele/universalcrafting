@@ -20,5 +20,10 @@
 			},
 			id: "guideapi:bloodmagic-guide"
 		}
+	},
+	{
+		uid: "fd5468db",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

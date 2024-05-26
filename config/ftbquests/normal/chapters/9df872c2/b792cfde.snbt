@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:ice_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "541523a5",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

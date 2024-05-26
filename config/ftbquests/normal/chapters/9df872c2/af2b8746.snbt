@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:experience_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "ffc30dee",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

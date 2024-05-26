@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:blaze_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "81005077",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:crafting 1 17"
 		}]
+	}],
+	rewards: [{
+		uid: "7f568a68",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:lithium_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "03af37b3",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

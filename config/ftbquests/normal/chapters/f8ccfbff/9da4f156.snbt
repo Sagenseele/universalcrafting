@@ -1,6 +1,6 @@
 {
-	x: 3.0d,
-	y: -8.5d,
+	x: 6.5d,
+	y: -4.0d,
 	dependencies: [
 		"f0aa0789"
 	],
@@ -10,5 +10,10 @@
 		items: [{
 			item: "appliedenergistics2:crafting_accelerator"
 		}]
+	}],
+	rewards: [{
+		uid: "36e44930",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -15,5 +15,10 @@
 			item: "harvestcraft:flouritem"
 		}],
 		consume_items: true
+	}],
+	rewards: [{
+		uid: "4cd3d9be",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

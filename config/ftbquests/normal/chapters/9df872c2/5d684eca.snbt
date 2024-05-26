@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:obsidian_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "806b2b7c",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

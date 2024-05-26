@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:zombie_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "6a511680",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

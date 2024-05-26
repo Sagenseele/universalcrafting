@@ -10,5 +10,10 @@
 		items: [{
 			item: "storagedrawers:upgrade_storage 1 2"
 		}]
+	}],
+	rewards: [{
+		uid: "6a0e8ae9",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

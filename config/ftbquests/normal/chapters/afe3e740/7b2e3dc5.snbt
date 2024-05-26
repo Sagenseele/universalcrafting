@@ -24,5 +24,11 @@
 		type: "gamestage",
 		auto: "no_toast",
 		stage: "weapons2"
+	},
+	{
+		uid: "30da1e40",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 10
 	}]
 }

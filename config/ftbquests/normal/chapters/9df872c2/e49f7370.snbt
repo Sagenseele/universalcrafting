@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:platinum_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "c255f229",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -1,0 +1,25 @@
+{
+	x: 11.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "35a30a5e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "deepmoblearning:data_model_botania_gaia_guardian",
+			tag: {
+				tier: 4
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5099b171",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 3
+	}]
+}

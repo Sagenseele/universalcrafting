@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:tin_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "ab906572",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:fire_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "6b5e5e26",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

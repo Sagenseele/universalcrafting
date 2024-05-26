@@ -1,6 +1,6 @@
 {
-	x: 7.0d,
-	y: -4.75d,
+	x: 10.0d,
+	y: -3.0d,
 	dependencies: [
 		"61a0b6dd"
 	],
@@ -11,5 +11,10 @@
 		items: [{
 			item: "botania:rune 1 8"
 		}]
+	}],
+	rewards: [{
+		uid: "44128ead",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -14,5 +14,10 @@
 		items: [{
 			item: "bloodmagic:demon_crucible"
 		}]
+	}],
+	rewards: [{
+		uid: "79f7c7b5",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

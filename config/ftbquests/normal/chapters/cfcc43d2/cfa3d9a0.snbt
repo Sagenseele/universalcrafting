@@ -8,5 +8,10 @@
 		items: [{
 			item: "bloodmagic:soul_snare"
 		}]
+	}],
+	rewards: [{
+		uid: "e0b2ec7f",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

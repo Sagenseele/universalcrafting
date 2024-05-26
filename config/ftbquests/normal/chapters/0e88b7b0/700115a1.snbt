@@ -1,0 +1,45 @@
+{
+	title: "Speed Totem",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "everlastingabilities:ability_totem",
+		tag: {
+			"everlastingabilities:abilityStoreStack": [{
+				level: 1,
+				name: "ability.abilities.everlastingabilities.speed.name"
+			}]
+		}
+	},
+	x: 2.0d,
+	y: 2.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "25d40e3e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "contenttweaker:universal_points"
+		}],
+		count: 15L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "ed4fc57a",
+		type: "item",
+		team_reward: false,
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "everlastingabilities:ability_totem",
+			tag: {
+				"everlastingabilities:abilityStoreStack": [{
+					level: 1,
+					name: "ability.abilities.everlastingabilities.speed.name"
+				}]
+			}
+		}
+	}]
+}

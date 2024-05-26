@@ -10,5 +10,10 @@
 		items: [{
 			item: "thaumcraft:salis_mundus"
 		}]
+	}],
+	rewards: [{
+		uid: "ecc897e0",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

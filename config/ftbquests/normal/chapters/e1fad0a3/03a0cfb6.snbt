@@ -14,5 +14,10 @@
 			id: "woot:die"
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "27cda80f",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

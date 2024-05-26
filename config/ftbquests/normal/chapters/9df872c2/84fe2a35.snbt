@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:manasteel_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "d9c66a2b",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

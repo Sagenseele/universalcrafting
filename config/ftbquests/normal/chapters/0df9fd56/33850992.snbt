@@ -24,5 +24,11 @@
 		{
 			item: "thermalfoundation:ore_fluid 1 1"
 		}]
+	}],
+	rewards: [{
+		uid: "d59cc39a",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 2
 	}]
 }

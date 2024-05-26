@@ -11,5 +11,10 @@
 		items: [{
 			item: "furnaceoverhaul:zenith_furnace"
 		}]
+	}],
+	rewards: [{
+		uid: "2b437523",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

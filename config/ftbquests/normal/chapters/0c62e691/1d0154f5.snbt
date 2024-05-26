@@ -23,5 +23,10 @@
 				]
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "cf805796",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

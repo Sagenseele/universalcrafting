@@ -1,6 +1,6 @@
 {
 	x: -2.0d,
-	y: -6.0d,
+	y: -4.5d,
 	dependencies: [
 		"bce40e68"
 	],
@@ -11,5 +11,10 @@
 			item: "bhc:red_heart_canister"
 		}],
 		count: 10L
+	}],
+	rewards: [{
+		uid: "58a41706",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

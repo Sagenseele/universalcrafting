@@ -11,5 +11,10 @@
 		items: [{
 			item: "extendedcrafting:table_ultimate"
 		}]
+	}],
+	rewards: [{
+		uid: "d7f16aed",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

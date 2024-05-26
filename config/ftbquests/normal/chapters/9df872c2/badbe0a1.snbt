@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:glowstone_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "79249f37",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

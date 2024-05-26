@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:dark_steel_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "a5c7e223",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

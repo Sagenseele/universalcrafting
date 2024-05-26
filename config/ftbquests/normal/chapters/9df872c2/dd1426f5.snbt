@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:mystical_flower_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "ae73e885",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

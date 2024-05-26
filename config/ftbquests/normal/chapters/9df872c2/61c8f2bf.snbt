@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:creeper_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "76883531",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

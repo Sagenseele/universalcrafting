@@ -1,12 +1,16 @@
 {
 	x: 9.5d,
 	y: -4.5d,
-	shape: "square",
 	tasks: [{
 		uid: "b86fdef5",
 		type: "item",
 		items: [{
 			item: "extendedcrafting:singularity 1 22"
 		}]
+	}],
+	rewards: [{
+		uid: "9c1224b4",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

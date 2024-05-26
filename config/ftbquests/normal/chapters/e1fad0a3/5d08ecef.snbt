@@ -1,5 +1,5 @@
 {
-	x: 5.0d,
+	x: 4.0d,
 	y: -2.0d,
 	tasks: [{
 		uid: "784480e3",
@@ -22,5 +22,10 @@
 			},
 			id: "guideapi:woot-guide"
 		}
+	},
+	{
+		uid: "a46408c0",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

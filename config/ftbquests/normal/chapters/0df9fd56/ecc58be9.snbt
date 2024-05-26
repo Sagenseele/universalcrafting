@@ -63,5 +63,10 @@
 		items: [{
 			item: "tconstruct:casting 1 1"
 		}]
+	}],
+	rewards: [{
+		uid: "a5e8af36",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:tier2_inferium_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "bcd5ff63",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

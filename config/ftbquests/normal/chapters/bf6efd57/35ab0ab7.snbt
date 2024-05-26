@@ -1,0 +1,20 @@
+{
+	x: 9.0d,
+	y: -1.0d,
+	dependencies: [
+		"7eec3666"
+	],
+	tasks: [{
+		uid: "d98c73bd",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "solarflux:solar_panel_7"
+		}]
+	}],
+	rewards: [{
+		uid: "f33863f7",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

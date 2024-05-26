@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagradditions:tier6_inferium_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "094f9e72",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

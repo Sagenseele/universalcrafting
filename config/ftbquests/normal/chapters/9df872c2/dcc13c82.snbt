@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:water_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "44a872e3",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

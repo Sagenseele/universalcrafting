@@ -1264,6 +1264,518 @@ thermalexpansion:florb:0, Florb (Empty§r)
 thermalexpansion:florb:1, Magmatic Florb (Empty§r)
 thermalexpansion:morb:0, Morb (Empty§r)
 thermalexpansion:morb:1, Reusable Morb (Empty§r)
+aeadditions:part.base:0, ME Drive Fixture
+aeadditions:part.base:1, ME Energy Cell Fixture
+aeadditions:part.base:2, ME Fluid Interface
+aeadditions:part.base:3, ME Ore Dictionary Export Bus
+aeadditions:storage.fluid:0, ME 256k Fluid Storage Cell
+aeadditions:storage.fluid:1, ME 1024k Fluid Storage Cell
+aeadditions:storage.fluid:2, ME 4096k Fluid Storage Cell
+aeadditions:storage.physical:0, ME 256k Storage Cell
+aeadditions:storage.physical:1, ME 1024k Storage Cell
+aeadditions:storage.physical:2, ME 4096k Storage Cell
+aeadditions:storage.physical:3, ME 16384k Storage Cell
+aeadditions:storage.physical:4, ME Block Container - Empty
+aeadditions:storage.physical:4, ME Block Container - Empty
+aeadditions:pattern.fluid:0, ME Fluid Pattern
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Water
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Lava
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Iron
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Gold
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Pigiron
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Cobalt
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Ardite
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Manyullyn
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Knightslime
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Aluminum Brass
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Brass
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Copper
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Tin
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Bronze
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Zinc
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Lead
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Nickel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Silver
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Electrum
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Steel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Aluminum
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Steam
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Creosote Oil
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Liquifacted Coal
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Crude Oil
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Naphtha
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Refined Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Sap
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Syrup
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Resin
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Tree Oil
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Seed Oil
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Biocrude
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Grassoline
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Mushroom Stew
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Essence of Knowledge
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Potion
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Splash Potion
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Lingering Potion
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Destabilized Redstone
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Energized Glowstone
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Resonant Ender
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Blazing Pyrotheum
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Gelid Cryotheum
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Zephyrean Aerotheum
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Tectonic Petrotheum
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Primal Mana
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Platinum
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Iridium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Invar
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Constantan
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Signalum
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Lumium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Enderium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Electrical Steel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Energetic Alloy
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Vibrant Alloy
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Redstone Alloy
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Conductive Iron
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Pulsating Iron
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Dark Steel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Soularium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten End Steel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Iron Alloy
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Blood Bronze
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Inferium Sludge
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Prudentium Sludge
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Intermedium Sludge
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Prosperity Water
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Inferium Water
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Prudentium Water
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Intermedium Water
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Superium Water
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Prudentium Solution
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Prudiferium Solution
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Nitric Prosperity Solution
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Acidic Superium Solution
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Blood Infused Glitch
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Witchwater
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Evil Infused Iron
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Enchanted Metal
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Demon Metal
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Plant Oil
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Ethanol
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Biodiesel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Liquid Concrete
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Uranium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Crude Oil
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Diesel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Lubricant
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Gasoline
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Napalm
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Essence
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Milk
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Liquid Meat
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Latex
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Sewage
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Sludge
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Biofuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Pink Slime
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Protein
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Raw Ore Meat
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Fermented Ore Meat
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Soulium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Base Essence
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Inferium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Prudentium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Intermedium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Superium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Supremium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Oxygen
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Hydrogen
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Deuterium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Tritium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Helium-3
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Helium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Boron
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Boron-10
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Boron-11
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Lithium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Lithium-6
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Lithium-7
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Ferroboron
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Tough Alloy
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Hard Carbon
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Beryllium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Manganese
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Manganese Dioxide
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Sulfur
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Arsenic
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Liquid Helium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Liquid Nitrogen
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Plasma
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Neutron Fluid
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Methanol
+aeadditions:pattern.fluid:0, ME Fluid Pattern: RadAway Fluid
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Slow-Acting RadAway Fluid
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Nitrogen
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Fluorine
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Carbon Dioxide
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Carbon Monoxide
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Ethylene
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Fluoromethane
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Ammonia
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Oxygen Difluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Diborane
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Sulfur Dioxide
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Sulfur Trioxide
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Hydrofluoric Acid
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Boric Acid
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Sulfuric Acid
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Boron Nitride Solution
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Fluorite Water
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Calcium Sulfate Solution
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Sodium Fluoride Solution
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Potassium Fluoride Solution
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Sodium Hydroxide Solution
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Potassium Hydroxide Solution
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Borax Solution
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Corium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Chocolate Liquor
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Cocoa Butter
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Unsweetened Chocolate
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Dark Chocolate
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Milk Chocolate
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Sugar
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Gelatin
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Hydrated Gelatin
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Liquid Marshmallow
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Lithium Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Beryllium Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Sodium Hydroxide
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Potassium Hydroxide
+aeadditions:pattern.fluid:0, ME Fluid Pattern: High Pressure Steam
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Exhaust Steam
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Low Pressure Steam
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Low Quality Steam
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Preheated Water
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Condensate Water
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Sodium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Potassium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Eutectic NaK Alloy
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Hot Eutectic NaK Alloy
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Boron Arsenide
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Silicon Carbide Vapor
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Alugentum
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Alumina
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Thorium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Thorium Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Thorium Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Uranium Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Uranium Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Plutonium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Plutonium Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Plutonium Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Thorium-230
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Thorium-230 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Thorium-230 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Uranium-233
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Uranium-233 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Uranium-233 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Uranium-235
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Uranium-235 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Uranium-235 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Uranium-238
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Uranium-238 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Uranium-238 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Neptunium-236
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Neptunium-236 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Neptunium-236 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Neptunium-237
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Neptunium-237 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Neptunium-237 
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Plutonium-238
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Plutonium-238 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Plutonium-238 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Plutonium-239
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Plutonium-239 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Plutonium-239 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Plutonium-241
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Plutonium-241 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Plutonium-241 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Plutonium-242
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Plutonium-242 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Plutonium-242 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Americium-241
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Americium-241 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Americium-241 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Americium-242
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Americium-242 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Americium-242 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Americium-243
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Americium-243 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Americium-243 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Curium-243
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Curium-243 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Curium-243 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Curium-245
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Curium-245 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Curium-245 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Curium-246
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Curium-246 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Curium-246 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Curium-247
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Curium-247 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Curium-247 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Berkelium-247
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Berkelium-247 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Berkelium-247 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Berkelium-248
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Berkelium-248 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Berkelium-248 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Californium-249
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Californium-249 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Californium-249 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Californium-250
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Californium-250 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Californium-250 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Californium-251
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Californium-251 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Californium-251 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Californium-252
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Californium-252 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Californium-252 Fluoride
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten TBU Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten TBU Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of TBU Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LEU-233 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LEU-233 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of LEU-233 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HEU-233 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HEU-233 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of HEU-233 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LEU-235 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LEU-235 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of LEU-235 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HEU-235 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HEU-235 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of HEU-235 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LEN-236 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LEN-236 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of LEN-236 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HEN-236 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HEN-236 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of HEN-236 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LEP-239 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LEP-239 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of LEP-239 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HEP-239 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HEP-239 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of HEP-239 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LEP-241 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LEP-241 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of LEP-241 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HEP-241 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HEP-241 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of HEP-241 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LEA-242 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LEA-242 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of LEA-242 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HEA-242 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HEA-242 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of HEA-242 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LECm-243 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LECm-243 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of LECm-243 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HECm-243 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HECm-243 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of HECm-243 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LECm-245 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LECm-245 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of LECm-245 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HECm-245 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HECm-245 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of HECm-245 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LECm-247 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LECm-247 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of LECm-247 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HECm-247 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HECm-247 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of HECm-247 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LEB-248 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LEB-248 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of LEB-248 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HEB-248 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HEB-248 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of HEB-248 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LECf-249 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LECf-249 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of LECf-249 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HECf-249 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HECf-249 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of HECf-249 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LECf-251 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten LECf-251 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of LECf-251 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HECf-251 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten HECf-251 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of HECf-251 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted TBU Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted TBU Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted TBU Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LEU-233 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LEU-233 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted LEU-233 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HEU-233 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HEU-233 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted HEU-233 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LEU-235 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LEU-235 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted LEU-235 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HEU-235 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HEU-235 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted HEU-235 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LEN-236 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LEN-236 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted LEN-236 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HEN-236 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HEN-236 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted HEN-236 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LEP-239 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LEP-239 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted LEP-239 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HEP-239 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HEP-239 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted HEP-239 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LEP-241 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LEP-241 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted LEP-241 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HEP-241 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HEP-241 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted HEP-241 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LEA-242 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LEA-242 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted LEA-242 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HEA-242 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HEA-242 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted HEA-242 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LECm-243 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LECm-243 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted LECm-243 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HECm-243 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HECm-243 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted HECm-243 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LECm-245 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LECm-245 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted LECm-245 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HECm-245 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HECm-245 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted HECm-245 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LECm-247 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LECm-247 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted LECm-247 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HECm-247 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HECm-247 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted HECm-247 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LEB-248 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LEB-248 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted LEB-248 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HEB-248 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HEB-248 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted HEB-248 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LECf-249 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LECf-249 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted LECf-249 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HECf-249 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HECf-249 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted HECf-249 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LECf-251 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted LECf-251 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted LECf-251 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HECf-251 Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Depleted HECf-251 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten FLiBe Salt Solution of Depleted HECf-251 Fluoride Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Eutectic NaK-Redstone Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Hot Eutectic NaK-Redstone Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Quartz
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Eutectic NaK-Quartz Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Hot Eutectic NaK-Quartz Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Eutectic NaK-Gold Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Hot Eutectic NaK-Gold Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Eutectic NaK-Glowstone Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Hot Eutectic NaK-Glowstone Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Lapis
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Eutectic NaK-Lapis Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Hot Eutectic NaK-Lapis Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Diamond
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Eutectic NaK-Diamond Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Hot Eutectic NaK-Diamond Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Eutectic NaK-Helium Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Hot Eutectic NaK-Helium Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Eutectic NaK-Ender Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Hot Eutectic NaK-Ender Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Eutectic NaK-Cryotheum Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Hot Eutectic NaK-Cryotheum Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Eutectic NaK-Iron Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Hot Eutectic NaK-Iron Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Emerald
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Eutectic NaK-Emerald Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Hot Eutectic NaK-Emerald Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Eutectic NaK-Copper Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Hot Eutectic NaK-Copper Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Eutectic NaK-Tin Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Hot Eutectic NaK-Tin Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Magnesium
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Eutectic NaK-Magnesium Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Hot Eutectic NaK-Magnesium Mixture
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Nutrient Distillation
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Dew of the Void
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Vapor of Levity
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Hootch
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Rocket Fuel
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Fire Water
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Liquid XP
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Liquid Sunshine
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Cloud Seed
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Concentrated Cloud Seed
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Flux Goo
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Liquid Death
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Purifying Fluid
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Seared Stone
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Obsidian
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Clay
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Liquid Dirt
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Molten Glass
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Blood
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Liquid Blue Slime
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Liquid Purple Slime
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Life Essence
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Demonic Will
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Corrosive Demonic Will
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Destructive Demonic Will
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Vengeful Demonic Will
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Steadfast Demonic Will
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Blood-Infused Stone
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Liquid Starlight
+aeadditions:terminal.fluid.wireless, item.com.the9grounds.aeadditions.terminal.fluid.wireless.name
+aeadditions:storage.component:0, 256k ME Storage Component
+aeadditions:storage.component:1, 1024k ME Storage Component
+aeadditions:storage.component:2, 4096k ME Storage Component
+aeadditions:storage.component:3, 16384k ME Storage Component
+aeadditions:storage.component:4, 256k ME Fluid Storage Component
+aeadditions:storage.component:5, 1024k ME Fluid Storage Component
+aeadditions:storage.component:6, 4096k ME Fluid Storage Component
+aeadditions:storage.casing:0, Advanced Storage Housing
+aeadditions:storage.casing:1, Fluid Storage Housing
+aeadditions:fluid.item, item.com.the9grounds.aeadditions.fluid.item.name
+aeadditions:storage.fluid.portable:0, ME Portable Fluid Storage
+aeadditions:storage.fluid.portable:0, ME Portable Fluid Storage
+aeadditions:pattern.crafting, item.com.the9grounds.aeadditions.pattern.crafting.name
+aeadditions:terminal.universal.wireless, item.com.the9grounds.aeadditions.terminal.universal.wireless.name
+aeadditions:certustank, com.the9grounds.aeadditions.block.certustank.name
+aeadditions:fluidcrafter, ME Fluid Assembler
+aeadditions:fluidfiller, ME Fluid Auto Filler
+aeadditions:hardmedrive, Blast resistant ME Drive
+aeadditions:vibrantchamberfluid, Fluid Vibration Chamber
+aeadditions:gas_interface, ME Gas Interface
 aquaculture:fishing_rod, Wooden Fishing Rod
 aquaculture:iron_fishing_rod, Iron Fishing Rod
 aquaculture:gold_fishing_rod, Golden Fishing Rod
@@ -4717,40 +5229,6 @@ appliedenergistics2:part:33, ME Covered Cable - Green
 appliedenergistics2:part:34, ME Covered Cable - Red
 appliedenergistics2:part:35, ME Covered Cable - Black
 appliedenergistics2:part:36, ME Covered Cable - Fluix
-appliedenergistics2:part:500, ME Dense Covered Cable - White
-appliedenergistics2:part:501, ME Dense Covered Cable - Orange
-appliedenergistics2:part:502, ME Dense Covered Cable - Magenta
-appliedenergistics2:part:503, ME Dense Covered Cable - Light Blue
-appliedenergistics2:part:504, ME Dense Covered Cable - Yellow
-appliedenergistics2:part:505, ME Dense Covered Cable - Lime
-appliedenergistics2:part:506, ME Dense Covered Cable - Pink
-appliedenergistics2:part:507, ME Dense Covered Cable - Gray
-appliedenergistics2:part:508, ME Dense Covered Cable - Light Gray
-appliedenergistics2:part:509, ME Dense Covered Cable - Cyan
-appliedenergistics2:part:510, ME Dense Covered Cable - Purple
-appliedenergistics2:part:511, ME Dense Covered Cable - Blue
-appliedenergistics2:part:512, ME Dense Covered Cable - Brown
-appliedenergistics2:part:513, ME Dense Covered Cable - Green
-appliedenergistics2:part:514, ME Dense Covered Cable - Red
-appliedenergistics2:part:515, ME Dense Covered Cable - Black
-appliedenergistics2:part:516, ME Dense Covered Cable - Fluix
-appliedenergistics2:part:60, ME Dense Smart Cable - White
-appliedenergistics2:part:61, ME Dense Smart Cable - Orange
-appliedenergistics2:part:62, ME Dense Smart Cable - Magenta
-appliedenergistics2:part:63, ME Dense Smart Cable - Light Blue
-appliedenergistics2:part:64, ME Dense Smart Cable - Yellow
-appliedenergistics2:part:65, ME Dense Smart Cable - Lime
-appliedenergistics2:part:66, ME Dense Smart Cable - Pink
-appliedenergistics2:part:67, ME Dense Smart Cable - Gray
-appliedenergistics2:part:68, ME Dense Smart Cable - Light Gray
-appliedenergistics2:part:69, ME Dense Smart Cable - Cyan
-appliedenergistics2:part:70, ME Dense Smart Cable - Purple
-appliedenergistics2:part:71, ME Dense Smart Cable - Blue
-appliedenergistics2:part:72, ME Dense Smart Cable - Brown
-appliedenergistics2:part:73, ME Dense Smart Cable - Green
-appliedenergistics2:part:74, ME Dense Smart Cable - Red
-appliedenergistics2:part:75, ME Dense Smart Cable - Black
-appliedenergistics2:part:76, ME Dense Smart Cable - Fluix
 appliedenergistics2:part:0, ME Glass Cable - White
 appliedenergistics2:part:1, ME Glass Cable - Orange
 appliedenergistics2:part:2, ME Glass Cable - Magenta
@@ -6358,35 +6836,35 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
 tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Large Plate Pattern
 tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Sledge Hammer Head Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
 tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Tough Binding Pattern
 tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
 tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Sledge Hammer Head Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Hammer Head Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -8077,66 +8555,66 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Large Plate Cast
 tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Sledge Hammer Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Tough Tool Rod Cast
 tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Tough Binding Cast
 tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Sledge Hammer Head Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Hammer Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
 tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Sledge Hammer Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
 tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
 tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Sledge Hammer Head Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -9463,12 +9941,8 @@ deepmoblearning:data_model_wither, item.deepmoblearning.data_model_wither.name
 deepmoblearning:data_model_wither_skeleton, item.deepmoblearning.data_model_wither_skeleton.name
 deepmoblearning:data_model_zombie, item.deepmoblearning.data_model_zombie.name
 deepmoblearning:data_model_thermal_elemental, item.deepmoblearning.data_model_thermal_elemental.name
-deepmoblearning:data_model_twilight_forest, item.deepmoblearning.data_model_twilight_forest.name
-deepmoblearning:data_model_twilight_swamp, item.deepmoblearning.data_model_twilight_swamp.name
-deepmoblearning:data_model_twilight_glacier, item.deepmoblearning.data_model_twilight_glacier.name
-deepmoblearning:data_model_twilight_darkwood, item.deepmoblearning.data_model_twilight_darkwood.name
+deepmoblearning:data_model_botania_gaia_guardian, item.deepmoblearning.data_model_botania_gaia_guardian.name
 deepmoblearning:data_model_tinker_slime, item.deepmoblearning.data_model_tinker_slime.name
-deepmoblearning:data_model_mo_android, item.deepmoblearning.data_model_mo_android.name
 deepmoblearning:pristine_matter_blaze, item.deepmoblearning.pristine_matter_blaze.name
 deepmoblearning:pristine_matter_creeper, item.deepmoblearning.pristine_matter_creeper.name
 deepmoblearning:pristine_matter_dragon, item.deepmoblearning.pristine_matter_dragon.name
@@ -9484,12 +9958,8 @@ deepmoblearning:pristine_matter_wither, item.deepmoblearning.pristine_matter_wit
 deepmoblearning:pristine_matter_wither_skeleton, item.deepmoblearning.pristine_matter_wither_skeleton.name
 deepmoblearning:pristine_matter_zombie, item.deepmoblearning.pristine_matter_zombie.name
 deepmoblearning:pristine_matter_thermal_elemental, item.deepmoblearning.pristine_matter_thermal_elemental.name
-deepmoblearning:pristine_matter_twilight_forest, item.deepmoblearning.pristine_matter_twilight_forest.name
-deepmoblearning:pristine_matter_twilight_swamp, item.deepmoblearning.pristine_matter_twilight_swamp.name
-deepmoblearning:pristine_matter_twilight_glacier, item.deepmoblearning.pristine_matter_twilight_glacier.name
-deepmoblearning:pristine_matter_twilight_darkwood, item.deepmoblearning.pristine_matter_twilight_darkwood.name
+deepmoblearning:pristine_matter_botania_gaia_guardian, item.deepmoblearning.pristine_matter_botania_gaia_guardian.name
 deepmoblearning:pristine_matter_tinker_slime, item.deepmoblearning.pristine_matter_tinker_slime.name
-deepmoblearning:pristine_matter_mo_android, item.deepmoblearning.pristine_matter_mo_android.name
 deepmoblearning:infused_ingot_block, Glitch Infused Block
 deepmoblearning:machine_casing, Soot-covered Machine Casing
 deepmoblearning:simulation_chamber, Simulation Chamber
@@ -10275,19 +10745,6 @@ ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
 ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 kubejs:steel_beam, Steel Beam
 kubejs:knowledge, Knowledge Points
-mob_grinding_utils:fan, Mob Fan
-mob_grinding_utils:saw, Mob Masher
-mob_grinding_utils:absorption_hopper, Absorption Hopper
-mob_grinding_utils:spikes, Iron Spikes
-mob_grinding_utils:tank, Singularity Tank
-mob_grinding_utils:tank_sink, XP Drain Singularity Tank
-mob_grinding_utils:xp_tap, XP Tap
-mob_grinding_utils:wither_muffler, Wither Boss Death Muffler
-mob_grinding_utils:dragon_muffler, Ender Dragon Death Muffler
-mob_grinding_utils:dark_oak_stone, Dark Oak Stone
-mob_grinding_utils:entity_conveyor, Entity Conveyor
-mob_grinding_utils:ender_inhibitor_on, Ender Inhibitor Active
-mob_grinding_utils:ender_inhibitor_off, Ender Inhibitor Inactive
 mob_grinding_utils:fan_upgrade:0, Mob Fan Upgrade
 mob_grinding_utils:fan_upgrade:1, Mob Fan Upgrade
 mob_grinding_utils:fan_upgrade:2, Mob Fan Upgrade
@@ -10301,6 +10758,19 @@ mob_grinding_utils:saw_upgrade:5, Mob Masher Upgrade
 mob_grinding_utils:mob_swab, Mob Swab
 mob_grinding_utils:gm_chicken_feed, GM Chicken Feed
 mob_grinding_utils:null_sword, Imaginary Not Here Sword
+mob_grinding_utils:fan, Mob Fan
+mob_grinding_utils:saw, Mob Masher
+mob_grinding_utils:absorption_hopper, Absorption Hopper
+mob_grinding_utils:spikes, Iron Spikes
+mob_grinding_utils:tank, Singularity Tank
+mob_grinding_utils:tank_sink, XP Drain Singularity Tank
+mob_grinding_utils:xp_tap, XP Tap
+mob_grinding_utils:wither_muffler, Wither Boss Death Muffler
+mob_grinding_utils:dragon_muffler, Ender Dragon Death Muffler
+mob_grinding_utils:dark_oak_stone, Dark Oak Stone
+mob_grinding_utils:entity_conveyor, Entity Conveyor
+mob_grinding_utils:ender_inhibitor_on, Ender Inhibitor Active
+mob_grinding_utils:ender_inhibitor_off, Ender Inhibitor Inactive
 modulardiversity:blockmanainputhatch, Mana Input Hatch
 modulardiversity:blockmanaoutputhatch, Mana Output Hatch
 modulardiversity:blockjackhatch, Pumpjack Hatch
@@ -10976,8 +11446,6 @@ storagedrawers:shroud_key, Concealment Key
 storagedrawers:personal_key, Personal Key
 storagedrawers:quantify_key, Quantify Key
 storagedrawers:tape, Packing Tape
-thaumicenergistics:infusion_provider, Essentia Infusion Provider
-thaumicenergistics:arcane_assembler, Arcane Assembler
 thaumicenergistics:essentia_cell_1k, 1k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_4k, 4k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_16k, 16k ME Essentia Storage Cell
@@ -10999,12 +11467,22 @@ thaumicenergistics:upgrade_arcane, Arcane Charging Upgrade
 thaumicenergistics:knowledge_core, Knowledge Core
 thaumicenergistics:blank_knowledge_core, Blank Knowledge Core
 thaumicenergistics:dummy_aspect, item.thaumicenergistics.dummy_aspect.name
+thaumicenergistics:infusion_provider, Essentia Infusion Provider
+thaumicenergistics:arcane_assembler, Arcane Assembler
 thaumicperiphery:caster_elementium, Elementium Caster's Gauntlet
 thaumicperiphery:pauldron, Pauldron
 thaumicperiphery:pauldron_repulsion, Pauldron of Repulsion
 thaumicperiphery:malignant_heart, Malignant Heart
 thaumicperiphery:magic_quiver, Conjurer's Quiver
 thaumicperiphery:vis_phylactery, Vis Phylactery
+thaumictinkerer:share_book, Tome of Knowledge Sharing
+thaumictinkerer:black_quartz, Smokey Quartz
+thaumictinkerer:connector, Transvector Binder
+thaumictinkerer:soul_mould, Soul Mould
+thaumictinkerer:energetic_nitor, Energetic Nitor
+thaumictinkerer:spellbinding_cloth, Spellbinding Cloth
+thaumictinkerer:blood_sword, Cursed Spirit's Blade
+thaumictinkerer:mob_aspect, item.thaumictinkerer:mob_aspect.name
 thaumictinkerer:funnel, Essentia Funnel
 thaumictinkerer:dissimulation, Dissimulation Block
 thaumictinkerer:transvector_interface, Transvector Interface
@@ -11017,14 +11495,6 @@ thaumictinkerer:enchantment_pillar, Enchanting Pillar
 thaumictinkerer:animation_tablet, Dynamism Tablet
 thaumictinkerer:black_quartz_block, Black Quartz Block
 thaumictinkerer:dummy_nitor, tile.thaumictinkerer:dummy_nitor.name
-thaumictinkerer:share_book, Tome of Knowledge Sharing
-thaumictinkerer:black_quartz, Smokey Quartz
-thaumictinkerer:connector, Transvector Binder
-thaumictinkerer:soul_mould, Soul Mould
-thaumictinkerer:energetic_nitor, Energetic Nitor
-thaumictinkerer:spellbinding_cloth, Spellbinding Cloth
-thaumictinkerer:blood_sword, Cursed Spirit's Blade
-thaumictinkerer:mob_aspect, item.thaumictinkerer:mob_aspect.name
 tcomplement:sledge_head:0, Electrical Sledge Hammer Head
 tcomplement:sledge_head:0, Energetic Sledge Hammer Head
 tcomplement:sledge_head:0, Vibrant Sledge Hammer Head
@@ -11414,6 +11884,29 @@ chancecubes:cube_dispenser, Chance Cube Dispenser
 chancecubes:scanner, Chance Cube Scanner
 contenttweaker:nutrient_pulp, Nutrient Pulp
 contenttweaker:nutrient_bar, Nutrient Bar
+contenttweaker:universal_points, Universal Points
+contenttweaker:essence_botania, Botania Essence
+contenttweaker:essence_enderio, Ender IO Essence
+contenttweaker:essence_bloodmagic, Bloodmagic Essence
+contenttweaker:essence_astralsorcery, Astral Sorcery Essence
+contenttweaker:essence_apotheosis, Apotheosis Essence
+contenttweaker:essence_appliedenergistics, Applied Energistics Essence
+contenttweaker:essence_agricraft, Agricraft Essence
+contenttweaker:essence_aquaculture, Aquaculture Essence
+contenttweaker:essence_industrialforegoing, Industrial Foregoing Essence
+contenttweaker:essence_mysticalagriculture, Mystical Agriculture Essence
+contenttweaker:essence_solarfluxreborn, Solarflux Reborn Essence
+contenttweaker:essence_thaumcraft, Thaumcraft Essence
+contenttweaker:essence_nuclearcraft, Nuclearcraft Essence
+contenttweaker:essence_deepmoblearning, Deep Mob Learning Essence
+contenttweaker:mod_star, Mod Essence Star
+contenttweaker:crystal_inferium, Inferium Crystal
+contenttweaker:crystal_prudentium, Prudentium Crystal
+contenttweaker:crystal_intermedium, Intermedium Crystal
+contenttweaker:crystal_superium, Superium Crystal
+contenttweaker:crystal_soulless_superium, Soulless Superium Crystal
+contenttweaker:crystal_supremium, Supremium Crystal
+contenttweaker:multigem, Multigem
 patchouli:guide_book, Guide Book
 industrialforegoing:petrified_fuel_generator, Petrified Fuel Generator
 industrialforegoing:enchantment_refiner, Enchantment Sorter

@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:quicksilver_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "851355fc",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

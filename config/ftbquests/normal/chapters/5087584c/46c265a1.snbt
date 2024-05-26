@@ -10,5 +10,10 @@
 		items: [{
 			item: "nuclearcraft:melter_idle"
 		}]
+	}],
+	rewards: [{
+		uid: "f4519d21",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

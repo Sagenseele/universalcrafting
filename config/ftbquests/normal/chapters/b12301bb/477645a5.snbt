@@ -10,5 +10,10 @@
 		items: [{
 			item: "deepmoblearning:simulation_chamber"
 		}]
+	}],
+	rewards: [{
+		uid: "2f189c8f",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

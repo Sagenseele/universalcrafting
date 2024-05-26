@@ -22,5 +22,11 @@
 		match_type: "block_id",
 		match: "astralsorcery:blockcollectorcrystal",
 		timer: 0L
+	}],
+	rewards: [{
+		uid: "a858acd9",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 2
 	}]
 }

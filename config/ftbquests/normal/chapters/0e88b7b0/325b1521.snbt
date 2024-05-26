@@ -1,0 +1,45 @@
+{
+	title: "Step Assist Totem",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "everlastingabilities:ability_totem",
+		tag: {
+			"everlastingabilities:abilityStoreStack": [{
+				level: 1,
+				name: "ability.abilities.everlastingabilities.step_assist.name"
+			}]
+		}
+	},
+	x: 0.0d,
+	y: 3.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "20d61454",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "contenttweaker:universal_points"
+		}],
+		count: 15L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "7067d663",
+		type: "item",
+		team_reward: false,
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "everlastingabilities:ability_totem",
+			tag: {
+				"everlastingabilities:abilityStoreStack": [{
+					level: 1,
+					name: "ability.abilities.everlastingabilities.step_assist.name"
+				}]
+			}
+		}
+	}]
+}

@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:iridium_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "7e457d7b",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -9,5 +9,10 @@
 		items: [{
 			item: "randomthings:advanceditemcollector"
 		}]
+	}],
+	rewards: [{
+		uid: "197549d8",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:starmetal_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "ce337be5",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

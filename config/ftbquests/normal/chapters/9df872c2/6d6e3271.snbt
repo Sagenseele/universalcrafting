@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:spider_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "eead1567",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

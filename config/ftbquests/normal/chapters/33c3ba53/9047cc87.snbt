@@ -1,6 +1,6 @@
 {
 	x: 9.5d,
-	y: -1.5d,
+	y: -1.0892857142857153d,
 	shape: "octagon",
 	dependencies: [
 		"2d7a3938",
@@ -40,11 +40,18 @@
 		"ba905de9",
 		"cb3a8705"
 	],
+	size: 1.5d,
 	tasks: [{
 		uid: "032975fa",
 		type: "item",
 		items: [{
 			item: "extendedcrafting:singularity_ultimate"
 		}]
+	}],
+	rewards: [{
+		uid: "be2f271a",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 3
 	}]
 }

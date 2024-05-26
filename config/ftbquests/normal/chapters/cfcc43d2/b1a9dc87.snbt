@@ -43,5 +43,10 @@
 			item: "bloodmagic:blood_rune 1 10"
 		}],
 		count: 8L
+	}],
+	rewards: [{
+		uid: "3fb86556",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

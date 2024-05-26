@@ -17,5 +17,10 @@
 				orb: "bloodmagic:magician"
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "03f096d6",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

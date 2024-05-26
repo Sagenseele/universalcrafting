@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:amber_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "97d4dd49",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

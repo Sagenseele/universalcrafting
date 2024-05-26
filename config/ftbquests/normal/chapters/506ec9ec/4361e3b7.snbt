@@ -1,0 +1,19 @@
+{
+	x: 7.0d,
+	y: -10.0d,
+	dependencies: [
+		"6c3e557a"
+	],
+	tasks: [{
+		uid: "07c8f9e6",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "1f064089",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

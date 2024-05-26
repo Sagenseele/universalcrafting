@@ -10,5 +10,10 @@
 		items: [{
 			item: "mysticalagriculture:energetic_alloy_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "e5333b8e",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

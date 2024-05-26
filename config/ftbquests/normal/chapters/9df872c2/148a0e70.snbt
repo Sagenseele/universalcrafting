@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:stone_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "9fbc11c2",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

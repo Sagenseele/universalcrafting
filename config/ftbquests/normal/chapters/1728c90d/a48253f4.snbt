@@ -11,5 +11,10 @@
 		items: [{
 			item: "cookingforblockheads:cow_jar"
 		}]
+	}],
+	rewards: [{
+		uid: "a80a5252",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

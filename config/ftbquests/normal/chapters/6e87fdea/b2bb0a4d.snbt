@@ -14,5 +14,10 @@
 			id: "storagenetwork:remote"
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "79aedf88",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:cobalt_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "561696d9",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

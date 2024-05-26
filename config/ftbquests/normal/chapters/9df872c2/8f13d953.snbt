@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:guardian_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "828a5410",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

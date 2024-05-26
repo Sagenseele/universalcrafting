@@ -8,5 +8,10 @@
 		items: [{
 			item: "mysticalagriculture:tier1_inferium_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "5de35107",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

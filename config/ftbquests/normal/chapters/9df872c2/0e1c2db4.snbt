@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:brass_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "9982e090",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

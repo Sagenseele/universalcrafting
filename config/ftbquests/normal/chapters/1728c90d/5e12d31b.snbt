@@ -12,5 +12,10 @@
 		items: [{
 			item: "cookingforblockheads:toaster"
 		}]
+	}],
+	rewards: [{
+		uid: "7c7c4c5a",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

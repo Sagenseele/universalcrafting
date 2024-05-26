@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:emerald_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "73064661",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:elementium_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "3cc2307c",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -10,5 +10,10 @@
 		items: [{
 			item: "storagedrawers:compdrawers"
 		}]
+	}],
+	rewards: [{
+		uid: "a3e2e982",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

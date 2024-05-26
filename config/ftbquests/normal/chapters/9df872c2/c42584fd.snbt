@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:enderman_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "27683004",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

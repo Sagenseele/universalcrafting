@@ -1,6 +1,6 @@
 {
-	x: 5.0d,
-	y: -4.982142857142858d,
+	x: 4.0d,
+	y: -2.5d,
 	dependencies: [
 		"f0aa0789"
 	],
@@ -10,5 +10,10 @@
 		items: [{
 			item: "thaumicenergistics:infusion_provider"
 		}]
+	}],
+	rewards: [{
+		uid: "52ef028f",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

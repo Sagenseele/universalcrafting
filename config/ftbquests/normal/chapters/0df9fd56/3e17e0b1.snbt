@@ -11,5 +11,10 @@
 		items: [{
 			item: "furnaceoverhaul:diamond_furnace"
 		}]
+	}],
+	rewards: [{
+		uid: "a69ef32a",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

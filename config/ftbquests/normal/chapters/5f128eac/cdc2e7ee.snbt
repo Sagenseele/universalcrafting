@@ -13,5 +13,10 @@
 		items: [{
 			item: "thaumcraft:table_wood"
 		}]
+	}],
+	rewards: [{
+		uid: "5331bbf4",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

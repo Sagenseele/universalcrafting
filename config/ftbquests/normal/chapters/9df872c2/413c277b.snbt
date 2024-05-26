@@ -1,0 +1,19 @@
+{
+	x: -3.5d,
+	y: -1.5d,
+	dependencies: [
+		"0b9a51a1"
+	],
+	tasks: [{
+		uid: "b98571e6",
+		type: "item",
+		items: [{
+			item: "contenttweaker:crystal_prudentium"
+		}]
+	}],
+	rewards: [{
+		uid: "8d27f51f",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

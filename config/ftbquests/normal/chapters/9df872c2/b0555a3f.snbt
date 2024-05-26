@@ -11,5 +11,11 @@
 		items: [{
 			item: "mysticalagradditions:insanium 1 1"
 		}]
+	}],
+	rewards: [{
+		uid: "b6e8a4fa",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 2
 	}]
 }

@@ -11,5 +11,10 @@
 		items: [{
 			item: "nuclearcraft:part 1 1"
 		}]
+	}],
+	rewards: [{
+		uid: "0e84e4c4",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

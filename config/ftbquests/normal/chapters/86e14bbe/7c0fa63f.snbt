@@ -22,5 +22,10 @@
 				}
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "ffb7b3ec",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -1,0 +1,19 @@
+{
+	x: 6.5d,
+	y: 1.5d,
+	dependencies: [
+		"396b143b"
+	],
+	tasks: [{
+		uid: "9eeecc2f",
+		type: "item",
+		items: [{
+			item: "thaumcraft:smelter_thaumium"
+		}]
+	}],
+	rewards: [{
+		uid: "c67412ae",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

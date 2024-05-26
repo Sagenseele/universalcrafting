@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:silver_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "b0f1618b",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

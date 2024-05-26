@@ -18,5 +18,10 @@
 			id: "astralsorcery:blockaltar"
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a93aca6e",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

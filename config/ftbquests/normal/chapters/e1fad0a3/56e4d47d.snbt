@@ -2,7 +2,7 @@
 	x: 2.5d,
 	y: 0.0d,
 	dependencies: [
-		"48203ba1"
+		"5d08ecef"
 	],
 	tasks: [{
 		uid: "70530c6e",
@@ -10,5 +10,10 @@
 		items: [{
 			item: "woot:stygianironingot"
 		}]
+	}],
+	rewards: [{
+		uid: "45b24d33",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

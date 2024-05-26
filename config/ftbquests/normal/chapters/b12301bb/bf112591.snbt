@@ -26,5 +26,10 @@
 				"patchouli:book": "deepmoblearning:book"
 			}
 		}
+	},
+	{
+		uid: "b11f4ea8",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

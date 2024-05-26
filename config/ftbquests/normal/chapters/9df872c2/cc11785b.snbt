@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:ardite_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "ea397abd",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

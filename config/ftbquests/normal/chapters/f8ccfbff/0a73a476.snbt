@@ -1,6 +1,6 @@
 {
-	x: 4.0d,
-	y: -2.9821428571428577d,
+	x: 3.0d,
+	y: -2.5d,
 	dependencies: [
 		"f93de7d7"
 	],
@@ -10,5 +10,10 @@
 		items: [{
 			item: "thaumicenergistics:arcane_terminal"
 		}]
+	}],
+	rewards: [{
+		uid: "b42bdc5e",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

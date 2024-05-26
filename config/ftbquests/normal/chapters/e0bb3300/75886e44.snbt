@@ -1,6 +1,9 @@
 {
-	x: 0.5d,
+	icon: "kubejs:knowledge",
+	disable_toast: true,
+	x: -0.5d,
 	y: 1.0d,
+	description: "Automation Science Pack",
 	text: [
 		"Use the Research Lab, where new mods and items can be unlocked."
 	],
@@ -9,5 +12,10 @@
 		type: "checkmark",
 		title: "Research Lab",
 		disable_toast: true
+	}],
+	rewards: [{
+		uid: "d47e8805",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

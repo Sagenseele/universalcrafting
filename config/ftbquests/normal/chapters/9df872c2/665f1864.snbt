@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:pulsating_iron_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "da950aac",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

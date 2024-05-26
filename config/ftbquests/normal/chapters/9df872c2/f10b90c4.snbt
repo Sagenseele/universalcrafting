@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:aquamarine_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "06957b73",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

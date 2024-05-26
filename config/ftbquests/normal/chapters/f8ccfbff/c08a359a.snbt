@@ -1,7 +1,7 @@
 {
-	title: "Shiny Quartz make Ape Brain happy",
 	x: 0.5d,
 	y: -1.5d,
+	description: "Shiny Quartz make Ape Brain happy",
 	dependency_requirement: "one_completed",
 	tasks: [{
 		uid: "02531367",
@@ -10,5 +10,10 @@
 		items: [{
 			item: "appliedenergistics2:material 1 1"
 		}]
+	}],
+	rewards: [{
+		uid: "ec5f6acc",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

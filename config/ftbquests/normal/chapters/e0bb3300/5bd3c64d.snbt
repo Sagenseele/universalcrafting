@@ -1,4 +1,6 @@
 {
+	icon: "minecraft:apple",
+	disable_toast: true,
 	x: 0.0d,
 	y: 0.0d,
 	description: "Readme",
@@ -15,5 +17,10 @@
 		uid: "3cb57ec0",
 		type: "checkmark",
 		title: "Welcome"
+	}],
+	rewards: [{
+		uid: "4ddefe71",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:sheep_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "d122a1a3",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

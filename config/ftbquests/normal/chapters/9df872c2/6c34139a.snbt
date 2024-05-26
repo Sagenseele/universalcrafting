@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:soularium_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "e94a20a2",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

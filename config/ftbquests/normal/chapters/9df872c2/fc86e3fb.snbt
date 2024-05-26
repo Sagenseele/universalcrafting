@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:diamond_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "a22c8db6",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

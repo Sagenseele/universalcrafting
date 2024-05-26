@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:dirt_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "14312e18",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

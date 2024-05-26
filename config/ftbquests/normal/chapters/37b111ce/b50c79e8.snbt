@@ -10,5 +10,10 @@
 		items: [{
 			item: "enderio:item_material"
 		}]
+	}],
+	rewards: [{
+		uid: "081d0613",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -20,5 +20,11 @@
 		type: "gamestage",
 		auto: "no_toast",
 		stage: "aquaculture2"
+	},
+	{
+		uid: "3f676195",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 10
 	}]
 }

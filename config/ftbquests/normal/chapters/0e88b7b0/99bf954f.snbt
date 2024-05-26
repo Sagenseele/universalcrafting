@@ -1,0 +1,45 @@
+{
+	title: "Absorbtion Totem",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "everlastingabilities:ability_totem",
+		tag: {
+			"everlastingabilities:abilityStoreStack": [{
+				level: 1,
+				name: "ability.abilities.everlastingabilities.absorbtion.name"
+			}]
+		}
+	},
+	x: 0.0d,
+	y: 1.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "5719f955",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "contenttweaker:universal_points"
+		}],
+		count: 45L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "e14ec9d5",
+		type: "item",
+		team_reward: false,
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "everlastingabilities:ability_totem",
+			tag: {
+				"everlastingabilities:abilityStoreStack": [{
+					level: 1,
+					name: "ability.abilities.everlastingabilities.absorbtion.name"
+				}]
+			}
+		}
+	}]
+}

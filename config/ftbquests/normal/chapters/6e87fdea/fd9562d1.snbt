@@ -7,5 +7,10 @@
 		items: [{
 			item: "storagenetwork:master"
 		}]
+	}],
+	rewards: [{
+		uid: "eab31817",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

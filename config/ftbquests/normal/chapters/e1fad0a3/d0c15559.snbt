@@ -1,4 +1,5 @@
 {
+	icon: "woot:anvil",
 	x: 0.0d,
 	y: 0.5d,
 	dependencies: [
@@ -10,5 +11,17 @@
 		items: [{
 			item: "woot:anvil"
 		}]
+	},
+	{
+		uid: "bf2a8d56",
+		type: "item",
+		items: [{
+			item: "minecraft:magma"
+		}]
+	}],
+	rewards: [{
+		uid: "abb927a5",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:knightslime_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "742d2852",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

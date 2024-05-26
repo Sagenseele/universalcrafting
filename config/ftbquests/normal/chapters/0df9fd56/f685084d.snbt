@@ -11,5 +11,11 @@
 		disable_toast: true,
 		entity: "minecraft:wither",
 		value: 1L
+	}],
+	rewards: [{
+		uid: "38161c9c",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 2
 	}]
 }

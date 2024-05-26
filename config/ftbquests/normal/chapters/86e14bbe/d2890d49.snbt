@@ -1,9 +1,10 @@
 {
-	x: -1.5d,
-	y: 1.5d,
+	x: -3.0d,
+	y: -1.0d,
 	tasks: [{
 		uid: "391ede75",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
@@ -22,5 +23,10 @@
 			}
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d0103aa7",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:aluminum_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "7361ccb1",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

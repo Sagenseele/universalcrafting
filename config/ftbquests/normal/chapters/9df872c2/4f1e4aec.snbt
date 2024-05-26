@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:boron_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "4662e4eb",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

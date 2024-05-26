@@ -10,5 +10,10 @@
 		items: [{
 			item: "teslacorelib:machine_case"
 		}]
+	}],
+	rewards: [{
+		uid: "89086d64",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

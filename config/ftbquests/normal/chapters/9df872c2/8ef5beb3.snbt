@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:ghast_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "06959283",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

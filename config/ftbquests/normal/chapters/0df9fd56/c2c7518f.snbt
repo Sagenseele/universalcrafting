@@ -1,0 +1,19 @@
+{
+	x: -0.5d,
+	y: 0.0d,
+	dependencies: [
+		"fb15e2f4"
+	],
+	tasks: [{
+		uid: "2b170875",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:cobblestone_generator_dense"
+		}]
+	}],
+	rewards: [{
+		uid: "3be7d82b",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

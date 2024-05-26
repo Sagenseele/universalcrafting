@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:thorium_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "dcdd0b4a",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

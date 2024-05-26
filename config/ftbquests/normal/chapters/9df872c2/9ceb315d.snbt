@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:blitz_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "c13099a6",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

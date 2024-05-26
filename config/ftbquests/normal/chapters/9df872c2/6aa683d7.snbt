@@ -11,5 +11,11 @@
 		items: [{
 			item: "mysticalagradditions:nether_star_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "370b6316",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 2
 	}]
 }

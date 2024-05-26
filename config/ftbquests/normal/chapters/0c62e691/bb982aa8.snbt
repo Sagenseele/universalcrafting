@@ -25,5 +25,10 @@
 			},
 			Damage: 4s
 		}]
+	}],
+	rewards: [{
+		uid: "6a8bb60a",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

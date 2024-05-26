@@ -35,5 +35,11 @@
 		items: [{
 			item: "cookingforblockheads:sink"
 		}]
+	}],
+	rewards: [{
+		uid: "3beba01b",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 2
 	}]
 }

@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:enderium_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "a0c17120",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

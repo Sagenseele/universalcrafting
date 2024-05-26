@@ -4,7 +4,8 @@
 	tasks: [{
 		uid: "fc3b4c07",
 		type: "forge_energy",
-		title: "2.50M Woot",
-		value: 2500000L
+		title: "25M Woot",
+		disable_toast: true,
+		value: 25000000L
 	}]
 }

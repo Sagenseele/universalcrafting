@@ -21,5 +21,10 @@
 				}
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "161e9124",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

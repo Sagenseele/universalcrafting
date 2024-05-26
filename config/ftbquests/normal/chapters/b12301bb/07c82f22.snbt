@@ -10,5 +10,10 @@
 		items: [{
 			item: "deepmoblearningbm:digital_will_injector"
 		}]
+	}],
+	rewards: [{
+		uid: "a9f66674",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

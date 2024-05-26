@@ -509,167 +509,31 @@
     }
   },
   {
-    "id": "twilight_forest",
-    "mod": "twilightforest",
-    "displayName": "Forest creature",
-    "livingMatter": "twilight",
-    "simulationRFCost": 256,
+    "id": "botania_gaia_guardian",
+    "mod": "botania",
+    "displayName": "Guardian of Gaia",
+    "livingMatter": "extraterrestrial",
+    "simulationRFCost":2048,
     "craftingIngredients": [
-      "twilightforest:firefly"
+      "botania:manaresource,1,14"
     ],
-    "extraTooltip": "Gain data by defeating non-vanilla mobs in the Naga Courtyard and Lich Tower.",
     "associatedMobs": [
-      "twilightforest:naga",
-      "twilightforest:lich_minion",
-      "twilightforest:lich",
-      "twilightforest:death_tome",
-      "twilightforest:swarm_spider"
+      "botania:doppleganger"
     ],
     "lootItems": [
-      "twilightforest:naga_scale,16",
-      "twilightforest:charm_of_life_1,2",
-      "twilightforest:charm_of_keeping_1,2",
-      "minecraft:paper,64",
-      "minecraft:book,32"
+      "botania:manaresource,4,5"
     ],
     "deepLearnerDisplay": {
-      "hearts": 0,
+      "hearts": 160,
       "mobTrivia": [
-        "Nagas, Liches and flying books.",
-        "What the hell have you walked into?"
+        "The unbeatable Guardian of the botanical Magic.",
+        "It does not want to be automated.",
+        "Perhaps the machinery went to far?"
       ],
-      "entity": "twilightforest:lich",
-      "entityScale": 35,
-      "entityOffsetX": 6,
-      "entityOffsetY": 12
-    }
-  },
-  {
-    "id": "twilight_swamp",
-    "mod": "twilightforest",
-    "displayName": "Swamp creature",
-    "livingMatter": "twilight",
-    "simulationRFCost": 256,
-    "craftingIngredients": [
-      "minecraft:waterlily"
-    ],
-    "extraTooltip": "Gain data by defeating non-vanilla mobs in the Swamp Labyrinth and Hydra Lair.",
-    "associatedMobs": [
-      "twilightforest:minotaur",
-      "twilightforest:minoshroom",
-      "twilightforest:maze_slime",
-      "twilightforest:fire_beetle",
-      "twilightforest:pinch_beetle",
-      "twilightforest:slime_beetle",
-      "twilightforest:hydra"
-    ],
-    "lootItems": [
-      "twilightforest:steeleaf_ingot,16",
-      "twilightforest:ironwood_raw,8",
-      "twilightforest:fiery_ingot,5",
-      "twilightforest:hydra_chop,16",
-      "minecraft:gold_ingot,22",
-      "minecraft:red_mushroom,32",
-      "minecraft:slime_ball,16"
-    ],
-    "deepLearnerDisplay": {
-      "hearts": 0,
-      "mobTrivia": [
-        "This realm sure could use some building regulations.",
-        "How are you even allowed to build a huge maze",
-        "in your basement!?"
-      ],
-      "entity": "minecraft:minotaur",
-      "entityHeldItem": "twilightforest:minotaur_axe",
-      "entityScale": 33,
-      "entityOffsetX": 6,
-      "entityOffsetY": 14
-    }
-  },
-  {
-    "id": "twilight_glacier",
-    "mod": "twilightforest",
-    "displayName": "Glacier inhabitant",
-    "livingMatter": "twilight",
-    "simulationRFCost": 256,
-    "craftingIngredients": [
-      "twilightforest:arctic_fur"
-    ],
-    "extraTooltip": "Gain data by defeating non-vanilla mobs in the Yeti Lair and Ice Tower.",
-    "associatedMobs": [
-      "twilightforest:yeti_alpha",
-      "twilightforest:yeti",
-      "twilightforest:winter_wolf",
-      "twilightforest:penguin",
-      "twilightforest:snow_guardian",
-      "twilightforest:stable_ice_core",
-      "twilightforest:unstable_ice_core",
-      "twilightforest:snow_queen"
-    ],
-    "lootItems": [
-      "twilightforest:arctic_fur,16",
-      "twilightforest:alpha_fur,8",
-      "minecraft:packed_ice,16",
-      "minecraft:feather,32",
-      "twilightforest:charm_of_life_2,1",
-      "twilightforest:charm_of_keeping_2,1"
-    ],
-    "deepLearnerDisplay": {
-      "hearts": 0,
-      "mobTrivia": [
-        "Here you'll find caves with ancient beasts",
-        "and Elsa's wicked distant cousin Aurora.",
-        "(Elsa might \"let it go\", but Aurora sure won't!)"
-      ],
-      "entity": "minecraft:snow_queen",
-      "entityScale": 33,
-      "entityOffsetX": 5,
-      "entityOffsetY": 13
-    }
-  },
-  {
-    "id": "twilight_darkwood",
-    "mod": "twilightforest",
-    "displayName": "Darkwood creature",
-    "livingMatter": "twilight",
-    "simulationRFCost": 256,
-    "craftingIngredients": [
-      "twilightforest:twilight_log"
-    ],
-    "extraTooltip": "Gain data by defeating non-vanilla mobs in the Goblin Knight Stronghold and Dark Tower.",
-    "associatedMobs": [
-      "twilightforest:redcap",
-      "twilightforest:blockchain_goblin",
-      "twilightforest:kobold",
-      "twilightforest:goblin_knight_lower",
-      "twilightforest:goblin_knight_upper",
-      "twilightforest:helmet_crab",
-      "twilightforest:knight_phantom",
-      "twilightforest:tower_ghast",
-      "twilightforest:tower_broodling",
-      "twilightforest:tower_golem",
-      "twilightforest:tower_termite",
-      "twilightforest:mini_ghast",
-      "twilightforest:ur_ghast"
-    ],
-    "lootItems": [
-      "twilightforest:armor_shard_cluster,5",
-      "twilightforest:carminite,16",
-      "minecraft:diamond_ore,3",
-      "minecraft:emerald_ore,2",
-      "minecraft:fish,32"
-    ],
-    "deepLearnerDisplay": {
-      "hearts": 0,
-      "mobTrivia": [
-        "Spooky scary strongholds send shivers down",
-        "your spine, the Ur-Ghast will shock your",
-        "soul and seal your doom tonight!"
-      ],
-      "entity": "twilightforest:ur_ghast",
-      "entityScale": 3,
-      "entityOffsetX": -3,
-      "entityOffsetY": -3
+      "entity": "botania:doppleganger",
+      "entityScale": 48,
+      "entityOffsetX": 10,
+      "entityOffsetY": 20
     }
   },
   {
@@ -703,39 +567,6 @@
       "entityScale": 60,
       "entityOffsetX": 10,
       "entityOffsetY": -16
-    }
-  },
-  {
-    "id": "mo_android",
-    "mod": "matteroverdrive",
-    "displayName": "Rogue Android",
-    "livingMatter": "overworldian",
-    "simulationRFCost": 256,
-    "craftingIngredients": [
-      "matteroverdrive:rogue_android_part,1,0",
-      "matteroverdrive:rogue_android_part,1,1",
-      "matteroverdrive:rogue_android_part,1,2",
-      "matteroverdrive:rogue_android_part,1,3"
-    ],
-    "associatedMobs": [
-      "matteroverdrive:ranged_rogue_android",
-      "matteroverdrive:rogue_android"
-    ],
-    "lootItems": [
-      "matteroverdrive:energy_pack,6",
-      "matteroverdrive:tritanium_ingot,4"
-    ],
-    "deepLearnerDisplay": {
-      "hearts": 10,
-      "mobTrivia": [
-        "It's not simply an android.",
-        "It's a life form, entirely unique.",
-        "Meep morp."
-      ],
-      "entity": "matteroverdrive:rogue_android",
-      "entityScale": 33,
-      "entityOffsetX": 4,
-      "entityOffsetY": 8
     }
   }
 ]

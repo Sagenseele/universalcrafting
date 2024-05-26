@@ -2,7 +2,8 @@
 	x: -1.5d,
 	y: -3.0d,
 	dependencies: [
-		"c7706940"
+		"c7706940",
+		"1ea14a64"
 	],
 	tasks: [{
 		uid: "6196790d",
@@ -10,5 +11,10 @@
 		items: [{
 			item: "appliedenergistics2:material 1 13"
 		}]
+	}],
+	rewards: [{
+		uid: "7dfd6176",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

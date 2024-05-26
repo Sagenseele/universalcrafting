@@ -8,5 +8,10 @@
 		items: [{
 			item: "extendedcrafting:table_basic"
 		}]
+	}],
+	rewards: [{
+		uid: "14bc5adb",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

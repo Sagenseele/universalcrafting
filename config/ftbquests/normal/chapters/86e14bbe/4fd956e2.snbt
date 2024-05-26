@@ -11,5 +11,10 @@
 		items: [{
 			item: "astralsorcery:blockattunementaltar"
 		}]
+	}],
+	rewards: [{
+		uid: "a9ae5378",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

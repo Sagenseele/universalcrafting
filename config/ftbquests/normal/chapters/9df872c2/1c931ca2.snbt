@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:iron_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "aa5e36eb",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

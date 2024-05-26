@@ -8,5 +8,10 @@
 		type: "dimension",
 		disable_toast: true,
 		dim: -1
+	}],
+	rewards: [{
+		uid: "5d92adf0",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:graphite_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "35bc6afc",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

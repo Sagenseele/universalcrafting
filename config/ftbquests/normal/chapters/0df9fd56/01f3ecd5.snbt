@@ -1,5 +1,5 @@
 {
-	x: 4.0d,
+	x: 5.5d,
 	y: -3.0d,
 	dependencies: [
 		"2ca328d2"
@@ -10,5 +10,10 @@
 		items: [{
 			item: "exnihilocreatio:item_mesh 1 4"
 		}]
+	}],
+	rewards: [{
+		uid: "08b62e77",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

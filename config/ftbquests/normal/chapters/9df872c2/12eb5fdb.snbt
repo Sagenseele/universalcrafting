@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:mithril_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "30f2e0da",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

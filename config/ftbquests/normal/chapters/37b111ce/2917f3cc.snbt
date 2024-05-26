@@ -11,5 +11,10 @@
 		items: [{
 			item: "immersiveengineering:metal_device1 1 7"
 		}]
+	}],
+	rewards: [{
+		uid: "56c3ce39",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

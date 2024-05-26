@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:manyullyn_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "307ecce0",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

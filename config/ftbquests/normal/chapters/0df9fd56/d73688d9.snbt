@@ -11,5 +11,10 @@
 		items: [{
 			item: "furnaceoverhaul:emerald_furnace"
 		}]
+	}],
+	rewards: [{
+		uid: "821c6ede",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

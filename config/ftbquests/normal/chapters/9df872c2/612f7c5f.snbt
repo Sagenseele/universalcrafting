@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:wither_skeleton_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "98c0bf8c",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

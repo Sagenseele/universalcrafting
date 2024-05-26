@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:copper_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "3436764c",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -8,5 +8,10 @@
 		items: [{
 			item: "furnaceoverhaul:iron_furnace"
 		}]
+	}],
+	rewards: [{
+		uid: "7e497a8d",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

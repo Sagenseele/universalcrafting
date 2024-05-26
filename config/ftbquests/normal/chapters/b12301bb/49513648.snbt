@@ -10,5 +10,10 @@
 		items: [{
 			item: "deepmoblearning:trial_keystone"
 		}]
+	}],
+	rewards: [{
+		uid: "69a60c90",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

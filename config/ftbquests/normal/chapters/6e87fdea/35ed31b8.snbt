@@ -10,5 +10,10 @@
 		items: [{
 			item: "storagedrawers:controller"
 		}]
+	}],
+	rewards: [{
+		uid: "17c5d674",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -1,6 +1,6 @@
 {
-	x: -3.5d,
-	y: -1.5d,
+	x: -4.0d,
+	y: -2.0d,
 	tasks: [{
 		uid: "e2f88285",
 		type: "item",
@@ -8,5 +8,10 @@
 		items: [{
 			item: "nuclearcraft:part"
 		}]
+	}],
+	rewards: [{
+		uid: "5863fed4",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

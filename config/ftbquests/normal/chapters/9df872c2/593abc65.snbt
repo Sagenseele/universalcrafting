@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:signalum_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "fe334c3a",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

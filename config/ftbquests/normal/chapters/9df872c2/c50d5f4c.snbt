@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:sulfur_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "21718e9d",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

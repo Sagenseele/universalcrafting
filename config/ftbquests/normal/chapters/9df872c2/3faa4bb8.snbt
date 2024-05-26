@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:conductive_iron_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "1a4dacfb",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

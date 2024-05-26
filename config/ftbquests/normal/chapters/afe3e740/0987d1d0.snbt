@@ -4,7 +4,8 @@
 	tasks: [{
 		uid: "b1f92da6",
 		type: "forge_energy",
+		title: "25K Bonsai Trees",
 		disable_toast: true,
-		value: 2500L
+		value: 25000L
 	}]
 }

@@ -11,5 +11,11 @@
 		items: [{
 			item: "mysticalagradditions:special"
 		}]
+	}],
+	rewards: [{
+		uid: "548b17a3",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 2
 	}]
 }

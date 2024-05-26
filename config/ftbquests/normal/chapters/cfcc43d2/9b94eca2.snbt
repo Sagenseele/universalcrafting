@@ -8,5 +8,10 @@
 			item: "bloodtinker:blood_bronze_ingot"
 		}],
 		count: 12L
+	}],
+	rewards: [{
+		uid: "62ccf806",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

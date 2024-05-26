@@ -10,5 +10,10 @@
 		items: [{
 			item: "thermalfoundation:upgrade 1 1"
 		}]
+	}],
+	rewards: [{
+		uid: "b622b694",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

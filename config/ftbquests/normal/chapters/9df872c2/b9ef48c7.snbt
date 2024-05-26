@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:saltpeter_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "9c49d468",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -7,5 +7,10 @@
 		items: [{
 			item: "harvestcraft:market"
 		}]
+	}],
+	rewards: [{
+		uid: "acc3676b",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

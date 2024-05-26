@@ -7,5 +7,10 @@
 		items: [{
 			item: "thermalexpansion:frame"
 		}]
+	}],
+	rewards: [{
+		uid: "636435b1",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -17,5 +17,10 @@
 				orb: "bloodmagic:apprentice"
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "2af179c2",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

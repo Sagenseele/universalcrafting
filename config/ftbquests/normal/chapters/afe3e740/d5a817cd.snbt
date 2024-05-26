@@ -32,5 +32,11 @@
 		type: "gamestage",
 		auto: "no_toast",
 		stage: "agricraft"
+	},
+	{
+		uid: "1f9f8246",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 10
 	}]
 }

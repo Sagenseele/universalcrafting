@@ -10,5 +10,10 @@
 		items: [{
 			item: "deepmoblearningbm:digital_agonizer"
 		}]
+	}],
+	rewards: [{
+		uid: "c3a32c22",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -11,5 +11,10 @@
 		items: [{
 			item: "astralsorcery:blockstarlightinfuser"
 		}]
+	}],
+	rewards: [{
+		uid: "a33cb824",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

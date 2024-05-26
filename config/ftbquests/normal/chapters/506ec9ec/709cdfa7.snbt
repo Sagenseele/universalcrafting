@@ -11,5 +11,10 @@
 		items: [{
 			item: "botania:rune 1 13"
 		}]
+	}],
+	rewards: [{
+		uid: "27d2ba41",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

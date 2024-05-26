@@ -15,5 +15,10 @@
 			Damage: 2s
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ab1b87a6",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

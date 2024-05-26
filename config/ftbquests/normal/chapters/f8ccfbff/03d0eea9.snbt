@@ -11,5 +11,10 @@
 		items: [{
 			item: "appliedenergistics2:material 1 57"
 		}]
+	}],
+	rewards: [{
+		uid: "22163841",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

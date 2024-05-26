@@ -11,5 +11,10 @@
 		items: [{
 			item: "quantumflux:quibitcluster 1 2"
 		}]
+	}],
+	rewards: [{
+		uid: "eb9f0c77",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

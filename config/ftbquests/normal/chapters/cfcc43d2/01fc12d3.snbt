@@ -10,5 +10,10 @@
 		items: [{
 			item: "bloodmagic:blood_shard"
 		}]
+	}],
+	rewards: [{
+		uid: "a127195e",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

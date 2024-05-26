@@ -1,5 +1,75 @@
 import mods.thaumcraft.Infusion;
 import mods.thermalexpansion.Pulverizer;
+import mods.thermalexpansion.Refinery;
+
+//Mystical Agriculture seeds
+//Base Seed
+
+//remove ultimate terminal
+recipes.remove(<ae2wtlib:wut>);
+
+//Inferium Crystal
+mods.immersiveengineering.Squeezer.addRecipe(null, <liquid:sludge_inferium> * 50, <mysticalagriculture:crafting:0>, 2048);
+mods.thermalexpansion.Refinery.addRecipe(<liquid:water_inferium> * 200, <contenttweaker:crystal_inferium>, <liquid:sludge_inferium> * 500, 2048);
+mods.nuclearcraft.crystallizer.addRecipe([<liquid:water_inferium> * 200, <mysticalagriculture:crafting:0>]);
+recipes.replaceAllOccurences(<ore:essenceInferium>, <contenttweaker:crystal_inferium>, <mysticalagriculture:crafting:17>);
+recipes.replaceAllOccurences(<ore:essenceInferium>, <contenttweaker:crystal_inferium>, <mysticalagriculture:crafting:33>);
+recipes.replaceAllOccurences(<ore:essenceInferium>, <contenttweaker:crystal_inferium>, <mysticalagriculture:crafting:50>);
+recipes.replaceAllOccurences(<ore:essenceInferium>, <contenttweaker:crystal_inferium>, <mysticalagriculture:gear:0>);
+recipes.replaceAllOccurences(<ore:essenceInferium>, <contenttweaker:crystal_inferium>, <mysticalagriculture:gear:5>);
+recipes.replaceAllOccurences(<ore:essenceInferium>, <contenttweaker:crystal_inferium>, <mysticalagriculture:coal:0>);
+recipes.replaceAllOccurences(<ore:essenceInferium>, <contenttweaker:crystal_inferium>, <mysticalagriculture:inferium_apple>);
+//Prudentium Crystal
+mods.immersiveengineering.Mixer.addRecipe(<liquid:solution_prudentium> * 100, <liquid:water> * 100, [<ore:essencePrudentium>, <ore:essencePrudentium>, <ore:essencePrudentium>, <ore:essencePrudentium>], 2048);
+mods.nuclearcraft.crystallizer.addRecipe([<liquid:solution_prudentium>* 250, <contenttweaker:crystal_prudentium>]);
+mods.thermalexpansion.Refinery.addRecipe(<liquid:water_prudentium> * 200, <mysticalagriculture:crafting:1> % 5, <liquid:solution_prudentium> * 250, 2048);
+mods.nuclearcraft.crystallizer.addRecipe([<liquid:water_prudentium> * 200, <mysticalagriculture:crafting:1>]);
+mods.nuclearcraft.salt_mixer.addRecipe([<liquid:water_prudentium> * 500, <liquid:water_inferium> * 500, <liquid:solution_prudiferium> * 1000]);
+recipes.replaceAllOccurences(<ore:essencePrudentium>, <contenttweaker:crystal_prudentium>, <mysticalagriculture:crafting:18>);
+recipes.replaceAllOccurences(<ore:essencePrudentium>, <contenttweaker:crystal_prudentium>, <mysticalagriculture:crafting:51>);
+recipes.replaceAllOccurences(<ore:essencePrudentium>, <contenttweaker:crystal_prudentium>, <mysticalagriculture:crafting:34>);
+recipes.replaceAllOccurences(<ore:essencePrudentium>, <contenttweaker:crystal_prudentium>, <mysticalagriculture:gear:6>);
+recipes.replaceAllOccurences(<ore:essencePrudentium>, <contenttweaker:crystal_prudentium>, <mysticalagriculture:coal:1>);
+recipes.replaceAllOccurences(<ore:essencePrudentium>, <contenttweaker:crystal_prudentium>, <mysticalagriculture:prudentium_apple>);
+
+//Intermedium Crystal
+mods.nuclearcraft.chemical_reactor.addRecipe([<liquid:solution_prudiferium> * 1000, <liquid:liquid_nitrogen> * 1000, <liquid:sludge_intermedium> * 250, <liquid:solution_nitric_prosperity> * 1750]);
+mods.thermalexpansion.Refinery.addRecipe(<liquid:water_intermedium> * 200, <contenttweaker:crystal_intermedium>, <liquid:sludge_intermedium> * 500, 2048);
+mods.nuclearcraft.crystallizer.addRecipe([<liquid:water_intermedium> * 200, <mysticalagriculture:crafting:2>]);
+mods.nuclearcraft.centrifuge.addRecipe([<liquid:solution_nitric_prosperity> * 1000, <liquid:nitrogen> * 830, <liquid:water_prosperity> * 170, null, null]);
+mods.nuclearcraft.crystallizer.addRecipe([<liquid:water_prosperity> * 200, <mysticalagriculture:crafting:5>]);
+recipes.replaceAllOccurences(<ore:essenceIntermedium>, <contenttweaker:crystal_intermedium>, <mysticalagriculture:crafting:19>);
+recipes.replaceAllOccurences(<ore:essenceIntermedium>, <contenttweaker:crystal_intermedium>, <mysticalagriculture:crafting:52>);
+recipes.replaceAllOccurences(<ore:essenceIntermedium>, <contenttweaker:crystal_intermedium>, <mysticalagriculture:crafting:35>);
+recipes.replaceAllOccurences(<ore:essenceIntermedium>, <contenttweaker:crystal_intermedium>, <mysticalagriculture:gear:7>);
+recipes.replaceAllOccurences(<ore:essenceIntermedium>, <contenttweaker:crystal_intermedium>, <mysticalagriculture:coal:2>);
+recipes.replaceAllOccurences(<ore:essenceIntermedium>, <contenttweaker:crystal_intermedium>, <mysticalagriculture:intermedium_apple>);
+
+//Superium Crystal
+recipes.addShaped("multigem", <contenttweaker:multigem>, [
+    [<nuclearcraft:gem:0>, <minecraft:prismarine_shard>, <nuclearcraft:gem:2>],
+    [<nuclearcraft:gem:3>, <minecraft:diamond>,<nuclearcraft:gem:4>],
+    [<nuclearcraft:gem:5>, <astralsorcery:itemcraftingcomponent:0>, <nuclearcraft:gem:1>]
+]);
+mods.nuclearcraft.dissolver.addRecipe([<mysticalagriculture:crafting:3>, <liquid:sulfuric_acid> * 1000, <liquid:solution_acidic_superium> * 150]);
+mods.nuclearcraft.infuser.addRecipe([<contenttweaker:multigem>, <liquid:solution_acidic_superium> * 250, <contenttweaker:crystal_soulless_superium>]);
+mods.nuclearcraft.crystallizer.addRecipe([<liquid:water_superium> * 200, <mysticalagriculture:crafting:3>]);
+recipes.replaceAllOccurences(<ore:essenceSuperium>, <contenttweaker:crystal_superium>, <mysticalagriculture:crafting:20>);
+recipes.replaceAllOccurences(<ore:essenceSuperium>, <contenttweaker:crystal_superium>, <mysticalagriculture:crafting:53>);
+recipes.replaceAllOccurences(<ore:essenceSuperium>, <contenttweaker:crystal_superium>, <mysticalagriculture:crafting:36>);
+recipes.replaceAllOccurences(<ore:essenceSuperium>, <contenttweaker:crystal_superium>, <mysticalagriculture:gear:8>);
+recipes.replaceAllOccurences(<ore:essenceSuperium>, <contenttweaker:crystal_superium>, <mysticalagriculture:coal:3>);
+recipes.replaceAllOccurences(<ore:essenceSuperium>, <contenttweaker:crystal_superium>, <mysticalagriculture:superium_apple>);
+
+//Supremium Crystal
+//recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:crafting:21>);
+//recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:crafting:54>);
+//recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:crafting:37>);
+//recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:gear:9>);
+//recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:coal:4>);
+//recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:supremium_apple>);
+//Insanium Crystal
+
 
 //EIO Filter
 recipes.replaceAllOccurences(<enderio:item_material:41>, <thaumcraft:crystal_essence>, <enderio:item_advanced_item_filter>);
@@ -11,7 +81,6 @@ recipes.replaceAllOccurences(<ore:fusedQuartz>, <ore:blockGlassHardened>, <ender
 recipes.replaceAllOccurences(<ore:fusedQuartz>, <ore:blockGlassHardened>, <enderio:item_liquid_conduit:2>);
 
 //Charged Certus Quartz
-//mods.thaumcraft.Infusion.registerRecipe("chargedCertusQuartz", "", <appliedenergistics2:material:1>, 10, [<aspect:ordo> *20, <aspect:fabrico> *50, <aspect:potentia> *20, <aspect:permutatio> *20, <aspect:vitreus> *20], <appliedenergistics2:material>, [<astralsorcery:itemcraftingcomponent:3>, <astralsorcery:itemcraftingcomponent:3>, <astralsorcery:itemcraftingcomponent:3>, <astralsorcery:itemcraftingcomponent:3>]);
 mods.bloodmagic.BloodAltar.addRecipe(<appliedenergistics2:material:1>, <appliedenergistics2:material>, 3, 5000,50,10);
 
 //Cooking for Blockheads
@@ -24,14 +93,14 @@ recipes.replaceAllOccurences(<minecraft:redstone_block>, <ore:itemRubber>, <tesl
 recipes.addShapeless(<contenttweaker:nutrient_pulp>, [<ore:listAllveggie>, <ore:listAllveggie>, <ore:listAllveggie>, <ore:listAllveggie>, <ore:listAllveggie>]);
 
 //Nutrient Bar
-mods.nuclearcraft.infuser.addRecipe([<contenttweaker:nutrient_pulp> * 4, <liquid:lifeessence> * 250, <contenttweaker:nutrient_bar>]);
+mods.nuclearcraft.infuser.addRecipe([<contenttweaker:nutrient_pulp>, <liquid:lifeessence> * 300, <contenttweaker:nutrient_bar>]);
 mods.bloodmagic.BloodAltar.addRecipe(<contenttweaker:nutrient_bar>, <contenttweaker:nutrient_pulp>, 0, 300,15,10);
 
 //Harvestcraft
 recipes.replaceAllOccurences(<minecraft:repeater>, <ore:blockCopper>, <harvestcraft:grinder>);
 
 //Steel Beams
-recipes.addShapeless(<kubejs:steel_beam> * 1, [<immersiveengineering:tool:0>.reuse(), <ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>]);
+//recipes.addShapeless(<kubejs:steel_beam> * 1, [<immersiveengineering:tool:0>.reuse(), <ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>]);
 
 //Rework snare
 recipes.replaceAllOccurences(<minecraft:redstone>, <appliedenergistics2:material:45>, <bloodmagic:soul_snare>);

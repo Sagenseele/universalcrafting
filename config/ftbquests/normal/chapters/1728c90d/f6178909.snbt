@@ -14,5 +14,10 @@
 		items: [{
 			item: "harvestcraft:saltitem"
 		}]
+	}],
+	rewards: [{
+		uid: "ea30290d",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

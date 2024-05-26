@@ -10,7 +10,8 @@
 	y: 9.0d,
 	description: "Industrial Sized Mobfarms",
 	dependencies: [
-		"55bf6a41"
+		"55bf6a41",
+		"c0e03b2b"
 	],
 	tasks: [{
 		uid: "d71f87f7",
@@ -22,5 +23,11 @@
 		type: "gamestage",
 		auto: "no_toast",
 		stage: "woot"
+	},
+	{
+		uid: "c7c7aa03",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 10
 	}]
 }

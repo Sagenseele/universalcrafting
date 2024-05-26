@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:lead_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "1de413ce",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

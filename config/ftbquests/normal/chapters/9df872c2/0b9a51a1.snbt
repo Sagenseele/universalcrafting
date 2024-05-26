@@ -1,0 +1,16 @@
+{
+	x: -5.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "24e8e3ca",
+		type: "item",
+		items: [{
+			item: "contenttweaker:crystal_inferium"
+		}]
+	}],
+	rewards: [{
+		uid: "fa0d5714",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

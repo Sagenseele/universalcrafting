@@ -1,0 +1,45 @@
+{
+	title: "Flight Totem",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "everlastingabilities:ability_totem",
+		tag: {
+			"everlastingabilities:abilityStoreStack": [{
+				level: 1,
+				name: "ability.abilities.everlastingabilities.flight.name"
+			}]
+		}
+	},
+	x: 3.0d,
+	y: 2.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "f9922b91",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "contenttweaker:universal_points"
+		}],
+		count: 90L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "324b9c94",
+		type: "item",
+		team_reward: false,
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "everlastingabilities:ability_totem",
+			tag: {
+				"everlastingabilities:abilityStoreStack": [{
+					level: 1,
+					name: "ability.abilities.everlastingabilities.flight.name"
+				}]
+			}
+		}
+	}]
+}

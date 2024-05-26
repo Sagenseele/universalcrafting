@@ -7,5 +7,10 @@
 		items: [{
 			item: "extendedcrafting:interface"
 		}]
+	}],
+	rewards: [{
+		uid: "ec75989c",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

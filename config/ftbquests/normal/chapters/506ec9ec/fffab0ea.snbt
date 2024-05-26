@@ -11,5 +11,10 @@
 		items: [{
 			item: "botania:spreader"
 		}]
+	}],
+	rewards: [{
+		uid: "488186bb",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

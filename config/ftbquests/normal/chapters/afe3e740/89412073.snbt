@@ -4,8 +4,8 @@
 	tasks: [{
 		uid: "6afdb3e3",
 		type: "forge_energy",
-		title: "250K Tinkers Construct",
+		title: "150K Tinkers Construct",
 		disable_toast: true,
-		value: 250000L
+		value: 150000L
 	}]
 }

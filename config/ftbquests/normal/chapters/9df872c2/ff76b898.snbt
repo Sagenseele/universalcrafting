@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:rabbit_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "a46a44b8",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:dye_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "d9aaa971",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

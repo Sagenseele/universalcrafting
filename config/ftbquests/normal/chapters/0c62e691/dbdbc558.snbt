@@ -24,5 +24,10 @@
 				Level: 0b
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "d9e1fa47",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

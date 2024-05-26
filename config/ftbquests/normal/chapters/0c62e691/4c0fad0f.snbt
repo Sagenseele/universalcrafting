@@ -24,5 +24,10 @@
 			},
 			Damage: 9s
 		}]
+	}],
+	rewards: [{
+		uid: "fe893ccf",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

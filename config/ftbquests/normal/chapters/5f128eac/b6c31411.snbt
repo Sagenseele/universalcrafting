@@ -14,5 +14,10 @@
 			id: "thaumcraft:thaumonomicon"
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e7ef345e",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

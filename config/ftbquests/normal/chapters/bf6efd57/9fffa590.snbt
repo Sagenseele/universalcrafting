@@ -1,0 +1,17 @@
+{
+	x: 9.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "06b1b2f4",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "solarflux:blank_upgrade"
+		}]
+	}],
+	rewards: [{
+		uid: "1ca3dd7c",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

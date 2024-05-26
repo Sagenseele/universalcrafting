@@ -16,5 +16,10 @@
 			tag: {}
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "af9d8c94",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

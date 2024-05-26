@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:chicken_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "a600135e",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

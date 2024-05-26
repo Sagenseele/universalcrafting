@@ -11,5 +11,10 @@
 		items: [{
 			item: "mysticalagriculture:vibrant_alloy_seeds"
 		}]
+	}],
+	rewards: [{
+		uid: "078ef46c",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

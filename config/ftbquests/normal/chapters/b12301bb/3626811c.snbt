@@ -11,5 +11,10 @@
 		items: [{
 			item: "deepmoblearning:data_model_blank"
 		}]
+	}],
+	rewards: [{
+		uid: "62b64985",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -11,5 +11,10 @@
 		items: [{
 			item: "thaumicenergistics:essentia_component_64k"
 		}]
+	}],
+	rewards: [{
+		uid: "7d2e0b2f",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

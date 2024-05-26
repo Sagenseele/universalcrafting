@@ -17,5 +17,10 @@
 				orb: "bloodmagic:archmage"
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "fd5f3796",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

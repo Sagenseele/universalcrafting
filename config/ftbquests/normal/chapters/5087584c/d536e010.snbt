@@ -10,5 +10,10 @@
 		items: [{
 			item: "nuclearcraft:fuel_reprocessor_idle"
 		}]
+	}],
+	rewards: [{
+		uid: "6ce1d57f",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

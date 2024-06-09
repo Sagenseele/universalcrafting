@@ -10,5 +10,11 @@
 		items: [{
 			item: "extrautils2:creativeenergy"
 		}]
+	}],
+	rewards: [{
+		uid: "7f7d31c2",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 3
 	}]
 }

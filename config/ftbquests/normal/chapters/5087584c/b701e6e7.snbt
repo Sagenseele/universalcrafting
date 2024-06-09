@@ -10,5 +10,10 @@
 		items: [{
 			item: "nuclearcraft:fuel_californium 1 4"
 		}]
+	}],
+	rewards: [{
+		uid: "f22e06e2",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

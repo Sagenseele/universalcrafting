@@ -13,5 +13,10 @@
 			},
 			id: "yabba:upgrade_iron_tier"
 		}]
+	}],
+	rewards: [{
+		uid: "a26eb804",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

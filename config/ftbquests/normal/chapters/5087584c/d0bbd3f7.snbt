@@ -10,5 +10,10 @@
 		items: [{
 			item: "nuclearcraft:ingot_former_idle"
 		}]
+	}],
+	rewards: [{
+		uid: "49e41888",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

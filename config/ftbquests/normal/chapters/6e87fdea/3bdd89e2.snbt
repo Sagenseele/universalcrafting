@@ -13,5 +13,10 @@
 			},
 			id: "yabba:antibarrel"
 		}]
+	}],
+	rewards: [{
+		uid: "be62bca1",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -10,5 +10,10 @@
 		items: [{
 			item: "nuclearcraft:fuel_berkelium"
 		}]
+	}],
+	rewards: [{
+		uid: "f9547aa6",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

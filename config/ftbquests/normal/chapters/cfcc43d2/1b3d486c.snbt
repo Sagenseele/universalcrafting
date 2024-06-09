@@ -8,5 +8,11 @@
 		items: [{
 			item: "contenttweaker:essence_bloodmagic"
 		}]
+	}],
+	rewards: [{
+		uid: "0b398160",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 3
 	}]
 }

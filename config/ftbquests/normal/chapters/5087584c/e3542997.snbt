@@ -11,5 +11,10 @@
 		uid: "f2c8cbb9",
 		type: "checkmark",
 		title: "Fuel Reprocessing"
+	}],
+	rewards: [{
+		uid: "31d65225",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -13,5 +13,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4f6798e6",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -13,5 +13,10 @@
 			},
 			id: "yabba:upgrade_gold_tier"
 		}]
+	}],
+	rewards: [{
+		uid: "3e5d67aa",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -10,5 +10,10 @@
 		items: [{
 			item: "nuclearcraft:fuel_plutonium 1 2"
 		}]
+	}],
+	rewards: [{
+		uid: "89d82f4f",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

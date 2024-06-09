@@ -13,5 +13,10 @@
 			},
 			id: "yabba:upgrade_diamond_tier"
 		}]
+	}],
+	rewards: [{
+		uid: "0ffa4706",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

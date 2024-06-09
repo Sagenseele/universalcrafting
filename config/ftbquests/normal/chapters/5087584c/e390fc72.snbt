@@ -11,5 +11,11 @@
 		items: [{
 			item: "contenttweaker:essence_nuclearcraft"
 		}]
+	}],
+	rewards: [{
+		uid: "27d0b664",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 3
 	}]
 }

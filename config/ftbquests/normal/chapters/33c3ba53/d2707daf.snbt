@@ -10,5 +10,11 @@
 		items: [{
 			item: "botania:pool 1 1"
 		}]
+	}],
+	rewards: [{
+		uid: "8287226c",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 3
 	}]
 }

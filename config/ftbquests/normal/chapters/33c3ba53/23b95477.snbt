@@ -11,5 +11,11 @@
 		items: [{
 			item: "avaritiatweaks:enhancement_crystal"
 		}]
+	}],
+	rewards: [{
+		uid: "aa8d4b74",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 3
 	}]
 }

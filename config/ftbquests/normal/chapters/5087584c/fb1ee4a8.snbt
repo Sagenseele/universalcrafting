@@ -10,5 +10,10 @@
 		items: [{
 			item: "nuclearcraft:fuel_thorium"
 		}]
+	}],
+	rewards: [{
+		uid: "f122fd33",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

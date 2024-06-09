@@ -10,5 +10,10 @@
 		items: [{
 			item: "yabba:upgrade_blank"
 		}]
+	}],
+	rewards: [{
+		uid: "534989a9",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

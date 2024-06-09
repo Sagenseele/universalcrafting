@@ -53,7 +53,6 @@ var mod_token=VanillaFactory.createItem("mod_token");
 mod_token.rarity = "epic";
 mod_token.register();
 
-
 //Mystical Agriculture Seeds
 var crystal_inferium=VanillaFactory.createItem("crystal_inferium");
 crystal_inferium.register();

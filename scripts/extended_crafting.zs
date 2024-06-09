@@ -455,3 +455,21 @@ mods.extendedcrafting.TableCrafting.addShaped(4, <danknull:dank_null_6>, [
     [<danknull:dank_null_0>, <danknull:dank_null_1>, <danknull:dank_null_1>, <danknull:dank_null_3>, <danknull:dank_null_3>, <danknull:dank_null_3>, <danknull:dank_null_1>, <danknull:dank_null_1>, <danknull:dank_null_0>],
     [<danknull:dank_null_0>, <danknull:dank_null_0>, <danknull:dank_null_0>, <danknull:dank_null_2>, <danknull:dank_null_2>, <danknull:dank_null_2>, <danknull:dank_null_0>, <danknull:dank_null_0>, <danknull:dank_null_0>]
 ]);
+
+//Creative Storage Cell
+//mods.extendedcrafting.TableCrafting.addShaped(0, <appliedenergistics2:creative_storage_cell>, [
+//    [aeadditions:storage.physical:3],
+//]);
+
+//Creative Storage Cell
+mods.extendedcrafting.TableCrafting.addShaped(0, <deepmoblearning:creative_model_learner>, [
+    [null, null, null, null, <deepmoblearning:data_model_blaze>, null, null, null, null],
+    [null, <deepmoblearning:data_model_creeper>, <deepmoblearning:data_model_dragon>, null, null, null, <deepmoblearning:data_model_enderman>, <deepmoblearning:data_model_ghast>, null],
+    [null, <deepmoblearning:data_model_guardian>, null, null, <ore:blockInfinity>, null, null, <deepmoblearning:data_model_shulker>, null],
+    [null, null, null, <deepmoblearning:infused_ingot_block>, <deepmoblearning:infused_ingot_block>, <deepmoblearning:infused_ingot_block>, null, null, null],
+    [<deepmoblearning:data_model_skeleton>, null, <deepmoblearning:infused_ingot_block>, <deepmoblearning:infused_ingot_block>, <deepmoblearning:infused_ingot_block>, <deepmoblearning:infused_ingot_block>, <deepmoblearning:infused_ingot_block>, null, <deepmoblearning:data_model_slime>],
+    [null, null, null, null, <deepmoblearning:infused_ingot_block>, null, null, null, null],
+    [null, <deepmoblearning:data_model_spider>, null, null, <deepmoblearning:infused_ingot_block>, null, null, <deepmoblearning:data_model_witch>, null],
+    [null, <deepmoblearning:data_model_wither>, <deepmoblearning:data_model_wither_skeleton>.withTag({tier: 4}), null, null, null, <deepmoblearning:data_model_zombie>, <deepmoblearning:data_model_thermal_elemental>, null],
+    [null, null, null, null, <deepmoblearning:data_model_tinker_slime>, null, null, null, null]
+]);

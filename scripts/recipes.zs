@@ -81,6 +81,8 @@ recipes.replaceAllOccurences(<ore:essenceSuperium>, <contenttweaker:crystal_supe
 
 //Insanium Crystal
 
+//EIO Painting Machine
+recipes.replaceAllOccurences(<enderio:item_material:1>, <thermalexpansion:frame:0>, <enderio:block_painter>);
 
 //EIO Filter
 recipes.replaceAllOccurences(<enderio:item_material:41>, <ore:gemVilliaumite>, <enderio:item_advanced_item_filter>);

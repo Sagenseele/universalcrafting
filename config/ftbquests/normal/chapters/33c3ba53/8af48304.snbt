@@ -7,6 +7,7 @@
 	tasks: [{
 		uid: "6e1986fa",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			id: "botania:specialflower",
 			tag: {

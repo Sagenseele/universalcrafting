@@ -1,6 +1,7 @@
 {
 	x: 6.5d,
-	y: -5.0d,
+	y: -5.5d,
+	description: "Gimme some jobs to do",
 	dependencies: [
 		"f0aa0789"
 	],

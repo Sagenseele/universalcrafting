@@ -1,6 +1,6 @@
 {
-	x: 7.0d,
-	y: -1.0d,
+	x: 5.5d,
+	y: -1.5d,
 	description: "Please use me!",
 	text: [
 		"Can be used to interact with block/entity infront of it. Can use items in its inventory too."

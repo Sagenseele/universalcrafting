@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 1.0d,
+	dependencies: [
+		"d08be5de"
+	],
+	tasks: [{
+		uid: "f36b230e",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fuel_berkelium"
+		}]
+	}]
+}

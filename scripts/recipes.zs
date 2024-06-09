@@ -1,13 +1,22 @@
-import mods.thaumcraft.Infusion;
 import mods.thermalexpansion.Pulverizer;
 import mods.thermalexpansion.Refinery;
 
-//Mystical Agriculture seeds
-//Base Seed
+//Infinity Booster Card
+recipes.removeByRecipeName("ae2wtlib:booster_card_old");
+
+//remove avaritia compressed crafting table
+recipes.removeByRecipeName("avaritia:blocks/crafting/un_compressed_crafting_table");
+
+//advanced circuit
+recipes.replaceAllOccurences(<quantumflux:craftingpiece:6>, <immersiveengineering:material:27>, <quantumflux:craftingpiece:5>);
 
 //remove ultimate terminal
-recipes.remove(<ae2wtlib:wut>);
+mods.jei.JEI.removeAndHide(<ae2wtlib:wut>);
 
+//Glitch Fragment
+mods.thermalexpansion.Pulverizer.addRecipe(<deepmoblearning:glitch_fragment> * 2, <deepmoblearning:glitch_heart>, 4000, <deepmoblearning:glitch_fragment>, 50);
+
+//Mystical Agriculture seeds
 //Inferium Crystal
 mods.immersiveengineering.Squeezer.addRecipe(null, <liquid:sludge_inferium> * 50, <mysticalagriculture:crafting:0>, 2048);
 mods.thermalexpansion.Refinery.addRecipe(<liquid:water_inferium> * 200, <contenttweaker:crystal_inferium>, <liquid:sludge_inferium> * 500, 2048);
@@ -19,6 +28,7 @@ recipes.replaceAllOccurences(<ore:essenceInferium>, <contenttweaker:crystal_infe
 recipes.replaceAllOccurences(<ore:essenceInferium>, <contenttweaker:crystal_inferium>, <mysticalagriculture:gear:5>);
 recipes.replaceAllOccurences(<ore:essenceInferium>, <contenttweaker:crystal_inferium>, <mysticalagriculture:coal:0>);
 recipes.replaceAllOccurences(<ore:essenceInferium>, <contenttweaker:crystal_inferium>, <mysticalagriculture:inferium_apple>);
+
 //Prudentium Crystal
 mods.immersiveengineering.Mixer.addRecipe(<liquid:solution_prudentium> * 100, <liquid:water> * 100, [<ore:essencePrudentium>, <ore:essencePrudentium>, <ore:essencePrudentium>, <ore:essencePrudentium>], 2048);
 mods.nuclearcraft.crystallizer.addRecipe([<liquid:solution_prudentium>* 250, <contenttweaker:crystal_prudentium>]);
@@ -36,7 +46,7 @@ recipes.replaceAllOccurences(<ore:essencePrudentium>, <contenttweaker:crystal_pr
 mods.nuclearcraft.chemical_reactor.addRecipe([<liquid:solution_prudiferium> * 1000, <liquid:liquid_nitrogen> * 1000, <liquid:sludge_intermedium> * 250, <liquid:solution_nitric_prosperity> * 1750]);
 mods.thermalexpansion.Refinery.addRecipe(<liquid:water_intermedium> * 200, <contenttweaker:crystal_intermedium>, <liquid:sludge_intermedium> * 500, 2048);
 mods.nuclearcraft.crystallizer.addRecipe([<liquid:water_intermedium> * 200, <mysticalagriculture:crafting:2>]);
-mods.nuclearcraft.centrifuge.addRecipe([<liquid:solution_nitric_prosperity> * 1000, <liquid:nitrogen> * 830, <liquid:water_prosperity> * 170, null, null]);
+mods.nuclearcraft.centrifuge.addRecipe([<liquid:solution_nitric_prosperity> * 1000, <liquid:liquid_nitrogen> * 830, <liquid:water_prosperity> * 170, null, null]);
 mods.nuclearcraft.crystallizer.addRecipe([<liquid:water_prosperity> * 200, <mysticalagriculture:crafting:5>]);
 recipes.replaceAllOccurences(<ore:essenceIntermedium>, <contenttweaker:crystal_intermedium>, <mysticalagriculture:crafting:19>);
 recipes.replaceAllOccurences(<ore:essenceIntermedium>, <contenttweaker:crystal_intermedium>, <mysticalagriculture:crafting:52>);
@@ -68,12 +78,13 @@ recipes.replaceAllOccurences(<ore:essenceSuperium>, <contenttweaker:crystal_supe
 //recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:gear:9>);
 //recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:coal:4>);
 //recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:supremium_apple>);
+
 //Insanium Crystal
 
 
 //EIO Filter
-recipes.replaceAllOccurences(<enderio:item_material:41>, <thaumcraft:crystal_essence>, <enderio:item_advanced_item_filter>);
-recipes.replaceAllOccurences(<enderio:item_material:45>, <thaumcraft:crystal_essence>, <enderio:item_big_item_filter>);
+recipes.replaceAllOccurences(<enderio:item_material:41>, <ore:gemVilliaumite>, <enderio:item_advanced_item_filter>);
+recipes.replaceAllOccurences(<enderio:item_material:45>, <ore:gemCarobbiite>, <enderio:item_big_item_filter>);
 
 //EIO Fluid Conduits also hardenedGlass
 recipes.replaceAllOccurences(<ore:fusedQuartz>, <ore:blockGlassHardened>, <enderio:item_liquid_conduit>);
@@ -138,6 +149,13 @@ recipes.addShaped("altar_ex_nihilo", <botania:altar:0>, [
     [<minecraft:stone:1>, <minecraft:stone:3>, <minecraft:stone:5>]
 ]);
 
+//Modularium
+recipes.remove(<modularmachinery:itemmodularium>);
+recipes.addShaped("modularium", <modularmachinery:itemmodularium>, [
+    [null, <ore:plateSignalum>, null],
+    [<ore:plateSignalum>, <ore:ingotIridium>, <ore:plateSignalum>],
+    [null, <ore:plateSignalum>, null]
+]);
 
 //Remove machine frame and IF machine recipes
 recipes.removeByRecipeName("industrialforegoing:bioreactor_thermal");

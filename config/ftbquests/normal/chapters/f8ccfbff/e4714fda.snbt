@@ -1,6 +1,7 @@
 {
 	x: 7.5d,
-	y: -5.5d,
+	y: -6.0d,
+	description: "Disk Space en masse",
 	dependencies: [
 		"f0aa0789"
 	],

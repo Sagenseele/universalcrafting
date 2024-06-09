@@ -1,0 +1,25 @@
+{
+    "machine": "advanced_infuser",
+    "registryName": "advanced_infuser_blood_infused_ingot",
+    "recipeTime": 100,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "deepmoblearning_glitch_infused_ingot",
+            "amount": 1
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "lifeessence",
+            "amount": 12500
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "deepmoblearningbm:blood_infused_glitch_ingot",
+            "amount": 1
+        }
+    ]
+}

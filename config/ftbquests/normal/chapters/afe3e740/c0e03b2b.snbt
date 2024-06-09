@@ -1,5 +1,4 @@
 {
-	title: "Any Self-Aware Data Model",
 	icon: {
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
@@ -14,6 +13,7 @@
 	tasks: [{
 		uid: "17b60075",
 		type: "item",
+		title: "Any Self-Aware Data Models",
 		disable_toast: true,
 		items: [{
 			ForgeCaps: {

@@ -1,6 +1,6 @@
 {
 	x: 2.5d,
-	y: -1.0d,
+	y: -1.5d,
 	description: "Magical Journey",
 	text: [
 		"Look at a collector crystal in a Marble Structure to unlock Astral Sorcery."

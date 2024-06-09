@@ -1,0 +1,17 @@
+{
+	x: -3.5d,
+	y: -6.0d,
+	description: "Can I interest you in some seeds?",
+	tasks: [{
+		uid: "37560863",
+		type: "item",
+		items: [{
+			item: "harvestcraft:market"
+		}]
+	}],
+	rewards: [{
+		uid: "acc3676b",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

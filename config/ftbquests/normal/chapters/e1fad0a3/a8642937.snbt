@@ -1,0 +1,20 @@
+{
+	x: 7.5d,
+	y: 3.0d,
+	dependencies: [
+		"35c1d573"
+	],
+	tasks: [{
+		uid: "de4d4de1",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "woot:upgrade 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "3ecef1e2",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

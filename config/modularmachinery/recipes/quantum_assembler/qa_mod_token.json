@@ -1,0 +1,48 @@
+{
+    "machine": "quantum_assembler",
+    "registryName": "qa_mod_token",
+    "recipeTime": 600,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 200000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:inert_mod_token",
+            "amount": 1
+        },        
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "quantum_conductor",
+            "amount": 1000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "essence",
+            "amount": 64000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "raw_will",
+            "amount": 64000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "lifeessence",
+            "amount": 64000
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "contenttweaker:mod_token",
+            "amount": 1
+        }
+    ]
+}

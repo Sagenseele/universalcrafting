@@ -36,7 +36,7 @@
     "chancecubes:finding_marlin": true,
     "chancecubes:mitas": true,
     "chancecubes:finding_nemo": true,
-    "chancecubes:nether_star": true,
+    "chancecubes:nether_star": false,
     "chancecubes:notch": true,
     "chancecubes:one_shot": true,
     "chancecubes:ores_galore": true,
@@ -201,6 +201,7 @@
     "extrautils2:compressed_sand": true,
     "extrautils2:rainbow_stone": true,
     "extrautils2:spikes": true,
-    "extrautils2:cursed": true
+    "extrautils2:cursed": true,
+    "Black Holes for everyone": true
   }
 }

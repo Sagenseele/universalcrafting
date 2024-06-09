@@ -1,0 +1,12 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	description: "Do a barrel roll",
+	tasks: [{
+		uid: "714a737c",
+		type: "item",
+		items: [{
+			item: "yabba:item_barrel"
+		}]
+	}]
+}

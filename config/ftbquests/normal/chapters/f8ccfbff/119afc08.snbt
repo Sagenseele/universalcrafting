@@ -1,6 +1,7 @@
 {
 	x: -2.0d,
 	y: -4.0d,
+	description: "Superior Crystal Grower",
 	dependencies: [
 		"f328f32a"
 	],

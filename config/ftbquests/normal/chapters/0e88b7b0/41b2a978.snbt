@@ -12,7 +12,7 @@
 			}]
 		}
 	},
-	x: 3.0d,
+	x: 0.0d,
 	y: 3.0d,
 	can_repeat: true,
 	tasks: [{

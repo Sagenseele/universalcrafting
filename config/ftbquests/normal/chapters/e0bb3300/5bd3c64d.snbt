@@ -2,7 +2,7 @@
 	icon: "minecraft:apple",
 	disable_toast: true,
 	x: 0.0d,
-	y: 0.0d,
+	y: -0.5d,
 	description: "Readme",
 	text: [
 		"Hello and welcome to Universal Crafting, my first public modpack. It is a magical and industrial themed modpack and contains many well known mods like Botania, Thaumcraft 6, Astral Sorcery, Nuclearcraft, Tinkers and many more, as well as small mods.",
@@ -13,6 +13,7 @@
 		"Have fun",
 		"~ Sagenseele"
 	],
+	size: 2.0d,
 	tasks: [{
 		uid: "3cb57ec0",
 		type: "checkmark",

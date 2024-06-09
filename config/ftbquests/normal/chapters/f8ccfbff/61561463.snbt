@@ -1,6 +1,7 @@
 {
 	x: 7.5d,
-	y: -4.5d,
+	y: -5.0d,
+	description: "Move your stuff on other disks",
 	dependencies: [
 		"f0aa0789"
 	],

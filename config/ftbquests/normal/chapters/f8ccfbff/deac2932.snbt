@@ -1,0 +1,22 @@
+{
+	x: -8.25d,
+	y: -5.25d,
+	dependencies: [
+		"946d1a9d",
+		"59a6cc6b"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "88be827e",
+		type: "item",
+		items: [{
+			item: "contenttweaker:essence_appliedenergistics"
+		}]
+	}],
+	rewards: [{
+		uid: "f747a845",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 4
+	}]
+}

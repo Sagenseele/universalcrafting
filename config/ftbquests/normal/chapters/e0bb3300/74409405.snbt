@@ -1,0 +1,20 @@
+{
+	title: "The Goal",
+	icon: "extrautils2:creativechest",
+	x: 0.0d,
+	y: 3.5d,
+	text: [
+		"The Goal of this modpack is to create a Creative Chest and finish all quests."
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "8751c9bf",
+		type: "checkmark",
+		disable_toast: true
+	}],
+	rewards: [{
+		uid: "bc0a83b6",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

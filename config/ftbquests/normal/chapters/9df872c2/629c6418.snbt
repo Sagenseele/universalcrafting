@@ -1,0 +1,20 @@
+{
+	x: 4.5d,
+	y: 2.0d,
+	dependencies: [
+		"b0555a3f"
+	],
+	tasks: [{
+		uid: "84e7dff5",
+		type: "item",
+		items: [{
+			item: "mysticalagradditions:neutronium_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "323d17cb",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 2
+	}]
+}

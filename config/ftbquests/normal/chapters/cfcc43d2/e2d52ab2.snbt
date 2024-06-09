@@ -1,6 +1,6 @@
 {
-	x: 0.5d,
-	y: 3.0d,
+	x: 0.25d,
+	y: 3.267857142857146d,
 	text: [
 		"Put Will or a tartaric gem into the crucible to infuse the chunk with will.",
 		"Alternatively you can kill mobs to infuse the chunk with will"

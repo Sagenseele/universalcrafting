@@ -3,8 +3,6 @@
 mods.ItemStages.stageModItems("agricraft", "agricraft");
 mods.ItemStages.stageModItems("aquaculture2", "aquaculture2");
 mods.ItemStages.stageModItems("bonsaitrees", "bonsaitrees");
-mods.ItemStages.stageModItems("modularmachinery", "modularmachinery");
-mods.ItemStages.stageModItems("modularmachinery", "modulardiversity");
 mods.ItemStages.stageModItems("woot", "woot");
 
 //Tinker Stages

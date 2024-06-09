@@ -43,14 +43,15 @@ var essence_mysticalagriculture=VanillaFactory.createItem("essence_mysticalagric
 essence_mysticalagriculture.register();
 var essence_solarfluxreborn=VanillaFactory.createItem("essence_solarfluxreborn");
 essence_solarfluxreborn.register();
-var essence_thaumcraft=VanillaFactory.createItem("essence_thaumcraft");
-essence_thaumcraft.register();
 var essence_nuclearcraft=VanillaFactory.createItem("essence_nuclearcraft");
 essence_nuclearcraft.register();
 var essence_deepmoblearning=VanillaFactory.createItem("essence_deepmoblearning");
 essence_deepmoblearning.register();
-var mod_star=VanillaFactory.createItem("mod_star");
-mod_star.register();
+var inert_mod_token=VanillaFactory.createItem("inert_mod_token");
+inert_mod_token.register();
+var mod_token=VanillaFactory.createItem("mod_token");
+mod_token.rarity = "epic";
+mod_token.register();
 
 
 //Mystical Agriculture Seeds
@@ -70,8 +71,6 @@ var multigem=VanillaFactory.createItem("multigem");
 multigem.register();
 var sludge_inferium=VanillaFactory.createFluid("sludge_inferium", Color.fromHex("4f8001"));
 sludge_inferium.register();
-var sludge_prudentium=VanillaFactory.createFluid("sludge_prudentium", Color.fromHex("1f4f2c"));
-sludge_prudentium.register();
 var sludge_intermedium=VanillaFactory.createFluid("sludge_intermedium", Color.fromHex("705401"));
 sludge_intermedium.register();
 var water_prosperity=VanillaFactory.createFluid("water_prosperity", Color.fromHex("cfcfcf"));
@@ -84,11 +83,17 @@ var water_intermedium=VanillaFactory.createFluid("water_intermedium", Color.from
 water_intermedium.register();
 var water_superium=VanillaFactory.createFluid("water_superium", Color.fromHex("0000ff"));
 water_superium.register();
+var water_supremium=VanillaFactory.createFluid("water_supremium", Color.fromHex("e00000"));
+water_supremium.register();
 var solution_prudentium=VanillaFactory.createFluid("solution_prudentium", Color.fromHex("00c965"));
 solution_prudentium.register();
-var solution_prudiferium=VanillaFactory.createFluid("solution_prudiferium", Color.fromHex("809c27"));
+var solution_prudiferium=VanillaFactory.createFluid("solution_prudiferium", Color.fromHex("00b36e"));
 solution_prudiferium.register();
+var solution_supermedium=VanillaFactory.createFluid("solution_supermedium", Color.fromHex("54ff71"));
+solution_supermedium.register();
 var solution_nitric_prosperity=VanillaFactory.createFluid("solution_nitric_prosperity", Color.fromHex("f5b0b0"));
 solution_nitric_prosperity.register();
 var solution_acidic_superium=VanillaFactory.createFluid("solution_acidic_superium", Color.fromHex("306bc9"));
 solution_acidic_superium.register();
+var quantum_conductor=VanillaFactory.createFluid("quantum_conductor", Color.fromHex("ba00b1"));
+quantum_conductor.register();

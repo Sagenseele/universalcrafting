@@ -1,11 +1,19 @@
-//Quantum Compressor
-recipes.remove(<extendedcrafting:compressor>);
-mods.extendedcrafting.TableCrafting.addShaped(2, <extendedcrafting:compressor>, [
-    [<extendedcrafting:material:2>, <extendedcrafting:material:2>, <extendedcrafting:material:16>, <extendedcrafting:material:2>, <extendedcrafting:material:2>],
-    [<extendedcrafting:material:2>, <extendedcrafting:material:16>, <extendedcrafting:material:10>, <extendedcrafting:material:16>, <extendedcrafting:material:2>],
-    [<extendedcrafting:material:16>, <extendedcrafting:material:10>, <extendedcrafting:frame>, <extendedcrafting:material:10>, <extendedcrafting:material:16>],
-    [<extendedcrafting:material:2>, <extendedcrafting:material:16>, <extendedcrafting:material:10>, <extendedcrafting:material:16>, <extendedcrafting:material:2>],
-    [<extendedcrafting:material:2>, <extendedcrafting:material:2>, <extendedcrafting:material:16>, <extendedcrafting:material:2>, <extendedcrafting:material:2>]
+//Deep Mob Essence
+mods.extendedcrafting.TableCrafting.addShaped(2, <contenttweaker:essence_deepmoblearning>, [
+    [<deepmoblearning:pristine_matter_blaze>, <deepmoblearning:pristine_matter_creeper>, <deepmoblearning:pristine_matter_enderman>, <deepmoblearning:pristine_matter_ghast>, <deepmoblearning:pristine_matter_guardian>],
+    [<deepmoblearning:pristine_matter_shulker>, <deepmoblearningbm:blood_infused_glitch_ingot>, <deepmoblearning:infused_ingot_block>, <deepmoblearningbm:blood_infused_glitch_ingot>, <deepmoblearning:pristine_matter_skeleton>],
+    [<deepmoblearning:pristine_matter_slime>, <deepmoblearning:infused_ingot_block>, <deepmoblearning:pristine_matter_dragon>, <deepmoblearning:infused_ingot_block>, <deepmoblearning:pristine_matter_spider>],
+    [<deepmoblearning:pristine_matter_witch>, <deepmoblearningbm:blood_infused_glitch_ingot>, <deepmoblearning:infused_ingot_block>, <deepmoblearningbm:blood_infused_glitch_ingot>, <deepmoblearning:pristine_matter_wither>],
+    [<deepmoblearning:pristine_matter_wither_skeleton>, <deepmoblearning:pristine_matter_zombie>, <deepmoblearning:pristine_matter_thermal_elemental>, <deepmoblearning:pristine_matter_botania_gaia_guardian>, <deepmoblearning:pristine_matter_tinker_slime>]
+]);
+
+//Botania Essence
+mods.extendedcrafting.TableCrafting.addShaped(0, <contenttweaker:essence_botania>, [
+    [<botania:rune:0>, <botania:rune:1>, <botania:rune:2>, <botania:rune:3>, <botania:rune:4>],
+    [<botania:rune:15>, <botania:fertilizer>, <botania:storage:2>, <botania:fertilizer>, <botania:rune:5>],
+    [<botania:rune:14>, <botania:storage:0>, <avaritiatweaks:gaia_block>, <botania:storage:3>, <botania:rune:6>],
+    [<botania:rune:13>, <botania:fertilizer>, <botania:quartztypered:0>, <botania:fertilizer>, <botania:rune:7>],
+    [<botania:rune:12>, <botania:rune:11>, <botania:rune:10>, <botania:rune:9>, <botania:rune:8>],
 ]);
 
 // Silicon Press
@@ -32,13 +40,13 @@ mods.extendedcrafting.TableCrafting.addShaped(3, <appliedenergistics2:material:1
 
 // Logic Press
 mods.extendedcrafting.TableCrafting.addShaped(3, <appliedenergistics2:material:15>, [
-    [<thaumcraft:stone_arcane>, <thaumcraft:stone_arcane>, <thaumcraft:stone_arcane>, <ore:nitor>, <thaumcraft:stone_arcane>, <thaumcraft:stone_arcane>, <thaumcraft:stone_arcane>],
-    [<thaumcraft:stone_arcane>, <ore:plateThaumium>, <ore:plateThaumium>, <ore:plateThaumium>, <ore:plateThaumium>, <ore:plateThaumium>, <thaumcraft:stone_arcane>],
-    [<thaumcraft:stone_arcane>, <ore:plateThaumium>, null, <thaumcraft:fabric>, null, <ore:plateThaumium>, <thaumcraft:stone_arcane>],
-    [<ore:nitor>, <ore:plateThaumium>, <thaumcraft:fabric>, <thaumcraft:salis_mundus>, <thaumcraft:fabric>, <ore:plateThaumium>, <ore:nitor>],
-    [<thaumcraft:stone_arcane>, <ore:plateThaumium>, null, <thaumcraft:fabric>, null, <ore:plateThaumium>, <thaumcraft:stone_arcane>],
-    [<thaumcraft:stone_arcane>, <ore:plateThaumium>, <ore:plateThaumium>, <ore:plateThaumium>, <ore:plateThaumium>, <ore:plateThaumium>, <thaumcraft:stone_arcane>],
-    [<thaumcraft:stone_arcane>, <thaumcraft:stone_arcane>, <thaumcraft:stone_arcane>, <ore:nitor>, <thaumcraft:stone_arcane>, <thaumcraft:stone_arcane>, <thaumcraft:stone_arcane>]
+    [<immersiveengineering:material:6>, <immersiveengineering:material:6>, <immersiveengineering:material:6>, <ore:niter>, <immersiveengineering:material:6>, <immersiveengineering:material:6>, <immersiveengineering:material:6>],
+    [<immersiveengineering:material:6>, <ore:plateAluminum>, <ore:plateAluminum>, <ore:plateAluminum>, <ore:plateAluminum>, <ore:plateAluminum>, <immersiveengineering:material:6>],
+    [<immersiveengineering:material:6>, <ore:plateAluminum>, null, <thermalfoundation:material:2050>, null, <ore:plateAluminum>, <immersiveengineering:material:6>],
+    [<ore:niter>, <ore:plateAluminum>, <thermalfoundation:material:2048>, <ore:gemRhodochrosite>, <thermalfoundation:material:2052>, <ore:plateAluminum>, <ore:niter>],
+    [<immersiveengineering:material:6>, <ore:plateAluminum>, null, <minecraft:blaze_rod>, null, <ore:plateAluminum>, <immersiveengineering:material:6>],
+    [<immersiveengineering:material:6>, <ore:plateAluminum>, <ore:plateAluminum>, <ore:plateAluminum>, <ore:plateAluminum>, <ore:plateAluminum>, <immersiveengineering:material:6>],
+    [<immersiveengineering:material:6>, <immersiveengineering:material:6>, <immersiveengineering:material:6>, <ore:niter>, <immersiveengineering:material:6>, <immersiveengineering:material:6>, <immersiveengineering:material:6>]
 ]);
 
 // Engineering Press
@@ -55,15 +63,15 @@ mods.extendedcrafting.TableCrafting.addShaped(3, <appliedenergistics2:material:1
 //Processing Upgrade
 recipes.remove(<furnaceoverhaul:processing_upgrade>);
 mods.extendedcrafting.TableCrafting.addShaped(4, <furnaceoverhaul:processing_upgrade>, [
-    [<thaumcraft:causality_collapser>, <nuclearcraft:alloy:15>, null, null, <aquaculture:loot:1>, null, null, <nuclearcraft:alloy:15>, <thaumcraft:causality_collapser>],
-    [<nuclearcraft:alloy:15>, <botania:manaresource:14>, <astralsorcery:iteminfusedglass>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "fabrico"}]}), <nuclearcraft:part:3>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "fabrico"}]}), <astralsorcery:iteminfusedglass>, <botania:manaresource:14>, <nuclearcraft:alloy:15>],
-    [null, <astralsorcery:iteminfusedglass>, <harvestcraft:gourmetporkburgeritem>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <ore:ingotVoid>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <harvestcraft:gourmetmuttonburgeritem>, <astralsorcery:iteminfusedglass>, null],
-    [null, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "fabrico"}]}), <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <industrialforegoing:pink_slime_ingot>, <industrialforegoing:pink_slime_ingot>, <industrialforegoing:pink_slime_ingot>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "fabrico"}]}), null],
+    [<nuclearcraft:fuel_californium:4>, <nuclearcraft:alloy:15>, null, null, <aquaculture:loot:1>, null, null, <nuclearcraft:alloy:15>, <nuclearcraft:fuel_curium:8>],
+    [<nuclearcraft:alloy:15>, <botania:manaresource:14>, <astralsorcery:iteminfusedglass>, <contenttweaker:multigem>, <nuclearcraft:part:3>, <contenttweaker:multigem>, <astralsorcery:iteminfusedglass>, <botania:manaresource:14>, <nuclearcraft:alloy:15>],
+    [null, <astralsorcery:iteminfusedglass>, <harvestcraft:gourmetporkburgeritem>, <contenttweaker:multigem>, <ore:ingotVoid>, <contenttweaker:multigem>, <harvestcraft:gourmetmuttonburgeritem>, <astralsorcery:iteminfusedglass>, null],
+    [null, <contenttweaker:multigem>, <contenttweaker:multigem>, <industrialforegoing:pink_slime_ingot>, <industrialforegoing:pink_slime_ingot>, <industrialforegoing:pink_slime_ingot>, <contenttweaker:multigem>, <contenttweaker:multigem>, null],
     [<aquaculture:loot:1>, <nuclearcraft:part:3>, <ore:ingotVoid>, <industrialforegoing:pink_slime_ingot>, <harvestcraft:netherstartoastitem>, <industrialforegoing:pink_slime_ingot>, <ore:ingotVoid>, <nuclearcraft:part:3>, <aquaculture:loot:1>],
-    [null, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "fabrico"}]}), <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <industrialforegoing:pink_slime_ingot>, <industrialforegoing:pink_slime_ingot>, <industrialforegoing:pink_slime_ingot>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "fabrico"}]}), null],
-    [null, <astralsorcery:iteminfusedglass>, <harvestcraft:gourmetbeefburgeritem>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <ore:ingotVoid>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <harvestcraft:gourmetvenisonburgeritem>, <astralsorcery:iteminfusedglass>, null],
-    [<nuclearcraft:alloy:15>, <botania:manaresource:14>, <astralsorcery:iteminfusedglass>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "fabrico"}]}), <nuclearcraft:part:3>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "fabrico"}]}), <astralsorcery:iteminfusedglass>, <botania:manaresource:14>, <nuclearcraft:alloy:15>],
-    [<thaumcraft:causality_collapser>, <nuclearcraft:alloy:15>, null, null, <aquaculture:loot:1>, null, null, <nuclearcraft:alloy:15>, <thaumcraft:causality_collapser>]
+    [null, <contenttweaker:multigem>, <contenttweaker:multigem>, <industrialforegoing:pink_slime_ingot>, <industrialforegoing:pink_slime_ingot>, <industrialforegoing:pink_slime_ingot>, <contenttweaker:multigem>, <contenttweaker:multigem>, null],
+    [null, <astralsorcery:iteminfusedglass>, <harvestcraft:gourmetbeefburgeritem>, <contenttweaker:multigem>, <ore:ingotVoid>, <contenttweaker:multigem>, <harvestcraft:gourmetvenisonburgeritem>, <astralsorcery:iteminfusedglass>, null],
+    [<nuclearcraft:alloy:15>, <botania:manaresource:14>, <astralsorcery:iteminfusedglass>, <contenttweaker:multigem>, <nuclearcraft:part:3>, <contenttweaker:multigem>, <astralsorcery:iteminfusedglass>, <botania:manaresource:14>, <nuclearcraft:alloy:15>],
+    [<nuclearcraft:fuel_berkelium:0>, <nuclearcraft:alloy:15>, null, null, <aquaculture:loot:1>, null, null, <nuclearcraft:alloy:15>, <nuclearcraft:fuel_americium:2>]
 ]);
 
 //Glitch Armor
@@ -72,7 +80,7 @@ mods.extendedcrafting.TableCrafting.addShaped(4, <deepmoblearning:glitch_infused
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
-    [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, null, <deepmoblearning:data_model_dragon>.withTag({tier: 4}), null, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
+    [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, null, <deepmoblearning:pristine_matter_dragon>, null, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, null, null, null, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, null, null, null, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
     [null, null, null, null, null, null, null, null, null],
@@ -84,9 +92,9 @@ recipes.remove(<deepmoblearning:glitch_infused_chestplate>);
 mods.extendedcrafting.TableCrafting.addShaped(4, <deepmoblearning:glitch_infused_chestplate>, [
     [null, <deepmoblearning:glitch_infused_ingot>, null, null, null, null, null, <deepmoblearning:glitch_infused_ingot>, null],
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, null, null, null, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
-    [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:data_model_creeper>.withTag({tier: 4}), <deepmoblearning:glitch_infused_ingot>, null, null, null, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:data_model_shulker>.withTag({tier: 4}), <deepmoblearning:glitch_infused_ingot>],
+    [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:pristine_matter_creeper>, <deepmoblearning:glitch_infused_ingot>, null, null, null, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:pristine_matter_shulker>, <deepmoblearning:glitch_infused_ingot>],
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
-    [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:data_model_wither>.withTag({tier: 4}), <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
+    [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:pristine_matter_wither>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
@@ -99,7 +107,7 @@ mods.extendedcrafting.TableCrafting.addShaped(4, <deepmoblearning:glitch_infused
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, null, null, null, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
-    [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:data_model_wither_skeleton>.withTag({tier: 4}), <deepmoblearning:glitch_infused_ingot>, null, null, null, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:data_model_blaze>.withTag({tier: 4}), <deepmoblearning:glitch_infused_ingot>],
+    [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:pristine_matter_wither_skeleton>, <deepmoblearning:glitch_infused_ingot>, null, null, null, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:pristine_matter_blaze>, <deepmoblearning:glitch_infused_ingot>],
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, null, null, null, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, null, null, null, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, null, null, null, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
@@ -114,19 +122,336 @@ mods.extendedcrafting.TableCrafting.addShaped(4, <deepmoblearning:glitch_infused
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, null, null, null, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, null, null, null, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, null, null, null, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
-    [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:data_model_zombie>.withTag({tier: 4}), <deepmoblearning:glitch_infused_ingot>, null, null, null, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:data_model_skeleton>.withTag({tier: 4}), <deepmoblearning:glitch_infused_ingot>],
+    [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:pristine_matter_zombie>, <deepmoblearning:glitch_infused_ingot>, null, null, null, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:pristine_matter_skeleton>, <deepmoblearning:glitch_infused_ingot>],
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, null, null, null, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
     [<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, null, null, null, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>]
 ]);
 
-mods.extendedcrafting.TableCrafting.addShaped(4, <contenttweaker:mod_star>, [
-    [null, null, null, null, <contenttweaker:essence_bloodmagic>, null, null, null, null],
-    [null, null, null, null, null, <contenttweaker:essence_mysticalagriculture>, null, null, null],
-    [null, null, null, null, null, null, <contenttweaker:essence_industrialforegoing>, null, null],
-    [null, <contenttweaker:essence_aquaculture>, null, null, null, null, null, <contenttweaker:essence_agricraft>, null],
-    [<contenttweaker:essence_astralsorcery>, null, null, null, null, null, null, null, <contenttweaker:essence_enderio>],
-    [null, <contenttweaker:essence_apotheosis>, null, null, null, null, null, <contenttweaker:essence_appliedenergistics>, null],
-    [null, null, null, null, null, null, <contenttweaker:essence_solarfluxreborn>, null, null],
-    [null, null, null, <contenttweaker:essence_nuclearcraft>, null, <contenttweaker:essence_thaumcraft>, null, null, null],
-    [null, null, null, null, <contenttweaker:essence_botania>, null, null, null, null]
+mods.extendedcrafting.TableCrafting.addShaped(4, <contenttweaker:inert_mod_token>, [
+    [null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null],
+    [null, null, null, <ore:ingotCosmicNeutronium>, <contenttweaker:essence_deepmoblearning>, <ore:ingotCosmicNeutronium>, null, null, null],
+    [null, null, <ore:ingotCosmicNeutronium>, <contenttweaker:essence_bloodmagic>, <ore:ingotCrystalMatrix>, <contenttweaker:essence_industrialforegoing>, <ore:ingotCosmicNeutronium>, null, null],
+    [null, <ore:ingotCosmicNeutronium>, <contenttweaker:essence_aquaculture>, <ore:ingotCrystalMatrix>, null, <ore:ingotCrystalMatrix>, null, <ore:ingotCosmicNeutronium>, null],
+    [<ore:ingotCosmicNeutronium>, <contenttweaker:essence_astralsorcery>, <ore:ingotCrystalMatrix>, null, <extendedcrafting:material:40>, null, <ore:ingotCrystalMatrix>, <contenttweaker:essence_enderio>, <ore:ingotCosmicNeutronium>],
+    [null, <ore:ingotCosmicNeutronium>, <contenttweaker:essence_mysticalagriculture>, <ore:ingotCrystalMatrix>, null, <ore:ingotCrystalMatrix>, <contenttweaker:essence_appliedenergistics>,<ore:ingotCosmicNeutronium>, null],
+    [null, null, <ore:ingotCosmicNeutronium>, <contenttweaker:essence_nuclearcraft>, <ore:ingotCrystalMatrix>, <contenttweaker:essence_solarfluxreborn>, <ore:ingotCosmicNeutronium>, null, null],
+    [null, null, null, <ore:ingotCosmicNeutronium>, <contenttweaker:essence_botania>, <ore:ingotCosmicNeutronium>, null, null, null],
+    [null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null]
+]);
+
+//Avaritia --> Extended Crafting
+mods.jei.JEI.removeAndHide(<avaritia:neutronium_compressor>);
+mods.jei.JEI.removeAndHide(<avaritia:compressed_crafting_table>);
+mods.jei.JEI.removeAndHide(<avaritia:double_compressed_crafting_table>);
+mods.jei.JEI.removeAndHide(<avaritia:extreme_crafting_table>);
+mods.jei.JEI.removeAndHide(<avaritia:singularity:*>);
+
+//Crystal Matrix Ingot
+recipes.remove(<avaritia:resource:1>);
+mods.extendedcrafting.TableCrafting.addShaped(0, <avaritia:resource:1>, [
+    [<avaritia:resource:0>, <extendedcrafting:material:24>, <extendedcrafting:material:24>, <extendedcrafting:material:24>, <extendedcrafting:material:24>, <extendedcrafting:material:24>, <avaritia:resource:0>],
+    [<avaritia:resource:0>, <ore:netherStar>, <ore:ingotIron>, <ore:ingotStellarAlloy>, <ore:ingotIron>, <ore:netherStar>, <avaritia:resource:0>],
+    [<avaritia:resource:0>, <ore:netherStar>, <ore:ingotIron>, <ore:ingotStellarAlloy>, <ore:ingotIron>, <ore:netherStar>, <avaritia:resource:0>],
+    [<avaritia:resource:0>, <extendedcrafting:material:24>, <extendedcrafting:material:24>, <extendedcrafting:material:24>, <extendedcrafting:material:24>, <extendedcrafting:material:24>, <avaritia:resource:0>]
+]);
+
+
+//Infinity Catalyst
+mods.extendedcrafting.TableCrafting.addShaped(4, <avaritia:resource:5>, [
+    [<ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>],
+    [null, <ore:ingotCrystalMatrix>, null, null, <ore:ingotCrystalMatrix>, null, null, <ore:ingotCrystalMatrix>, null],
+    [null, null, <ore:ingotCrystalMatrix>, <avaritia:resource:7>, <ore:ingotCrystalMatrix>, <avaritia:resource:7>, <ore:ingotCrystalMatrix>, null, null],
+    [null, null, <avaritia:resource:7>, <ore:ingotCrystalMatrix>, <avaritia:cosmic_meatballs>, <ore:ingotCrystalMatrix>, <avaritia:resource:7>, null, null],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <avaritia:ultimate_stew>, <contenttweaker:mod_token>, <avaritia:endest_pearl>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>],
+    [null, null, <avaritia:resource:7>, <ore:ingotCrystalMatrix>, <extendedcrafting:singularity_ultimate>, <ore:ingotCrystalMatrix>, <avaritia:resource:7>, null, null],
+    [null, null, <ore:ingotCrystalMatrix>, <avaritia:resource:7>, <ore:ingotCrystalMatrix>, <avaritia:resource:7>, <ore:ingotCrystalMatrix>, null, null],
+    [null, <ore:ingotCrystalMatrix>, null, null, <ore:ingotCrystalMatrix>, null, null, <ore:ingotCrystalMatrix>, null],
+    [<ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>]
+]);
+
+//Infinity Ingot
+mods.extendedcrafting.TableCrafting.addShaped(0, <avaritia:resource:6>, [
+    [<ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, <avaritia:resource:5>, <avaritia:resource:5>, <ore:ingotCrystalMatrix>, <avaritia:resource:5>, <avaritia:resource:5>, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <avaritia:resource:5>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <avaritia:resource:5>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <avaritia:resource:5>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, <avaritia:resource:5>, <avaritia:resource:5>, <ore:ingotCrystalMatrix>, <avaritia:resource:5>, <avaritia:resource:5>, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>]
+]);
+
+//Sword of the Cosmos
+mods.extendedcrafting.TableCrafting.addShaped(4, <avaritia:infinity_sword>, [
+    [null, null, null, null, null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>],
+    [null, null, null, null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>],
+    [null, null, null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, null],
+    [null, null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, null, null],
+    [null, <ore:ingotCrystalMatrix>, null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, null, null, null],
+    [null, null, <ore:ingotCrystalMatrix>, <ore:ingotInfinity>, <ore:ingotInfinity>, null, null, null, null],
+    [null, null, <avaritia:matter_cluster>, <ore:ingotCrystalMatrix>, null, null, null, null, null],
+    [null, <avaritia:matter_cluster>, null, <ore:ingotCrystalMatrix>, null, null, null, null, null],
+    [<avaritia:resource:5>, null, null, null, null, null, null, null, null]
+]);
+
+//Longbow of the Heavens
+mods.extendedcrafting.TableCrafting.addShaped(4, <avaritia:infinity_bow>, [
+    [null, null, null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, null, null],
+    [null, null, null, null, <ore:ingotInfinity>, null, <ore:ingotCrystalMatrix>, null, null],
+    [null, null, null, <ore:ingotInfinity>, null, null, <ore:ingotCrystalMatrix>, null, null],
+    [null, null, <ore:ingotInfinity>, null, null, null, <ore:ingotCrystalMatrix>, null, null],
+    [null, null, <avaritia:matter_cluster>, null, null, null, <ore:ingotCrystalMatrix>, null, null],
+    [null, null, <ore:ingotInfinity>, null, null, null, <ore:ingotCrystalMatrix>, null, null],
+    [null, null, null, <ore:ingotInfinity>, null, null, <ore:ingotCrystalMatrix>, null, null],
+    [null, null, null, null, <ore:ingotInfinity>, null, <ore:ingotCrystalMatrix>, null, null],
+    [null, null, null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, null, null]
+]);
+
+//World Breaker
+mods.extendedcrafting.TableCrafting.addShaped(4, <avaritia:infinity_pickaxe>, [
+    [null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, null],
+    [<ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <avaritia:matter_cluster>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>],
+    [<ore:ingotInfinity>, <ore:ingotInfinity>, null, null, <ore:ingotCosmicNeutronium>, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>],
+    [null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null],
+    [null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null],
+    [null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null],
+    [null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null],
+    [null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null],
+    [null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null]
+]);
+
+//Planet Eater
+mods.extendedcrafting.TableCrafting.addShaped(4, <avaritia:infinity_shovel>, [
+    [null, null, null, null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>],
+    [null, null, null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:blockInfinity>, <ore:ingotInfinity>],
+    [null, null, null, null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>],
+    [null, null, null, null, null, <avaritia:matter_cluster>, null, <ore:ingotInfinity>, null],
+    [null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null],
+    [null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null, null],
+    [null, null, <ore:ingotCosmicNeutronium>, null, null, null, null, null, null],
+    [null, <ore:ingotCosmicNeutronium>, null, null, null, null, null, null, null],
+    [<ore:ingotCosmicNeutronium>, null, null, null, null, null, null, null, null]
+]);
+
+//Nature's Ruin
+mods.extendedcrafting.TableCrafting.addShaped(4, <avaritia:infinity_axe>, [
+    [null, null, null, null, null, null, null, null, null],
+    [null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, null, null],
+    [null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, null, null],
+    [null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <avaritia:matter_cluster>, null, null],
+    [null, null, null, <ore:ingotInfinity>, null, null, <ore:ingotCosmicNeutronium>, null, null],
+    [null, null, null, null, null, null, <ore:ingotCosmicNeutronium>, null, null],
+    [null, null, null, null, null, null, <ore:ingotCosmicNeutronium>, null, null],
+    [null, null, null, null, null, null, <ore:ingotCosmicNeutronium>, null, null],
+    [null, null, null, null, null, null, <ore:ingotCosmicNeutronium>, null, null]
+]);
+
+//Hoe of the Green Earth
+mods.extendedcrafting.TableCrafting.addShaped(4, <avaritia:infinity_hoe>, [
+    [null, null, null, null, null, <avaritia:matter_cluster>, null, null, null],
+    [null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, null, null],
+    [<ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, null, null],
+    [<ore:ingotInfinity>, null, null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, null, null],
+    [null, null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null],
+    [null, null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null],
+    [null, null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null],
+    [null, null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null],
+    [null, null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null]
+]);
+
+//Infinity Helmet
+mods.extendedcrafting.TableCrafting.addShaped(4, <avaritia:infinity_helmet>, [
+    [null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <avaritia:resource:5>, <avaritia:resource:5>, <ore:ingotInfinity>, <avaritia:resource:5>, <avaritia:resource:5>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, null, <ore:ingotInfinity>, null, <ore:ingotInfinity>, null, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>],
+    [null, null, null, null, null, null, null, null, null],
+    [null, null, null, null, null, null, null, null, null],
+    [null, null, null, null, null, null, null, null, null]
+]);
+
+//Infinity Breastplate
+mods.extendedcrafting.TableCrafting.addShaped(4, <avaritia:infinity_chestplate>, [
+    [null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null],
+    [<ore:ingotCosmicNeutronium>, <avaritia:matter_cluster>, <ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>, <avaritia:matter_cluster>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <avaritia:resource:5>, <ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>, <avaritia:resource:5>, <ore:ingotCosmicNeutronium>],
+    [null, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, null],
+    [null, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:blockCrystalMatrix>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, null],
+    [null, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, null],
+    [null, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, null],
+    [null, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, null],
+    [null, null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null, null]
+]);
+
+//Infinity Leggings
+mods.extendedcrafting.TableCrafting.addShaped(4, <avaritia:infinity_pants>, [
+    [<ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <avaritia:resource:5>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <avaritia:resource:5>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <avaritia:matter_cluster>, <ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>, <avaritia:matter_cluster>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>]
+]);
+
+//Infinity Boots
+mods.extendedcrafting.TableCrafting.addShaped(4, <avaritia:infinity_boots>, [
+    [null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null],
+    [null, <ore:ingotCosmicNeutronium>, <avaritia:resource:5>, <ore:ingotCosmicNeutronium>, null, <ore:ingotCosmicNeutronium>, <avaritia:matter_cluster>, <ore:ingotCosmicNeutronium>, null],
+    [null, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, null, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, null],
+    [null, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, null, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, null],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, null, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, null, <ore:ingotCosmicNeutronium>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>],
+    [null, null, null, null, null, null, null, null, null],
+    [null, null, null, null, null, null, null, null, null]
+]);
+
+//Skullfire Sword
+mods.extendedcrafting.TableCrafting.addShaped(4, <avaritia:skullfire_sword>, [
+    [null, null, null, null, null, null, null, <ore:ingotCrystalMatrix>, <minecraft:blaze_powder>],
+    [null, null, null, null, null, null, <ore:ingotCrystalMatrix>, <minecraft:blaze_powder>, <ore:ingotCrystalMatrix>],
+    [null, null, null, null, null, <ore:ingotCrystalMatrix>, <minecraft:blaze_powder>, <ore:ingotCrystalMatrix>, null],
+    [null, null, null, null, <ore:ingotCrystalMatrix>, <minecraft:blaze_powder>, <ore:ingotCrystalMatrix>, null, null],
+    [null, <minecraft:bone>, null, <ore:ingotCrystalMatrix>, <minecraft:blaze_powder>, <ore:ingotCrystalMatrix>, null, null, null],
+    [null, null, <minecraft:bone>, <minecraft:blaze_powder>, <ore:ingotCrystalMatrix>, null, null, null, null],
+    [null, null, <ore:logWood>, <minecraft:bone>, null, null, null, null, null],
+    [null, <ore:logWood>, null, null, <minecraft:bone>, null, null, null, null],
+    [<ore:netherStar>, null, null, null, null, null, null, null, null]
+]);
+
+//Endest Pearl
+mods.extendedcrafting.TableCrafting.addShaped(4, <avaritia:endest_pearl>, [
+    [null, null, null, <minecraft:end_stone>, <minecraft:end_stone>, <minecraft:end_stone>, null, null, null],
+    [null, <minecraft:end_stone>, <minecraft:end_stone>, <minecraft:ender_eye>, <minecraft:ender_eye>, <minecraft:ender_eye>, <minecraft:end_stone>, <minecraft:end_stone>, null],
+    [null, <minecraft:end_stone>, <minecraft:ender_eye>, <minecraft:ender_eye>, <minecraft:ender_eye>, <minecraft:ender_eye>, <minecraft:ender_eye>, <minecraft:end_stone>, null],
+    [<minecraft:end_stone>, <minecraft:ender_eye>, <minecraft:ender_eye>, <minecraft:ender_eye>, <ore:ingotCosmicNeutronium>, <minecraft:ender_eye>, <minecraft:ender_eye>, <minecraft:ender_eye>, <minecraft:end_stone>],
+    [<minecraft:end_stone>, <minecraft:ender_eye>, <minecraft:ender_eye>, <ore:ingotCosmicNeutronium>, <ore:netherStar>, <ore:ingotCosmicNeutronium>, <minecraft:ender_eye>, <minecraft:ender_eye>, <minecraft:end_stone>],
+    [<minecraft:end_stone>, <minecraft:ender_eye>, <minecraft:ender_eye>, <minecraft:ender_eye>, <ore:ingotCosmicNeutronium>, <minecraft:ender_eye>, <minecraft:ender_eye>, <minecraft:ender_eye>, <minecraft:end_stone>],
+    [null, <minecraft:end_stone>, <minecraft:ender_eye>, <minecraft:ender_eye>, <minecraft:ender_eye>, <minecraft:ender_eye>, <minecraft:ender_eye>, <minecraft:end_stone>, null],
+    [null, <minecraft:end_stone>, <minecraft:end_stone>, <minecraft:ender_eye>, <minecraft:ender_eye>, <minecraft:ender_eye>, <minecraft:end_stone>, <minecraft:end_stone>, null],
+    [null, null, null, <minecraft:end_stone>, <minecraft:end_stone>, <minecraft:end_stone>, null, null, null]
+]);
+
+//Ultimate Stew
+mods.extendedcrafting.TableCrafting.addShapeless(4, <avaritia:ultimate_stew>, [
+    <avaritia:resource:2>, <minecraft:wheat>, <minecraft:carrot>, <minecraft:beetroot>, <minecraft:potato>, <minecraft:apple>, <minecraft:melon>, <minecraft:pumpkin>, <minecraft:cactus>, 
+    <minecraft:red_mushroom>, <minecraft:brown_mushroom>, <harvestcraft:cherryitem>, <harvestcraft:seaweeditem>, <harvestcraft:grapeitem>, <harvestcraft:beanitem>, <harvestcraft:cassavaitem>, <harvestcraft:pearitem>, <harvestcraft:blackberryitem>, 
+    <harvestcraft:arrowrootitem>, <harvestcraft:rutabagaitem>, <harvestcraft:wintersquashitem>, <harvestcraft:walnutitem>, <harvestcraft:cornitem>, <harvestcraft:bananaitem>, <harvestcraft:broccoliitem>, <harvestcraft:pecanitem>, <harvestcraft:cantaloupeitem>, 
+    <harvestcraft:zucchiniitem>, <harvestcraft:raspberryitem>, <harvestcraft:cranberryitem>, <harvestcraft:peanutitem>, <harvestcraft:almonditem>, <harvestcraft:oliveitem>, <harvestcraft:radishitem>, <harvestcraft:soybeanitem>, <harvestcraft:dragonfruititem>, 
+    <harvestcraft:sisalitem>, <harvestcraft:vanillabeanitem>, <harvestcraft:barleyitem>, <harvestcraft:blueberryitem>, <harvestcraft:coconutitem>, <harvestcraft:sesameseedsitem>, <harvestcraft:greengrapeitem>, <harvestcraft:dateitem>, <harvestcraft:waterchestnutitem>, 
+    <harvestcraft:gooseberryitem>, <harvestcraft:peppercornitem>, <harvestcraft:chickpeaitem>, <harvestcraft:bellpepperitem>, <harvestcraft:agaveitem>, <harvestcraft:eggplantitem>, <harvestcraft:celeryitem>, <harvestcraft:pineappleitem>, <harvestcraft:limeitem>, 
+    <harvestcraft:lettuceitem>, <harvestcraft:tomatoitem>, <harvestcraft:kaleitem>, <harvestcraft:avocadoitem>, <harvestcraft:gingeritem>, <harvestcraft:peasitem>, <harvestcraft:quinoaitem>, <harvestcraft:parsnipitem>, <harvestcraft:cabbageitem>, 
+    <harvestcraft:elderberryitem>, <harvestcraft:spinachitem>, <harvestcraft:persimmonitem>, <harvestcraft:spiceleafitem>, <harvestcraft:cucumberitem>, <harvestcraft:garlicitem>, <harvestcraft:cactusfruititem>, <harvestcraft:mustardseedsitem>, <harvestcraft:brusselsproutitem>, 
+    <harvestcraft:sweetpotatoitem>, <harvestcraft:juniperberryitem>, <harvestcraft:scallionitem>, <harvestcraft:rhubarbitem>, <harvestcraft:bambooshootitem>, <harvestcraft:chestnutitem>, <harvestcraft:amaranthitem>, <harvestcraft:strawberryitem>
+]);
+
+//Cosmic Meatballs
+mods.extendedcrafting.TableCrafting.addShapeless(4, <avaritia:cosmic_meatballs>, [
+    <avaritia:resource:2>, <harvestcraft:groundvenisonitem>, <harvestcraft:groundturkeyitem>, <harvestcraft:groundrabbititem>, <harvestcraft:groundporkitem>, <harvestcraft:groundmuttonitem>, <harvestcraft:groundfishitem>, <harvestcraft:groundduckitem>, <harvestcraft:groundchickenitem>, <harvestcraft:groundbeefitem>, <harvestcraft:sweetandsourmeatballsitem>, <harvestcraft:meatfeastpizzaitem>
+]);
+
+//Neutron Collector
+mods.extendedcrafting.TableCrafting.addShaped(4, <avaritia:neutron_collector>, [
+    [<ore:blockIron>, <ore:blockIron>, <ore:blockQuartz>, <ore:blockQuartz>, <ore:blockQuartz>, <ore:blockQuartz>, <ore:blockQuartz>, <ore:blockIron>, <ore:blockIron>],
+    [<ore:blockIron>, null, <ore:blockQuartz>, <ore:blockQuartz>, <ore:blockQuartz>, <ore:blockQuartz>, <ore:blockQuartz>, null, <ore:blockIron>],
+    [<ore:blockIron>, null, null, <ore:blockRedstone>, <ore:blockRedstone>, <ore:blockRedstone>, null, null, <ore:blockIron>],
+    [<ore:ingotCrystalMatrix>, null, <ore:blockRedstone>, <ore:blockRedstone>, <ore:blockRedstone>, <ore:blockRedstone>, <ore:blockRedstone>, null, <ore:ingotCrystalMatrix>],
+    [<ore:blockIron>, null, <ore:blockRedstone>, <ore:blockRedstone>, <ore:ingotCrystalMatrix>, <ore:blockRedstone>, <ore:blockRedstone>, null, <ore:blockIron>],
+    [<ore:ingotCrystalMatrix>, null, <ore:blockRedstone>, <ore:blockRedstone>, <ore:blockRedstone>, <ore:blockRedstone>, <ore:blockRedstone>, null, <ore:ingotCrystalMatrix>],
+    [<ore:blockIron>, null, null, <ore:blockRedstone>, <ore:blockRedstone>, <ore:blockRedstone>, null, null, <ore:blockIron>],
+    [<ore:blockIron>, null, null, null, null, null, null, null, <ore:blockIron>],
+    [<ore:blockIron>, <ore:blockIron>, <ore:blockIron>, <ore:ingotCrystalMatrix>, <ore:blockIron>, <ore:ingotCrystalMatrix>, <ore:blockIron>, <ore:blockIron>, <ore:blockIron>]
+]);
+
+//Infinite Capacitor
+mods.extendedcrafting.TableCrafting.addShaped(4, <avaritiaio:infinitecapacitor>, [
+    [null, <ore:ingotInfinity>, <ore:ingotInfinity>, <avaritia:resource:5>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, null],
+    [null, <ore:ingotInfinity>, <ore:ingotCrystalMatrix>, <avaritia:resource:5>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotInfinity>, null],
+    [null, <ore:ingotInfinity>, <ore:ingotCrystalMatrix>, <avaritia:resource:5>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotInfinity>, null],
+    [null, <ore:ingotInfinity>, <ore:ingotCrystalMatrix>, <avaritia:resource:5>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotInfinity>, null],
+    [null, <ore:ingotInfinity>, <ore:ingotCrystalMatrix>, <avaritia:resource:5>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotInfinity>, null],
+    [null, <ore:ingotInfinity>, <ore:ingotCrystalMatrix>, <avaritia:resource:5>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotInfinity>, null],
+    [null, <ore:ingotInfinity>, <ore:ingotInfinity>, <avaritia:resource:5>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, null],
+    [null, null, <ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>, null, null],
+    [null, null, <ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>, null, null]
+]);
+
+//Asgardandelion
+mods.extendedcrafting.TableCrafting.addShaped(4, <botania:specialflower>.withTag({type: "asgardandelion"}), [
+    [null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, null, null, null],
+    [null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, null, null],
+    [null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, <avaritia:resource:5>, <ore:ingotInfinity>, <ore:ingotInfinity>, null, null],
+    [null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, null, null],
+    [null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, null, null, null],
+    [null, <ore:nuggetCosmicNeutronium>, <ore:nuggetCosmicNeutronium>, null, <ore:ingotCosmicNeutronium>, null, <ore:nuggetCosmicNeutronium>, <ore:nuggetCosmicNeutronium>, null],
+    [<ore:nuggetCosmicNeutronium>, <ore:nuggetCosmicNeutronium>, <ore:nuggetCosmicNeutronium>, <ore:nuggetCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:nuggetCosmicNeutronium>, <ore:nuggetCosmicNeutronium>, <ore:nuggetCosmicNeutronium>, <ore:nuggetCosmicNeutronium>],
+    [null, <ore:nuggetCosmicNeutronium>, <ore:nuggetCosmicNeutronium>, null, <ore:ingotCosmicNeutronium>, null, <ore:nuggetCosmicNeutronium>, <ore:nuggetCosmicNeutronium>, null],
+    [null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null]
+]);
+
+//Enhancement Crystal
+mods.extendedcrafting.TableCrafting.addShaped(4, <avaritiatweaks:enhancement_crystal>, [
+    [null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null],
+    [null, null, null, <ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>, null, null, null],
+    [null, null, <ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>, null, null],
+    [null, null, <ore:ingotCosmicNeutronium>, <avaritia:resource:5>, <ore:ingotCrystalMatrix>, <avaritia:resource:5>, <ore:ingotCosmicNeutronium>, null, null],
+    [null, null, <ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, <avaritia:resource:5>, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>, null, null],
+    [null, null, <ore:ingotCosmicNeutronium>, <avaritia:resource:5>, <ore:ingotCrystalMatrix>, <avaritia:resource:5>, <ore:ingotCosmicNeutronium>, null, null],
+    [null, null, <ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>, null, null],
+    [null, null, null, <ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>, null, null, null],
+    [null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null]
+]);
+
+//Infinitato
+mods.extendedcrafting.TableCrafting.addShaped(4, <avaritiatweaks:infinitato>, [
+    [<botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>],
+    [<botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>],
+    [<botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <avaritia:matter_cluster>, <botania:tinypotato>, <avaritia:matter_cluster>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>],
+    [<botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>],
+    [<botania:tinypotato>, <botania:tinypotato>, <avaritia:matter_cluster>, <botania:tinypotato>, <avaritia:resource:5>, <botania:tinypotato>, <avaritia:matter_cluster>, <botania:tinypotato>, <botania:tinypotato>],
+    [<botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <avaritia:matter_cluster>, <avaritia:matter_cluster>, <avaritia:matter_cluster>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>],
+    [<botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>],
+    [<botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>],
+    [<botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>, <botania:tinypotato>]
+]);
+
+//Neutronium Solar Panel
+mods.extendedcrafting.TableCrafting.addShaped(4, <solarflux:solar_panel_neutronium>, [
+    [null, null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null, null],
+    [null, <ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <solarflux:solar_panel_8>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>, null],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, null, null, <ore:nuggetCosmicNeutronium>, null, null, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, null, <avaritia:resource:2>, <avaritia:resource:2>, <avaritia:resource:2>, null, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>],
+    [null, <solarflux:solar_panel_8>, <ore:nuggetCosmicNeutronium>, <avaritia:resource:2>, <avaritia:resource:5>, <avaritia:resource:2>, <ore:nuggetCosmicNeutronium>, <solarflux:solar_panel_8>, null],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, null, <avaritia:resource:2>, <avaritia:resource:2>, <avaritia:resource:2>, null, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, null, null, <ore:nuggetCosmicNeutronium>, null, null, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>],
+    [null, <ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <solarflux:solar_panel_8>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>, null],
+    [null, null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null, null]
+]);
+
+//Solar Panel of Infinity
+mods.extendedcrafting.TableCrafting.addShaped(4, <solarflux:solar_panel_infinity>, [
+    [null, null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null, null],
+    [null, <ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:blockCosmicNeutronium>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>, null],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, null, null, <ore:nuggetCosmicNeutronium>, null, null, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, null, <avaritia:resource:2>, <ore:ingotInfinity>, <avaritia:resource:2>, null, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>],
+    [null, <ore:blockCosmicNeutronium>, <ore:nuggetCosmicNeutronium>, <ore:ingotInfinity>, <solarflux:solar_panel_neutronium>, <ore:ingotInfinity>, <ore:nuggetCosmicNeutronium>, <ore:blockCosmicNeutronium>, null],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, null, <avaritia:resource:2>, <ore:ingotInfinity>, <avaritia:resource:2>, null, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, null, null, <ore:nuggetCosmicNeutronium>, null, null, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>],
+    [null, <ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:blockCosmicNeutronium>, <ore:ingotCrystalMatrix>, <ore:ingotCrystalMatrix>, <ore:ingotCosmicNeutronium>, null],
+    [null, null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, null, null]
+]);
+
+//Creative Dank Null
+mods.extendedcrafting.TableCrafting.addShaped(4, <danknull:dank_null_6>, [
+    [<danknull:dank_null_0>, <danknull:dank_null_0>, <danknull:dank_null_0>, <danknull:dank_null_2>, <danknull:dank_null_2>, <danknull:dank_null_2>, <danknull:dank_null_0>, <danknull:dank_null_0>, <danknull:dank_null_0>],
+    [<danknull:dank_null_0>, <danknull:dank_null_1>, <danknull:dank_null_1>, <danknull:dank_null_3>, <danknull:dank_null_3>, <danknull:dank_null_3>, <danknull:dank_null_1>, <danknull:dank_null_1>, <danknull:dank_null_0>],
+    [<danknull:dank_null_0>, <danknull:dank_null_1>, <danknull:dank_null_1>, <danknull:dank_null_4>, <ore:ingotUltimate>, <danknull:dank_null_4>, <danknull:dank_null_1>, <danknull:dank_null_1>, <danknull:dank_null_0>],
+    [<danknull:dank_null_2>, <danknull:dank_null_3>, <danknull:dank_null_4>, <ore:ingotUltimate>, <danknull:dank_null_5>, <ore:ingotUltimate>, <danknull:dank_null_4>, <danknull:dank_null_3>, <danknull:dank_null_2>],
+    [<danknull:dank_null_2>, <danknull:dank_null_3>, <ore:ingotUltimate>, <danknull:dank_null_5>, <avaritiatweaks:enhancement_crystal>, <danknull:dank_null_5>, <ore:ingotUltimate>, <danknull:dank_null_3>, <danknull:dank_null_2>],
+    [<danknull:dank_null_2>, <danknull:dank_null_3>, <danknull:dank_null_4>, <ore:ingotUltimate>, <danknull:dank_null_5>, <ore:ingotUltimate>, <danknull:dank_null_4>, <danknull:dank_null_3>, <danknull:dank_null_2>],
+    [<danknull:dank_null_0>, <danknull:dank_null_1>, <danknull:dank_null_1>, <danknull:dank_null_4>, <ore:ingotUltimate>, <danknull:dank_null_4>, <danknull:dank_null_1>, <danknull:dank_null_1>, <danknull:dank_null_0>],
+    [<danknull:dank_null_0>, <danknull:dank_null_1>, <danknull:dank_null_1>, <danknull:dank_null_3>, <danknull:dank_null_3>, <danknull:dank_null_3>, <danknull:dank_null_1>, <danknull:dank_null_1>, <danknull:dank_null_0>],
+    [<danknull:dank_null_0>, <danknull:dank_null_0>, <danknull:dank_null_0>, <danknull:dank_null_2>, <danknull:dank_null_2>, <danknull:dank_null_2>, <danknull:dank_null_0>, <danknull:dank_null_0>, <danknull:dank_null_0>]
 ]);

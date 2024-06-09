@@ -1,0 +1,25 @@
+{
+	x: 8.25d,
+	y: 0.5535714285714235d,
+	dependencies: [
+		"9047cc87",
+		"d803e802",
+		"e1bc1a66",
+		"57f7faab",
+		"ca73689e"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "71f10f3e",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "be5f9d4e",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 2
+	}]
+}

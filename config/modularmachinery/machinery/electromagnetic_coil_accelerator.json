@@ -1,0 +1,2542 @@
+{
+    "registryname": "electromagnetic_coil_accelerator",
+    "localizedname": "Electromagnetic Coil Accelerator",
+    "color":"ffffff",
+    "parts": [
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockinputbus@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "z": -15,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "z": -15,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": -16,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": -16,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": -16,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": -15,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 2,
+            "z": -7,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 2,
+            "z": -7,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -16,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -16,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": -15,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": -16,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": -23,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": -22,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": -23,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": -22,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 2,
+            "z": -15,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 2,
+            "z": -15,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": -15,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": -15,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": -23,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": -23,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "z": -14,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": -15,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -15,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": -21,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": -21,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 2,
+            "z": -14,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": -6,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 1,
+            "z": -6,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "z": -5,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": -4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "z": -13,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 4,
+            "z": -4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 2,
+            "z": -5,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": -21,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": -21,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": -22,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": -21,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": -22,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": -20,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": -21,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": -21,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": -20,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": -21,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 2,
+            "z": -13,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": -4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": -13,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": -4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 1,
+            "z": -13,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "z": -4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "z": -4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": -4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 2,
+            "z": -12,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": -13,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "z": -12,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": -4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 4,
+            "z": -19,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 2,
+            "z": -4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 2,
+            "z": -4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": -20,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": -20,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": -20,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": -20,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": -21,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": -21,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": -13,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": -20,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 2,
+            "z": -12,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": -20,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 2,
+            "z": -12,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": -20,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": -20,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": -4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 4,
+            "z": -19,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": -4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 3,
+            "z": -19,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": -20,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": -19,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": -19,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": -20,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "z": -3,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "z": -3,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 4,
+            "z": -2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": -4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 4,
+            "z": -2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": -2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 3,
+            "z": -19,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 4,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 2,
+            "z": -11,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 4,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 4,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "z": -19,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 4,
+            "z": -18,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 4,
+            "z": -2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 4,
+            "z": -18,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 2,
+            "z": -3,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 4,
+            "z": -2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 4,
+            "z": -18,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": -19,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 2,
+            "z": -3,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 4,
+            "z": -2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": -19,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": -20,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": -20,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": -19,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": -20,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": -19,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": -20,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 2,
+            "z": -11,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 4,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 4,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": -19,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": 4,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": -19,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 4,
+            "z": -18,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 2,
+            "z": -19,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 4,
+            "z": -18,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 4,
+            "z": -18,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 3,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 3,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": -19,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": -19,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": -19,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 3,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": 3,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 4,
+            "z": -1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 4,
+            "z": -1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 4,
+            "z": -1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": -19,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 2,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 4,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 2,
+            "z": -10,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 4,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 4,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": -19,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 4,
+            "z": -17,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": -18,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 4,
+            "z": -1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 4,
+            "z": -17,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": -18,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 4,
+            "z": -1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 4,
+            "z": -1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": -17,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 2,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 2,
+            "z": -10,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 4,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 4,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": 2,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": 4,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": -18,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": -19,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 2,
+            "z": -18,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 4,
+            "z": -17,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 4,
+            "z": -17,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 1,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 4,
+            "z": -17,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 3,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 3,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 3,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": 1,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": 3,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 2,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 2,
+            "z": -9,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": -18,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": -18,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "z": -17,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": -18,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": -17,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 4,
+            "z": -16,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": -16,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": -16,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 2,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 0,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": 0,
+            "z": -10,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 2,
+            "z": -9,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": 2,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": -18,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 4,
+            "z": -16,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": -18,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 2,
+            "z": -17,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 4,
+            "z": -16,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": -18,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 2,
+            "z": -17,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 4,
+            "z": -16,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 1,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": 1,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 2,
+            "z": -8,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "z": -16,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": -17,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "z": -16,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": -17,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": -17,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": -15,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 0,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": 0,
+            "z": -9,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 2,
+            "z": -8,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -17,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": -17,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": -17,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 4,
+            "z": -15,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 2,
+            "z": -16,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 2,
+            "z": -16,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": -15,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": -15,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": -23,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": -23,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockoutputbus@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 2,
+            "z": -7,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "z": -7,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        }
+    ]}

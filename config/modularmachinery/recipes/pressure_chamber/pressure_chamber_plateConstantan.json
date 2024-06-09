@@ -1,0 +1,24 @@
+{
+    "machine": "pressure_chamber",
+    "registryName": "pressure_chamber_plateConstantan",
+    "recipeTime": 1,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 4096
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotConstantan",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "thermalfoundation:material@356",
+            "amount": 1
+        }
+    ]
+}

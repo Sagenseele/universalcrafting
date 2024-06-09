@@ -1,0 +1,15 @@
+{
+	x: 2.25d,
+	y: 0.75d,
+	dependencies: [
+		"b701e6e7"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "2b13b138",
+		type: "item",
+		items: [{
+			item: "contenttweaker:essence_nuclearcraft"
+		}]
+	}]
+}

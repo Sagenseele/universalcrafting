@@ -1,6 +1,7 @@
 {
 	x: 7.5d,
-	y: -6.5d,
+	y: -7.0d,
+	description: "Superiour Inscriber",
 	dependencies: [
 		"f0aa0789"
 	],

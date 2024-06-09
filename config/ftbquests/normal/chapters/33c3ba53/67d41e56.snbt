@@ -1,0 +1,25 @@
+{
+	x: 14.0d,
+	y: 4.0d,
+	dependencies: [
+		"00440bba"
+	],
+	tasks: [{
+		uid: "4e064bfc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "avaritia:infinity_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d53c66c2",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 3
+	}]
+}

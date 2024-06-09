@@ -1,0 +1,15 @@
+{
+	x: 6.5d,
+	y: -2.5d,
+	text: [
+		"Nuclearcraft looks intimidating, right? With the fuels, isotopes, fluids and cryptic names at first. But don't worry too much about the names:",
+		"Create some isotopes, melt those isotopes to molten fluid. Mix fluids of the same type (e.g. Plutonium Isotope with another Plutonium Isotope), use the ingot former to create the fuel and burn it in a fission reactor. Repeat ad nausea.",
+		"",
+		"The quests are only one possibility, so see it as suggestion. You may find a more efficient way to Californium."
+	],
+	tasks: [{
+		uid: "f2c8cbb9",
+		type: "checkmark",
+		title: "Fuel Reprocessing"
+	}]
+}

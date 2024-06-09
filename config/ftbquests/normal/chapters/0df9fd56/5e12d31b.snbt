@@ -1,0 +1,21 @@
+{
+	x: -3.5d,
+	y: -7.5d,
+	description: "How about some toast?",
+	dependencies: [
+		"b3299cc6"
+	],
+	tasks: [{
+		uid: "6bddaf54",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "cookingforblockheads:toaster"
+		}]
+	}],
+	rewards: [{
+		uid: "7c7c4c5a",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

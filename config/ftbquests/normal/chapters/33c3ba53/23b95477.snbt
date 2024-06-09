@@ -1,0 +1,15 @@
+{
+	x: 9.0d,
+	y: 4.5d,
+	dependencies: [
+		"66e3f26b"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "842af7dc",
+		type: "item",
+		items: [{
+			item: "avaritiatweaks:enhancement_crystal"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "More Overlays",
+	x: 0.0d,
+	y: 2.0d,
+	text: [
+		"Press F7 for spawn light levels.",
+		"Press F9 for Chunk Borders."
+	],
+	tasks: [{
+		uid: "712bf5a5",
+		type: "checkmark",
+		disable_toast: true
+	}],
+	rewards: [{
+		uid: "bb487240",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

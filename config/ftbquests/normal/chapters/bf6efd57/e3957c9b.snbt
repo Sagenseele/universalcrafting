@@ -1,0 +1,18 @@
+{
+	x: 10.5d,
+	y: 1.5d,
+	size: 1.5d,
+	tasks: [{
+		uid: "12a48b04",
+		type: "item",
+		items: [{
+			item: "contenttweaker:essence_solarfluxreborn"
+		}]
+	}],
+	rewards: [{
+		uid: "e468ebca",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 4
+	}]
+}

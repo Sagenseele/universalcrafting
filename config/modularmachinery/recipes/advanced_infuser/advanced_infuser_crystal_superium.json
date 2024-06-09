@@ -1,0 +1,37 @@
+{
+    "machine": "advanced_infuser",
+    "registryName": "advanced_infuser_crystal_superium",
+    "recipeTime": 20,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:crystal_soulless_superium",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:soul_sand",
+            "amount": 16
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "astralsorcery.liquidstarlight",
+            "amount": 1000
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "contenttweaker:crystal_superium",
+            "amount": 1
+        },
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "water_superium",
+            "amount": 200
+        }
+    ]
+}

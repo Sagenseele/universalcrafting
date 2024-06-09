@@ -18,8 +18,7 @@
 				multiblock: "IP:Pumpjack"
 			}
 		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
+		ignore_damage: true
 	}],
 	rewards: [{
 		uid: "a25a8bd3",

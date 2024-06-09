@@ -1,6 +1,6 @@
 {
-	x: 8.5d,
-	y: -1.0d,
+	x: 7.0d,
+	y: -1.5d,
 	description: "Superior item collector",
 	tasks: [{
 		uid: "60754e13",

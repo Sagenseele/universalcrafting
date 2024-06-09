@@ -1,0 +1,22 @@
+{
+	title: "Universal Points",
+	icon: "contenttweaker:universal_points",
+	x: 4.5d,
+	y: 0.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "2f16679f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "contenttweaker:mod_star"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "8020383f",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 16
+	}]
+}

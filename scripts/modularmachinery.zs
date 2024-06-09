@@ -34,22 +34,22 @@ for i in 1 to 7 {
     ]);
     var fluid_output = "fluid_output_" + (i+1);
     recipes.addShaped(fluid_output, FOArray[i], [
-        [<minecraft:chest>, <modularmachinery:itemmodularium>, <minecraft:chest>],
+        [<minecraft:bucket>, <modularmachinery:itemmodularium>, <minecraft:bucket>],
         [<modularmachinery:itemmodularium>, FOArray[before], <modularmachinery:itemmodularium>],
         [null, <minecraft:hopper>, null]
     ]);
 
     var energy_input = "energy_input_" + (i+1);
     recipes.addShaped(energy_input, EIArray[i], [
-        [null, <minecraft:hopper>, null],
-        [<modularmachinery:itemmodularium>, EIArray[before], <modularmachinery:itemmodularium>],
-        [<minecraft:bucket>, <modularmachinery:itemmodularium>, <minecraft:bucket>]
+        [null, <minecraft:redstone>, null],
+        [<minecraft:redstone>, EIArray[before], <minecraft:redstone>],
+        [<minecraft:repeater>, <minecraft:redstone_block>, <minecraft:repeater>]
     ]);
     var energy_output = "energy_output_" + (i+1);
     recipes.addShaped(energy_output, EOArray[i], [
-        [<minecraft:chest>, <modularmachinery:itemmodularium>, <minecraft:chest>],
-        [<modularmachinery:itemmodularium>, EOArray[before], <modularmachinery:itemmodularium>],
-        [null, <minecraft:hopper>, null]
+        [<minecraft:repeater>, <minecraft:redstone_block>, <minecraft:repeater>],
+        [<minecraft:redstone>, EOArray[before], <minecraft:redstone>],
+        [null, <minecraft:redstone>, null]
     ]);
 }
 
@@ -63,6 +63,12 @@ recipes.addShaped("mm_machine_gearbox", <modularmachinery:blockcasing:3>, [
     [<modularmachinery:blockcasing:0>, <ore:gearSteel>, <modularmachinery:blockcasing:0>],
     [<ore:gearSteel>, null, <ore:gearSteel>],
     [<modularmachinery:blockcasing:0>, <ore:gearSteel>, <modularmachinery:blockcasing:0>]
+]);
+
+recipes.addShaped("mm_machine_circuitry", <modularmachinery:blockcasing:5>, [
+    [null, <modularmachinery:blockcasing:0>, null],
+    [<modularmachinery:blockcasing:0>, <quantumflux:craftingpiece:5>, <modularmachinery:blockcasing:0>],
+    [null, <modularmachinery:blockcasing:0>, null]
 ]);
 
 recipes.replaceAllOccurences(<ore:blockRedstone>, <ore:blockDarkSteel>, <modularmachinery:blockcasing:0>);

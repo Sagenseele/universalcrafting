@@ -1,0 +1,17 @@
+{
+	x: 5.5d,
+	y: -1.0d,
+	dependencies: [
+		"2a95e1b3"
+	],
+	tasks: [{
+		uid: "c9e57715",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {}
+			},
+			id: "yabba:upgrade_gold_tier"
+		}]
+	}]
+}

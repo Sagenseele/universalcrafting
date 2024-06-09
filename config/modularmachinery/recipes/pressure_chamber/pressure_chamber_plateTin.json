@@ -1,0 +1,24 @@
+{
+    "machine": "pressure_chamber",
+    "registryName": "pressure_chamber_plateTin",
+    "recipeTime": 1,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 4096
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotTin",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "thermalfoundation:material@321",
+            "amount": 1
+        }
+    ]
+}

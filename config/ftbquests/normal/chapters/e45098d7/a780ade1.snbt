@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: -6.5d,
+	dependencies: [
+		"f6a003af"
+	],
+	tasks: [{
+		uid: "f239dd54",
+		type: "item",
+		items: [{
+			item: "enderio:item_capacitor_vivid"
+		}]
+	}]
+}

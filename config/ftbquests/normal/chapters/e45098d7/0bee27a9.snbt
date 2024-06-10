@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: -6.5d,
+	tasks: [{
+		uid: "1a6a5fcb",
+		type: "item",
+		items: [{
+			item: "enderio:item_capacitor_silver"
+		}]
+	}]
+}

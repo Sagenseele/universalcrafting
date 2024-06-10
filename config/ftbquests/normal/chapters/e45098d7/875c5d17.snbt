@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: -7.5d,
+	dependencies: [
+		"49effb06"
+	],
+	tasks: [{
+		uid: "bc86dff8",
+		type: "item",
+		items: [{
+			item: "enderio:item_capacitor_totemic"
+		}]
+	}]
+}

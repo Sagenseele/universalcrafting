@@ -1,0 +1,48 @@
+{
+    "machine": "quantum_assembler",
+    "registryName": "qa_superium_process",
+    "recipeTime": 600,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 100
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "gasoline",
+            "amount": 200
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "concentrate_supermedium",
+            "amount": 200
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "nuclearcraft:lithium",
+            "amount": 1
+        },
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "fluid_supremium",
+            "amount": 120
+        },        
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "suspension_supremium",
+            "amount": 140
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "contenttweaker:salt_supremium",
+            "amount": 1
+        }
+    ]
+}

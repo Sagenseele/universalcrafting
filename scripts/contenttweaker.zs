@@ -20,6 +20,16 @@ nutrient_bar.register();
 var universal_points=VanillaFactory.createItem("universal_points");
 universal_points.register();
 
+//Quantum Conductor
+var quantum_conductor=VanillaFactory.createFluid("quantum_conductor", Color.fromHex("ba00b1"));
+quantum_conductor.register();
+
+//Multi-Items
+var multigem=VanillaFactory.createItem("multigem");
+multigem.register();
+var multiingot=VanillaFactory.createItem("multiingot");
+multiingot.register();
+
 //Modessences
 var essence_botania=VanillaFactory.createItem("essence_botania");
 essence_botania.register();
@@ -60,14 +70,20 @@ var crystal_prudentium=VanillaFactory.createItem("crystal_prudentium");
 crystal_prudentium.register();
 var crystal_intermedium=VanillaFactory.createItem("crystal_intermedium");
 crystal_intermedium.register();
-var crystal_superium=VanillaFactory.createItem("crystal_superium");
-crystal_superium.register();
 var crystal_soulless_superium=VanillaFactory.createItem("crystal_soulless_superium");
 crystal_soulless_superium.register();
+var crystal_superium=VanillaFactory.createItem("crystal_superium");
+crystal_superium.register();
 var crystal_supremium=VanillaFactory.createItem("crystal_supremium");
 crystal_supremium.register();
-var multigem=VanillaFactory.createItem("multigem");
-multigem.register();
+var solid_supermedium=VanillaFactory.createItem("solid_supermedium");
+solid_supermedium.register();
+var trace_element_supermedium=VanillaFactory.createItem("trace_element_supermedium");
+trace_element_supermedium.register();
+var salt_supremium=VanillaFactory.createItem("salt_supremium");
+salt_supremium.register();
+var substrate_supremium=VanillaFactory.createItem("substrate_supremium");
+substrate_supremium.register();
 var sludge_inferium=VanillaFactory.createFluid("sludge_inferium", Color.fromHex("4f8001"));
 sludge_inferium.register();
 var sludge_intermedium=VanillaFactory.createFluid("sludge_intermedium", Color.fromHex("705401"));
@@ -82,17 +98,19 @@ var water_intermedium=VanillaFactory.createFluid("water_intermedium", Color.from
 water_intermedium.register();
 var water_superium=VanillaFactory.createFluid("water_superium", Color.fromHex("0000ff"));
 water_superium.register();
-var water_supremium=VanillaFactory.createFluid("water_supremium", Color.fromHex("e00000"));
-water_supremium.register();
 var solution_prudentium=VanillaFactory.createFluid("solution_prudentium", Color.fromHex("00c965"));
 solution_prudentium.register();
 var solution_prudiferium=VanillaFactory.createFluid("solution_prudiferium", Color.fromHex("00b36e"));
 solution_prudiferium.register();
-var solution_supermedium=VanillaFactory.createFluid("solution_supermedium", Color.fromHex("54ff71"));
+var solution_supermedium=VanillaFactory.createFluid("solution_supermedium", Color.fromHex("68c3fc"));
 solution_supermedium.register();
+var concentrate_supermedium=VanillaFactory.createFluid("concentrate_supermedium", Color.fromHex("0270b5"));
+concentrate_supermedium.register();
+var fluid_supremium=VanillaFactory.createFluid("fluid_supremium", Color.fromHex("ff1418"));
+fluid_supremium.register();
+var suspension_supremium=VanillaFactory.createFluid("suspension_supremium", Color.fromHex("6e0103"));
+suspension_supremium.register();
 var solution_nitric_prosperity=VanillaFactory.createFluid("solution_nitric_prosperity", Color.fromHex("f5b0b0"));
 solution_nitric_prosperity.register();
 var solution_acidic_superium=VanillaFactory.createFluid("solution_acidic_superium", Color.fromHex("306bc9"));
 solution_acidic_superium.register();
-var quantum_conductor=VanillaFactory.createFluid("quantum_conductor", Color.fromHex("ba00b1"));
-quantum_conductor.register();

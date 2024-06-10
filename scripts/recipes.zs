@@ -72,12 +72,17 @@ recipes.replaceAllOccurences(<ore:essenceSuperium>, <contenttweaker:crystal_supe
 recipes.replaceAllOccurences(<ore:essenceSuperium>, <contenttweaker:crystal_superium>, <mysticalagriculture:superium_apple>);
 
 //Supremium Crystal
-//recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:crafting:21>);
-//recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:crafting:54>);
-//recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:crafting:37>);
-//recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:gear:9>);
-//recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:coal:4>);
-//recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:supremium_apple>);
+// --> Modular Machinery Quantum Assembler
+mods.nuclearcraft.salt_mixer.addRecipe([<liquid:water_intermedium> * 500, <liquid:water_superium> * 500, <liquid:solution_supermedium> * 1000]);
+mods.nuclearcraft.alloy_furnace.addRecipe([<ore:dustCoal>, <contenttweaker:salt_supremium>, <contenttweaker:substrate_supremium>, 2.5, 5]);
+mods.nuclearcraft.alloy_furnace.addRecipe([<ore:gemBoronArsenide>, <contenttweaker:substrate_supremium>, <contenttweaker:crystal_supremium>, 2.5, 5]);
+mods.nuclearcraft.crystallizer.addRecipe([<liquid:fluid_supremium> * 200, <mysticalagriculture:crafting:4>]);
+recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:crafting:21>);
+recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:crafting:54>);
+recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:crafting:37>);
+recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:gear:9>);
+recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:coal:4>);
+recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_supremium>, <mysticalagriculture:supremium_apple>);
 
 //Insanium Crystal
 

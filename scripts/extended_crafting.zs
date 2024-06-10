@@ -461,15 +461,15 @@ mods.extendedcrafting.TableCrafting.addShaped(4, <danknull:dank_null_6>, [
 //    [aeadditions:storage.physical:3],
 //]);
 
-//Creative Storage Cell
+//Creative Model Data Tier Setter Thingy
 mods.extendedcrafting.TableCrafting.addShaped(0, <deepmoblearning:creative_model_learner>, [
-    [null, null, null, null, <deepmoblearning:data_model_blaze>, null, null, null, null],
-    [null, <deepmoblearning:data_model_creeper>, <deepmoblearning:data_model_dragon>, null, null, null, <deepmoblearning:data_model_enderman>, <deepmoblearning:data_model_ghast>, null],
-    [null, <deepmoblearning:data_model_guardian>, null, null, <ore:blockInfinity>, null, null, <deepmoblearning:data_model_shulker>, null],
-    [null, null, null, <deepmoblearning:infused_ingot_block>, <deepmoblearning:infused_ingot_block>, <deepmoblearning:infused_ingot_block>, null, null, null],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <deepmoblearning:data_model_blaze>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <deepmoblearning:data_model_creeper>, <deepmoblearning:data_model_dragon>, null, null, null, <deepmoblearning:data_model_enderman>, <deepmoblearning:data_model_ghast>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <deepmoblearning:data_model_guardian>, null, null, <ore:blockInfinity>, null, null, <deepmoblearning:data_model_shulker>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, null, null, <deepmoblearning:infused_ingot_block>, <deepmoblearning:infused_ingot_block>, <deepmoblearning:infused_ingot_block>, null, null, <ore:ingotCosmicNeutronium>],
     [<deepmoblearning:data_model_skeleton>, null, <deepmoblearning:infused_ingot_block>, <deepmoblearning:infused_ingot_block>, <deepmoblearning:infused_ingot_block>, <deepmoblearning:infused_ingot_block>, <deepmoblearning:infused_ingot_block>, null, <deepmoblearning:data_model_slime>],
-    [null, null, null, null, <deepmoblearning:infused_ingot_block>, null, null, null, null],
-    [null, <deepmoblearning:data_model_spider>, null, null, <deepmoblearning:infused_ingot_block>, null, null, <deepmoblearning:data_model_witch>, null],
-    [null, <deepmoblearning:data_model_wither>, <deepmoblearning:data_model_wither_skeleton>.withTag({tier: 4}), null, null, null, <deepmoblearning:data_model_zombie>, <deepmoblearning:data_model_thermal_elemental>, null],
-    [null, null, null, null, <deepmoblearning:data_model_tinker_slime>, null, null, null, null]
+    [<ore:ingotCosmicNeutronium>, null, null, null, <deepmoblearning:infused_ingot_block>, null, null, null, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <deepmoblearning:data_model_spider>, null, null, <deepmoblearning:infused_ingot_block>, null, null, <deepmoblearning:data_model_witch>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <deepmoblearning:data_model_wither>, <deepmoblearning:data_model_wither_skeleton>, null, null, null, <deepmoblearning:data_model_zombie>, <deepmoblearning:data_model_thermal_elemental>, <ore:ingotCosmicNeutronium>],
+    [<ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <deepmoblearning:data_model_tinker_slime>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>]
 ]);

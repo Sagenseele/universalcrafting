@@ -10,5 +10,10 @@
 		items: [{
 			item: "enderio:block_simple_sag_mill"
 		}]
+	}],
+	rewards: [{
+		uid: "9843e58c",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

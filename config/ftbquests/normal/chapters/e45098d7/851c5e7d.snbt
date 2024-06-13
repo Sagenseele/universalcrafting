@@ -10,5 +10,10 @@
 		items: [{
 			item: "enderio:item_capacitor_melodic"
 		}]
+	}],
+	rewards: [{
+		uid: "5dc1a094",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -10,5 +10,10 @@
 		items: [{
 			item: "enderio:item_capacitor_energetic_silver"
 		}]
+	}],
+	rewards: [{
+		uid: "811e4f21",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

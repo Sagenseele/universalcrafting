@@ -100,9 +100,9 @@ var water_superium=VanillaFactory.createFluid("water_superium", Color.fromHex("0
 water_superium.register();
 var solution_prudentium=VanillaFactory.createFluid("solution_prudentium", Color.fromHex("00c965"));
 solution_prudentium.register();
-var solution_prudiferium=VanillaFactory.createFluid("solution_prudiferium", Color.fromHex("00b36e"));
+var solution_prudiferium=VanillaFactory.createFluid("solution_prudiferium", Color.fromHex("224811"));
 solution_prudiferium.register();
-var solution_supermedium=VanillaFactory.createFluid("solution_supermedium", Color.fromHex("68c3fc"));
+var solution_supermedium=VanillaFactory.createFluid("solution_supermedium", Color.fromHex("5b4481"));
 solution_supermedium.register();
 var concentrate_supermedium=VanillaFactory.createFluid("concentrate_supermedium", Color.fromHex("0270b5"));
 concentrate_supermedium.register();

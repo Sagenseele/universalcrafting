@@ -11,5 +11,10 @@
 		items: [{
 			item: "enderio:block_enhanced_alloy_smelter"
 		}]
+	}],
+	rewards: [{
+		uid: "8334012d",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

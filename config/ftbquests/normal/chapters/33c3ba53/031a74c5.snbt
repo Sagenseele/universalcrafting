@@ -1,0 +1,13 @@
+{
+	x: 16.5d,
+	y: -1.5d,
+	shape: "octagon",
+	size: 3.0d,
+	tasks: [{
+		uid: "14cfb120",
+		type: "item",
+		items: [{
+			item: "extrautils2:creativechest"
+		}]
+	}]
+}

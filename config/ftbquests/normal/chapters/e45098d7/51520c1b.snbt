@@ -7,5 +7,10 @@
 		items: [{
 			item: "enderio:item_basic_capacitor"
 		}]
+	}],
+	rewards: [{
+		uid: "bd328f07",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

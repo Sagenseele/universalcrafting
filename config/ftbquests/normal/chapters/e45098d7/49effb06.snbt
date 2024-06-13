@@ -11,5 +11,10 @@
 		items: [{
 			item: "enderio:item_capacitor_crystalline"
 		}]
+	}],
+	rewards: [{
+		uid: "959df655",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

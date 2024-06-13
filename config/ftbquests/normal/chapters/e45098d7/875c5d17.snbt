@@ -10,5 +10,10 @@
 		items: [{
 			item: "enderio:item_capacitor_totemic"
 		}]
+	}],
+	rewards: [{
+		uid: "b34554ff",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

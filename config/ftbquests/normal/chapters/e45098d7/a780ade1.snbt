@@ -10,5 +10,10 @@
 		items: [{
 			item: "enderio:item_capacitor_vivid"
 		}]
+	}],
+	rewards: [{
+		uid: "8d937800",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

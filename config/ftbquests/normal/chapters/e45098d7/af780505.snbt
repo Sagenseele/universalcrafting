@@ -10,5 +10,10 @@
 		items: [{
 			item: "enderio:item_basic_capacitor 1 1"
 		}]
+	}],
+	rewards: [{
+		uid: "6b78e0f7",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

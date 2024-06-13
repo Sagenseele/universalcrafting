@@ -131,9 +131,9 @@ mods.extendedcrafting.TableCrafting.addShaped(4, <contenttweaker:inert_mod_token
     [null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null],
     [null, null, null, <ore:ingotCosmicNeutronium>, <contenttweaker:essence_deepmoblearning>, <ore:ingotCosmicNeutronium>, null, null, null],
     [null, null, <ore:ingotCosmicNeutronium>, <contenttweaker:essence_bloodmagic>, <ore:ingotCrystalMatrix>, <contenttweaker:essence_industrialforegoing>, <ore:ingotCosmicNeutronium>, null, null],
-    [null, <ore:ingotCosmicNeutronium>, <contenttweaker:essence_aquaculture>, <ore:ingotCrystalMatrix>, null, <ore:ingotCrystalMatrix>, null, <ore:ingotCosmicNeutronium>, null],
-    [<ore:ingotCosmicNeutronium>, <contenttweaker:essence_astralsorcery>, <ore:ingotCrystalMatrix>, null, <extendedcrafting:material:40>, null, <ore:ingotCrystalMatrix>, <contenttweaker:essence_enderio>, <ore:ingotCosmicNeutronium>],
-    [null, <ore:ingotCosmicNeutronium>, <contenttweaker:essence_mysticalagriculture>, <ore:ingotCrystalMatrix>, null, <ore:ingotCrystalMatrix>, <contenttweaker:essence_appliedenergistics>,<ore:ingotCosmicNeutronium>, null],
+    [null, <ore:ingotCosmicNeutronium>, <contenttweaker:essence_aquaculture>, <ore:ingotCrystalMatrix>, <extendedcrafting:material:48>, <ore:ingotCrystalMatrix>, null, <ore:ingotCosmicNeutronium>, null],
+    [<ore:ingotCosmicNeutronium>, <contenttweaker:essence_astralsorcery>, <ore:ingotCrystalMatrix>, <extendedcrafting:material:48>, <extendedcrafting:material:40>, <extendedcrafting:material:48>, <ore:ingotCrystalMatrix>, <contenttweaker:essence_enderio>, <ore:ingotCosmicNeutronium>],
+    [null, <ore:ingotCosmicNeutronium>, <contenttweaker:essence_mysticalagriculture>, <ore:ingotCrystalMatrix>, <extendedcrafting:material:48>, <ore:ingotCrystalMatrix>, <contenttweaker:essence_appliedenergistics>,<ore:ingotCosmicNeutronium>, null],
     [null, null, <ore:ingotCosmicNeutronium>, <contenttweaker:essence_nuclearcraft>, <ore:ingotCrystalMatrix>, <contenttweaker:essence_solarfluxreborn>, <ore:ingotCosmicNeutronium>, null, null],
     [null, null, null, <ore:ingotCosmicNeutronium>, <contenttweaker:essence_botania>, <ore:ingotCosmicNeutronium>, null, null, null],
     [null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null]

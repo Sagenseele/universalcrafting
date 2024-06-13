@@ -10,5 +10,10 @@
 		items: [{
 			item: "enderio:item_capacitor_stellar"
 		}]
+	}],
+	rewards: [{
+		uid: "86c92efd",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

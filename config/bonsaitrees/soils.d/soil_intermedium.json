@@ -1,0 +1,16 @@
+{
+    "name": "contenttweaker:soil_intermedium",
+    "mod": "contenttweaker",
+    "soil": {
+      "name": "contenttweaker:soil_intermedium",
+      "data": 0,
+      "ignoreMeta": false
+    },
+  
+    "modifiers": {
+      "growTime": 0.7,
+      "dropChance": 1.4
+    },
+  
+    "providedTags": [ "grass", "dirt"]
+  }

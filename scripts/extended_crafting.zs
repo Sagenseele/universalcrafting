@@ -462,7 +462,7 @@ mods.extendedcrafting.TableCrafting.addShaped(4, <danknull:dank_null_6>, [
 //]);
 
 //Creative Model Data Tier Setter Thingy
-mods.extendedcrafting.TableCrafting.addShaped(0, <deepmoblearning:creative_model_learner>, [
+mods.extendedcrafting.TableCrafting.addShaped(4, <deepmoblearning:creative_model_learner>, [
     [<ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <deepmoblearning:data_model_blaze>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>],
     [<ore:ingotCosmicNeutronium>, <deepmoblearning:data_model_creeper>, <deepmoblearning:data_model_dragon>, null, null, null, <deepmoblearning:data_model_enderman>, <deepmoblearning:data_model_ghast>, <ore:ingotCosmicNeutronium>],
     [<ore:ingotCosmicNeutronium>, <deepmoblearning:data_model_guardian>, null, null, <ore:blockInfinity>, null, null, <deepmoblearning:data_model_shulker>, <ore:ingotCosmicNeutronium>],
@@ -473,3 +473,6 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <deepmoblearning:creative_model
     [<ore:ingotCosmicNeutronium>, <deepmoblearning:data_model_wither>, <deepmoblearning:data_model_wither_skeleton>, null, null, null, <deepmoblearning:data_model_zombie>, <deepmoblearning:data_model_thermal_elemental>, <ore:ingotCosmicNeutronium>],
     [<ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <deepmoblearning:data_model_tinker_slime>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>]
 ]);
+
+//Creative Chest
+mods.extendedcrafting.CombinationCrafting.addRecipe(<extrautils2:creativechest>, 2500000000, 2500000, <ironchest:iron_chest:5>, [<appliedenergistics2:chest>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <extrautils2:creativeenergy>, <compacter:cobbler>, <extrautils2:passivegenerator:6>, <extrautils2:drum:4>, <appliedenergistics2:creative_storage_cell>, <bloodmagic:sacrificial_dagger:1>, <botania:pool:1>, <deepmoblearning:creative_model_learner>, <mysticalagradditions:stuff:69>, <tconstruct:materials:50>]);

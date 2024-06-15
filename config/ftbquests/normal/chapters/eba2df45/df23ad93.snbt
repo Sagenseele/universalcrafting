@@ -1,0 +1,24 @@
+{
+	x: 3.5d,
+	y: -1.5d,
+	text: [
+		"Get two times the flour by putting wheat into the harvestcraft grinder"
+	],
+	dependencies: [
+		"b3299cc6"
+	],
+	tasks: [{
+		uid: "9605957f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "harvestcraft:flouritem"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "4cd3d9be",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

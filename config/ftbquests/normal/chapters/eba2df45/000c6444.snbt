@@ -1,0 +1,25 @@
+{
+	x: 0.5d,
+	y: 4.5d,
+	dependencies: [
+		"c8f83afa"
+	],
+	tasks: [{
+		uid: "71147e76",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "furnaceoverhaul:efficiency_upgrade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "95df339e",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

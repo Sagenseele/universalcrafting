@@ -1,0 +1,17 @@
+{
+	x: 2.0d,
+	y: 1.5d,
+	description: "Building Gadget Nr. 2",
+	tasks: [{
+		uid: "ffeff843",
+		type: "item",
+		items: [{
+			item: "danknull:danknull_dock"
+		}]
+	}],
+	rewards: [{
+		uid: "9841bc68",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

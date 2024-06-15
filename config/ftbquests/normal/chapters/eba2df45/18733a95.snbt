@@ -1,18 +1,19 @@
 {
-	x: -0.5d,
-	y: -4.5d,
+	x: 9.5d,
+	y: 1.5d,
 	dependencies: [
-		"fb15e2f4"
+		"970b96a7"
 	],
 	tasks: [{
-		uid: "2b170875",
+		uid: "017754dd",
 		type: "item",
 		items: [{
-			item: "nuclearcraft:cobblestone_generator_dense"
-		}]
+			item: "bhc:blue_heart_canister"
+		}],
+		count: 10L
 	}],
 	rewards: [{
-		uid: "3be7d82b",
+		uid: "ab4ee0b6",
 		type: "item",
 		item: "contenttweaker:universal_points"
 	}]

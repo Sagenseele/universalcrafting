@@ -1,18 +1,18 @@
 {
-	x: -0.5d,
-	y: -4.5d,
+	x: 5.5d,
+	y: 4.0d,
 	dependencies: [
-		"fb15e2f4"
+		"9ec41b5d"
 	],
 	tasks: [{
-		uid: "2b170875",
+		uid: "c175f1df",
 		type: "item",
 		items: [{
-			item: "nuclearcraft:cobblestone_generator_dense"
+			item: "enderio:item_material 1 55"
 		}]
 	}],
 	rewards: [{
-		uid: "3be7d82b",
+		uid: "d769b976",
 		type: "item",
 		item: "contenttweaker:universal_points"
 	}]

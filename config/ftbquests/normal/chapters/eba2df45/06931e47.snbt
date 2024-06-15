@@ -1,0 +1,26 @@
+{
+	x: 1.5d,
+	y: 6.5d,
+	description: "Prone for Exploitation ;)",
+	dependencies: [
+		"c8f83afa"
+	],
+	tasks: [{
+		uid: "f69ce6a6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "furnaceoverhaul:processing_upgrade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f3e2a61d",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 4
+	}]
+}

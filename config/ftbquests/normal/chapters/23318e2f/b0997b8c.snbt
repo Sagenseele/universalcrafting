@@ -1,0 +1,17 @@
+{
+	icon: "exnihilocreatio:block_end_cake",
+	x: 1.5d,
+	y: 1.5d,
+	description: "My only friend...",
+	tasks: [{
+		uid: "9502c2ee",
+		type: "dimension",
+		disable_toast: true,
+		dim: 1
+	}],
+	rewards: [{
+		uid: "1fe5f713",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

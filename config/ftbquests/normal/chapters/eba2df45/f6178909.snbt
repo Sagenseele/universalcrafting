@@ -1,0 +1,23 @@
+{
+	x: 3.0d,
+	y: -2.5d,
+	text: [
+		"Get Salt by putting seaweed into the harvestcraft grinder."
+	],
+	dependencies: [
+		"b3299cc6"
+	],
+	tasks: [{
+		uid: "1b0fb225",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "harvestcraft:saltitem"
+		}]
+	}],
+	rewards: [{
+		uid: "ea30290d",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

@@ -1,7 +1,14 @@
 {
-	x: 16.5d,
-	y: -1.5d,
+	x: 3.0d,
+	y: 5.017857142857139d,
 	shape: "octagon",
+	dependencies: [
+		"e97878f9",
+		"95e17183",
+		"e935896b",
+		"1f3ffab9",
+		"d2707daf"
+	],
 	size: 3.0d,
 	tasks: [{
 		uid: "14cfb120",
@@ -9,5 +16,11 @@
 		items: [{
 			item: "extrautils2:creativechest"
 		}]
+	}],
+	rewards: [{
+		uid: "2826410e",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 15
 	}]
 }

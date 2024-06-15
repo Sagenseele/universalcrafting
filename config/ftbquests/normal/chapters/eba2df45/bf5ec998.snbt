@@ -1,18 +1,19 @@
 {
-	x: -0.5d,
-	y: -4.5d,
+	x: 3.5d,
+	y: 3.0d,
 	dependencies: [
-		"fb15e2f4"
+		"154c9b3e"
 	],
 	tasks: [{
-		uid: "2b170875",
+		uid: "6660028e",
 		type: "item",
+		disable_toast: true,
 		items: [{
-			item: "nuclearcraft:cobblestone_generator_dense"
+			item: "furnaceoverhaul:gold_furnace"
 		}]
 	}],
 	rewards: [{
-		uid: "3be7d82b",
+		uid: "2e9dcf02",
 		type: "item",
 		item: "contenttweaker:universal_points"
 	}]

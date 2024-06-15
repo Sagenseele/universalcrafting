@@ -1,15 +1,16 @@
 {
-	x: -3.5d,
-	y: -4.5d,
+	x: 2.0d,
+	y: 3.0d,
 	tasks: [{
-		uid: "cac7a56d",
+		uid: "f0a057f0",
 		type: "item",
+		disable_toast: true,
 		items: [{
-			item: "nuclearcraft:cobblestone_generator"
+			item: "furnaceoverhaul:iron_furnace"
 		}]
 	}],
 	rewards: [{
-		uid: "e872d813",
+		uid: "7e497a8d",
 		type: "item",
 		item: "contenttweaker:universal_points"
 	}]

@@ -1,0 +1,19 @@
+{
+    "path": "mod_mysticalagriculture/soils/soil_intermedium.json",
+    "enabled": true,
+    "id": "soil_intermedium",
+    "name": "Intermedium Soil",
+    "varients": [
+      {
+        "item": "contenttweaker:soil_intermedium",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": true,
+        "ignoreTags": [
+          "*"
+        ],
+        "useOreDict": true
+      }
+    ]
+  }
+  

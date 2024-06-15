@@ -1,6 +1,7 @@
 #loader contenttweaker
 import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Item;
+import mods.contenttweaker.Block;
 import mods.contenttweaker.Fluid;
 import mods.contenttweaker.ItemFood;
 import mods.contenttweaker.Color;
@@ -114,3 +115,23 @@ var solution_nitric_prosperity=VanillaFactory.createFluid("solution_nitric_prosp
 solution_nitric_prosperity.register();
 var solution_acidic_superium=VanillaFactory.createFluid("solution_acidic_superium", Color.fromHex("306bc9"));
 solution_acidic_superium.register();
+
+//Soils
+var soil_inferium=VanillaFactory.createBlock("soil_inferium", <blockmaterial:grass>);
+soil_inferium.entitySpawnable=false;
+soil_inferium.register();
+var soil_prudentium=VanillaFactory.createBlock("soil_prudentium", <blockmaterial:grass>);
+soil_prudentium.entitySpawnable=false;
+soil_prudentium.register();
+var soil_intermedium=VanillaFactory.createBlock("soil_intermedium", <blockmaterial:grass>);
+soil_intermedium.entitySpawnable=false;
+soil_intermedium.register();
+var soil_superium=VanillaFactory.createBlock("soil_superium", <blockmaterial:grass>);
+soil_superium.entitySpawnable=false;
+soil_superium.register();
+var soil_supremium=VanillaFactory.createBlock("soil_supremium", <blockmaterial:grass>);
+soil_supremium.entitySpawnable=false;
+soil_supremium.register();
+var soil_insanium=VanillaFactory.createBlock("soil_insanium", <blockmaterial:grass>);
+soil_insanium.entitySpawnable=false;
+soil_insanium.register();

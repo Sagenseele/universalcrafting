@@ -86,6 +86,39 @@ recipes.replaceAllOccurences(<ore:essenceSupremium>, <contenttweaker:crystal_sup
 
 //Insanium Crystal
 
+//Essence Soil
+recipes.addShaped("soil_inferium", <contenttweaker:soil_inferium>, [
+        [null, <contenttweaker:crystal_inferium>, null],
+        [<contenttweaker:crystal_inferium>, <randomthings:fertilizeddirt>, <contenttweaker:crystal_inferium>],
+        [null, <contenttweaker:crystal_inferium>, null]
+]);
+recipes.addShaped("soil_prudentium", <contenttweaker:soil_prudentium>, [
+        [null, <contenttweaker:crystal_prudentium>, null],
+        [<contenttweaker:crystal_prudentium>, <contenttweaker:soil_inferium>, <contenttweaker:crystal_prudentium>],
+        [null, <contenttweaker:crystal_prudentium>, null]
+]);
+recipes.addShaped("soil_intermedium", <contenttweaker:soil_intermedium>, [
+        [null, <contenttweaker:crystal_intermedium>, null],
+        [<contenttweaker:crystal_intermedium>, <contenttweaker:soil_prudentium>, <contenttweaker:crystal_intermedium>],
+        [null, <contenttweaker:crystal_intermedium>, null]
+]);
+recipes.addShaped("soil_superium", <contenttweaker:soil_superium>, [
+        [null, <contenttweaker:crystal_superium>, null],
+        [<contenttweaker:crystal_superium>, <contenttweaker:soil_intermedium>, <contenttweaker:crystal_superium>],
+        [null, <contenttweaker:crystal_superium>, null]
+]);
+recipes.addShaped("soil_supremium", <contenttweaker:soil_supremium>, [
+        [null, <contenttweaker:crystal_supremium>, null],
+        [<contenttweaker:crystal_supremium>, <contenttweaker:soil_superium>, <contenttweaker:crystal_supremium>],
+        [null, <contenttweaker:crystal_supremium>, null]
+]);
+recipes.addShaped("soil_insanium", <contenttweaker:soil_insanium>, [
+        [null, <contenttweaker:crystal_soulless_superium>, null],
+        [<contenttweaker:crystal_soulless_superium>, <contenttweaker:soil_supremium>, <contenttweaker:crystal_soulless_superium>],
+        [null, <contenttweaker:crystal_soulless_superium>, null]
+]);
+
+
 //EIO Painting Machine
 recipes.replaceAllOccurences(<enderio:item_material:1>, <thermalexpansion:frame:0>, <enderio:block_painter>);
 

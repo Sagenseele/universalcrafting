@@ -1,0 +1,24 @@
+{
+	x: 3.5d,
+	y: -6.5d,
+	dependencies: [
+		"03606e47"
+	],
+	tasks: [{
+		uid: "e68be26a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:activation_crystal",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ab116646",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

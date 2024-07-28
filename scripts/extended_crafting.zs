@@ -13,7 +13,92 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <contenttweaker:essence_botania
     [<botania:rune:15>, <botania:fertilizer>, <botania:storage:2>, <botania:fertilizer>, <botania:rune:5>],
     [<botania:rune:14>, <botania:storage:0>, <avaritiatweaks:gaia_block>, <botania:storage:3>, <botania:rune:6>],
     [<botania:rune:13>, <botania:fertilizer>, <botania:quartztypered:0>, <botania:fertilizer>, <botania:rune:7>],
-    [<botania:rune:12>, <botania:rune:11>, <botania:rune:10>, <botania:rune:9>, <botania:rune:8>],
+    [<botania:rune:12>, <botania:rune:11>, <botania:rune:10>, <botania:rune:9>, <botania:rune:8>]
+]);
+
+//Industrial Foregoing Essence
+mods.extendedcrafting.TableCrafting.addShaped(0, <contenttweaker:essence_industrialforegoing>, [
+    [<industrialforegoing:plastic>, null, <industrialforegoing:range_addon:11>, null, <industrialforegoing:plastic>],
+    [null, <industrialforegoing:pink_slime_ingot>, <industrialforegoing:laser_drill>, <industrialforegoing:laser_lens:10>, null],
+    [<industrialforegoing:fortune_addon>, <industrialforegoing:laser_drill>, <industrialforegoing:laser_base>, <industrialforegoing:laser_drill>, <industrialforegoing:leaf_shearing>],
+    [null, <industrialforegoing:laser_lens:2>, <industrialforegoing:laser_drill>, <industrialforegoing:pink_slime_ingot>, null],
+    [<industrialforegoing:plastic>, null, <industrialforegoing:energy_field_addon>, null, <industrialforegoing:plastic>]
+]);
+
+//Ender IO Essence
+mods.extendedcrafting.TableCrafting.addShaped(0, <contenttweaker:essence_enderio>, [
+    [<enderio:item_capacitor_totemic>, null, <enderio:block_cap_bank:3>, <enderio:item_material:55>, <enderio:item_capacitor_stellar>],
+    [<enderio:item_material:66>, <enderio:item_material:13>, <enderio:item_material:56>, <enderio:item_material:12>, null],
+    [<enderio:block_cap_bank:3>, <enderio:item_material:42>, <enderio:item_material:19>, <enderio:item_material:45>, <enderio:block_cap_bank:3>],
+    [null, <enderio:item_material:11>, <enderio:item_material:44>, <ore:gearStone>, <enderio:item_material:54>],
+    [<enderio:block_transceiver>, <enderio:item_material:53>, <enderio:block_cap_bank:3>, null, ]
+]);
+
+//Appliend Energistics 2 Essence
+mods.extendedcrafting.TableCrafting.addShaped(0, <contenttweaker:essence_appliedenergistics>, [
+    [null, null, <appliedenergistics2:material:47>, null, null],
+    [null, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:crafting_storage_64k>, null],
+    [<appliedenergistics2:material:47>, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:controller>, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:material:47>],
+    [null, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:crafting_storage_64k>, null],
+    [null, null, <appliedenergistics2:material:47>, null, null]
+]);
+
+//Solar Flux Essence
+mods.extendedcrafting.TableCrafting.addShaped(0, <contenttweaker:essence_solarfluxreborn>, [
+    [<solarflux:traversal_upgrade>, null, <solarflux:photovoltaic_cell_1>, <solarflux:photovoltaic_cell_1>, <solarflux:photovoltaic_cell_1>, null, <solarflux:dispersive_upgrade>],
+    [null, <solarflux:photovoltaic_cell_2>, <solarflux:photovoltaic_cell_3>, <solarflux:photovoltaic_cell_4>, <solarflux:photovoltaic_cell_3>, <solarflux:photovoltaic_cell_2>, null],
+    [<solarflux:photovoltaic_cell_1>, <solarflux:photovoltaic_cell_3>, <solarflux:photovoltaic_cell_5>, <solarflux:photovoltaic_cell_6>, <solarflux:photovoltaic_cell_5>, <solarflux:photovoltaic_cell_3>, <solarflux:photovoltaic_cell_1>],
+    [<solarflux:photovoltaic_cell_1>, <solarflux:photovoltaic_cell_4>, <solarflux:photovoltaic_cell_6>, null, <solarflux:photovoltaic_cell_6>, <solarflux:photovoltaic_cell_4>, <solarflux:photovoltaic_cell_1>],
+    [<solarflux:photovoltaic_cell_1>, <solarflux:photovoltaic_cell_3>, <solarflux:photovoltaic_cell_5>, <solarflux:photovoltaic_cell_6>, <solarflux:photovoltaic_cell_5>, <solarflux:photovoltaic_cell_3>, <solarflux:photovoltaic_cell_1>],
+    [null, <solarflux:photovoltaic_cell_2>, <solarflux:photovoltaic_cell_3>, <solarflux:photovoltaic_cell_4>, <solarflux:photovoltaic_cell_3>, <solarflux:photovoltaic_cell_2>, null],
+    [<solarflux:furnace_upgrade>, null, <solarflux:photovoltaic_cell_1>, <solarflux:photovoltaic_cell_1>, <solarflux:photovoltaic_cell_1>, null, <solarflux:block_charging_upgrade>]
+]);
+
+//Nuclearcraft Essence
+mods.extendedcrafting.TableCrafting.addShaped(0, <contenttweaker:essence_nuclearcraft>, [
+    [null, null, null, null, null],
+    [null, null, null, null, null],
+    [null, null, <nuclearcraft:californium:12>, null, null],
+    [null, null, null, null, null],
+    [null, null, null, null, null]
+]);
+
+//Mystical agriculture Essence
+mods.extendedcrafting.TableCrafting.addShaped(0, <contenttweaker:essence_mysticalagriculture>, [
+    [null, null, <ore:blockInsanium>, null, null],
+    [null, <mysticalagriculture:crafting:38>, <mysticalagriculture:ultimate_reprocessor>, <mysticalagriculture:crafting:38>, null],
+    [<ore:blockInsanium>, <mysticalagradditions:stuff:0>, <mysticalagriculture:master_infusion_crystal>, <mysticalagradditions:stuff:2>, <ore:blockInsanium>],
+    [null, <mysticalagriculture:crafting:38>, <mysticalagriculture:crafting:14>, <mysticalagriculture:crafting:38>, null],
+    [null, null, <ore:blockInsanium>, null, null]
+]);
+
+//Astral Sorcery Essence
+mods.extendedcrafting.TableCrafting.addShaped(0, <contenttweaker:essence_astralsorcery>, [
+    [null, <astralsorcery:itemcraftingcomponent:3>, <astralsorcery:itemcraftingcomponent:3>, <astralsorcery:itemcraftingcomponent:3>, null],
+    [<astralsorcery:itemcraftingcomponent:3>, null, <astralsorcery:itemcraftingcomponent:4>, null, <astralsorcery:itemcraftingcomponent:3>],
+    [<astralsorcery:itemcraftingcomponent:3>, <astralsorcery:itemcraftingcomponent:4>, <astralsorcery:itemrockcrystalsimple>, <astralsorcery:itemcraftingcomponent:4>, <astralsorcery:itemcraftingcomponent:3>],
+    [<astralsorcery:itemcraftingcomponent:3>, null, <astralsorcery:itemcraftingcomponent:4>, null, <astralsorcery:itemcraftingcomponent:3>],
+    [null, <astralsorcery:itemcraftingcomponent:3>, <astralsorcery:itemcraftingcomponent:3>, <astralsorcery:itemcraftingcomponent:3>, null]
+]);
+
+//Aquaculture Essence
+mods.extendedcrafting.TableCrafting.addShaped(0, <contenttweaker:essence_aquaculture>, [
+    [<aquaculture:fish:0>, <aquaculture:fish:1>, <aquaculture:fish:2>, <aquaculture:fish:3>, <aquaculture:fish:4>, <aquaculture:fish:5>, <aquaculture:fish:6>],
+    [<aquaculture:fish:7>, <aquaculture:fish:8>, <aquaculture:fish:9>, <aquaculture:food:8>, <aquaculture:fish:10>, <aquaculture:fish:11>, <aquaculture:fish:12>],
+    [<aquaculture:fish:13>, <aquaculture:fish:14>, <aquaculture:food:4>, <aquaculture:food:6>, <aquaculture:food:4>, <aquaculture:fish:15>, <aquaculture:fish:16>],
+    [<aquaculture:fish:17>, <aquaculture:fish:18>, <aquaculture:food:4>, <aquaculture:loot:1>, <aquaculture:food:4>, <aquaculture:fish:19>, <aquaculture:fish:20>],
+    [<aquaculture:fish:21>, <aquaculture:fish:22>, <aquaculture:food:4>, <aquaculture:food:6>, <aquaculture:food:4>, <aquaculture:fish:23>, <aquaculture:fish:24>],
+    [<aquaculture:fish:25>, <aquaculture:fish:26>, <aquaculture:fish:27>, <aquaculture:food:8>, <aquaculture:fish:28>, <aquaculture:fish:29>, <aquaculture:fish:30>],
+    [<aquaculture:fish:31>, <aquaculture:fish:32>, <aquaculture:fish:33>, <aquaculture:fish:34>, <aquaculture:fish:35>, <aquaculture:fish:36>, <aquaculture:fish:37>]
+]);
+
+//Blood Magic Essence
+mods.extendedcrafting.TableCrafting.addShaped(0, <contenttweaker:essence_bloodmagic>, [
+    [<bloodmagic:item_demon_crystal:1>, <bloodmagic:item_demon_crystal:4>, <bloodmagic:item_demon_crystal:3>, <bloodmagic:item_demon_crystal:2>, <bloodmagic:item_demon_crystal:1>],
+    [<bloodmagic:item_demon_crystal:2>, <bloodmagic:item_demon_crystal:0>, <bloodmagic:slate:4>, <bloodmagic:item_demon_crystal:0>, <bloodmagic:item_demon_crystal:4>],
+    [<bloodmagic:item_demon_crystal:3>, <bloodmagic:slate:4>, <bloodmagic:lava_crystal>, <bloodmagic:slate:4>, <bloodmagic:item_demon_crystal:3>],
+    [<bloodmagic:item_demon_crystal:4>, <bloodmagic:item_demon_crystal:0>, <bloodmagic:slate:4>, <bloodmagic:item_demon_crystal:0>, <bloodmagic:item_demon_crystal:2>],
+    [<bloodmagic:item_demon_crystal:1>, <bloodmagic:item_demon_crystal:2>, <bloodmagic:item_demon_crystal:3>, <bloodmagic:item_demon_crystal:4>, <bloodmagic:item_demon_crystal:1>]
 ]);
 
 // Silicon Press
@@ -473,6 +558,8 @@ mods.extendedcrafting.TableCrafting.addShaped(4, <deepmoblearning:creative_model
     [<ore:ingotCosmicNeutronium>, <deepmoblearning:data_model_wither>, <deepmoblearning:data_model_wither_skeleton>, null, null, null, <deepmoblearning:data_model_zombie>, <deepmoblearning:data_model_thermal_elemental>, <ore:ingotCosmicNeutronium>],
     [<ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <deepmoblearning:data_model_tinker_slime>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>]
 ]);
+
+
 
 //Creative Chest
 //mods.extendedcrafting.CombinationCrafting.addRecipe(<extrautils2:creativechest>, 2500000000, 2500000, <ironchest:iron_chest:5>, [<appliedenergistics2:chest>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <extrautils2:creativeenergy>, <compacter:cobbler>, <extrautils2:passivegenerator:6>, <danknull:dank_null_6>,<extrautils2:drum:4>, <appliedenergistics2:creative_storage_cell>, <bloodmagic:sacrificial_dagger:1>, <botania:pool:1>, <deepmoblearning:creative_model_learner>, <mysticalagradditions:stuff:69>, <tconstruct:materials:50>]);

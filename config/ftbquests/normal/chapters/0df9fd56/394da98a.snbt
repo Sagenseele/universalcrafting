@@ -1,8 +1,11 @@
 {
 	icon: "tconstruct:pattern",
-	x: 7.0d,
-	y: -6.0d,
+	x: -2.0d,
+	y: -4.5d,
 	description: "Tools for everyone!",
+	text: [
+		""
+	],
 	tasks: [{
 		uid: "7cd54b27",
 		type: "item",

@@ -1,15 +1,16 @@
 {
-	x: -0.5d,
-	y: -1.5d,
+	disable_toast: true,
+	x: 9.5d,
+	y: 4.5d,
 	tasks: [{
-		uid: "cac7a56d",
+		uid: "dad86198",
 		type: "item",
 		items: [{
-			item: "nuclearcraft:cobblestone_generator"
+			item: "mob_grinding_utils:saw"
 		}]
 	}],
 	rewards: [{
-		uid: "e872d813",
+		uid: "e50e8e9f",
 		type: "item",
 		item: "contenttweaker:universal_points"
 	}]

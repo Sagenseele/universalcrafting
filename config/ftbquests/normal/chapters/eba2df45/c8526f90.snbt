@@ -1,0 +1,14 @@
+{
+	x: 7.0d,
+	y: 6.0d,
+	dependencies: [
+		"7b653e50"
+	],
+	tasks: [{
+		uid: "5dc387bb",
+		type: "item",
+		items: [{
+			item: "mob_grinding_utils:fan_upgrade 1 2"
+		}]
+	}]
+}

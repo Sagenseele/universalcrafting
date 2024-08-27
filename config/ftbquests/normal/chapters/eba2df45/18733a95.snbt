@@ -1,6 +1,9 @@
 {
 	x: 9.5d,
 	y: 1.5d,
+	text: [
+		"Blue Hearts drop from Evokers"
+	],
 	dependencies: [
 		"970b96a7"
 	],

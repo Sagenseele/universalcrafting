@@ -1,0 +1,12 @@
+{
+	x: 6.0d,
+	y: 4.5d,
+	description: "Push me to the limit",
+	tasks: [{
+		uid: "05dcbca9",
+		type: "item",
+		items: [{
+			item: "mob_grinding_utils:fan"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 9.5d,
+	y: 6.0d,
+	dependencies: [
+		"1959bdbf"
+	],
+	tasks: [{
+		uid: "97355110",
+		type: "item",
+		items: [{
+			item: "mob_grinding_utils:saw_upgrade 1 1"
+		}]
+	}]
+}

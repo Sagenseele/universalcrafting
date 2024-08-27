@@ -1,6 +1,6 @@
 {
 	title: "I am Grout",
-	x: 7.0d,
+	x: -3.5d,
 	y: -4.5d,
 	description: "Never gets old",
 	tasks: [{

@@ -5,8 +5,8 @@
 	y: -0.5d,
 	description: "Readme",
 	text: [
-		"Hello and welcome to Universal Crafting, my first public modpack. It is a magical and industrial themed modpack and contains many well known mods like Botania, Thaumcraft 6, Astral Sorcery, Nuclearcraft, Tinkers and many more, as well as small mods.",
-		"I would recommend you to start with the 'Beginning' Chapter to start your journey.",
+		"Hello and welcome to Universal Crafting, my first public modpack. It is a magical and industrial themed modpack and contains many well known mods as well as small mods.",
+		"I would recommend you to start your journey with the 'Beginning' Chapter.",
 		"I hope you enjoy my modpack. ",
 		"If you have any criticism or suggestions on how to improve the modpack, you can leave me an issue on Github:",
 		"https://github.com/Sagenseele/universalcrafting/issues",

@@ -1,6 +1,7 @@
 {
 	x: -3.5d,
 	y: -1.5d,
+	description: "Hit them leaves",
 	tasks: [{
 		uid: "69b6fa67",
 		type: "item",

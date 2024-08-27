@@ -1,6 +1,6 @@
 {
 	title: "Exploration",
-	icon: "minecraft:grass",
+	icon: "minecraft:compass",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

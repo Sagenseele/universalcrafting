@@ -1,6 +1,6 @@
 {
-	title: "Alpha",
-	icon: "minecraft:compass",
+	title: "Beginning",
+	icon: "minecraft:book",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

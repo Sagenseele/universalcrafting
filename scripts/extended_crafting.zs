@@ -56,11 +56,11 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <contenttweaker:essence_solarfl
 
 //Nuclearcraft Essence
 mods.extendedcrafting.TableCrafting.addShaped(0, <contenttweaker:essence_nuclearcraft>, [
-    [null, null, null, null, null],
+    [<nuclearcraft:part:3>, null, null, null, <nuclearcraft:part:3>],
     [null, null, null, null, null],
     [null, null, <nuclearcraft:californium:12>, null, null],
     [null, null, null, null, null],
-    [null, null, null, null, null]
+    [<nuclearcraft:part:3>, null, null, null, <nuclearcraft:part:3>]
 ]);
 
 //Mystical agriculture Essence

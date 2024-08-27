@@ -55,12 +55,20 @@ recipes.replaceAllOccurences(<ore:essenceIntermedium>, <contenttweaker:crystal_i
 recipes.replaceAllOccurences(<ore:essenceIntermedium>, <contenttweaker:crystal_intermedium>, <mysticalagriculture:coal:2>);
 recipes.replaceAllOccurences(<ore:essenceIntermedium>, <contenttweaker:crystal_intermedium>, <mysticalagriculture:intermedium_apple>);
 
-//Superium Crystal
+//Multigem
 recipes.addShaped("multigem", <contenttweaker:multigem>, [
     [<nuclearcraft:gem:0>, <minecraft:prismarine_shard>, <nuclearcraft:gem:2>],
     [<nuclearcraft:gem:3>, <minecraft:diamond>,<nuclearcraft:gem:4>],
     [<nuclearcraft:gem:5>, <astralsorcery:itemcraftingcomponent:0>, <nuclearcraft:gem:1>]
 ]);
+
+//Multi Ingot
+recipes.addShaped("multiingot", <contenttweaker:multiingot>, [
+    [<enderio:item_alloy_ingot:7>, <minecraft:iron_ingot>, <materialis:fairy_ingot>],
+    [<enderio:item_alloy_ingot:0>, <botania:manaresource>,<materialis:pokefennium_ingot>],
+    [<enderio:item_alloy_ingot:3>, <minecraft:gold_ingot>, <materialis:red_aurum_ingot>]
+]);
+
 mods.nuclearcraft.dissolver.addRecipe([<mysticalagriculture:crafting:3>, <liquid:sulfuric_acid> * 1000, <liquid:solution_acidic_superium> * 150]);
 mods.nuclearcraft.infuser.addRecipe([<contenttweaker:multigem>, <liquid:solution_acidic_superium> * 250, <contenttweaker:crystal_soulless_superium>]);
 mods.nuclearcraft.crystallizer.addRecipe([<liquid:water_superium> * 200, <mysticalagriculture:crafting:3>]);

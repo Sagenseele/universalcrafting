@@ -11,7 +11,7 @@
         {
             "type": "fluid",
             "io-type": "input",
-            "fluid": "gasoline",
+            "fluid": "napalm",
             "amount": 200
         },
         {

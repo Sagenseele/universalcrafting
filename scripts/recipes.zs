@@ -126,6 +126,15 @@ recipes.addShaped("soil_insanium", <contenttweaker:soil_insanium>, [
         [null, <contenttweaker:crystal_soulless_superium>, null]
 ]);
 
+// MM Blueprints
+// Industrial Presser
+recipes.addShaped("industrial_presser", <modularmachinery:itemblueprint>.withTag({dynamicmachine: "modularmachinery:industrial_presser"}), [
+        [<ore:plateSteel>, <ore:plateSteel>, <ore:plateSteel>],
+        [<ore:plateSteel>, <contenttweaker:crystal_superium>, <ore:plateSteel>],
+        [<ore:plateSteel>, <ore:plateSteel>, <ore:plateSteel>]
+]);
+
+
 
 //EIO Painting Machine
 recipes.replaceAllOccurences(<enderio:item_material:1>, <thermalexpansion:frame:0>, <enderio:block_painter>);

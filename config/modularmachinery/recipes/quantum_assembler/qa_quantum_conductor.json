@@ -1,13 +1,19 @@
 {
     "machine": "quantum_assembler",
-    "registryName": "qa_mod_token",
+    "registryName": "qa_quantum_conductor",
     "recipeTime": 600,
     "requirements": [
         {
             "type": "energy",
             "io-type": "input",
             "energyPerTick": 200000
-        },       
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "extendedcrafting:material@24",
+            "amount": 1
+        },
         {
             "type": "fluid",
             "io-type": "input",
@@ -17,20 +23,8 @@
         {
             "type": "fluid",
             "io-type": "input",
-            "fluid": "liquid:cryotheum_nak",
+            "fluid": "cryotheum_nak_hot",
             "amount": 1000
-        },
-        {
-            "type": "fluid",
-            "io-type": "input",
-            "fluid": "biodiesel",
-            "amount": 800
-        },
-        {
-            "type": "fluid",
-            "io-type": "input",
-            "fluid": "neutron",
-            "amount": 50
         },
         {
             "type": "fluid",

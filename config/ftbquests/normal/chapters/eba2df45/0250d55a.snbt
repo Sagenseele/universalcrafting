@@ -10,5 +10,10 @@
 		items: [{
 			item: "mob_grinding_utils:fan_upgrade"
 		}]
+	}],
+	rewards: [{
+		uid: "5af40a8a",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

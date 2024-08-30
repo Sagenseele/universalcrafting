@@ -8,5 +8,10 @@
 		items: [{
 			item: "mob_grinding_utils:fan"
 		}]
+	}],
+	rewards: [{
+		uid: "81c5bff1",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

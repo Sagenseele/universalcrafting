@@ -10,5 +10,10 @@
 		items: [{
 			item: "mob_grinding_utils:saw_upgrade 1 5"
 		}]
+	}],
+	rewards: [{
+		uid: "f13ef9e3",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

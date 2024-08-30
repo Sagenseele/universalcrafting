@@ -1,6 +1,7 @@
 {
     "registryname": "industrial_presser",
     "localizedname": "Industrial Presser",
+    "requires-blueprint": true,
     "color":"686973",
     "parts": [
         {

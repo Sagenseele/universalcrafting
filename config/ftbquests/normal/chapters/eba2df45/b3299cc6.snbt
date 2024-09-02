@@ -2,7 +2,7 @@
 	title: "Cooking for Blockheads",
 	icon: "cookingforblockheads:cooking_table",
 	x: 2.0d,
-	y: -1.5d,
+	y: -0.5d,
 	description: "Chefs' station",
 	tasks: [{
 		uid: "b2b40133",

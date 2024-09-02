@@ -1,8 +1,11 @@
 {
 	title: "I am Grout",
-	x: -3.5d,
-	y: -4.5d,
+	x: -2.0d,
+	y: 2.5d,
 	description: "Never gets old",
+	dependencies: [
+		"c7d6e347"
+	],
 	tasks: [{
 		uid: "15152d49",
 		type: "item",

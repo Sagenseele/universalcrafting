@@ -1,6 +1,6 @@
 {
 	icon: "exnihilocreatio:block_end_cake",
-	x: 1.5d,
+	x: 2.0d,
 	y: 1.5d,
 	description: "My only friend...",
 	tasks: [{

@@ -1,7 +1,7 @@
 {
-	title: "Tinkers Pickaxe",
-	x: -0.625d,
-	y: -5.625d,
+	title: "Tinker's Construct Pickaxe",
+	x: -6.017857142857132d,
+	y: -2.982142857142854d,
 	description: "Ultimate Tools",
 	text: [
 		"Craft your own tools, which level up as you use them. You can upgrade various parts by swapping them. Design your ultimate tool."

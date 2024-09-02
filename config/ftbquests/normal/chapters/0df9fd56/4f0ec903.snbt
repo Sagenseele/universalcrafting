@@ -1,6 +1,6 @@
 {
-	x: -3.5d,
-	y: -6.0d,
+	x: -7.0d,
+	y: -1.5d,
 	description: "Modern problems require modern tools",
 	dependencies: [
 		"394da98a"

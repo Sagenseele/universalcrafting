@@ -1,0 +1,25 @@
+{
+	title: "Barrels",
+	icon: "exnihilocreatio:block_barrel0",
+	x: -4.0d,
+	y: 1.0d,
+	dependencies: [
+		"920e0e5c"
+	],
+	tasks: [{
+		uid: "38a94d00",
+		type: "item",
+		title: "Any Barrel",
+		items: [{
+			item: "exnihilocreatio:block_barrel0"
+		},
+		{
+			item: "exnihilocreatio:block_barrel1"
+		}]
+	}],
+	rewards: [{
+		uid: "e15e6f9c",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

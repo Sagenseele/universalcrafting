@@ -1,6 +1,6 @@
 {
-	x: 0.5d,
-	y: 1.5d,
+	x: 6.5d,
+	y: -1.5d,
 	description: "Building Gadget Nr. 1",
 	tasks: [{
 		uid: "c548625c",

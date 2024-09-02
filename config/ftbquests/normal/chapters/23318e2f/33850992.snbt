@@ -1,7 +1,7 @@
 {
 	title: "Be a part of oil",
-	x: 0.0d,
-	y: 0.0d,
+	x: -1.0d,
+	y: 0.5d,
 	description: "Black Gold",
 	tasks: [{
 		uid: "96207beb",

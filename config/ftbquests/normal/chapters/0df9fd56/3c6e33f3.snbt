@@ -1,0 +1,19 @@
+{
+	x: -0.5d,
+	y: 1.5d,
+	dependencies: [
+		"c7d6e347"
+	],
+	tasks: [{
+		uid: "b222be1a",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_crucible 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "36fb2037",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

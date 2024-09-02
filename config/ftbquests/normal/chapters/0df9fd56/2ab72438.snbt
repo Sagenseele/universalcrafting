@@ -1,0 +1,26 @@
+{
+	icon: "botania:manaresource 1 21",
+	x: -3.5d,
+	y: -3.0d,
+	description: "Clicking to success",
+	text: [
+		"Sneak right click on dirt for pebbles"
+	],
+	dependencies: [
+		"920e0e5c"
+	],
+	tasks: [{
+		uid: "422c8761",
+		type: "item",
+		title: "Early Cobblestone",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "853c10c3",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

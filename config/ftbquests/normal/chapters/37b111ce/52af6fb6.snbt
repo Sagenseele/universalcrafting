@@ -13,5 +13,10 @@
 			item: "immersiveengineering:stone_decoration"
 		}],
 		count: 27L
+	}],
+	rewards: [{
+		uid: "dfc9998a",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

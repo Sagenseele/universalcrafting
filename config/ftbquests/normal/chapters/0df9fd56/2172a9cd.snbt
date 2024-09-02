@@ -1,23 +1,23 @@
 {
-	x: -2.0d,
-	y: -1.5d,
+	x: -1.0d,
+	y: 0.0d,
 	dependencies: [
-		"47707df2"
+		"2a817791"
 	],
 	tasks: [{
-		uid: "d3037eec",
+		uid: "c34e2658",
 		type: "item",
 		items: [{
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
 			},
-			id: "excompressum:compressed_crook"
+			id: "minecraft:water_bucket"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
 	}],
 	rewards: [{
-		uid: "5713e306",
+		uid: "12665a51",
 		type: "item",
 		item: "contenttweaker:universal_points"
 	}]

@@ -1,15 +1,42 @@
 {
-	x: -3.5d,
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "exnihilocreatio:crook_wood"
+	},
+	x: -2.0d,
 	y: -1.5d,
 	description: "Hit them leaves",
+	dependencies: [
+		"920e0e5c"
+	],
+	size: 1.25d,
 	tasks: [{
 		uid: "69b6fa67",
 		type: "item",
+		title: "Any Crook (TC or Ex Nihilo)",
 		items: [{
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
 			},
 			id: "exnihilocreatio:crook_wood"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "exnihilocreatio:crook_tconstruct",
+			tag: {
+				TinkerData: {
+					Materials: [
+						"wood",
+						"stone",
+						"stone",
+						"wood"
+					]
+				}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

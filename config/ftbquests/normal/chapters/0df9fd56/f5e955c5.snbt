@@ -1,6 +1,6 @@
 {
-	x: -2.0d,
-	y: -3.0d,
+	x: -0.5d,
+	y: -1.5d,
 	text: [
 		"Use a silkworm on leaves to create infested leaves. Harvest those leaves with a crook to collect string.",
 		"",

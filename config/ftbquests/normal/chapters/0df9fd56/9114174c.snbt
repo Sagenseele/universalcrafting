@@ -1,0 +1,24 @@
+{
+	x: -0.06249999999998579d,
+	y: 2.830357142857139d,
+	dependencies: [
+		"3c6e33f3"
+	],
+	tasks: [{
+		uid: "1fd62a26",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:lava_bucket"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d78cf4a5",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

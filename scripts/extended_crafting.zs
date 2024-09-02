@@ -31,16 +31,16 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <contenttweaker:essence_enderio
     [<enderio:item_material:66>, <enderio:item_material:13>, <enderio:item_material:56>, <enderio:item_material:12>, null],
     [<enderio:block_cap_bank:3>, <enderio:item_material:42>, <enderio:item_material:19>, <enderio:item_material:45>, <enderio:block_cap_bank:3>],
     [null, <enderio:item_material:11>, <enderio:item_material:44>, <ore:gearStone>, <enderio:item_material:54>],
-    [<enderio:block_transceiver>, <enderio:item_material:53>, <enderio:block_cap_bank:3>, null, ]
+    [<enderio:block_transceiver>, <enderio:item_material:53>, <enderio:block_cap_bank:3>, null, null]
 ]);
 
 //Appliend Energistics 2 Essence
 mods.extendedcrafting.TableCrafting.addShaped(0, <contenttweaker:essence_appliedenergistics>, [
-    [null, null, <appliedenergistics2:material:47>, null, null],
-    [null, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:crafting_storage_64k>, null],
-    [<appliedenergistics2:material:47>, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:controller>, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:material:47>],
-    [null, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:crafting_storage_64k>, null],
-    [null, null, <appliedenergistics2:material:47>, null, null]
+    [<appliedenergistics2:material:34>, <appliedenergistics2:material:34>, <appliedenergistics2:material:47>, <appliedenergistics2:material:34>, <appliedenergistics2:material:34>],
+    [<appliedenergistics2:material:34>, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:material:34>],
+    [<appliedenergistics2:material:47>, <appliedenergistics2:crafting_storage_64k>, <aeadditions:storage.component:3>, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:material:47>],
+    [<appliedenergistics2:material:34>, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:material:34>],
+    [<appliedenergistics2:material:34>, <appliedenergistics2:material:34>, <appliedenergistics2:material:47>, <appliedenergistics2:material:34>, <appliedenergistics2:material:34>]
 ]);
 
 //Solar Flux Essence
@@ -48,7 +48,7 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <contenttweaker:essence_solarfl
     [<solarflux:traversal_upgrade>, null, <solarflux:photovoltaic_cell_1>, <solarflux:photovoltaic_cell_1>, <solarflux:photovoltaic_cell_1>, null, <solarflux:dispersive_upgrade>],
     [null, <solarflux:photovoltaic_cell_2>, <solarflux:photovoltaic_cell_3>, <solarflux:photovoltaic_cell_4>, <solarflux:photovoltaic_cell_3>, <solarflux:photovoltaic_cell_2>, null],
     [<solarflux:photovoltaic_cell_1>, <solarflux:photovoltaic_cell_3>, <solarflux:photovoltaic_cell_5>, <solarflux:photovoltaic_cell_6>, <solarflux:photovoltaic_cell_5>, <solarflux:photovoltaic_cell_3>, <solarflux:photovoltaic_cell_1>],
-    [<solarflux:photovoltaic_cell_1>, <solarflux:photovoltaic_cell_4>, <solarflux:photovoltaic_cell_6>, null, <solarflux:photovoltaic_cell_6>, <solarflux:photovoltaic_cell_4>, <solarflux:photovoltaic_cell_1>],
+    [<solarflux:photovoltaic_cell_1>, <solarflux:photovoltaic_cell_4>, <solarflux:photovoltaic_cell_6>, <solarflux:solar_panel_8>, <solarflux:photovoltaic_cell_6>, <solarflux:photovoltaic_cell_4>, <solarflux:photovoltaic_cell_1>],
     [<solarflux:photovoltaic_cell_1>, <solarflux:photovoltaic_cell_3>, <solarflux:photovoltaic_cell_5>, <solarflux:photovoltaic_cell_6>, <solarflux:photovoltaic_cell_5>, <solarflux:photovoltaic_cell_3>, <solarflux:photovoltaic_cell_1>],
     [null, <solarflux:photovoltaic_cell_2>, <solarflux:photovoltaic_cell_3>, <solarflux:photovoltaic_cell_4>, <solarflux:photovoltaic_cell_3>, <solarflux:photovoltaic_cell_2>, null],
     [<solarflux:furnace_upgrade>, null, <solarflux:photovoltaic_cell_1>, <solarflux:photovoltaic_cell_1>, <solarflux:photovoltaic_cell_1>, null, <solarflux:block_charging_upgrade>]

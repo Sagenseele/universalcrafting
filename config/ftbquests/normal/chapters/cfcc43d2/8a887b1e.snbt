@@ -1,6 +1,9 @@
 {
 	x: -2.5d,
 	y: 3.0d,
+	text: [
+		"You can harvest the clusters without breaking them by right clicking while having a tartaric gem with over 1024 Will in your inventory."
+	],
 	dependencies: [
 		"db67ac33"
 	],

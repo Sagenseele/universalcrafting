@@ -8,7 +8,12 @@ recipes.removeByRecipeName("ae2wtlib:booster_card_old");
 recipes.removeByRecipeName("avaritia:blocks/crafting/un_compressed_crafting_table");
 
 //advanced circuit
-recipes.replaceAllOccurences(<quantumflux:craftingpiece:6>, <immersiveengineering:material:27>, <quantumflux:craftingpiece:5>);
+recipes.replaceAllOccurences(<quantumflux:craftingpiece:5>, <contenttweaker:circuit_intermediate>, <*>);
+mods.jei.JEI.removeAndHide(<quantumflux:craftingpiece:5>);
+
+//remove IE Circuit Board
+recipes.replaceAllOccurences(<immersiveengineering:material:27>, <contenttweaker:circuit_board>, <*>);
+mods.immersiveengineering.Blueprint.removeRecipe(<immersiveengineering:material:27>);
 
 //remove ultimate terminal
 mods.jei.JEI.removeAndHide(<ae2wtlib:wut>);
@@ -134,7 +139,41 @@ recipes.addShaped("industrial_presser", <modularmachinery:itemblueprint>.withTag
         [<ore:plateSteel>, <ore:plateSteel>, <ore:plateSteel>]
 ]);
 
+//Circuit Board
+recipes.addShaped("circuit_board", <contenttweaker:circuit_board>, [
+        [<ore:wireCopper>, <ore:wireCopper>, <ore:wireCopper>],
+        [<ore:itemSilicon>, <ore:itemSilicon>, <ore:itemSilicon>],
+        [<ore:itemRubber>, <ore:itemRubber>, <ore:itemRubber>]
+]);
 
+
+//Basic Circuit
+recipes.addShaped("circuit_basic", <contenttweaker:circuit_basic>, [
+        [null, <appliedenergistics2:material:18>, null],
+        [<ore:ingotTin>, <immersiveengineering:stone_decoration:8>, <ore:ingotTin>],
+        [<ore:ingotTin>, null, <ore:ingotTin>]
+]);
+
+//Intermediate Circuit
+recipes.addShaped("circuit_intermediate", <contenttweaker:circuit_intermediate>, [
+        [<ore:wireElectrum>, <ore:wireElectrum>, <ore:wireElectrum>],
+        [<contenttweaker:circuit_basic>, <ore:platePlatinum>, <contenttweaker:circuit_basic>],
+        [<appliedenergistics2:material:17>, <contenttweaker:circuit_board>, <appliedenergistics2:material:17>]
+]);
+
+//Spectre Sapling
+recipes.addShaped("spectre_sapling", <randomthings:spectresapling>, [
+        [<randomthings:ingredient:2>, <randomthings:ingredient:2>, <randomthings:ingredient:2>],
+        [<randomthings:ingredient:2>, <ore:treeSapling>, <randomthings:ingredient:2>],
+        [<randomthings:ingredient:2>, <randomthings:ingredient:2>, <randomthings:ingredient:2>]
+]);
+
+//Creative Cobble Generator
+recipes.addShaped("creative_cobble_generator", <compacter:cobbler>, [
+        [<harvestcraft:cobblestonecobbleritem>, <harvestcraft:cobblestonecobbleritem>, <harvestcraft:cobblestonecobbleritem>],
+        [<contenttweaker:solid_supermedium>, <extrautils2:compressedcobblestone:7>, <contenttweaker:solid_supermedium>],
+        [<contenttweaker:solid_supermedium>, <contenttweaker:solid_supermedium>, <contenttweaker:solid_supermedium>]
+]);
 
 //EIO Painting Machine
 recipes.replaceAllOccurences(<enderio:item_material:1>, <thermalexpansion:frame:0>, <enderio:block_painter>);

@@ -21,6 +21,10 @@ nutrient_bar.register();
 var universal_points=VanillaFactory.createItem("universal_points");
 universal_points.register();
 
+//Ultimate Will
+var ultimate_will=VanillaFactory.createFluid("ultimate_will", Color.fromHex("753b4d"));
+ultimate_will.register();
+
 //Quantum Conductor
 var quantum_conductor=VanillaFactory.createFluid("quantum_conductor", Color.fromHex("ba00b1"));
 quantum_conductor.register();
@@ -135,3 +139,11 @@ soil_supremium.register();
 var soil_insanium=VanillaFactory.createBlock("soil_insanium", <blockmaterial:grass>);
 soil_insanium.entitySpawnable=false;
 soil_insanium.register();
+
+// Circuits
+var circuit_board=VanillaFactory.createItem("circuit_board");
+circuit_board.register();
+var circuit_basic=VanillaFactory.createItem("circuit_basic");
+circuit_basic.register();
+var circuit_intermediate=VanillaFactory.createItem("circuit_intermediate");
+circuit_intermediate.register();

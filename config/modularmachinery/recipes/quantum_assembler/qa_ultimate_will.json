@@ -1,48 +1,42 @@
 {
     "machine": "quantum_assembler",
-    "registryName": "qa_mod_token",
+    "registryName": "qa_ultimate_will",
     "recipeTime": 600,
     "requirements": [
         {
             "type": "energy",
             "io-type": "input",
             "energyPerTick": 200000
-        },
-        {
-            "type": "item",
-            "io-type": "input",
-            "item": "contenttweaker:inert_mod_token",
-            "amount": 1
         },        
         {
             "type": "fluid",
             "io-type": "input",
-            "fluid": "quantum_conductor",
+            "fluid": "corrosive_will",
             "amount": 1000
         },
         {
             "type": "fluid",
             "io-type": "input",
-            "fluid": "essence",
-            "amount": 64000
+            "fluid": "destructive_will",
+            "amount": 1000
         },
         {
             "type": "fluid",
             "io-type": "input",
-            "fluid": "ultimate_will",
-            "amount": 64000
+            "fluid": "vengeful_will",
+            "amount": 1000
         },
         {
             "type": "fluid",
             "io-type": "input",
-            "fluid": "lifeessence",
-            "amount": 64000
+            "fluid": "steadfast_will",
+            "amount": 1000
         },
         {
-            "type": "item",
+            "type": "fluid",
             "io-type": "output",
-            "item": "contenttweaker:mod_token",
-            "amount": 1
+            "fluid": "ultimate_will",
+            "amount": 4000
         }
     ]
 }

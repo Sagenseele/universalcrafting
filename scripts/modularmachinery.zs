@@ -67,7 +67,7 @@ recipes.addShaped("mm_machine_gearbox", <modularmachinery:blockcasing:3>, [
 
 recipes.addShaped("mm_machine_circuitry", <modularmachinery:blockcasing:5>, [
     [null, <modularmachinery:blockcasing:0>, null],
-    [<modularmachinery:blockcasing:0>, <quantumflux:craftingpiece:5>, <modularmachinery:blockcasing:0>],
+    [<modularmachinery:blockcasing:0>, <contenttweaker:circuit_intermediate>, <modularmachinery:blockcasing:0>],
     [null, <modularmachinery:blockcasing:0>, null]
 ]);
 

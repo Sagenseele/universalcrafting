@@ -559,8 +559,14 @@ mods.extendedcrafting.TableCrafting.addShaped(4, <deepmoblearning:creative_model
     [<ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <deepmoblearning:data_model_tinker_slime>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>, <ore:ingotCosmicNeutronium>]
 ]);
 
-
+mods.extendedcrafting.TableCrafting.addShaped(2, <extrautils2:passivegenerator:6>, [
+    [<extrautils2:passivegenerator:7>, <extrautils2:passivegenerator:5>, <extrautils2:passivegenerator:5>, <extrautils2:passivegenerator:5>, <extrautils2:passivegenerator:7>],
+    [<extrautils2:passivegenerator:4>, null, <extrautils2:passivegenerator:8>, null, <extrautils2:passivegenerator:4>],
+    [<extrautils2:passivegenerator:4>, <extrautils2:passivegenerator:8>, null, <extrautils2:passivegenerator:8>, <extrautils2:passivegenerator:4>],
+    [<extrautils2:passivegenerator:4>, null, <extrautils2:passivegenerator:8>, null, <extrautils2:passivegenerator:4>],
+    [<extrautils2:passivegenerator:7>, <extrautils2:passivegenerator:2>, <extrautils2:passivegenerator:2>, <extrautils2:passivegenerator:2>, <extrautils2:passivegenerator:7>]
+]);
 
 //Creative Chest
 //mods.extendedcrafting.CombinationCrafting.addRecipe(<extrautils2:creativechest>, 2500000000, 2500000, <ironchest:iron_chest:5>, [<appliedenergistics2:chest>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <extrautils2:creativeenergy>, <compacter:cobbler>, <extrautils2:passivegenerator:6>, <danknull:dank_null_6>,<extrautils2:drum:4>, <appliedenergistics2:creative_storage_cell>, <bloodmagic:sacrificial_dagger:1>, <botania:pool:1>, <deepmoblearning:creative_model_learner>, <mysticalagradditions:stuff:69>, <tconstruct:materials:50>]);
-mods.extendedcrafting.CombinationCrafting.addRecipe(<extrautils2:creativechest>, 2500000000, 2500000, <ironchest:iron_chest:5>, [<appliedenergistics2:chest>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <danknull:dank_null_6>, <deepmoblearning:creative_model_learner>]);
+mods.extendedcrafting.CombinationCrafting.addRecipe(<extrautils2:creativechest>, 2500000000, 2500000, <ironchest:iron_chest:5>, [<appliedenergistics2:chest>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <ore:blockInfinity>, <compacter:cobbler>, <extrautils2:passivegenerator:6>, <danknull:dank_null_6>, <deepmoblearning:creative_model_learner>]);

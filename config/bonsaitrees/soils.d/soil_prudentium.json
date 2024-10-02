@@ -12,5 +12,5 @@
       "dropChance": 1.15
     },
   
-    "providedTags": [ "grass", "dirt"]
+    "providedTags": [ "grass", "dirt", "end_stone"]
   }

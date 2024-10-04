@@ -1,0 +1,24 @@
+{
+	x: -1.5d,
+	y: 2.0d,
+	dependencies: [
+		"3a093887"
+	],
+	tasks: [{
+		uid: "d02eaef4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "danknull:dank_null_2"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c48bd191",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

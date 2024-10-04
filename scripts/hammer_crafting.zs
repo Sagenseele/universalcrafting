@@ -28,3 +28,10 @@ mods.exnihilocreatio.Hammer.addRecipe(<nuclearcraft:ore:4>, <exnihilocreatio:ite
 mods.exnihilocreatio.Hammer.addRecipe(<nuclearcraft:ore:5>, <exnihilocreatio:item_ore_boron:1> * 2, 0, 1, 0.25);
 mods.exnihilocreatio.Hammer.addRecipe(<nuclearcraft:ore:6>, <exnihilocreatio:item_ore_lithium:1> * 2, 0, 1, 0.25);
 mods.exnihilocreatio.Hammer.addRecipe(<nuclearcraft:ore:7>, <exnihilocreatio:item_ore_magnesium:1> * 2, 0, 1, 0.25);
+
+mods.exnihilocreatio.Hammer.addRecipe(<immersiveengineering:ore:0>, <exnihilocreatio:item_ore_copper:1> * 2, 0, 1, 0.25);
+mods.exnihilocreatio.Hammer.addRecipe(<immersiveengineering:ore:1>, <exnihilocreatio:item_ore_aluminium:1> * 2, 0, 1, 0.25);
+mods.exnihilocreatio.Hammer.addRecipe(<immersiveengineering:ore:2>, <exnihilocreatio:item_ore_lead:1> * 2, 0, 1, 0.25);
+mods.exnihilocreatio.Hammer.addRecipe(<immersiveengineering:ore:3>, <exnihilocreatio:item_ore_silver:1> * 2, 0, 1, 0.25);
+mods.exnihilocreatio.Hammer.addRecipe(<immersiveengineering:ore:4>, <exnihilocreatio:item_ore_nickel:1> * 2, 0, 1, 0.25);
+mods.exnihilocreatio.Hammer.addRecipe(<immersiveengineering:ore:5>, <exnihilocreatio:item_ore_uranium:1> * 2, 0, 1, 0.25);

@@ -1,0 +1,19 @@
+{
+	x: 3.5d,
+	y: -2.0d,
+	dependencies: [
+		"2a95e1b3"
+	],
+	tasks: [{
+		uid: "89b15447",
+		type: "item",
+		items: [{
+			item: "yabba:upgrade_blank"
+		}]
+	}],
+	rewards: [{
+		uid: "534989a9",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

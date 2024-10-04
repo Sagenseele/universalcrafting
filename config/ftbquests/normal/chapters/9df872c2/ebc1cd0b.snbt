@@ -1,0 +1,20 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	dependencies: [
+		"fb24f3a3"
+	],
+	tasks: [{
+		uid: "32397a9e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:aluminum_brass_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "95ba103e",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "contenttweaker:soil_insanium",
+    "mod": "contenttweaker",
+    "soil": {
+      "name": "contenttweaker:soil_insanium",
+      "data": 0,
+      "ignoreMeta": false
+    },
+  
+    "modifiers": {
+      "growTime": 0.2,
+      "dropChance": 2.75
+    },
+  
+    "providedTags": [ "grass", "dirt", "end_stone"]
+  }

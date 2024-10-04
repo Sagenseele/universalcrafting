@@ -1,0 +1,20 @@
+{
+	x: 10.5d,
+	y: 2.5d,
+	dependencies: [
+		"ee03c0a5"
+	],
+	tasks: [{
+		uid: "335758ee",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:electrum_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "974c1d1d",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: -0.5d,
+	y: 7.5d,
+	text: [
+		"The imaginary time block accelerates growth rates immensly. Uses 500 rf/t and with the block in the center has a radius of:",
+		"x:4,",
+		"z:4,",
+		"y:2"
+	],
+	dependencies: [
+		"f01e4b76"
+	],
+	tasks: [{
+		uid: "78dce083",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "quantumflux:imaginarytime"
+		}]
+	}],
+	rewards: [{
+		uid: "5e190e92",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

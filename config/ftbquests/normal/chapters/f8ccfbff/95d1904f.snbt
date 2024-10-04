@@ -1,0 +1,19 @@
+{
+	x: 7.5d,
+	y: -8.0d,
+	dependencies: [
+		"f0aa0789"
+	],
+	tasks: [{
+		uid: "6f9e0528",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:spatial_pylon"
+		}]
+	}],
+	rewards: [{
+		uid: "f9e6b068",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

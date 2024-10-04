@@ -26,5 +26,11 @@
 		type: "gamestage",
 		auto: "no_toast",
 		stage: "bonsaitrees"
+	},
+	{
+		uid: "89e392ec",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 10
 	}]
 }

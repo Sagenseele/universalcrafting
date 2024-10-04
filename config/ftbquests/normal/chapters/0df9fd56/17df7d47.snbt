@@ -1,0 +1,30 @@
+{
+	icon: "exnihilocreatio:block_auto_sifter",
+	x: 1.830357142857153d,
+	y: -1.9910714285714377d,
+	text: [
+		"Place below a sieve and power it with waterwheels to sift automatically."
+	],
+	dependencies: [
+		"2ca328d2"
+	],
+	tasks: [{
+		uid: "df3d33e9",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_auto_sifter"
+		}]
+	},
+	{
+		uid: "bd26b7e3",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_waterwheel"
+		}]
+	}],
+	rewards: [{
+		uid: "aa4c8aa6",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

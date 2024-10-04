@@ -1,0 +1,20 @@
+{
+	x: 6.0d,
+	y: -0.5d,
+	dependencies: [
+		"13ba7078"
+	],
+	tasks: [{
+		uid: "b22b5722",
+		type: "item",
+		items: [{
+			item: "avaritia:endest_pearl"
+		}]
+	}],
+	rewards: [{
+		uid: "66999d71",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 2
+	}]
+}

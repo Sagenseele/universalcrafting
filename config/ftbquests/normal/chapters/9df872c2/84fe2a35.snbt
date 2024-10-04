@@ -1,0 +1,20 @@
+{
+	x: 13.0d,
+	y: -4.5d,
+	dependencies: [
+		"a6515ecd"
+	],
+	tasks: [{
+		uid: "ffcbd107",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:manasteel_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "d9c66a2b",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

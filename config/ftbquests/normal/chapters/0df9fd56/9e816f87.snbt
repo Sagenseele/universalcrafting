@@ -1,0 +1,43 @@
+{
+	x: -4.767857142857139d,
+	y: -3.9999999999999964d,
+	description: "Lemme smash",
+	text: [
+		"Smash cobble into gravel into sand into dust. Ease your burden by using the excavator, configurable in the keybindings."
+	],
+	dependencies: [
+		"394da98a",
+		"2ab72438"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "ed2341d6",
+		type: "item",
+		title: "Tinker's Construct Sledgehammer",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tcomplement:sledge_hammer",
+			tag: {
+				TinkerData: {
+					Materials: [
+						"wood",
+						"stone",
+						"stone"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cfb47006",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

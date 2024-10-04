@@ -1,0 +1,23 @@
+{
+	x: 0.25d,
+	y: 3.267857142857146d,
+	text: [
+		"Put Will or a tartaric gem into the crucible to infuse the chunk with will.",
+		"Alternatively you can kill mobs to infuse the chunk with will"
+	],
+	dependencies: [
+		"fc384abd"
+	],
+	tasks: [{
+		uid: "293522a7",
+		type: "item",
+		items: [{
+			item: "bloodmagic:demon_crucible"
+		}]
+	}],
+	rewards: [{
+		uid: "79f7c7b5",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

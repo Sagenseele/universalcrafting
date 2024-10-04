@@ -1,0 +1,17 @@
+{
+	x: -3.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "9dac2a94",
+		type: "item",
+		items: [{
+			item: "minecraft:log"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "abc12beb",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

@@ -1,6 +1,6 @@
 {
 	x: 2.0d,
-	y: 3.0d,
+	y: 4.0d,
 	dependencies: [
 		"fc384abd"
 	],
@@ -16,5 +16,10 @@
 			tag: {}
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "af9d8c94",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

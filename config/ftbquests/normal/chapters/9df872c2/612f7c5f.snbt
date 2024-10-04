@@ -1,0 +1,20 @@
+{
+	x: 3.0d,
+	y: 7.0d,
+	dependencies: [
+		"665a7eb4"
+	],
+	tasks: [{
+		uid: "6dd58257",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:wither_skeleton_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "98c0bf8c",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

@@ -1,0 +1,19 @@
+{
+    "path": "mod_mysticalagriculture/soils/soil_supremium.json",
+    "enabled": true,
+    "id": "soil_supremium",
+    "name": "Supremium Soil",
+    "varients": [
+      {
+        "item": "contenttweaker:soil_supremium",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": true,
+        "ignoreTags": [
+          "*"
+        ],
+        "useOreDict": true
+      }
+    ]
+  }
+  

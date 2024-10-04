@@ -1,11 +1,16 @@
 {
-	x: 3.5d,
-	y: 3.5d,
+	x: 0.5d,
+	y: 2.0d,
 	tasks: [{
 		uid: "79048973",
 		type: "item",
 		items: [{
 			item: "extendedcrafting:interface"
 		}]
+	}],
+	rewards: [{
+		uid: "ec75989c",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

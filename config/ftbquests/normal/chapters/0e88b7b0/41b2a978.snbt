@@ -1,0 +1,45 @@
+{
+	title: "Luck Totem",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "everlastingabilities:ability_totem",
+		tag: {
+			"everlastingabilities:abilityStoreStack": [{
+				level: 1,
+				name: "ability.abilities.everlastingabilities.luck.name"
+			}]
+		}
+	},
+	x: 0.0d,
+	y: 3.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "697d6ed3",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "contenttweaker:universal_points"
+		}],
+		count: 45L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "47de257a",
+		type: "item",
+		team_reward: false,
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "everlastingabilities:ability_totem",
+			tag: {
+				"everlastingabilities:abilityStoreStack": [{
+					level: 1,
+					name: "ability.abilities.everlastingabilities.luck.name"
+				}]
+			}
+		}
+	}]
+}

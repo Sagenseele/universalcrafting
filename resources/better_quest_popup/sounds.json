@@ -1,0 +1,14 @@
+{
+    "chapter_complete": {
+        "sounds": [
+            "better_quest_popup:chapter_complete"
+        ],
+        "replace":"true"
+    },
+    "quest_complete": {
+        "sounds": [
+            "better_quest_popup:quest_complete"
+        ],
+        "replace":"true"
+    }
+}

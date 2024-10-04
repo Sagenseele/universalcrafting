@@ -1,0 +1,20 @@
+{
+	x: 7.0d,
+	y: 6.0d,
+	dependencies: [
+		"23b95477"
+	],
+	tasks: [{
+		uid: "25728572",
+		type: "item",
+		items: [{
+			item: "botania:pool 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "8287226c",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 3
+	}]
+}

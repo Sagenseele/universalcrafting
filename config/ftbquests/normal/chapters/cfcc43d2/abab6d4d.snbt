@@ -16,7 +16,11 @@
 			tag: {
 				orb: "bloodmagic:master"
 			}
-		}],
-		ignore_nbt: 1b
+		}]
+	}],
+	rewards: [{
+		uid: "9b3fb67b",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

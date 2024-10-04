@@ -1,0 +1,34 @@
+{
+	x: -3.0d,
+	y: 2.5d,
+	dependencies: [
+		"b39e024b"
+	],
+	tasks: [{
+		uid: "54a0406d",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				Level: 0b
+			},
+			Damage: 5s
+		}]
+	}],
+	rewards: [{
+		uid: "e4a1b5b1",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

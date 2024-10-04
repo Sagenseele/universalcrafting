@@ -1,0 +1,16 @@
+{
+    "name": "contenttweaker:soil_prudentium",
+    "mod": "contenttweaker",
+    "soil": {
+      "name": "contenttweaker:soil_prudentium",
+      "data": 0,
+      "ignoreMeta": false
+    },
+  
+    "modifiers": {
+      "growTime": 0.8,
+      "dropChance": 1.15
+    },
+  
+    "providedTags": [ "grass", "dirt", "end_stone"]
+  }

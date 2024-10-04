@@ -1,0 +1,24 @@
+{
+	x: 9.035714285714292d,
+	y: -0.4821428571428541d,
+	shape: "square",
+	dependencies: [
+		"918a5ab3",
+		"013b00a9",
+		"d15cf92b"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "26cfff2f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:essence_enderio"
+		}]
+	}],
+	rewards: [{
+		uid: "09782a55",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 3
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: -6.0d,
+	y: -7.5d,
+	dependencies: [
+		"a20bce07"
+	],
+	tasks: [{
+		uid: "f4940e29",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "aeadditions:storage.component 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "274ccdd6",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

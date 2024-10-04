@@ -1,0 +1,19 @@
+{
+	x: 5.5d,
+	y: 6.5d,
+	dependencies: [
+		"7b653e50"
+	],
+	tasks: [{
+		uid: "3e7c860f",
+		type: "item",
+		items: [{
+			item: "mob_grinding_utils:fan_upgrade 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "0ae35780",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

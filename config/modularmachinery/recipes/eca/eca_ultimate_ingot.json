@@ -1,0 +1,24 @@
+{
+    "machine": "electromagnetic_coil_accelerator",
+    "registryName": "eca_ultimate_ingot",
+    "recipeTime": 1200,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 1024000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:multiingot",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "extendedcrafting:material@32",
+            "amount": 1
+        }
+    ]
+}

@@ -1,11 +1,19 @@
 {
 	x: -1.5d,
 	y: -5.0d,
+	dependencies: [
+		"06450e04"
+	],
 	tasks: [{
 		uid: "d2d2b700",
 		type: "item",
 		items: [{
 			item: "nuclearcraft:melter_idle"
 		}]
+	}],
+	rewards: [{
+		uid: "f4519d21",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -1,0 +1,13 @@
+{
+	title: "Presses",
+	disable_toast: true,
+	x: -1.5d,
+	y: -2.0d,
+	text: [
+		"Presses cannot be found in meteorites anymore. They must be crafted."
+	],
+	tasks: [{
+		uid: "81310fc6",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 12.5d,
+	y: -3.0d,
+	dependencies: [
+		"a6515ecd"
+	],
+	tasks: [{
+		uid: "055caca4",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:knightslime_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "742d2852",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

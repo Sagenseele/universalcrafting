@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: -1.0d,
+	dependencies: [
+		"908bc6da"
+	],
+	tasks: [{
+		uid: "7f438aa3",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_alloy_smelter"
+		}]
+	}],
+	rewards: [{
+		uid: "97084320",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 11.0d,
+	y: 3.5d,
+	dependencies: [
+		"ee03c0a5"
+	],
+	tasks: [{
+		uid: "bc3858bc",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:boron_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "4662e4eb",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

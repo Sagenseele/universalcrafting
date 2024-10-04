@@ -1,0 +1,28 @@
+{
+	x: 4.5d,
+	y: -2.0d,
+	dependencies: [
+		"d15020cf"
+	],
+	tasks: [{
+		uid: "b03055df",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "crude_oil",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "18e26b96",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

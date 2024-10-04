@@ -1,0 +1,25 @@
+{
+    "machine": "advanced_infuser",
+    "registryName": "advanced_infuser_slate_4",
+    "recipeTime": 20,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "bloodmagic:slate@2",
+            "amount": 1
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "lifeessence",
+            "amount": 18750
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "bloodmagic:slate@3",
+            "amount": 1
+        }
+    ]
+}

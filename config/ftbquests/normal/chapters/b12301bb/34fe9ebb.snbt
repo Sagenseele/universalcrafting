@@ -1,0 +1,26 @@
+{
+	x: 9.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "13bb7c21",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "deepmoblearning:data_model_dragon",
+			tag: {
+				tier: 4
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "d3e48844",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 3
+	}]
+}

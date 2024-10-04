@@ -1,0 +1,20 @@
+{
+	x: 12.0d,
+	y: -0.5d,
+	dependencies: [
+		"fb24f3a3"
+	],
+	tasks: [{
+		uid: "4f947b40",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:crafting 1 19"
+		}]
+	}],
+	rewards: [{
+		uid: "86203a7e",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

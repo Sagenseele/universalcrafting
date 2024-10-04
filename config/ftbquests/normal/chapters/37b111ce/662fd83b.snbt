@@ -1,10 +1,9 @@
 {
 	title: "Distillation Tower",
-	x: 4.5d,
+	x: 6.0d,
 	y: -2.0d,
 	dependencies: [
-		"9089e899",
-		"aee6fbb8"
+		"385ac353"
 	],
 	tasks: [{
 		uid: "35d13005",
@@ -18,7 +17,11 @@
 				multiblock: "IP:DistillationTower"
 			}
 		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "5d97407f",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

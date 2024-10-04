@@ -23,5 +23,10 @@
 			id: "immersiveengineering:tool",
 			Damage: 3s
 		}
+	},
+	{
+		uid: "bab75d4f",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

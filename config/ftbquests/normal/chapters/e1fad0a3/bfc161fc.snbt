@@ -1,0 +1,19 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	dependencies: [
+		"56e4d47d"
+	],
+	tasks: [{
+		uid: "1ae5e43f",
+		type: "item",
+		items: [{
+			item: "woot:factorybase"
+		}]
+	}],
+	rewards: [{
+		uid: "cadb0ace",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

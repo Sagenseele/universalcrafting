@@ -19,5 +19,10 @@
 			id: "botania:lexicon",
 			tag: {}
 		}
+	},
+	{
+		uid: "31fcd3eb",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

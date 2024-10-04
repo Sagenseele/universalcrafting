@@ -1,0 +1,19 @@
+{
+	x: -3.5d,
+	y: 0.0d,
+	dependencies: [
+		"413c277b"
+	],
+	tasks: [{
+		uid: "6bcf1d3c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:crystal_intermedium"
+		}]
+	}],
+	rewards: [{
+		uid: "ecd68041",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

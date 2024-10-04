@@ -1,5 +1,5 @@
 {
-	x: 6.5d,
+	x: 8.0d,
 	y: -2.0d,
 	dependencies: [
 		"662fd83b"
@@ -18,7 +18,11 @@
 				Amount: 1000
 			}
 		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "79b58829",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

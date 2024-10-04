@@ -1,0 +1,24 @@
+{
+    "machine": "industrial_presser",
+    "registryName": "industrial_presser_blood",
+    "recipeTime": 100,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 8192
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:rotten_flesh",
+            "amount": 64
+        },
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "blood",
+            "amount": 2560
+        }
+    ]
+}

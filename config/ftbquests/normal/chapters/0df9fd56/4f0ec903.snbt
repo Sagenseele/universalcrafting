@@ -1,5 +1,5 @@
 {
-	x: -3.5d,
+	x: -7.0d,
 	y: -1.5d,
 	description: "Modern problems require modern tools",
 	dependencies: [
@@ -20,5 +20,10 @@
 			}
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f15f7982",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

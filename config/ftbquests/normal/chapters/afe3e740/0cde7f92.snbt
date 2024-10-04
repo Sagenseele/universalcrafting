@@ -6,8 +6,8 @@
 		},
 		id: "tconstruct:cleaver"
 	},
-	x: 0.5d,
-	y: 8.0d,
+	x: 4.0d,
+	y: 4.0d,
 	description: "For some heavy hitting",
 	dependencies: [
 		"4446416a",
@@ -20,19 +20,15 @@
 		disable_toast: true
 	}],
 	rewards: [{
-		uid: "52ea7209",
-		type: "item",
-		item: {
-			id: "tconstruct:large_sword_blade",
-			tag: {
-				Material: "wood"
-			}
-		}
-	},
-	{
 		uid: "f10866e9",
 		type: "gamestage",
 		auto: "no_toast",
 		stage: "weapons1"
+	},
+	{
+		uid: "f434de1a",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 10
 	}]
 }

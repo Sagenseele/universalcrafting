@@ -1,7 +1,14 @@
 {
-	x: -2.0d,
-	y: 0.0d,
+	icon: "tconstruct:pattern",
+	x: -5.0d,
+	y: -1.5d,
 	description: "Tools for everyone!",
+	text: [
+		""
+	],
+	dependencies: [
+		"920e0e5c"
+	],
 	tasks: [{
 		uid: "7cd54b27",
 		type: "item",
@@ -70,5 +77,10 @@
 			Damage: 2s
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "86b1936e",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

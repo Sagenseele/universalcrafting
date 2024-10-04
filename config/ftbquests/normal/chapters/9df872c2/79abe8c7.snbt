@@ -1,0 +1,20 @@
+{
+	x: 15.0d,
+	y: 1.5d,
+	dependencies: [
+		"a6515ecd"
+	],
+	tasks: [{
+		uid: "1f71e9a9",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:sky_stone_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "4344b916",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

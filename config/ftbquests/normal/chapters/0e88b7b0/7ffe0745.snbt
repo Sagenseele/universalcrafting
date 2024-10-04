@@ -1,0 +1,45 @@
+{
+	title: "Fertility Totem",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "everlastingabilities:ability_totem",
+		tag: {
+			"everlastingabilities:abilityStoreStack": [{
+				level: 1,
+				name: "ability.abilities.everlastingabilities.fertility.name"
+			}]
+		}
+	},
+	x: 1.0d,
+	y: 1.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "81d6880f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "contenttweaker:universal_points"
+		}],
+		count: 30L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "4c98f27c",
+		type: "item",
+		team_reward: false,
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "everlastingabilities:ability_totem",
+			tag: {
+				"everlastingabilities:abilityStoreStack": [{
+					level: 1,
+					name: "ability.abilities.everlastingabilities.fertility.name"
+				}]
+			}
+		}
+	}]
+}

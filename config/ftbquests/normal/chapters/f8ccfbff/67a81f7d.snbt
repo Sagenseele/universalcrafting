@@ -1,0 +1,20 @@
+{
+	x: 6.5d,
+	y: -5.5d,
+	description: "Gimme some jobs to do",
+	dependencies: [
+		"f0aa0789"
+	],
+	tasks: [{
+		uid: "d81e6eab",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:crafting_storage_64k"
+		}]
+	}],
+	rewards: [{
+		uid: "35e1953a",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

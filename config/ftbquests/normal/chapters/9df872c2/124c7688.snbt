@@ -1,0 +1,20 @@
+{
+	x: 12.5d,
+	y: -5.5d,
+	dependencies: [
+		"a6515ecd"
+	],
+	tasks: [{
+		uid: "16d8e631",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:redstone_alloy_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "6c349659",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

@@ -1,0 +1,19 @@
+{
+    "path": "mod_mysticalagriculture/soils/soil_prudentium.json",
+    "enabled": true,
+    "id": "soil_prudentium",
+    "name": "Prudentium Soil",
+    "varients": [
+      {
+        "item": "contenttweaker:soil_prudentium",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": true,
+        "ignoreTags": [
+          "*"
+        ],
+        "useOreDict": true
+      }
+    ]
+  }
+  

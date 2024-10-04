@@ -1,6 +1,7 @@
 {
-	x: 3.0d,
-	y: -6.982142857142858d,
+	x: 6.5d,
+	y: -6.5d,
+	description: "Looks pretty",
 	dependencies: [
 		"f0aa0789"
 	],
@@ -11,5 +12,10 @@
 		items: [{
 			item: "appliedenergistics2:controller"
 		}]
+	}],
+	rewards: [{
+		uid: "ef54ac8c",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

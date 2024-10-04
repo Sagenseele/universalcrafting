@@ -18,5 +18,10 @@
 			}
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3f2859cc",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: -6.5d,
+	dependencies: [
+		"c747dfa6"
+	],
+	tasks: [{
+		uid: "1a6a5fcb",
+		type: "item",
+		items: [{
+			item: "enderio:item_capacitor_silver"
+		}]
+	}],
+	rewards: [{
+		uid: "11d7fd1f",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

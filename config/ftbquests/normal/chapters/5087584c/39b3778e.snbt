@@ -1,0 +1,19 @@
+{
+	x: 7.5d,
+	y: 0.0d,
+	dependencies: [
+		"a3d2f860"
+	],
+	tasks: [{
+		uid: "d27d8c1c",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fuel_americium 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "3d96632c",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

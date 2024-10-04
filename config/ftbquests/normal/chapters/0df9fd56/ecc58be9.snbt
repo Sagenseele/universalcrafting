@@ -1,7 +1,7 @@
 {
 	icon: "tconstruct:smeltery_controller",
-	x: -3.5d,
-	y: 1.5d,
+	x: -1.062499999999993d,
+	y: 3.4732142857142847d,
 	description: "Hot stuff",
 	dependencies: [
 		"5ee8fd21"
@@ -63,5 +63,10 @@
 		items: [{
 			item: "tconstruct:casting 1 1"
 		}]
+	}],
+	rewards: [{
+		uid: "a5e8af36",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

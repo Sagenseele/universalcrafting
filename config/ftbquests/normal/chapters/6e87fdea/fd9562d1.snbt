@@ -1,11 +1,17 @@
 {
 	x: 6.5d,
 	y: -5.5d,
+	description: "AE2 Lightweight",
 	tasks: [{
 		uid: "0c12e188",
 		type: "item",
 		items: [{
 			item: "storagenetwork:master"
 		}]
+	}],
+	rewards: [{
+		uid: "eab31817",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

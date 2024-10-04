@@ -1,0 +1,20 @@
+{
+	x: 10.5d,
+	y: -5.0d,
+	dependencies: [
+		"a6515ecd"
+	],
+	tasks: [{
+		uid: "ee8fe5b6",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:creeper_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "76883531",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

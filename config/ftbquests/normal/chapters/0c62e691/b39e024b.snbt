@@ -1,0 +1,16 @@
+{
+	x: -3.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "fdd8eb4c",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:frame"
+		}]
+	}],
+	rewards: [{
+		uid: "636435b1",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

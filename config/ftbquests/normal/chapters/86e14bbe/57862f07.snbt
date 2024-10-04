@@ -11,5 +11,10 @@
 		items: [{
 			item: "astralsorcery:blockmachine"
 		}]
+	}],
+	rewards: [{
+		uid: "87acdee8",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

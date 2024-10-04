@@ -1,0 +1,12 @@
+{
+	title: "Woot",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "woot:yahhammer"
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

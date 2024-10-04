@@ -1,9 +1,11 @@
 {
-	x: 4.0d,
-	y: 7.0d,
+	x: -2.0d,
+	y: 8.0d,
 	tasks: [{
 		uid: "fc3b4c07",
 		type: "forge_energy",
-		value: 50000L
+		title: "25M Woot",
+		disable_toast: true,
+		value: 25000000L
 	}]
 }

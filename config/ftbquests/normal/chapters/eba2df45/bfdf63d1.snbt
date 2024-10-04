@@ -1,0 +1,19 @@
+{
+	x: 9.0d,
+	y: 7.5d,
+	dependencies: [
+		"1959bdbf"
+	],
+	tasks: [{
+		uid: "090ea003",
+		type: "item",
+		items: [{
+			item: "mob_grinding_utils:saw_upgrade 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "39c8ee71",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

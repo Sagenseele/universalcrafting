@@ -10,5 +10,10 @@
 		items: [{
 			item: "storagenetwork:upgrade 1 2"
 		}]
+	}],
+	rewards: [{
+		uid: "ba1c4848",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

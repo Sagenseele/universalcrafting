@@ -1,0 +1,19 @@
+{
+	x: 0.5892857142857295d,
+	y: -0.7857142857142776d,
+	dependencies: [
+		"f5e955c5"
+	],
+	tasks: [{
+		uid: "22e5ed5f",
+		type: "item",
+		items: [{
+			item: "minecraft:string"
+		}]
+	}],
+	rewards: [{
+		uid: "1284579e",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

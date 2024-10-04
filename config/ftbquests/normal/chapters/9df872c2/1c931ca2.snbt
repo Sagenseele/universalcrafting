@@ -1,0 +1,20 @@
+{
+	x: 14.0d,
+	y: 1.0d,
+	dependencies: [
+		"a6515ecd"
+	],
+	tasks: [{
+		uid: "a27552ab",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:iron_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "aa5e36eb",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 2.0d,
+	y: 6.0d,
+	dependencies: [
+		"665a7eb4"
+	],
+	tasks: [{
+		uid: "46df33c1",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:end_steel_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "d0a2ba5d",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

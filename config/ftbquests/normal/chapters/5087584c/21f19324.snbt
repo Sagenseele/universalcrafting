@@ -1,0 +1,19 @@
+{
+	x: -0.5d,
+	y: -5.5d,
+	dependencies: [
+		"06450e04"
+	],
+	tasks: [{
+		uid: "5db7ce69",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:crystallizer_idle"
+		}]
+	}],
+	rewards: [{
+		uid: "967ac65c",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

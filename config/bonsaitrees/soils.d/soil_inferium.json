@@ -1,0 +1,16 @@
+{
+    "name": "contenttweaker:soil_inferium",
+    "mod": "contenttweaker",
+    "soil": {
+      "name": "contenttweaker:soil_inferium",
+      "data": 0,
+      "ignoreMeta": false
+    },
+  
+    "modifiers": {
+      "growTime": 0.9,
+      "dropChance": 1
+    },
+  
+    "providedTags": [ "grass", "dirt", "end_stone"]
+  }

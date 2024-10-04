@@ -1,0 +1,20 @@
+{
+	x: 11.5d,
+	y: -2.5d,
+	dependencies: [
+		"a6515ecd"
+	],
+	tasks: [{
+		uid: "07274ef3",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:basalz_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "77fbdcc8",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

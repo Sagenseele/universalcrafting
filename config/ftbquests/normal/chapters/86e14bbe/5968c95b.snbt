@@ -11,5 +11,10 @@
 		items: [{
 			item: "astralsorcery:blockattunementrelay"
 		}]
+	}],
+	rewards: [{
+		uid: "5a6dfdfb",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

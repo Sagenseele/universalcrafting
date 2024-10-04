@@ -1,0 +1,24 @@
+{
+	x: 10.0d,
+	y: 8.0d,
+	dependencies: [
+		"00440bba"
+	],
+	tasks: [{
+		uid: "6e1986fa",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "asgardandelion"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "5ce464f7",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 3
+	}]
+}

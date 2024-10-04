@@ -16,7 +16,11 @@
 			tag: {
 				orb: "bloodmagic:archmage"
 			}
-		}],
-		ignore_nbt: 1b
+		}]
+	}],
+	rewards: [{
+		uid: "fd5f3796",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

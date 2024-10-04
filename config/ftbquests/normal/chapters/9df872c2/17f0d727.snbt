@@ -1,0 +1,20 @@
+{
+	x: -2.5d,
+	y: 5.5d,
+	dependencies: [
+		"ef697095"
+	],
+	tasks: [{
+		uid: "960f7575",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:tier3_inferium_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "1452e8d9",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

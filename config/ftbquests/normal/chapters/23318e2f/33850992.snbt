@@ -1,0 +1,34 @@
+{
+	title: "Be a part of oil",
+	x: -1.0d,
+	y: 0.5d,
+	description: "Black Gold",
+	tasks: [{
+		uid: "96207beb",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreClathrateOilSand",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any Oil Sand"
+				}
+			}
+		},
+		{
+			item: "thermalfoundation:ore_fluid 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "d59cc39a",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 2
+	}]
+}

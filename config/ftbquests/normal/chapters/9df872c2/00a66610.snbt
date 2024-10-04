@@ -1,0 +1,20 @@
+{
+	x: 3.0d,
+	y: 5.5d,
+	dependencies: [
+		"665a7eb4"
+	],
+	tasks: [{
+		uid: "6ac1e0e3",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:rock_crystal_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "b22039da",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

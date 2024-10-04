@@ -1,0 +1,21 @@
+{
+	x: 1.0d,
+	y: -1.5d,
+	description: "Physically accurate",
+	dependencies: [
+		"b3299cc6"
+	],
+	tasks: [{
+		uid: "39e77e8d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "cookingforblockheads:cow_jar"
+		}]
+	}],
+	rewards: [{
+		uid: "a80a5252",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	dependencies: [
+		"477645a5"
+	],
+	tasks: [{
+		uid: "74eb41d9",
+		type: "item",
+		items: [{
+			item: "deepmoblearningbm:digital_will_injector"
+		}]
+	}],
+	rewards: [{
+		uid: "a9f66674",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

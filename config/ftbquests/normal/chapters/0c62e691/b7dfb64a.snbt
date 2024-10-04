@@ -1,0 +1,19 @@
+{
+	x: 2.25d,
+	y: -0.9821428571428612d,
+	dependencies: [
+		"4165757e"
+	],
+	tasks: [{
+		uid: "a6387260",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:upgrade 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "b622b694",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

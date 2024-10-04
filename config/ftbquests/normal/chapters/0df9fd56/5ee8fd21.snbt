@@ -1,8 +1,11 @@
 {
 	title: "I am Grout",
 	x: -2.0d,
-	y: 1.5d,
+	y: 2.5d,
 	description: "Never gets old",
+	dependencies: [
+		"c7d6e347"
+	],
 	tasks: [{
 		uid: "15152d49",
 		type: "item",
@@ -11,5 +14,10 @@
 			item: "tconstruct:soil"
 		}],
 		count: 16L
+	}],
+	rewards: [{
+		uid: "8d205ba0",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

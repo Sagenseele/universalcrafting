@@ -1,0 +1,24 @@
+{
+	x: 4.5d,
+	y: -4.0d,
+	description: "Let it build the ritual",
+	dependencies: [
+		"d0344dfc"
+	],
+	tasks: [{
+		uid: "a543e759",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:ritual_diviner"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c58f1b45",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

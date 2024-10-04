@@ -1,0 +1,19 @@
+{
+	x: 6.0d,
+	y: -5.5d,
+	dependencies: [
+		"49effb06"
+	],
+	tasks: [{
+		uid: "a8672106",
+		type: "item",
+		items: [{
+			item: "enderio:item_capacitor_melodic"
+		}]
+	}],
+	rewards: [{
+		uid: "5dc1a094",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

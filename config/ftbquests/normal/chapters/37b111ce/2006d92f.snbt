@@ -1,5 +1,5 @@
 {
-	x: 8.0d,
+	x: 9.5d,
 	y: -2.0d,
 	dependencies: [
 		"dfbc7198"
@@ -11,5 +11,10 @@
 		items: [{
 			item: "industrialforegoing:plastic"
 		}]
+	}],
+	rewards: [{
+		uid: "389f3fbd",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -1,0 +1,20 @@
+{
+	x: 6.5d,
+	y: -4.5d,
+	description: "Multithreading is my specialty",
+	dependencies: [
+		"f0aa0789"
+	],
+	tasks: [{
+		uid: "f1fd91a1",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:crafting_accelerator"
+		}]
+	}],
+	rewards: [{
+		uid: "36e44930",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

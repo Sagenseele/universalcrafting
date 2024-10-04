@@ -1,0 +1,17 @@
+{
+	disable_toast: true,
+	x: 9.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "dad86198",
+		type: "item",
+		items: [{
+			item: "mob_grinding_utils:saw"
+		}]
+	}],
+	rewards: [{
+		uid: "e50e8e9f",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

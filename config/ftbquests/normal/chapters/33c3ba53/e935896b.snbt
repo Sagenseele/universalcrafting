@@ -1,0 +1,21 @@
+{
+	x: 7.0d,
+	y: 5.0d,
+	dependencies: [
+		"23b95477"
+	],
+	tasks: [{
+		uid: "81855980",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "extrautils2:drum 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "8d6a0f9e",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 3
+	}]
+}

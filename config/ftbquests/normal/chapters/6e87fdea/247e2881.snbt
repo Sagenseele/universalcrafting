@@ -1,0 +1,22 @@
+{
+	x: 7.5d,
+	y: 0.0d,
+	dependencies: [
+		"2a95e1b3"
+	],
+	tasks: [{
+		uid: "830a27cc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {}
+			},
+			id: "yabba:upgrade_star_tier"
+		}]
+	}],
+	rewards: [{
+		uid: "72e73b46",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

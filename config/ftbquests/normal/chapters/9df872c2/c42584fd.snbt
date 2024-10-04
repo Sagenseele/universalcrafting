@@ -1,0 +1,20 @@
+{
+	x: 14.5d,
+	y: 5.5d,
+	dependencies: [
+		"ee03c0a5"
+	],
+	tasks: [{
+		uid: "5e4111a7",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:enderman_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "27683004",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

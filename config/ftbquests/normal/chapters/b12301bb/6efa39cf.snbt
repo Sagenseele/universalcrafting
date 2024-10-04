@@ -1,0 +1,19 @@
+{
+	x: 4.5d,
+	y: -2.0d,
+	dependencies: [
+		"477645a5"
+	],
+	tasks: [{
+		uid: "ea5a601a",
+		type: "item",
+		items: [{
+			item: "deepmoblearningbm:digital_agonizer"
+		}]
+	}],
+	rewards: [{
+		uid: "c3a32c22",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

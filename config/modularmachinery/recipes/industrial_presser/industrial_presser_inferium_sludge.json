@@ -1,0 +1,24 @@
+{
+    "machine": "industrial_presser",
+    "registryName": "industrial_presser_inferium_sludge",
+    "recipeTime": 100,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 8192
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "mysticalagriculture:crafting",
+            "amount": 64
+        },
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "sludge_inferium",
+            "amount": 3200
+        }
+    ]
+}

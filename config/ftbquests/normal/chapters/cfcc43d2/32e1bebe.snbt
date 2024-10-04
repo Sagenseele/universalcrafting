@@ -1,0 +1,21 @@
+{
+	x: 0.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "0f93c670",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sacrificial_dagger",
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "05369f1e",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

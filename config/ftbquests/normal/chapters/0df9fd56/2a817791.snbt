@@ -1,0 +1,19 @@
+{
+	x: -3.0d,
+	y: 0.0d,
+	dependencies: [
+		"920e0e5c"
+	],
+	tasks: [{
+		uid: "4cd7a8d5",
+		type: "item",
+		items: [{
+			item: "excompressum:wooden_crucible"
+		}]
+	}],
+	rewards: [{
+		uid: "97984a7a",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 0.5d,
+	y: 3.0d,
+	dependencies: [
+		"154c9b3e"
+	],
+	tasks: [{
+		uid: "6660028e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "furnaceoverhaul:gold_furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "2e9dcf02",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

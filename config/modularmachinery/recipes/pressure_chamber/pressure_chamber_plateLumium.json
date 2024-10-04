@@ -1,0 +1,24 @@
+{
+    "machine": "pressure_chamber",
+    "registryName": "pressure_chamber_plateLumium",
+    "recipeTime": 1,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 4096
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotLumium",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "thermalfoundation:material@358",
+            "amount": 1
+        }
+    ]
+}

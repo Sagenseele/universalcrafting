@@ -1,0 +1,20 @@
+{
+	x: 14.5d,
+	y: -1.0d,
+	dependencies: [
+		"a6515ecd"
+	],
+	tasks: [{
+		uid: "83f00a67",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:certus_quartz_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "e300d178",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

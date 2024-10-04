@@ -1,6 +1,6 @@
 {
-	x: 3.0d,
-	y: -4.982142857142858d,
+	x: 6.5d,
+	y: -7.5d,
 	dependencies: [
 		"f0aa0789"
 	],
@@ -10,5 +10,10 @@
 		items: [{
 			item: "appliedenergistics2:security_station"
 		}]
+	}],
+	rewards: [{
+		uid: "de64a6d8",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

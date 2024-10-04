@@ -1,0 +1,21 @@
+{
+	x: 5.5d,
+	y: -0.5d,
+	description: "I'm mining...",
+	text: [
+		"Mines everything it faces"
+	],
+	tasks: [{
+		uid: "6863f96b",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "extrautils2:miner"
+		}]
+	}],
+	rewards: [{
+		uid: "404db7d3",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

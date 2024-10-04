@@ -1,0 +1,24 @@
+{
+    "machine": "pressure_chamber",
+    "registryName": "pressure_chamber_plateSilver",
+    "recipeTime": 1,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 4096
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotSilver",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "thermalfoundation:material@322",
+            "amount": 1
+        }
+    ]
+}

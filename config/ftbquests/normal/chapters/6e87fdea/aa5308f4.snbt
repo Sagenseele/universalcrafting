@@ -10,5 +10,10 @@
 		items: [{
 			item: "storagenetwork:request"
 		}]
+	}],
+	rewards: [{
+		uid: "c558f532",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

@@ -1,0 +1,20 @@
+{
+	x: 7.5d,
+	y: 1.5d,
+	dependencies: [
+		"a01cf1d0"
+	],
+	tasks: [{
+		uid: "e629391c",
+		type: "item",
+		items: [{
+			item: "bhc:green_heart_canister"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "9cdc9155",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

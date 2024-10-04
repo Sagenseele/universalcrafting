@@ -1,0 +1,19 @@
+{
+	x: 2.8035714285714377d,
+	y: -3.357142857142847d,
+	dependencies: [
+		"2ca328d2"
+	],
+	tasks: [{
+		uid: "d030e690",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:item_mesh 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "08b62e77",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

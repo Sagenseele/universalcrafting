@@ -1,6 +1,7 @@
 {
 	x: -2.0d,
 	y: -4.0d,
+	description: "Superior Crystal Grower",
 	dependencies: [
 		"f328f32a"
 	],
@@ -11,5 +12,10 @@
 		items: [{
 			item: "ae2stuff:grower"
 		}]
+	}],
+	rewards: [{
+		uid: "f02fd7c9",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

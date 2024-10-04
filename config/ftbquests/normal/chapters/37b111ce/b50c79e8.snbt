@@ -1,0 +1,19 @@
+{
+	x: 11.0d,
+	y: -1.0d,
+	dependencies: [
+		"2006d92f"
+	],
+	tasks: [{
+		uid: "1f925a10",
+		type: "item",
+		items: [{
+			item: "enderio:item_material"
+		}]
+	}],
+	rewards: [{
+		uid: "081d0613",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

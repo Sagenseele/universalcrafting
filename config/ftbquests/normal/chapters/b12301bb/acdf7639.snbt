@@ -1,0 +1,38 @@
+{
+	x: 10.75d,
+	y: 0.5d,
+	shape: "square",
+	dependencies: [
+		"635de41c",
+		"075d17ff",
+		"1a0affc8",
+		"b4dfddfd",
+		"34fe9ebb",
+		"b1447942",
+		"2e8085a6",
+		"ae9d3055",
+		"3cab59a2",
+		"e7f717bb",
+		"78794617",
+		"62c923b9",
+		"9a3a4d2a",
+		"b6b7b441",
+		"b6a94670",
+		"4a46283a",
+		"783ff081"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "ee937e3f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:essence_deepmoblearning"
+		}]
+	}],
+	rewards: [{
+		uid: "735f9f3b",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 3
+	}]
+}

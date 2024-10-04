@@ -14,5 +14,10 @@
 				type: "puredaisy"
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "9834eafd",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

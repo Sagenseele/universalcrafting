@@ -1,0 +1,33 @@
+{
+	x: 1.8571428571428612d,
+	y: 3.3392857142857153d,
+	dependencies: [
+		"c28ffdaa"
+	],
+	tasks: [{
+		uid: "755b4e8f",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:device",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				]
+			},
+			Damage: 11s
+		}]
+	}],
+	rewards: [{
+		uid: "247109b0",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

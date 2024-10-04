@@ -1,0 +1,17 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	description: "Do a barrel roll",
+	tasks: [{
+		uid: "714a737c",
+		type: "item",
+		items: [{
+			item: "yabba:item_barrel"
+		}]
+	}],
+	rewards: [{
+		uid: "37fe49af",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

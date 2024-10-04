@@ -1,0 +1,45 @@
+{
+	title: "Regeneration Totem",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "everlastingabilities:ability_totem",
+		tag: {
+			"everlastingabilities:abilityStoreStack": [{
+				level: 1,
+				name: "ability.abilities.everlastingabilities.regeneration.name"
+			}]
+		}
+	},
+	x: 1.0d,
+	y: 3.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "47c74e5c",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "contenttweaker:universal_points"
+		}],
+		count: 45L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "7d76150b",
+		type: "item",
+		team_reward: false,
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "everlastingabilities:ability_totem",
+			tag: {
+				"everlastingabilities:abilityStoreStack": [{
+					level: 1,
+					name: "ability.abilities.everlastingabilities.regeneration.name"
+				}]
+			}
+		}
+	}]
+}

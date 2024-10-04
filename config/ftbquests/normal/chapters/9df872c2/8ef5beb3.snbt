@@ -1,0 +1,20 @@
+{
+	x: 9.0d,
+	y: 4.0d,
+	dependencies: [
+		"ee03c0a5"
+	],
+	tasks: [{
+		uid: "fd227a16",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:ghast_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "06959283",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

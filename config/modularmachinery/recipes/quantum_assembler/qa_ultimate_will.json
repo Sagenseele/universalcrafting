@@ -1,0 +1,42 @@
+{
+    "machine": "quantum_assembler",
+    "registryName": "qa_ultimate_will",
+    "recipeTime": 600,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 200000
+        },        
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "corrosive_will",
+            "amount": 1000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "destructive_will",
+            "amount": 1000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "vengeful_will",
+            "amount": 1000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "steadfast_will",
+            "amount": 1000
+        },
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "ultimate_will",
+            "amount": 4000
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 {
-	x: 6.035714285714285d,
-	y: -6.785714285714288d,
+	x: 3.5d,
+	y: -9.0d,
 	dependencies: [
 		"f0aa0789"
 	],
@@ -10,5 +10,10 @@
 		items: [{
 			item: "appliedenergistics2:part 1 480"
 		}]
+	}],
+	rewards: [{
+		uid: "3776167d",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

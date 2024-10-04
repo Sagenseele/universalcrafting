@@ -1,0 +1,45 @@
+{
+	title: "Night Vision Totem",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "everlastingabilities:ability_totem",
+		tag: {
+			"everlastingabilities:abilityStoreStack": [{
+				level: 1,
+				name: "ability.abilities.everlastingabilities.night_vision.name"
+			}]
+		}
+	},
+	x: 2.0d,
+	y: 1.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "2b77f2cd",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "contenttweaker:universal_points"
+		}],
+		count: 30L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "faae87eb",
+		type: "item",
+		team_reward: false,
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "everlastingabilities:ability_totem",
+			tag: {
+				"everlastingabilities:abilityStoreStack": [{
+					level: 1,
+					name: "ability.abilities.everlastingabilities.nihgt_vision.name"
+				}]
+			}
+		}
+	}]
+}

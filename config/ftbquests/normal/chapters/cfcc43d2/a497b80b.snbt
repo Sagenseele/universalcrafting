@@ -16,7 +16,11 @@
 			tag: {
 				orb: "bloodmagic:apprentice"
 			}
-		}],
-		ignore_nbt: 1b
+		}]
+	}],
+	rewards: [{
+		uid: "2af179c2",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

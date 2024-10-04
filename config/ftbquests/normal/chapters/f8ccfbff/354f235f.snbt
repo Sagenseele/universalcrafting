@@ -1,15 +1,21 @@
 {
-	x: 8.0d,
-	y: -1.9821428571428577d,
-	description: "Do also drop from Withers",
+	x: 2.0d,
+	y: -10.0d,
+	description: "Drops from withers",
 	dependencies: [
 		"e677d7b2"
 	],
 	tasks: [{
 		uid: "5be7b6ef",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			item: "ae2wtlib:infinity_booster_card"
 		}]
+	}],
+	rewards: [{
+		uid: "b3abf333",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

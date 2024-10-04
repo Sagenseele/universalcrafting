@@ -4,7 +4,8 @@
 	tasks: [{
 		uid: "baee13df",
 		type: "forge_energy",
+		title: "100K Agricraft",
 		disable_toast: true,
-		value: 10000L
+		value: 100000L
 	}]
 }

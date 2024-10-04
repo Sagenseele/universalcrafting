@@ -1,0 +1,23 @@
+{
+	x: 9.0d,
+	y: 3.0d,
+	text: [
+		"Blue Hearts drop from Evokers"
+	],
+	dependencies: [
+		"970b96a7"
+	],
+	tasks: [{
+		uid: "017754dd",
+		type: "item",
+		items: [{
+			item: "bhc:blue_heart_canister"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "ab4ee0b6",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

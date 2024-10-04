@@ -1,19 +1,27 @@
 {
+	icon: "minecraft:apple",
+	disable_toast: true,
 	x: 0.0d,
-	y: 0.0d,
+	y: -0.5d,
 	description: "Readme",
 	text: [
-		"Hello and welcome to Universal Crafting, my first public modpack. It is a magical and industrial themed modpack and contains many well known mods like Botania, Thaumcraft 6, Astral Sorcery, Nuclearcraft, Tinkers and many more, as well as small mods.",
-		"The modpack is divided into professions, which give a rough overview of progress, extra chapters for large mods and the Research Lab, where new mods and items can be unlocked.",
+		"Hello and welcome to Universal Crafting, my first public modpack. It is a magical and industrial themed modpack and contains many well known mods as well as small mods.",
+		"I would recommend you to start your journey with the 'Beginning' Chapter.",
 		"I hope you enjoy my modpack. ",
 		"If you have any criticism or suggestions on how to improve the modpack, you can leave me an issue on Github:",
 		"https://github.com/Sagenseele/universalcrafting/issues",
 		"Have fun",
 		"~ Sagenseele"
 	],
+	size: 2.0d,
 	tasks: [{
 		uid: "3cb57ec0",
 		type: "checkmark",
 		title: "Welcome"
+	}],
+	rewards: [{
+		uid: "4ddefe71",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

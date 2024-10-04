@@ -1,0 +1,19 @@
+{
+    "path": "mod_mysticalagriculture/soils/soil_inferium.json",
+    "enabled": true,
+    "id": "soil_inferium",
+    "name": "Inferium Soil",
+    "varients": [
+      {
+        "item": "contenttweaker:soil_inferium",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": true,
+        "ignoreTags": [
+          "*"
+        ],
+        "useOreDict": true
+      }
+    ]
+  }
+  

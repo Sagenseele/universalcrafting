@@ -1,0 +1,23 @@
+{
+	x: -2.5d,
+	y: 3.0d,
+	text: [
+		"You can harvest the clusters without breaking them by right clicking while having a tartaric gem with over 1024 Will in your inventory."
+	],
+	dependencies: [
+		"db67ac33"
+	],
+	tasks: [{
+		uid: "019f2779",
+		type: "item",
+		items: [{
+			item: "bloodmagic:item_demon_crystal"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "6976c3d8",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

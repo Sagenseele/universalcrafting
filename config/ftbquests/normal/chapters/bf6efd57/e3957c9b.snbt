@@ -1,0 +1,22 @@
+{
+	x: 12.0d,
+	y: 7.5d,
+	shape: "square",
+	dependencies: [
+		"a2c8eef3"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "12a48b04",
+		type: "item",
+		items: [{
+			item: "contenttweaker:essence_solarfluxreborn"
+		}]
+	}],
+	rewards: [{
+		uid: "e468ebca",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 3
+	}]
+}

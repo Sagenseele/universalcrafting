@@ -1,0 +1,22 @@
+{
+	icon: "minecraft:skull 1 5",
+	x: 3.0d,
+	y: 2.5d,
+	description: "...the end.",
+	dependencies: [
+		"b0997b8c"
+	],
+	tasks: [{
+		uid: "603c15b4",
+		type: "kill",
+		disable_toast: true,
+		entity: "minecraft:ender_dragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "68c9df60",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 3
+	}]
+}

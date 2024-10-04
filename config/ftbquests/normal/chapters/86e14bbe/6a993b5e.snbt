@@ -1,8 +1,8 @@
 {
 	x: 0.0d,
 	y: 0.0d,
-	dependencies: [
-		"d1a69522"
+	text: [
+		"Place a vanilla crafting table in the vicinity of the collector crystal and craft the luminous crafting table."
 	],
 	tasks: [{
 		uid: "9b57839a",
@@ -15,5 +15,10 @@
 			id: "astralsorcery:blockaltar"
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a93aca6e",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

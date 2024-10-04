@@ -1,0 +1,20 @@
+{
+	x: 15.0d,
+	y: -2.0d,
+	dependencies: [
+		"a6515ecd"
+	],
+	tasks: [{
+		uid: "8b897a61",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:saltpeter_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "9c49d468",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

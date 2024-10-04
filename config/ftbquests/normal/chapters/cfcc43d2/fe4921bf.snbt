@@ -1,6 +1,6 @@
 {
 	x: 2.0d,
-	y: 5.0d,
+	y: 6.0d,
 	dependencies: [
 		"2ff2ef33"
 	],
@@ -17,5 +17,10 @@
 			Damage: 2s
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "28144dac",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

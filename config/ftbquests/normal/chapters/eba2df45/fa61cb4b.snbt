@@ -1,0 +1,25 @@
+{
+	x: 7.214285714285715d,
+	y: 5.017857142857146d,
+	description: "Mob Eggs at your will",
+	text: [
+		"To create an Monster Egg, right click the monster with the swab and craft a GM Chicken Feed with a seed and a bucket of XP"
+	],
+	tasks: [{
+		uid: "577873fa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mob_grinding_utils:mob_swab"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "dba1b564",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

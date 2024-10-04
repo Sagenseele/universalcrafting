@@ -1,0 +1,16 @@
+{
+    "name": "contenttweaker:soil_supremium",
+    "mod": "contenttweaker",
+    "soil": {
+      "name": "contenttweaker:soil_supremium",
+      "data": 0,
+      "ignoreMeta": false
+    },
+  
+    "modifiers": {
+      "growTime": 0.4,
+      "dropChance": 2.2
+    },
+  
+    "providedTags": [ "grass", "dirt", "end_stone"]
+  }

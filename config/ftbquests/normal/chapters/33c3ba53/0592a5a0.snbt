@@ -1,6 +1,6 @@
 {
-	x: 1.5d,
-	y: 3.5d,
+	x: 0.5d,
+	y: 0.5d,
 	tasks: [{
 		uid: "4f86daba",
 		type: "item",
@@ -8,5 +8,10 @@
 		items: [{
 			item: "extendedcrafting:table_basic"
 		}]
+	}],
+	rewards: [{
+		uid: "14bc5adb",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

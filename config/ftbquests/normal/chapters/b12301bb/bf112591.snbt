@@ -1,0 +1,35 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "688f3dd4",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "deepmoblearning:deep_learner"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "76f850f3",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "deepmoblearning:book"
+			}
+		}
+	},
+	{
+		uid: "b11f4ea8",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: 6.0d,
+	y: -3.0d,
+	dependencies: [
+		"6efa39cf"
+	],
+	tasks: [{
+		uid: "d319aa47",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "deepmoblearningbm:altar_linker"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0061a79e",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

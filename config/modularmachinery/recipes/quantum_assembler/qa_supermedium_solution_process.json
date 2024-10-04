@@ -1,0 +1,44 @@
+{
+    "machine": "quantum_assembler",
+    "registryName": "qa_supermedium_solution_process",
+    "recipeTime": 600,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 100
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "solution_supermedium",
+            "amount": 200
+        },        
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "water",
+            "amount": 150
+        },        
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "concentrate_supermedium",
+            "amount": 40
+        },        
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "contenttweaker:solid_supermedium",
+            "chance": 0.9,
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "contenttweaker:trace_element_supermedium",
+            "chance": 0.005,
+            "amount": 1
+        }
+    ]
+}

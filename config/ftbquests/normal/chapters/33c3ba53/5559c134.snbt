@@ -1,0 +1,21 @@
+{
+	x: 10.0d,
+	y: 7.0d,
+	dependencies: [
+		"00440bba"
+	],
+	tasks: [{
+		uid: "d702fe38",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "avaritiaio:infinitecapacitor"
+		}]
+	}],
+	rewards: [{
+		uid: "9f8d016b",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 3
+	}]
+}

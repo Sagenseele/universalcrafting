@@ -1,0 +1,24 @@
+{
+    "machine": "electromagnetic_coil_accelerator",
+    "registryName": "eca_matter_cluster",
+    "recipeTime": 1200,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 1024000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:multigem",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "avaritia:matter_cluster",
+            "amount": 1
+        }
+    ]
+}

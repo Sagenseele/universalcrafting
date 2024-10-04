@@ -1,0 +1,20 @@
+{
+	x: 5.5d,
+	y: 0.5d,
+	dependencies: [
+		"fb24f3a3"
+	],
+	tasks: [{
+		uid: "45cad2a5",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:sulfur_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "21718e9d",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

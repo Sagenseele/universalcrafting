@@ -1,0 +1,31 @@
+{
+	x: 2.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "784480e3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "woot:yahhammer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c739b2e2",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "guideapi:woot-guide"
+		}
+	},
+	{
+		uid: "a46408c0",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

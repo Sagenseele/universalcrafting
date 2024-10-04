@@ -1,0 +1,24 @@
+{
+	x: -0.5d,
+	y: -1.5d,
+	text: [
+		"Use a silkworm on leaves to create infested leaves. Harvest those leaves with a crook to collect string.",
+		"",
+		"Good first food if grilled!"
+	],
+	dependencies: [
+		"47707df2"
+	],
+	tasks: [{
+		uid: "b7d988e7",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:item_material 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "ee688a76",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

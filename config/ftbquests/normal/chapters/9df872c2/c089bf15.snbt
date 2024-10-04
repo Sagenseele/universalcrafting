@@ -1,0 +1,20 @@
+{
+	x: 1.0d,
+	y: -1.0d,
+	dependencies: [
+		"80d2a44d"
+	],
+	tasks: [{
+		uid: "6f6e27fa",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagriculture:zombie_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "6a511680",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

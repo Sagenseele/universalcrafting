@@ -1,0 +1,21 @@
+{
+	x: 1.5d,
+	y: 2.0d,
+	dependencies: [
+		"6aa683d7"
+	],
+	tasks: [{
+		uid: "2cdcae32",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "mysticalagradditions:special"
+		}]
+	}],
+	rewards: [{
+		uid: "548b17a3",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 2
+	}]
+}

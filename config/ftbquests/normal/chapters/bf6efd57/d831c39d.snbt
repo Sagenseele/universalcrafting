@@ -1,0 +1,24 @@
+{
+	x: 6.0d,
+	y: 4.5d,
+	dependencies: [
+		"9fffa590"
+	],
+	tasks: [{
+		uid: "a0060b8c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "solarflux:block_charging_upgrade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5c043e6c",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

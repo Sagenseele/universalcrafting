@@ -1,0 +1,24 @@
+{
+	x: 3.0d,
+	y: 1.0d,
+	dependencies: [
+		"3626811c"
+	],
+	tasks: [{
+		uid: "ea429969",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "deepmoblearning:trial_key"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "46a5af86",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

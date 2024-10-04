@@ -1,10 +1,11 @@
 {
-	x: 4.0d,
+	x: 8.0d,
 	y: 3.0d,
 	tasks: [{
 		uid: "b5e912e1",
 		type: "forge_energy",
+		title: "1M Aquaculture",
 		disable_toast: true,
-		value: 10000L
+		value: 1000000L
 	}]
 }

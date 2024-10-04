@@ -8,7 +8,6 @@
 		"244e54a5",
 		"8f34e270",
 		"207ea36a",
-		"95cae3ee",
 		"ba6a4c77",
 		"3d3430b2"
 	],
@@ -33,5 +32,11 @@
 		type: "gamestage",
 		auto: "no_toast",
 		stage: "agricraft"
+	},
+	{
+		uid: "1f9f8246",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 10
 	}]
 }

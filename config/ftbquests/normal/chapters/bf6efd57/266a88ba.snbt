@@ -1,0 +1,20 @@
+{
+	x: 10.535714285714278d,
+	y: 4.107142857142861d,
+	dependencies: [
+		"a2c8eef3"
+	],
+	tasks: [{
+		uid: "cfaca755",
+		type: "item",
+		items: [{
+			item: "solarflux:solar_panel_neutronium"
+		}]
+	}],
+	rewards: [{
+		uid: "f4373112",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 2
+	}]
+}

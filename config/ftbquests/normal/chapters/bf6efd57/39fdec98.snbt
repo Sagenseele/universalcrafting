@@ -1,0 +1,21 @@
+{
+	x: 6.5d,
+	y: 5.5d,
+	dependencies: [
+		"9fffa590"
+	],
+	tasks: [{
+		uid: "e722062f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "solarflux:capacity_upgrade"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "c07faa27",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

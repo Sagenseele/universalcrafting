@@ -1,5 +1,5 @@
 {
-	x: 0.0d,
+	x: -1.0d,
 	y: -6.5d,
 	dependencies: [
 		"a6480b21"
@@ -11,5 +11,10 @@
 		items: [{
 			item: "appliedenergistics2:material 1 55"
 		}]
+	}],
+	rewards: [{
+		uid: "089d690e",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

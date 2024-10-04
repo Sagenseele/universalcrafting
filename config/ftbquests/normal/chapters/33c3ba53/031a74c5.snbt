@@ -1,0 +1,23 @@
+{
+	x: 3.0d,
+	y: 5.017857142857139d,
+	shape: "octagon",
+	dependencies: [
+		"e97878f9",
+		"fcc77cd1"
+	],
+	size: 3.0d,
+	tasks: [{
+		uid: "14cfb120",
+		type: "item",
+		items: [{
+			item: "extrautils2:creativechest"
+		}]
+	}],
+	rewards: [{
+		uid: "2826410e",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 15
+	}]
+}

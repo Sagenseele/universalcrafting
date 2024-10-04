@@ -11,5 +11,10 @@
 		items: [{
 			item: "bloodmagic:soul_forge"
 		}]
+	}],
+	rewards: [{
+		uid: "2bfb331a",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

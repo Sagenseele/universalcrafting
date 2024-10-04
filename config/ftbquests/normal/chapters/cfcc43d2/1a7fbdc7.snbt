@@ -1,0 +1,28 @@
+{
+	x: 6.5d,
+	y: 3.0d,
+	dependencies: [
+		"3c7d3aa3"
+	],
+	tasks: [{
+		uid: "de0b2d01",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:bound_sword",
+			tag: {
+				Unbreakable: 1b,
+				activated: 1
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6088e1c3",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: 3.5d,
+	y: 2.0d,
+	dependencies: [
+		"13ba7078"
+	],
+	tasks: [{
+		uid: "b95ddc1b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "avaritia:skullfire_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0c3a66ef",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

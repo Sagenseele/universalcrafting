@@ -1,6 +1,7 @@
 {
-	x: 4.0d,
-	y: -7.482142857142858d,
+	x: 7.5d,
+	y: -7.0d,
+	description: "Superiour Inscriber",
 	dependencies: [
 		"f0aa0789"
 	],
@@ -11,5 +12,10 @@
 		items: [{
 			item: "ae2stuff:inscriber"
 		}]
+	}],
+	rewards: [{
+		uid: "4b1e76f1",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

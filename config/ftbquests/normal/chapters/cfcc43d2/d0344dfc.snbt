@@ -1,0 +1,19 @@
+{
+	x: 3.5d,
+	y: -4.5d,
+	dependencies: [
+		"3997a5d7"
+	],
+	tasks: [{
+		uid: "e81918c3",
+		type: "item",
+		items: [{
+			item: "bloodmagic:ritual_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "6d71b44e",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

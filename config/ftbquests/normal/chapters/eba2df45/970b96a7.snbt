@@ -1,6 +1,9 @@
 {
 	x: 7.5d,
 	y: 1.5d,
+	text: [
+		"Green Hearts drop from the Ender Dragon"
+	],
 	dependencies: [
 		"a01cf1d0"
 	],

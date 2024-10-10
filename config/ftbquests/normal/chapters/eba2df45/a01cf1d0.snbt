@@ -1,6 +1,9 @@
 {
 	x: 7.5d,
 	y: 3.0d,
+	text: [
+		"Yellow Hearts drop from bosses"
+	],
 	dependencies: [
 		"d3398a6f"
 	],

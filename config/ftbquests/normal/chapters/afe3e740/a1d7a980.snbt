@@ -1,0 +1,25 @@
+{
+	title: "Furnace Overhaul",
+	icon: "furnaceoverhaul:iron_furnace",
+	x: -3.5d,
+	y: 2.0d,
+	description: "Better Furnaces",
+	dependencies: [
+		"112177fb"
+	],
+	tasks: [{
+		uid: "64d0d299",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}],
+		count: 8L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "3044ed9f",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "furnaceoverhaul"
+	}]
+}

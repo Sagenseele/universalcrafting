@@ -1,6 +1,11 @@
 {
+	title: "Inferium Seeds Tier I",
 	x: -2.5d,
 	y: 4.5d,
+	dependencies: [
+		"96bc9596"
+	],
+	hide: true,
 	tasks: [{
 		uid: "31a2cfc6",
 		type: "item",

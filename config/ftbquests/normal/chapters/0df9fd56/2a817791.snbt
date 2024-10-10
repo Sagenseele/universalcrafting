@@ -1,6 +1,9 @@
 {
 	x: -3.0d,
 	y: 0.0d,
+	text: [
+		"Used to create water. Also fills while raining"
+	],
 	dependencies: [
 		"920e0e5c"
 	],

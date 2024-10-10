@@ -1,0 +1,56 @@
+{
+	title: "Woot",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "woot:yahhammer"
+	},
+	x: -5.5047619047619065d,
+	y: 16.18750000000003d,
+	dependencies: [
+		"ddfd1bda"
+	],
+	tasks: [{
+		uid: "48c4f647",
+		type: "item",
+		items: [{
+			item: "contenttweaker:orangecard"
+		}],
+		count: 4096L,
+		consume_items: true
+	},
+	{
+		uid: "2d8011b3",
+		type: "item",
+		items: [{
+			item: "contenttweaker:redcard"
+		}],
+		count: 512L,
+		consume_items: true
+	},
+	{
+		uid: "04b879ca",
+		type: "item",
+		items: [{
+			item: "contenttweaker:indigocard"
+		}],
+		count: 128L,
+		consume_items: true
+	},
+	{
+		uid: "a2d47cab",
+		type: "item",
+		items: [{
+			item: "contenttweaker:violetcard"
+		}],
+		count: 64L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "270ab6b5",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "woot"
+	}]
+}

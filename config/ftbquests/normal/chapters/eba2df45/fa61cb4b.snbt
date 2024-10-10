@@ -5,6 +5,10 @@
 	text: [
 		"To create an Monster Egg, right click the monster with the swab and craft a GM Chicken Feed with a seed and a bucket of XP"
 	],
+	dependencies: [
+		"7bc22382"
+	],
+	hide: true,
 	tasks: [{
 		uid: "577873fa",
 		type: "item",

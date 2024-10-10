@@ -1,0 +1,33 @@
+{
+	title: "YABBA",
+	icon: "yabba:item_barrel",
+	x: -7.671428571428564d,
+	y: 3.3726190476190894d,
+	description: "Even bigger dedicated Storage",
+	dependencies: [
+		"d55f394f"
+	],
+	tasks: [{
+		uid: "7448e106",
+		type: "item",
+		items: [{
+			item: "storagedrawers:controller"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "6e64dc83",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_storage 1 4"
+		}],
+		count: 4L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "0b25f304",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "yabba"
+	}]
+}

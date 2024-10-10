@@ -1,10 +1,12 @@
 {
 	x: 3.0d,
 	y: 5.017857142857139d,
-	shape: "octagon",
+	shape: "gear",
 	dependencies: [
 		"e97878f9",
-		"fcc77cd1"
+		"95e17183",
+		"fcc77cd1",
+		"2faa4875"
 	],
 	size: 3.0d,
 	tasks: [{

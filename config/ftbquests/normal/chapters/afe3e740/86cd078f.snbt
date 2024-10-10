@@ -1,0 +1,25 @@
+{
+	x: -8.5d,
+	y: 11.862500000000026d,
+	shape: "gear",
+	dependencies: [
+		"04ba3458",
+		"a1a2b3c8",
+		"96bc9596",
+		"8efcded8"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "3bb71f1c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:indigocard"
+		}]
+	}],
+	rewards: [{
+		uid: "f72118c4",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 10
+	}]
+}

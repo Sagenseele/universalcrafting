@@ -2,6 +2,10 @@
 	x: 0.5d,
 	y: -1.5d,
 	description: "Shiny Quartz make Ape Brain happy",
+	dependencies: [
+		"dd5b7611"
+	],
+	hide: true,
 	dependency_requirement: "one_completed",
 	tasks: [{
 		uid: "02531367",

@@ -9,6 +9,10 @@
 	x: 0.5d,
 	y: -4.5d,
 	description: "Drawer me like one of your french girls",
+	dependencies: [
+		"d55f394f"
+	],
+	hide: true,
 	tasks: [{
 		uid: "1d6469a4",
 		type: "item",

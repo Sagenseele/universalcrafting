@@ -2,6 +2,10 @@
 	x: 8.5d,
 	y: -1.5d,
 	description: "Can I interest you in some seeds?",
+	dependencies: [
+		"32cd4bab"
+	],
+	hide: true,
 	tasks: [{
 		uid: "37560863",
 		type: "item",

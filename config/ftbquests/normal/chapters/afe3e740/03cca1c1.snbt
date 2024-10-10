@@ -1,0 +1,42 @@
+{
+	title: "Quantumflux",
+	icon: "quantumflux:imaginarytime",
+	x: -7.5d,
+	y: 14.0d,
+	dependencies: [
+		"86cd078f"
+	],
+	tasks: [{
+		uid: "c1e2d852",
+		type: "item",
+		items: [{
+			item: "contenttweaker:orangecard"
+		}],
+		count: 1024L,
+		consume_items: true
+	},
+	{
+		uid: "47494ca5",
+		type: "item",
+		items: [{
+			item: "contenttweaker:redcard"
+		}],
+		count: 32L,
+		consume_items: true
+	},
+	{
+		uid: "756a298c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:indigocard"
+		}],
+		count: 16L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "06b0d461",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "quantumflux"
+	}]
+}

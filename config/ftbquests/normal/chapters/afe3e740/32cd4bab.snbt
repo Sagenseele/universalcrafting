@@ -1,0 +1,24 @@
+{
+	title: "Pam's Harvestcraft",
+	icon: "harvestcraft:friedchickenitem",
+	x: -1.0d,
+	y: 6.5d,
+	dependencies: [
+		"4e57b751"
+	],
+	tasks: [{
+		uid: "e76ac093",
+		type: "item",
+		items: [{
+			item: "contenttweaker:orangecard"
+		}],
+		count: 64L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "a154b8f1",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "harvestcraft"
+	}]
+}

@@ -1,0 +1,34 @@
+{
+	title: "Iron Chest",
+	icon: "ironchest:iron_chest 1 5",
+	x: -4.492857142857133d,
+	y: 3.408333333333381d,
+	description: "Bigger Chests",
+	dependencies: [
+		"112177fb"
+	],
+	tasks: [{
+		uid: "cf499fb8",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 129"
+		}],
+		count: 8L,
+		consume_items: true
+	},
+	{
+		uid: "e7b998b0",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 128"
+		}],
+		count: 8L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "11d309ca",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "ironchest"
+	}]
+}

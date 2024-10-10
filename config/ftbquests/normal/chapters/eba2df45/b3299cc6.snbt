@@ -4,6 +4,10 @@
 	x: 2.0d,
 	y: -0.5d,
 	description: "Chefs' station",
+	dependencies: [
+		"32cd4bab"
+	],
+	hide: true,
 	tasks: [{
 		uid: "b2b40133",
 		type: "item",

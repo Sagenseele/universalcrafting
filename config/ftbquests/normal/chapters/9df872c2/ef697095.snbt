@@ -1,4 +1,5 @@
 {
+	title: "Inferium Seeds Tier II",
 	x: -1.5d,
 	y: 5.0d,
 	dependencies: [

@@ -1,0 +1,23 @@
+{
+	x: -9.476190476190482d,
+	y: 16.244642857142885d,
+	shape: "gear",
+	dependencies: [
+		"151f9b4e",
+		"ddfd1bda"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "915c770a",
+		type: "item",
+		items: [{
+			item: "contenttweaker:rainbowcard"
+		}]
+	}],
+	rewards: [{
+		uid: "93b27e5d",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 10
+	}]
+}

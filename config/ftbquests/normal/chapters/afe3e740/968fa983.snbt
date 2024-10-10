@@ -1,0 +1,33 @@
+{
+	title: "Agricraft",
+	icon: "agricraft:seed_analyzer",
+	x: -2.0d,
+	y: 13.0d,
+	dependencies: [
+		"6d1bdd08"
+	],
+	tasks: [{
+		uid: "560c83e4",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellowcard"
+		}],
+		count: 16L,
+		consume_items: true
+	},
+	{
+		uid: "9d5afc57",
+		type: "item",
+		items: [{
+			item: "contenttweaker:redcard"
+		}],
+		count: 16L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "d920224c",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "agricraft"
+	}]
+}

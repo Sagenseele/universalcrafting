@@ -2,6 +2,10 @@
 	x: 6.5d,
 	y: -1.5d,
 	description: "Building Gadget Nr. 1",
+	dependencies: [
+		"18c3041a"
+	],
+	hide: true,
 	tasks: [{
 		uid: "c548625c",
 		type: "item",

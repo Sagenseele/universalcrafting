@@ -1,0 +1,22 @@
+{
+	x: -3.0d,
+	y: 5.0d,
+	shape: "gear",
+	dependencies: [
+		"6611a95c"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "7b4f39f1",
+		type: "item",
+		items: [{
+			item: "contenttweaker:orangecard"
+		}]
+	}],
+	rewards: [{
+		uid: "6ab5da43",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 10
+	}]
+}

@@ -1,6 +1,6 @@
 {
 	title: "Research Lab",
-	icon: "kubejs:knowledge",
+	icon: "contenttweaker:rainbowcard",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

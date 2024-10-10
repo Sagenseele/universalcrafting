@@ -1,7 +1,7 @@
 {
 	icon: "exnihilocreatio:block_auto_sifter",
-	x: 1.830357142857153d,
-	y: -1.9910714285714377d,
+	x: 2.223214285714299d,
+	y: -1.7008928571428612d,
 	text: [
 		"Place below a sieve and power it with waterwheels to sift automatically."
 	],

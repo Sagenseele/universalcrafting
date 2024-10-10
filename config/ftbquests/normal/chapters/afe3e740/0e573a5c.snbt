@@ -1,0 +1,23 @@
+{
+	x: -7.0d,
+	y: 5.0d,
+	shape: "gear",
+	dependencies: [
+		"c6f33f57",
+		"9ee96f43"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "699058ce",
+		type: "item",
+		items: [{
+			item: "contenttweaker:greencard"
+		}]
+	}],
+	rewards: [{
+		uid: "5ba3f086",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 10
+	}]
+}

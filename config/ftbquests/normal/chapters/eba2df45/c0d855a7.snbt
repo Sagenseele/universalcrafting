@@ -5,6 +5,10 @@
 	text: [
 		"Mines everything it faces"
 	],
+	dependencies: [
+		"04ba3458"
+	],
+	hide: true,
 	tasks: [{
 		uid: "6863f96b",
 		type: "item",

@@ -1,0 +1,14 @@
+{
+	x: -3.0d,
+	y: -1.0d,
+	dependencies: [
+		"5e7ad1c5"
+	],
+	tasks: [{
+		uid: "0f3ff3a9",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:isotope_separator_idle"
+		}]
+	}]
+}

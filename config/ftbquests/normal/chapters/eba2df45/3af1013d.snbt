@@ -2,6 +2,10 @@
 	x: -0.5d,
 	y: -2.5d,
 	description: "Building Gadget Nr. 2",
+	dependencies: [
+		"18c3041a"
+	],
+	hide: true,
 	tasks: [{
 		uid: "ffeff843",
 		type: "item",

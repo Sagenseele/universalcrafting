@@ -1,0 +1,49 @@
+{
+	title: "Bonsai Trees",
+	icon: "bonsaitrees:bonsaipot 1 1",
+	x: -5.957142857142848d,
+	y: 3.408333333333381d,
+	description: "Automated Saplings",
+	dependencies: [
+		"6472383d",
+		"c3ed787a"
+	],
+	tasks: [{
+		uid: "3b14a9a4",
+		type: "item",
+		items: [{
+			item: "yabba:item_barrel_connector"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "3077dfbc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {}
+			},
+			id: "yabba:antibarrel"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "4a7c28df",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "randomthings:spectrekey"
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "19ae0cea",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "bonsaitrees"
+	}]
+}

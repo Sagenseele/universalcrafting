@@ -1,10 +1,10 @@
 {
 	title: "Submit your resources.",
 	disable_toast: true,
-	x: -5.5d,
-	y: 4.0d,
+	x: -3.5d,
+	y: 0.0d,
 	text: [
-		"In order to submit energy or water to a quest, build a task screen, select the quest to want to contribute to and insert the resource. Items can be submitted without the need of a task screen but it is still possible with it."
+		"You can send items into a task screen to submit. Select the quest you want to contribute to and insert the resource."
 	],
 	tasks: [{
 		uid: "ca337401",

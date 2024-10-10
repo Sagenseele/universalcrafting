@@ -1,0 +1,20 @@
+{
+	x: -1.4562499999999972d,
+	y: -3.340178571428577d,
+	dependencies: [
+		"920e0e5c"
+	],
+	tasks: [{
+		uid: "dd4af6cf",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "exnihilocreatio:block_sieve"
+		}]
+	}],
+	rewards: [{
+		uid: "e0a72b41",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

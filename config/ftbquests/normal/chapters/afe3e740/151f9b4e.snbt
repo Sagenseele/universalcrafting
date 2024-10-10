@@ -1,0 +1,49 @@
+{
+	title: "Deep Mob Learning",
+	icon: "deepmoblearning:simulation_chamber",
+	x: -9.5d,
+	y: 14.0d,
+	description: "Digital Mob Farm",
+	text: [
+		"Unlocks:",
+		"",
+		"- Deep Mob Learning",
+		"- Deep Mob Learning Bloodmagic Integration"
+	],
+	dependencies: [
+		"86cd078f"
+	],
+	tasks: [{
+		uid: "2ef6bf64",
+		type: "item",
+		items: [{
+			item: "contenttweaker:orangecard"
+		}],
+		count: 1024L,
+		consume_items: true
+	},
+	{
+		uid: "9e2a2e69",
+		type: "item",
+		items: [{
+			item: "contenttweaker:redcard"
+		}],
+		count: 32L,
+		consume_items: true
+	},
+	{
+		uid: "a7e95af8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:indigocard"
+		}],
+		count: 16L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "e0303b84",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "deepmoblearning"
+	}]
+}

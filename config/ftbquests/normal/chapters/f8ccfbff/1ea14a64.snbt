@@ -6,6 +6,10 @@
 	text: [
 		"Presses cannot be found in meteorites anymore. They must be crafted."
 	],
+	dependencies: [
+		"dd5b7611"
+	],
+	hide: true,
 	tasks: [{
 		uid: "81310fc6",
 		type: "checkmark"

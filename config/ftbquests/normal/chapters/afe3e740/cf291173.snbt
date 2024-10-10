@@ -1,0 +1,33 @@
+{
+	title: "Aquaculture",
+	icon: "aquaculture:fish 1 6",
+	x: -4.0d,
+	y: 13.0d,
+	dependencies: [
+		"6d1bdd08"
+	],
+	tasks: [{
+		uid: "8e250d12",
+		type: "item",
+		items: [{
+			item: "contenttweaker:orangecard"
+		}],
+		count: 32L,
+		consume_items: true
+	},
+	{
+		uid: "91ba6c53",
+		type: "item",
+		items: [{
+			item: "contenttweaker:redcard"
+		}],
+		count: 16L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "2e969437",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "aquaculture"
+	}]
+}

@@ -1,0 +1,34 @@
+{
+	title: "Building Gadgets",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "betterbuilderswands:wandunbreakable"
+	},
+	x: -2.0d,
+	y: 2.0d,
+	text: [
+		"Unlocks:",
+		"- Betterbuilderswands",
+		"- dank/null/"
+	],
+	dependencies: [
+		"112177fb"
+	],
+	tasks: [{
+		uid: "aa7071df",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 1024L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "16b82f5d",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "buildinggadets"
+	}]
+}

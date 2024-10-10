@@ -1,0 +1,25 @@
+{
+	x: -5.850340136054442d,
+	y: 8.513350340136078d,
+	shape: "gear",
+	dependencies: [
+		"47803c70",
+		"bdf8a091",
+		"dd5b7611",
+		"122d43e7"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "f531c050",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellowcard"
+		}]
+	}],
+	rewards: [{
+		uid: "e24a8338",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 10
+	}]
+}

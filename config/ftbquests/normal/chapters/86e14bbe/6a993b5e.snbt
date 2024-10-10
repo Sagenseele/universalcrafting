@@ -4,6 +4,10 @@
 	text: [
 		"Place a vanilla crafting table in the vicinity of the collector crystal and craft the luminous crafting table."
 	],
+	dependencies: [
+		"0c43f117"
+	],
+	hide: true,
 	tasks: [{
 		uid: "9b57839a",
 		type: "item",

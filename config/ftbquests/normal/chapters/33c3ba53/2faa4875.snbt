@@ -1,0 +1,20 @@
+{
+	x: 7.5d,
+	y: 7.5d,
+	dependencies: [
+		"5559c134"
+	],
+	tasks: [{
+		uid: "6463bc16",
+		type: "item",
+		items: [{
+			item: "extrautils2:passivegenerator 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "556ebe51",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 3
+	}]
+}

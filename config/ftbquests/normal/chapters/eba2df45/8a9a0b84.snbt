@@ -5,6 +5,10 @@
 	text: [
 		"Can be used to interact with block/entity infront of it. Can use items in its inventory too."
 	],
+	dependencies: [
+		"04ba3458"
+	],
+	hide: true,
 	tasks: [{
 		uid: "add47649",
 		type: "item",

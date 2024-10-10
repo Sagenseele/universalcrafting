@@ -1,6 +1,9 @@
 {
 	x: -0.5d,
 	y: 1.5d,
+	text: [
+		"Create Lava from stone"
+	],
 	dependencies: [
 		"c7d6e347"
 	],

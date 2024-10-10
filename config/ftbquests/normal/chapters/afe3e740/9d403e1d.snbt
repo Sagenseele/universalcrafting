@@ -1,0 +1,34 @@
+{
+	title: "Botania",
+	icon: "botania:altar",
+	x: -0.5d,
+	y: 2.0d,
+	description: "Flora and Mana",
+	dependencies: [
+		"112177fb"
+	],
+	tasks: [{
+		uid: "2923b7e3",
+		type: "item",
+		items: [{
+			item: "minecraft:red_flower"
+		}],
+		count: 8L,
+		consume_items: true
+	},
+	{
+		uid: "84015f08",
+		type: "item",
+		items: [{
+			item: "minecraft:yellow_flower"
+		}],
+		count: 8L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "aa4a4ca2",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "botania"
+	}]
+}

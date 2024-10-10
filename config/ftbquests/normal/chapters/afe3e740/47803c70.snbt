@@ -1,0 +1,34 @@
+{
+	title: "XNet",
+	icon: "xnet:controller",
+	x: -7.5d,
+	y: 7.0d,
+	description: "Central Storage Connector",
+	dependencies: [
+		"0e573a5c"
+	],
+	tasks: [{
+		uid: "d8033fdb",
+		type: "item",
+		items: [{
+			item: "contenttweaker:orangecard"
+		}],
+		count: 64L,
+		consume_items: true
+	},
+	{
+		uid: "d672b7a7",
+		type: "item",
+		items: [{
+			item: "contenttweaker:greencard"
+		}],
+		count: 32L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "9764d29c",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "xnet"
+	}]
+}

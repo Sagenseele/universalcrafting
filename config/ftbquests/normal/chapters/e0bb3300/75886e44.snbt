@@ -1,9 +1,9 @@
 {
-	icon: "kubejs:knowledge",
+	icon: "contenttweaker:rainbowcard",
 	disable_toast: true,
 	x: -0.5d,
 	y: 1.0d,
-	description: "Automation Science Pack",
+	description: "Gimme those data cards",
 	text: [
 		"Use the Research Lab, where new mods and items can be unlocked."
 	],

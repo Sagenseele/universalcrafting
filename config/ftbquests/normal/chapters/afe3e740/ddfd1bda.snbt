@@ -1,0 +1,22 @@
+{
+	x: -7.44761904761905d,
+	y: 16.216071428571453d,
+	shape: "gear",
+	dependencies: [
+		"03cca1c1"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "e494b176",
+		type: "item",
+		items: [{
+			item: "contenttweaker:violetcard"
+		}]
+	}],
+	rewards: [{
+		uid: "88a31474",
+		type: "item",
+		item: "contenttweaker:universal_points",
+		count: 10
+	}]
+}

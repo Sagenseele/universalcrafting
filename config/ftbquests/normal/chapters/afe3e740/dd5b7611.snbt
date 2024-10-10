@@ -1,0 +1,46 @@
+{
+	title: "Applied Energistics",
+	icon: "appliedenergistics2:controller",
+	x: -6.5d,
+	y: 6.5d,
+	description: "Autocrafting/Storage/Automatism",
+	text: [
+		"Unlocks:",
+		"",
+		"- Applied Energistics 2",
+		"- AE2Stuff",
+		"- AEAdditions",
+		"- Wireless Crafting Terminal",
+		"- Wireless Fluid Terminal",
+		"- Wireless Interface Terminal",
+		"- Wireless Processing Terminal"
+	],
+	dependencies: [
+		"4e57b751",
+		"0e573a5c"
+	],
+	tasks: [{
+		uid: "3b1d086a",
+		type: "item",
+		items: [{
+			item: "contenttweaker:orangecard"
+		}],
+		count: 64L,
+		consume_items: true
+	},
+	{
+		uid: "efa4f68c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:greencard"
+		}],
+		count: 32L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "325ae3a7",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "ae2"
+	}]
+}

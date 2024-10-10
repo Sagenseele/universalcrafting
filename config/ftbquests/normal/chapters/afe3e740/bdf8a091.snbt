@@ -1,0 +1,33 @@
+{
+	title: "Industrial Foregoing",
+	icon: "industrialforegoing:plastic",
+	x: -4.421768707483011d,
+	y: 8.227636054421794d,
+	dependencies: [
+		"7e06b75e"
+	],
+	tasks: [{
+		uid: "2b58b2cf",
+		type: "item",
+		items: [{
+			item: "contenttweaker:orangecard"
+		}],
+		count: 64L,
+		consume_items: true
+	},
+	{
+		uid: "c813f3e0",
+		type: "item",
+		items: [{
+			item: "contenttweaker:greencard"
+		}],
+		count: 32L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "f58337a7",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "industrialforegoing"
+	}]
+}

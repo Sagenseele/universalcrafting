@@ -1,0 +1,33 @@
+{
+	title: "Mob Grinding Utils",
+	icon: "mob_grinding_utils:saw",
+	x: -5.164625850340151d,
+	y: 4.999064625850366d,
+	dependencies: [
+		"0e573a5c"
+	],
+	tasks: [{
+		uid: "404c6ec9",
+		type: "item",
+		items: [{
+			item: "contenttweaker:orangecard"
+		}],
+		count: 64L,
+		consume_items: true
+	},
+	{
+		uid: "9e52dbe0",
+		type: "item",
+		items: [{
+			item: "contenttweaker:greencard"
+		}],
+		count: 32L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "39ffaa5c",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "mobgrindingutils"
+	}]
+}

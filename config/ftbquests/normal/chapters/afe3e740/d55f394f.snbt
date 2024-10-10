@@ -1,0 +1,41 @@
+{
+	title: "Storage Drawers",
+	icon: {
+		id: "storagedrawers:basicdrawers",
+		tag: {
+			material: "oak"
+		}
+	},
+	x: -6.5d,
+	y: 2.0d,
+	description: "Dedicated Storage",
+	dependencies: [
+		"112177fb"
+	],
+	tasks: [{
+		uid: "1160e778",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "logWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any logWood"
+				}
+			}
+		}],
+		count: 32L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "31976f99",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "storagedrawers"
+	}]
+}

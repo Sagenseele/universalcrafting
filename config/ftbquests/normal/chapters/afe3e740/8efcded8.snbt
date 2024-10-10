@@ -1,0 +1,33 @@
+{
+	title: "Solarflux Reborn",
+	icon: "solarflux:solar_panel_1",
+	x: -6.5d,
+	y: 10.5d,
+	dependencies: [
+		"1c60f6ad"
+	],
+	tasks: [{
+		uid: "e563dac8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:orangecard"
+		}],
+		count: 128L,
+		consume_items: true
+	},
+	{
+		uid: "9758242f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellowcard"
+		}],
+		count: 16L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "912301fa",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "solarflux"
+	}]
+}

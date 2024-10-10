@@ -2,6 +2,10 @@
 	disable_toast: true,
 	x: 9.0d,
 	y: 5.0d,
+	dependencies: [
+		"7bc22382"
+	],
+	hide: true,
 	tasks: [{
 		uid: "dad86198",
 		type: "item",

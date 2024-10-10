@@ -1,0 +1,15 @@
+{
+	x: 4.0d,
+	y: -3.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"70e54cb8"
+	],
+	tasks: [{
+		uid: "5a26238b",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 9"
+		}]
+	}]
+}

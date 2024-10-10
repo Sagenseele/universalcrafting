@@ -1,0 +1,34 @@
+{
+	title: "Immersive Engineering",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "immersiveengineering:tool"
+	},
+	x: -4.0d,
+	y: 7.0d,
+	text: [
+		"Unlocks:",
+		"- Immersive Engineering",
+		"- Immersive Petroleum"
+	],
+	dependencies: [
+		"4e57b751"
+	],
+	tasks: [{
+		uid: "09847465",
+		type: "item",
+		items: [{
+			item: "contenttweaker:orangecard"
+		}],
+		count: 64L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "93ac4a06",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "immersiveengineering"
+	}]
+}

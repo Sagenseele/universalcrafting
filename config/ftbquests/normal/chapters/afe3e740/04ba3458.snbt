@@ -1,0 +1,24 @@
+{
+	title: "Extra Utilities 2",
+	icon: "extrautils2:angelblock",
+	x: -8.5d,
+	y: 2.0d,
+	dependencies: [
+		"112177fb"
+	],
+	tasks: [{
+		uid: "1d1ea378",
+		type: "item",
+		items: [{
+			item: "bloodtinker:blood_bronze_ingot"
+		}],
+		count: 8L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "fcd18cf0",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "extrautils2"
+	}]
+}

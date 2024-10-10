@@ -1,0 +1,53 @@
+{
+	title: "Astral Sorcery",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "astralsorcery:blockcollectorcrystal",
+		tag: {
+			astralsorcery: {
+				constellationName: "astralsorcery.constellation.discidia",
+				crystalProperties: {
+					collectiveCapability: 100,
+					size: 400,
+					fract: 0,
+					purity: 100,
+					sizeOverride: -1
+				},
+				collectorType: 0
+			}
+		}
+	},
+	x: -5.0d,
+	y: 10.5d,
+	dependencies: [
+		"1c60f6ad",
+		"cc68ab9d"
+	],
+	tasks: [{
+		uid: "3d1f750c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:greencard"
+		}],
+		count: 32L,
+		consume_items: true
+	},
+	{
+		uid: "d5d77d9a",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellowcard"
+		}],
+		count: 16L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "47d20744",
+		type: "gamestage",
+		title: "astralsorcery",
+		auto: "no_toast",
+		stage: ""
+	}]
+}

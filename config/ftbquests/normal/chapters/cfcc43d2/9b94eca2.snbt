@@ -10,7 +10,7 @@
 		items: [{
 			item: "bloodtinker:blood_bronze_ingot"
 		}],
-		count: 12L
+		count: 8L
 	}],
 	rewards: [{
 		uid: "62ccf806",

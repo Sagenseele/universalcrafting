@@ -8,11 +8,11 @@ recipes.removeByRecipeName("ae2wtlib:booster_card_old");
 recipes.removeByRecipeName("avaritia:blocks/crafting/un_compressed_crafting_table");
 
 //advanced circuit
-recipes.replaceAllOccurences(<quantumflux:craftingpiece:5>, <contenttweaker:circuit_intermediate>, <*>);
+recipes.replaceAllOccurences(<quantumflux:craftingpiece:5>, <contenttweaker:circuit_board_intermediate>, <*>);
 mods.jei.JEI.removeAndHide(<quantumflux:craftingpiece:5>);
 
 //remove IE Circuit Board
-recipes.replaceAllOccurences(<immersiveengineering:material:27>, <contenttweaker:circuit_board>, <*>);
+recipes.replaceAllOccurences(<immersiveengineering:material:27>, <contenttweaker:circuit_board_simple>, <*>);
 mods.immersiveengineering.Blueprint.removeRecipe(<immersiveengineering:material:27>);
 
 //remove ultimate terminal
@@ -134,31 +134,57 @@ recipes.addShaped("soil_insanium", <contenttweaker:soil_insanium>, [
 // MM Blueprints
 // Industrial Presser
 recipes.addShaped("industrial_presser", <modularmachinery:itemblueprint>.withTag({dynamicmachine: "modularmachinery:industrial_presser"}), [
-        [<ore:plateSteel>, <ore:plateSteel>, <ore:plateSteel>],
+        [<ore:dyeBlue>, <ore:dyeBlue>, <ore:dyeBlue>],
         [<ore:plateSteel>, <contenttweaker:crystal_superium>, <ore:plateSteel>],
-        [<ore:plateSteel>, <ore:plateSteel>, <ore:plateSteel>]
+        [<ore:paper>, <ore:paper>, <ore:paper>]
 ]);
 
-//Circuit Board
-recipes.addShaped("circuit_board", <contenttweaker:circuit_board>, [
+// Pressure Chamber
+recipes.addShaped("pressure_chamber", <modularmachinery:itemblueprint>.withTag({dynamicmachine: "modularmachinery:pressure_chamber"}), [
+        [<ore:dyeBlue>, <ore:dyeBlue>, <ore:dyeBlue>],
+        [<ore:plateSteel>, <contenttweaker:central_processing_unit>, <ore:plateSteel>],
+        [<ore:paper>, <ore:paper>, <ore:paper>]
+]);
+
+
+//Electronics Stuff
+
+//Capacitor
+mods.nuclearcraft.infuser.addRecipe([<ore:plateCopper>, <liquid:alumina> * 50, <contenttweaker:capacitor>]);
+
+//pcb_simple
+recipes.addShaped("pcb_simple", <contenttweaker:pcb_simple>, [
         [<ore:wireCopper>, <ore:wireCopper>, <ore:wireCopper>],
         [<ore:itemSilicon>, <ore:itemSilicon>, <ore:itemSilicon>],
         [<ore:itemRubber>, <ore:itemRubber>, <ore:itemRubber>]
 ]);
 
-
-//Basic Circuit
-recipes.addShaped("circuit_basic", <contenttweaker:circuit_basic>, [
-        [null, <appliedenergistics2:material:18>, null],
-        [<ore:ingotTin>, <immersiveengineering:stone_decoration:8>, <ore:ingotTin>],
-        [<ore:ingotTin>, null, <ore:ingotTin>]
+//pcb_intermediate
+recipes.addShaped("pcb_intermediate", <contenttweaker:pcb_intermediate>, [
+        [<ore:wireCopper>, <ore:wireCopper>, <ore:wireCopper>],
+        [<ore:itemSilicon>, <contenttweaker:crystal_intermedium>, <ore:itemSilicon>],
+        [<ore:itemRubber>, <ore:itemRubber>, <ore:itemRubber>]
 ]);
 
-//Intermediate Circuit
-recipes.addShaped("circuit_intermediate", <contenttweaker:circuit_intermediate>, [
+//central_processing_unit
+recipes.addShaped("central_processing_unit", <contenttweaker:central_processing_unit>, [
+        [<appliedenergistics2:crafting_accelerator>, <appliedenergistics2:material:23>, <appliedenergistics2:crafting_accelerator>],
+        [<appliedenergistics2:material:22>, <appliedenergistics2:material:24>, <appliedenergistics2:material:22>],
+        [<appliedenergistics2:crafting_accelerator>, <appliedenergistics2:material:23>, <appliedenergistics2:crafting_accelerator>]
+]);
+
+//circuit_board_simple
+recipes.addShaped("circuit_board_simple", <contenttweaker:circuit_board_simple>, [
+        [<contenttweaker:capacitor>, null, <contenttweaker:capacitor>],
+        [<ore:wireCopper>, <contenttweaker:central_processing_unit>, <ore:wireCopper>],
+        [<contenttweaker:capacitor>, <contenttweaker:pcb_simple>, <contenttweaker:capacitor>]
+]);
+
+//circuit_board_intermediate
+recipes.addShaped("circuit_board_intermediate", <contenttweaker:circuit_board_intermediate>, [
         [<ore:wireElectrum>, <ore:wireElectrum>, <ore:wireElectrum>],
-        [<contenttweaker:circuit_basic>, <ore:platePlatinum>, <contenttweaker:circuit_basic>],
-        [<appliedenergistics2:material:17>, <contenttweaker:circuit_board>, <appliedenergistics2:material:17>]
+        [<contenttweaker:central_processing_unit>, <ore:platePlatinum>, <contenttweaker:central_processing_unit>],
+        [<quantumflux:craftingpiece:3>, <contenttweaker:pcb_intermediate>, <quantumflux:craftingpiece:3>]
 ]);
 
 //Spectre Sapling
@@ -206,9 +232,6 @@ mods.bloodmagic.BloodAltar.addRecipe(<contenttweaker:nutrient_bar>, <contenttwea
 //Harvestcraft
 recipes.replaceAllOccurences(<minecraft:repeater>, <ore:blockCopper>, <harvestcraft:grinder>);
 
-//Steel Beams
-//recipes.addShapeless(<kubejs:steel_beam> * 1, [<immersiveengineering:tool:0>.reuse(), <ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>]);
-
 //Rework snare
 recipes.replaceAllOccurences(<minecraft:redstone>, <appliedenergistics2:material:45>, <bloodmagic:soul_snare>);
 
@@ -245,13 +268,16 @@ recipes.addShaped("altar_ex_nihilo", <botania:altar:0>, [
     [<minecraft:stone:1>, <minecraft:stone:3>, <minecraft:stone:5>]
 ]);
 
-//Modularium
-recipes.remove(<modularmachinery:itemmodularium>);
-recipes.addShaped("modularium", <modularmachinery:itemmodularium>, [
-    [null, <ore:plateSignalum>, null],
-    [<ore:plateSignalum>, <ore:ingotIridium>, <ore:plateSignalum>],
-    [null, <ore:plateSignalum>, null]
-]);
+// Datacards
+recipes.addShapeless(<contenttweaker:orangecard>, [<minecraft:cobblestone>]);
+recipes.addShapeless(<contenttweaker:redcard>, [<contenttweaker:orangecard>]);
+recipes.addShapeless(<contenttweaker:greencard>, [<contenttweaker:redcard>]);
+recipes.addShapeless(<contenttweaker:yellowcard>, [<contenttweaker:greencard>]);
+recipes.addShapeless(<contenttweaker:bluecard>, [<contenttweaker:yellowcard>]);
+recipes.addShapeless(<contenttweaker:violetcard>, [<contenttweaker:bluecard>]);
+recipes.addShapeless(<contenttweaker:indigocard>, [<contenttweaker:violetcard>]);
+recipes.addShapeless(<contenttweaker:rainbowcard>, [<contenttweaker:indigocard>]);
+
 
 //Remove machine frame and IF machine recipes
 recipes.removeByRecipeName("industrialforegoing:bioreactor_thermal");

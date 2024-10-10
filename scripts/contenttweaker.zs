@@ -141,9 +141,34 @@ soil_insanium.entitySpawnable=false;
 soil_insanium.register();
 
 // Circuits
-var circuit_board=VanillaFactory.createItem("circuit_board");
-circuit_board.register();
-var circuit_basic=VanillaFactory.createItem("circuit_basic");
-circuit_basic.register();
-var circuit_intermediate=VanillaFactory.createItem("circuit_intermediate");
-circuit_intermediate.register();
+
+var capacitor=VanillaFactory.createItem("capacitor");
+capacitor.register();
+var central_processing_unit=VanillaFactory.createItem("central_processing_unit");
+central_processing_unit.register();
+var circuit_board_simple=VanillaFactory.createItem("circuit_board_simple");
+circuit_board_simple.register();
+var pcb_simple=VanillaFactory.createItem("pcb_simple");
+pcb_simple.register();
+var pcb_intermediate=VanillaFactory.createItem("pcb_intermediate");
+pcb_intermediate.register();
+var circuit_board_intermediate=VanillaFactory.createItem("circuit_board_intermediate");
+circuit_board_intermediate.register();
+
+// Data Cards
+var orangecard=VanillaFactory.createItem("orangecard");
+orangecard.register();
+var redcard=VanillaFactory.createItem("redcard");
+redcard.register();
+var greencard=VanillaFactory.createItem("greencard");
+greencard.register();
+var yellowcard=VanillaFactory.createItem("yellowcard");
+yellowcard.register();
+var bluecard=VanillaFactory.createItem("bluecard");
+bluecard.register();
+var violetcard=VanillaFactory.createItem("violetcard");
+violetcard.register();
+var indigocard=VanillaFactory.createItem("indigocard");
+indigocard.register();
+var rainbowcard=VanillaFactory.createItem("rainbowcard");
+rainbowcard.register();

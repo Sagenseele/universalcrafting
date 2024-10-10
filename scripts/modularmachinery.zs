@@ -1,4 +1,13 @@
 import crafttweaker.item.IItemStack;
+
+//Modularium
+recipes.remove(<modularmachinery:itemmodularium>);
+recipes.addShaped("modularium", <modularmachinery:itemmodularium>, [
+    [null, <ore:plateSignalum>, null],
+    [<ore:plateSignalum>, <ore:ingotIridium>, <ore:plateSignalum>],
+    [null, <ore:plateSignalum>, null]
+]);
+
 val IIArray = [<modularmachinery:blockinputbus:1>, <modularmachinery:blockinputbus:2>, <modularmachinery:blockinputbus:3>, <modularmachinery:blockinputbus:4>, <modularmachinery:blockinputbus:5>, <modularmachinery:blockinputbus:6>] as IItemStack[];
 val IOArray = [<modularmachinery:blockoutputbus:1>, <modularmachinery:blockoutputbus:2>, <modularmachinery:blockoutputbus:3>, <modularmachinery:blockoutputbus:4>, <modularmachinery:blockoutputbus:5>, <modularmachinery:blockoutputbus:6>] as IItemStack[];
 val FIArray = [<modularmachinery:blockfluidinputhatch:1>, <modularmachinery:blockfluidinputhatch:2>, <modularmachinery:blockfluidinputhatch:3>, <modularmachinery:blockfluidinputhatch:4>, <modularmachinery:blockfluidinputhatch:5>, <modularmachinery:blockfluidinputhatch:6>, <modularmachinery:blockfluidinputhatch:7>] as IItemStack[];
@@ -67,9 +76,11 @@ recipes.addShaped("mm_machine_gearbox", <modularmachinery:blockcasing:3>, [
 
 recipes.addShaped("mm_machine_circuitry", <modularmachinery:blockcasing:5>, [
     [null, <modularmachinery:blockcasing:0>, null],
-    [<modularmachinery:blockcasing:0>, <contenttweaker:circuit_intermediate>, <modularmachinery:blockcasing:0>],
+    [<modularmachinery:blockcasing:0>, <contenttweaker:circuit_board_simple>, <modularmachinery:blockcasing:0>],
     [null, <modularmachinery:blockcasing:0>, null]
 ]);
+
+
 
 recipes.replaceAllOccurences(<ore:blockRedstone>, <ore:blockDarkSteel>, <modularmachinery:blockcasing:0>);
 recipes.replaceAllOccurences(<ore:blockRedstone>, <ore:blockDarkSteel>, <modularmachinery:blockcontroller>);

@@ -562,7 +562,7 @@ mods.extendedcrafting.TableCrafting.addShaped(4, <deepmoblearning:creative_model
 mods.extendedcrafting.TableCrafting.addShaped(2, <extrautils2:passivegenerator:6>, [
     [<extrautils2:passivegenerator:7>, <extrautils2:passivegenerator:5>, <extrautils2:passivegenerator:5>, <extrautils2:passivegenerator:5>, <extrautils2:passivegenerator:7>],
     [<extrautils2:passivegenerator:4>, null, <extrautils2:passivegenerator:8>, null, <extrautils2:passivegenerator:4>],
-    [<extrautils2:passivegenerator:4>, <extrautils2:passivegenerator:8>, null, <extrautils2:passivegenerator:8>, <extrautils2:passivegenerator:4>],
+    [<extrautils2:passivegenerator:4>, <extrautils2:passivegenerator:8>, <avaritiaio:infinitecapacitor>, <extrautils2:passivegenerator:8>, <extrautils2:passivegenerator:4>],
     [<extrautils2:passivegenerator:4>, null, <extrautils2:passivegenerator:8>, null, <extrautils2:passivegenerator:4>],
     [<extrautils2:passivegenerator:7>, <extrautils2:passivegenerator:2>, <extrautils2:passivegenerator:2>, <extrautils2:passivegenerator:2>, <extrautils2:passivegenerator:7>]
 ]);

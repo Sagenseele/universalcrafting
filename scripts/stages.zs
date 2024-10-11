@@ -1,3 +1,5 @@
+import crafttweaker.item.IItemStack;
+
 //Mod Stages
 //mods.ItemStages.stageModItems(String stage, String modid);
 mods.ItemStages.stageModItems("randomthings", "randomthings");
@@ -42,6 +44,12 @@ mods.ItemStages.stageModItems("quantumflux", "quantumflux");
 mods.ItemStages.stageModItems("deepmoblearning", "deepmoblearning");
 mods.ItemStages.stageModItems("deepmoblearning", "deepmoblearningbm");
 mods.ItemStages.stageModItems("woot", "woot");
+
+//Exclude Items from Stages
+var unlocked = [<appliedenergistics2:material:45>, <enderio:item_material:20>] as IItemStack[];
+for item in unlocked {
+    mods.ItemStages.removeItemStage(item);
+}
 
 //Tinker Stages
 //mods.TinkerStages.addToolTypeStage("weapons1", "tconstruct:cleaver");

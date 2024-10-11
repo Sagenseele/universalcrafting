@@ -240,6 +240,17 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <avaritia:resource:1>, [
     [<avaritia:resource:0>, <extendedcrafting:material:24>, <extendedcrafting:material:24>, <extendedcrafting:material:24>, <extendedcrafting:material:24>, <extendedcrafting:material:24>, <avaritia:resource:0>]
 ]);
 
+// Data Cards
+// Violet Data Card 
+mods.extendedcrafting.TableCrafting.addShaped(3, <contenttweaker:violetcard>, [
+    [<contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>],
+    [<contenttweaker:mob_simulation_data>, null, null, null, null, null, <contenttweaker:mob_simulation_data>],
+    [<contenttweaker:mob_simulation_data>, null, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, null, <contenttweaker:mob_simulation_data>],
+    [<contenttweaker:mob_simulation_data>, null, <contenttweaker:mob_simulation_data>, null, <contenttweaker:mob_simulation_data>, null, <contenttweaker:mob_simulation_data>],
+    [<contenttweaker:mob_simulation_data>, null, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, null, <contenttweaker:mob_simulation_data>],
+    [<contenttweaker:mob_simulation_data>, null, null, null, null, null, <contenttweaker:mob_simulation_data>],
+    [<contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>]
+]);
 
 //Infinity Catalyst
 mods.extendedcrafting.TableCrafting.addShaped(4, <avaritia:resource:5>, [

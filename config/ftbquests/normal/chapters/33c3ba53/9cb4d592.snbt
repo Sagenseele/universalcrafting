@@ -11,5 +11,10 @@
 		items: [{
 			item: "extendedcrafting:singularity_custom 1 6"
 		}]
+	}],
+	rewards: [{
+		uid: "46d6b78d",
+		type: "item",
+		item: "contenttweaker:universal_points"
 	}]
 }

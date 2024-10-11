@@ -3,7 +3,6 @@
 	y: 16.244642857142885d,
 	shape: "gear",
 	dependencies: [
-		"151f9b4e",
 		"ddfd1bda"
 	],
 	size: 1.25d,

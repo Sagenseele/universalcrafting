@@ -2,6 +2,11 @@
 	x: -3.0d,
 	y: 5.0d,
 	shape: "gear",
+	text: [
+		"Unlocks:",
+		"",
+		"- Extended Crafting Tables"
+	],
 	dependencies: [
 		"6611a95c"
 	],

@@ -1,5 +1,5 @@
 {
-	title: "Mystical Agriculture",
+	title: "Advanced Mystical Agriculture",
 	icon: "mysticalagradditions:stuff 1 69",
 	x: -5.5d,
 	y: 14.0d,
@@ -23,5 +23,11 @@
 		}],
 		count: 16L,
 		consume_items: true
+	}],
+	rewards: [{
+		uid: "c788b09a",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "mysticalagriculture"
 	}]
 }

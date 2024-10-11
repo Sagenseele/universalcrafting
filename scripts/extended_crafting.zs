@@ -252,6 +252,19 @@ mods.extendedcrafting.TableCrafting.addShaped(3, <contenttweaker:violetcard>, [
     [<contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>]
 ]);
 
+//Rainbow Data Card
+mods.extendedcrafting.TableCrafting.addShaped(4, <contenttweaker:rainbowcard>, [
+    [<ore:ingotBlackIron>, <ore:ingotBlackIron>, <ore:ingotBlackIron>, <ore:ingotBlackIron>, <ore:ingotBlackIron>, <ore:ingotBlackIron>, <ore:ingotBlackIron>, <ore:ingotBlackIron>, <ore:ingotBlackIron>],
+    [<ore:ingotBlackIron>, <contenttweaker:redcard>, <contenttweaker:redcard>, <contenttweaker:redcard>, <contenttweaker:redcard>, <contenttweaker:redcard>, <contenttweaker:redcard>, <contenttweaker:redcard>, <ore:ingotBlackIron>],
+    [<ore:ingotBlackIron>, <contenttweaker:orangecard>, <contenttweaker:orangecard>, <contenttweaker:orangecard>, <contenttweaker:orangecard>, <contenttweaker:orangecard>, <contenttweaker:orangecard>, <contenttweaker:orangecard>, <ore:ingotBlackIron>],
+    [<ore:ingotBlackIron>, <contenttweaker:yellowcard>, <contenttweaker:yellowcard>, <contenttweaker:yellowcard>, <contenttweaker:yellowcard>, <contenttweaker:yellowcard>, <contenttweaker:yellowcard>, <contenttweaker:yellowcard>, <ore:ingotBlackIron>],
+    [<ore:ingotBlackIron>, <contenttweaker:greencard>, <contenttweaker:greencard>, <contenttweaker:greencard>, <contenttweaker:greencard>, <contenttweaker:greencard>, <contenttweaker:greencard>, <contenttweaker:greencard>, <ore:ingotBlackIron>],
+    [<ore:ingotBlackIron>, <contenttweaker:bluecard>, <contenttweaker:bluecard>, <contenttweaker:bluecard>, <contenttweaker:bluecard>, <contenttweaker:bluecard>, <contenttweaker:bluecard>, <contenttweaker:bluecard>, <ore:ingotBlackIron>],
+    [<ore:ingotBlackIron>, <contenttweaker:indigocard>, <contenttweaker:indigocard>, <contenttweaker:indigocard>, <contenttweaker:indigocard>, <contenttweaker:indigocard>, <contenttweaker:indigocard>, <contenttweaker:indigocard>, <ore:ingotBlackIron>],
+    [<ore:ingotBlackIron>, <contenttweaker:violetcard>, <contenttweaker:violetcard>, <contenttweaker:violetcard>, <contenttweaker:violetcard>, <contenttweaker:violetcard>, <contenttweaker:violetcard>, <contenttweaker:violetcard>, <ore:ingotBlackIron>],
+    [<ore:ingotBlackIron>, <ore:ingotBlackIron>, <ore:ingotBlackIron>, <ore:ingotBlackIron>, <ore:ingotBlackIron>, <ore:ingotBlackIron>, <ore:ingotBlackIron>, <ore:ingotBlackIron>, <ore:ingotBlackIron>]
+]);
+
 //Infinity Catalyst
 mods.extendedcrafting.TableCrafting.addShaped(4, <avaritia:resource:5>, [
     [<ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, <ore:ingotCosmicNeutronium>],

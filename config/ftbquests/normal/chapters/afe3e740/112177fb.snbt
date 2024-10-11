@@ -1,10 +1,12 @@
 {
 	title: "Submit your resources.",
 	disable_toast: true,
-	x: -3.5d,
+	x: -4.0d,
 	y: 0.0d,
 	text: [
-		"You can send items into a task screen to submit. Select the quest you want to contribute to and insert the resource."
+		"You can send items into a task screen to submit. Select the quest you want to contribute to and insert the resource.",
+		"",
+		"If you got problems with recipes not showing, leave the game and join again to refresh them."
 	],
 	tasks: [{
 		uid: "ca337401",

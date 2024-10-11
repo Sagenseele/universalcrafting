@@ -9,8 +9,9 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
-			item: "contenttweaker:mod_token"
+			item: "contenttweaker:rainbowcard"
 		}],
+		count: 16L,
 		consume_items: true
 	}],
 	rewards: [{

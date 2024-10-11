@@ -1,0 +1,31 @@
+{
+	title: "Early Mystical Agriculture",
+	icon: "mysticalagriculture:crafting",
+	x: -1.642857142857146d,
+	y: 10.053571428571423d,
+	dependencies: [
+		"cc68ab9d"
+	],
+	tasks: [{
+		uid: "e65c6e52",
+		type: "item",
+		items: [{
+			item: "contenttweaker:greencard"
+		}],
+		count: 48L
+	},
+	{
+		uid: "122f1aba",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellowcard"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "711b6a3a",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "mysticalagriculture1"
+	}]
+}

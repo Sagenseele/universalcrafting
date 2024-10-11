@@ -69,7 +69,8 @@
       "minecraft:dragon_breath,32",
       "minecraft:dragon_egg,1",
       "draconicevolution:dragon_heart,1",
-      "draconicevolution:draconium_dust,64"
+      "draconicevolution:draconium_dust,64",
+      "contenttweaker:mob_simulation_data,1"
     ],
     "deepLearnerDisplay": {
       "hearts": 100,
@@ -372,7 +373,8 @@
       "minecraft:wither"
     ],
     "lootItems": [
-      "minecraft:nether_star,1"
+      "minecraft:nether_star,1",
+      "contenttweaker:mob_simulation_data,1"
     ],
     "deepLearnerDisplay": {
       "hearts": 150,
@@ -521,7 +523,8 @@
       "botania:doppleganger"
     ],
     "lootItems": [
-      "botania:manaresource,4,5"
+      "botania:manaresource,4,5",
+      "contenttweaker:mob_simulation_data,1"
     ],
     "deepLearnerDisplay": {
       "hearts": 160,

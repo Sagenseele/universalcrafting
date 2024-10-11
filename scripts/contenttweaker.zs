@@ -172,3 +172,5 @@ var indigocard=VanillaFactory.createItem("indigocard");
 indigocard.register();
 var rainbowcard=VanillaFactory.createItem("rainbowcard");
 rainbowcard.register();
+var mob_simulation_data=VanillaFactory.createItem("mob_simulation_data");
+mob_simulation_data.register();

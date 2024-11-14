@@ -1,0 +1,42 @@
+{
+    "machine": "data_analyzer",
+    "registryName": "data_analyzer_bluecard",
+    "recipeTime": 600,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 320
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalfoundation:bait@2",
+            "amount": 16
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "aquaculture:food@6",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:cake_amalgamation",
+            "amount": 1
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "cryotheum",
+            "amount": 1000
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "contenttweaker:bluecard",
+            "amount": 1
+        }
+    ]
+}

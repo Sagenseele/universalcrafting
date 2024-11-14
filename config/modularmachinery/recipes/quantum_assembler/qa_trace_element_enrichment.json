@@ -1,0 +1,38 @@
+{
+    "machine": "quantum_assembler",
+    "registryName": "qa_trace_element_enrichment",
+    "recipeTime": 600,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 100
+        },      
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:trace_element_supermedium",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "extendedcrafting:material@12",
+            "chance":0.1,
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "contenttweaker:trace_element_supermedium",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "contenttweaker:trace_element_supermedium",
+            "chance": 0.1,
+            "amount": 1
+        }
+    ]
+}

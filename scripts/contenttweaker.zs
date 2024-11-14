@@ -174,3 +174,10 @@ var rainbowcard=VanillaFactory.createItem("rainbowcard");
 rainbowcard.register();
 var mob_simulation_data=VanillaFactory.createItem("mob_simulation_data");
 mob_simulation_data.register();
+
+// Misc
+var cake_amalgamation=VanillaFactory.createItemFood("cake_amalgamation", 12);
+cake_amalgamation.healAmount=24;
+cake_amalgamation.saturation=1;
+cake_amalgamation.alwaysEdible=true;
+cake_amalgamation.register();

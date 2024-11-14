@@ -17,14 +17,14 @@
         {
             "type": "fluid",
             "io-type": "output",
-            "fluid": "water",
-            "amount": 150
+            "fluid": "concentrate_supermedium",
+            "amount": 75
         },        
         {
             "type": "fluid",
             "io-type": "output",
-            "fluid": "concentrate_supermedium",
-            "amount": 40
+            "fluid": "water",
+            "amount": 125
         },        
         {
             "type": "item",

@@ -27,7 +27,7 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <contenttweaker:essence_industr
 
 //Ender IO Essence
 mods.extendedcrafting.TableCrafting.addShaped(0, <contenttweaker:essence_enderio>, [
-    [<enderio:item_capacitor_totemic>, null, <enderio:block_cap_bank:3>, <enderio:item_material:55>, <enderio:item_capacitor_stellar>],
+    [<enderio:item_capacitor_totemic>, null, <enderio:block_cap_bank:3>, <enderio:item_material:55>, <enderio:block_solar_panel:6>],
     [<enderio:item_material:66>, <enderio:item_material:13>, <enderio:item_material:56>, <enderio:item_material:12>, null],
     [<enderio:block_cap_bank:3>, <enderio:item_material:42>, <enderio:item_material:19>, <enderio:item_material:45>, <enderio:block_cap_bank:3>],
     [null, <enderio:item_material:11>, <enderio:item_material:44>, <ore:gearStone>, <enderio:item_material:54>],
@@ -240,7 +240,18 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <avaritia:resource:1>, [
     [<avaritia:resource:0>, <extendedcrafting:material:24>, <extendedcrafting:material:24>, <extendedcrafting:material:24>, <extendedcrafting:material:24>, <extendedcrafting:material:24>, <avaritia:resource:0>]
 ]);
 
+
 // Data Cards
+
+// Yellow Data Card
+mods.extendedcrafting.TableCrafting.addShaped(2, <contenttweaker:yellowcard>, [
+    [<storagenetwork:controller>, <thermalexpansion:frame>, <teslacorelib:machine_case>, <thermalexpansion:frame>, <storagenetwork:controller>],
+    [<xnet:antenna_dish>, <appliedenergistics2:material:37>, <appliedenergistics2:material:37>, <appliedenergistics2:material:37>, <xnet:antenna_dish>],
+    [<xnet:antenna>, <storagenetwork:master>, <appliedenergistics2:io_port>, <storagenetwork:master>, <xnet:antenna>],
+    [<xnet:antenna_base>, <appliedenergistics2:material:37>, <appliedenergistics2:material:37>, <appliedenergistics2:material:37>, <xnet:antenna_base>],
+    [<storagenetwork:controller>, null, null, null, <storagenetwork:controller>]
+]);
+
 // Violet Data Card 
 mods.extendedcrafting.TableCrafting.addShaped(3, <contenttweaker:violetcard>, [
     [<contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>, <contenttweaker:mob_simulation_data>],

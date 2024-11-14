@@ -1,0 +1,48 @@
+{
+    "machine": "data_analyzer",
+    "registryName": "data_analyzer_redcard",
+    "recipeTime": 600,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 320
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "bloodmagic:slate@4",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "randomthings:spectrekey",
+            "amount": 2
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "astralsorcery:itemcoloredlens@3",
+            "amount": 8
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "botania:rune@8",
+            "amount": 1
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "cryotheum",
+            "amount": 1000
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "contenttweaker:redcard",
+            "amount": 1
+        }
+    ]
+}

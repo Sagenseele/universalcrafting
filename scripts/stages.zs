@@ -56,6 +56,9 @@ for item in mysticalagriculture1 {
     mods.ItemStages.removeItemStage(item);
     mods.ItemStages.addItemStage("mysticalagriculture1", item);
 }
+mods.ItemStages.removeItemStage(<botania:manaresource:21>);
+mods.ItemStages.removeItemStage(<randomthings:itemcollector>);
+mods.ItemStages.removeItemStage(<randomthings:advanceditemcollector>);
 
 //Tinker Stages
 //mods.TinkerStages.addToolTypeStage("weapons1", "tconstruct:cleaver");

@@ -1,0 +1,48 @@
+{
+    "machine": "data_analyzer",
+    "registryName": "data_analyzer_redcard",
+    "recipeTime": 600,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 320
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "solarflux:solar_panel_6",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "enderio:item_material@54",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "enderio:item_capacitor_melodic",
+            "amount": 2
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "enderio:item_endergy_conduit@9",
+            "amount": 8
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "cryotheum",
+            "amount": 1000
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "contenttweaker:indigocard",
+            "amount": 1
+        }
+    ]
+}

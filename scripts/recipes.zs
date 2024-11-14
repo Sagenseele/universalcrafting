@@ -21,6 +21,20 @@ mods.jei.JEI.removeAndHide(<ae2wtlib:wut>);
 //Glitch Fragment
 mods.thermalexpansion.Pulverizer.addRecipe(<deepmoblearning:glitch_fragment> * 2, <deepmoblearning:glitch_heart>, 4000, <deepmoblearning:glitch_fragment>, 50);
 
+//Multigem
+recipes.addShaped("multigem", <contenttweaker:multigem>, [
+    [<nuclearcraft:gem:0>, <minecraft:prismarine_shard>, <nuclearcraft:gem:2>],
+    [<nuclearcraft:gem:3>, <extendedcrafting:material:12>,<nuclearcraft:gem:4>],
+    [<nuclearcraft:gem:5>, <astralsorcery:itemcraftingcomponent:0>, <nuclearcraft:gem:1>]
+]);
+
+//Multi Ingot
+recipes.addShaped("multiingot", <contenttweaker:multiingot>, [
+    [<enderio:item_alloy_ingot:7>, <minecraft:iron_ingot>, <materialis:fairy_ingot>],
+    [<enderio:item_alloy_ingot:0>, <extendedcrafting:material:12>,<materialis:pokefennium_ingot>],
+    [<enderio:item_alloy_ingot:3>, <minecraft:gold_ingot>, <materialis:red_aurum_ingot>]
+]);
+
 //Mystical Agriculture seeds
 //Inferium Crystal
 mods.immersiveengineering.Squeezer.addRecipe(null, <liquid:sludge_inferium> * 50, <mysticalagriculture:crafting:0>, 2048);
@@ -59,20 +73,6 @@ recipes.replaceAllOccurences(<ore:essenceIntermedium>, <contenttweaker:crystal_i
 recipes.replaceAllOccurences(<ore:essenceIntermedium>, <contenttweaker:crystal_intermedium>, <mysticalagriculture:gear:7>);
 recipes.replaceAllOccurences(<ore:essenceIntermedium>, <contenttweaker:crystal_intermedium>, <mysticalagriculture:coal:2>);
 recipes.replaceAllOccurences(<ore:essenceIntermedium>, <contenttweaker:crystal_intermedium>, <mysticalagriculture:intermedium_apple>);
-
-//Multigem
-recipes.addShaped("multigem", <contenttweaker:multigem>, [
-    [<nuclearcraft:gem:0>, <minecraft:prismarine_shard>, <nuclearcraft:gem:2>],
-    [<nuclearcraft:gem:3>, <minecraft:diamond>,<nuclearcraft:gem:4>],
-    [<nuclearcraft:gem:5>, <astralsorcery:itemcraftingcomponent:0>, <nuclearcraft:gem:1>]
-]);
-
-//Multi Ingot
-recipes.addShaped("multiingot", <contenttweaker:multiingot>, [
-    [<enderio:item_alloy_ingot:7>, <minecraft:iron_ingot>, <materialis:fairy_ingot>],
-    [<enderio:item_alloy_ingot:0>, <botania:manaresource>,<materialis:pokefennium_ingot>],
-    [<enderio:item_alloy_ingot:3>, <minecraft:gold_ingot>, <materialis:red_aurum_ingot>]
-]);
 
 mods.nuclearcraft.dissolver.addRecipe([<mysticalagriculture:crafting:3>, <liquid:sulfuric_acid> * 1000, <liquid:solution_acidic_superium> * 150]);
 mods.nuclearcraft.infuser.addRecipe([<contenttweaker:multigem>, <liquid:solution_acidic_superium> * 250, <contenttweaker:crystal_soulless_superium>]);
@@ -268,16 +268,36 @@ recipes.addShaped("altar_ex_nihilo", <botania:altar:0>, [
     [<minecraft:stone:1>, <minecraft:stone:3>, <minecraft:stone:5>]
 ]);
 
-// Datacards
-recipes.addShapeless(<contenttweaker:orangecard>, [<minecraft:cobblestone>]);
-recipes.addShapeless(<contenttweaker:redcard>, [<contenttweaker:orangecard>]);
-recipes.addShapeless(<contenttweaker:greencard>, [<contenttweaker:redcard>]);
-recipes.addShapeless(<contenttweaker:yellowcard>, [<contenttweaker:greencard>]);
-recipes.addShapeless(<contenttweaker:bluecard>, [<contenttweaker:yellowcard>]);
-recipes.addShapeless(<contenttweaker:violetcard>, [<contenttweaker:bluecard>]);
-recipes.addShapeless(<contenttweaker:indigocard>, [<contenttweaker:violetcard>]);
-recipes.addShapeless(<contenttweaker:rainbowcard>, [<contenttweaker:indigocard>]);
+recipes.addShaped(<contenttweaker:cake_amalgamation>, [
+        [<harvestcraft:carrotcakeitem>, <harvestcraft:cherrycheesecakeitem>, <harvestcraft:chocolatesprinklecakeitem>],
+        [<harvestcraft:holidaycakeitem>, <harvestcraft:lamingtonitem>, <harvestcraft:pavlovaitem>],
+        [<harvestcraft:pineappleupsidedowncakeitem>, <harvestcraft:pumpkincheesecakeitem>, <harvestcraft:redvelvetcakeitem>]
+]);
 
+// Datacards
+recipes.addShaped(<contenttweaker:orangecard>, [
+        [<ore:ingotBoron>,<ore:ingotMagnesium>,<ore:ingotLithium>],
+        [<ore:ingotInvar>, <ore:plateBasic>, <ore:ingotBronze>],
+        [<ore:blockRedstone>, <ore:blockSeared>, <ore:blockBone>]
+]);
+recipes.addShaped(<contenttweaker:greencard>, [
+        [null,<bloodmagic:sigil_green_grove>.reuse(),<ore:ingotElectrum>],
+        [<tconstruct:edible:2>, <storagedrawers:controller>, <tconstruct:edible:2>],
+        [<ore:ingotElectrum>, <ore:slimecrystalGreen>, null]
+]);
+
+// Misc
+recipes.replaceAllOccurences(<extendedcrafting:material:18>, <extendedcrafting:material:16>, <extendedcrafting:interface>);
+recipes.addShaped("pixiedust", <botania:manaresource:8>, [
+        [null, null, <mysticalagriculture:elementium_essence>],
+        [<mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>],
+        [<mysticalagriculture:elementium_essence>, null, null]
+]);
+recipes.addShaped("dragonstone", <botania:manaresource:9>, [
+        [null, <mysticalagriculture:elementium_essence>, null],
+        [<mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>],
+        [<mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>]
+]);
 
 //Remove machine frame and IF machine recipes
 recipes.removeByRecipeName("industrialforegoing:bioreactor_thermal");

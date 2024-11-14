@@ -2,6 +2,9 @@
 	x: 0.5d,
 	y: -1.5d,
 	description: "Shiny Quartz make Ape Brain happy",
+	text: [
+		"Must be crafted in a Tier IV Blood Altar. After obtaining one, the magic reveals them and you can find them in the world."
+	],
 	dependencies: [
 		"dd5b7611"
 	],

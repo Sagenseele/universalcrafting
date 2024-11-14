@@ -2,7 +2,7 @@
 	title: "Simple Storage Network",
 	icon: "storagenetwork:master",
 	x: -5.0d,
-	y: 6.5d,
+	y: 7.5d,
 	dependencies: [
 		"4e57b751"
 	],

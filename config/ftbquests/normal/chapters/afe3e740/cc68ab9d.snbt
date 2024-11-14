@@ -2,7 +2,7 @@
 	title: "Modular Machinery",
 	icon: "modularmachinery:blockcontroller",
 	x: -3.7360544217687206d,
-	y: 9.513350340136085d,
+	y: 10.513350340136085d,
 	description: "Custom Machines",
 	dependencies: [
 		"1c60f6ad",

@@ -1,7 +1,7 @@
 {
 	title: "Furnace Overhaul",
 	icon: "furnaceoverhaul:iron_furnace",
-	x: -3.5d,
+	x: -4.0d,
 	y: 2.0d,
 	description: "Better Furnaces",
 	dependencies: [

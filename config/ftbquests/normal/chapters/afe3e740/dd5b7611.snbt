@@ -2,7 +2,7 @@
 	title: "Applied Energistics",
 	icon: "appliedenergistics2:controller",
 	x: -6.5d,
-	y: 6.5d,
+	y: 7.5d,
 	description: "Autocrafting/Storage/Automatism",
 	text: [
 		"Unlocks:",

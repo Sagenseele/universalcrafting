@@ -1,8 +1,8 @@
 {
 	title: "YABBA",
 	icon: "yabba:item_barrel",
-	x: -7.671428571428564d,
-	y: 3.3726190476190894d,
+	x: -6.0d,
+	y: 3.0d,
 	description: "Even bigger dedicated Storage",
 	dependencies: [
 		"d55f394f"

@@ -1,8 +1,8 @@
 {
 	title: "Pam's Harvestcraft",
 	icon: "harvestcraft:friedchickenitem",
-	x: -1.0d,
-	y: 6.5d,
+	x: 0.0818452380952408d,
+	y: 8.028125000000017d,
 	dependencies: [
 		"4e57b751"
 	],

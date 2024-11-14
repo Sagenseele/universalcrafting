@@ -1,8 +1,8 @@
 {
 	title: "Advanced Mystical Agriculture",
 	icon: "mysticalagradditions:stuff 1 69",
-	x: -5.5d,
-	y: 14.0d,
+	x: -5.5863095238095255d,
+	y: 16.238392857142884d,
 	dependencies: [
 		"a2178914"
 	],

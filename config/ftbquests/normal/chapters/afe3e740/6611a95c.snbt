@@ -1,8 +1,8 @@
 {
 	title: "Nuclearcraft",
 	icon: "nuclearcraft:nuclear_furnace_idle",
-	x: -1.9928571428571331d,
-	y: 3.408333333333381d,
+	x: -2.5d,
+	y: 2.0d,
 	dependencies: [
 		"112177fb"
 	],

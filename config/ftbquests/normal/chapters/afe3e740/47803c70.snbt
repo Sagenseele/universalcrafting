@@ -2,7 +2,7 @@
 	title: "XNet",
 	icon: "xnet:controller",
 	x: -7.5d,
-	y: 7.0d,
+	y: 8.0d,
 	description: "Central Storage Connector",
 	dependencies: [
 		"0e573a5c"

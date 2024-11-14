@@ -2,9 +2,6 @@
 	x: 9.5d,
 	y: -0.5d,
 	description: "Superior item collector",
-	dependencies: [
-		"6472383d"
-	],
 	hide: true,
 	tasks: [{
 		uid: "60754e13",

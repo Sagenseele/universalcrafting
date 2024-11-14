@@ -3,7 +3,7 @@
 	y: 5.017857142857146d,
 	description: "Mob Eggs at your will",
 	text: [
-		"To create an Monster Egg, right click the monster with the swab and craft a GM Chicken Feed with a seed and a bucket of XP"
+		"To create an Monster Egg, right click the monster with the swab and craft a GM Chicken Feed with the swab, a seed and a bucket of XP. Feed it to a chicken and see what happens."
 	],
 	dependencies: [
 		"7bc22382"

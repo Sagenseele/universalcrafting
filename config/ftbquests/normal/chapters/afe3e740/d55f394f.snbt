@@ -6,7 +6,7 @@
 			material: "oak"
 		}
 	},
-	x: -6.5d,
+	x: -5.5d,
 	y: 2.0d,
 	description: "Dedicated Storage",
 	dependencies: [

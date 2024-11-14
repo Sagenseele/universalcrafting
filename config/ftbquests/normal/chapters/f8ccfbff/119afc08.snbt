@@ -2,6 +2,9 @@
 	x: -2.0d,
 	y: -4.0d,
 	description: "Superior Crystal Grower",
+	text: [
+		"Can do everything a crystal growth accelerator can as well as creating fluix crystals."
+	],
 	dependencies: [
 		"f328f32a"
 	],

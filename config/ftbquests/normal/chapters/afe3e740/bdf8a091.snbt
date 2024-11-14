@@ -2,7 +2,7 @@
 	title: "Industrial Foregoing",
 	icon: "industrialforegoing:plastic",
 	x: -4.421768707483011d,
-	y: 8.227636054421794d,
+	y: 9.227636054421794d,
 	dependencies: [
 		"7e06b75e"
 	],

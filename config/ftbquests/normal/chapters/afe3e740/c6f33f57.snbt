@@ -1,8 +1,8 @@
 {
 	title: "Iron Chest",
 	icon: "ironchest:iron_chest 1 5",
-	x: -4.492857142857133d,
-	y: 3.408333333333381d,
+	x: -7.0d,
+	y: 2.0d,
 	description: "Bigger Chests",
 	dependencies: [
 		"112177fb"

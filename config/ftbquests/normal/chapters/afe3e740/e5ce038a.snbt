@@ -1,8 +1,8 @@
 {
 	title: "Early Mystical Agriculture",
 	icon: "mysticalagriculture:crafting",
-	x: -1.642857142857146d,
-	y: 10.053571428571423d,
+	x: -2.6220238095238173d,
+	y: 11.274107142857154d,
 	dependencies: [
 		"cc68ab9d"
 	],

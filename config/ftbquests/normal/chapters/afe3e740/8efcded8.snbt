@@ -2,7 +2,7 @@
 	title: "Solarflux Reborn",
 	icon: "solarflux:solar_panel_1",
 	x: -6.5d,
-	y: 10.5d,
+	y: 11.5d,
 	dependencies: [
 		"1c60f6ad"
 	],

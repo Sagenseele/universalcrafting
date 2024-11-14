@@ -7,7 +7,7 @@
 		id: "immersiveengineering:tool"
 	},
 	x: -4.0d,
-	y: 7.0d,
+	y: 8.0d,
 	text: [
 		"Unlocks:",
 		"- Immersive Engineering",

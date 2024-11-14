@@ -18,10 +18,11 @@
         {
             "text" : "menu.singleplayer",
             "posX" : -200,
-            "posY" : 200,
+            "posY" : -174,
             "width" : 150,
             "height" : 20,
             "texture" : "custommainmenu:textures/gui/buttons/big_button.png",
+            "alignment":"bottom_center",
             "action" : 
             {
                 "type" : "openGui",
@@ -33,10 +34,11 @@
         {
             "text" : "menu.multiplayer",
             "posX" : 50,
-            "posY" : 200,
+            "posY" : -174,
             "width" : 150,
             "height" : 20,
             "texture" : "custommainmenu:textures/gui/buttons/big_button.png",
+            "alignment":"bottom_center",
             "action" : 
             {
                 "type" : "openGui",
@@ -48,10 +50,11 @@
         {
             "text" : "fml.menu.mods",
             "posX" : -200,
-            "posY" : 224,
+            "posY" : -150,
             "width" : 150,
             "height" : 20,
             "texture" : "custommainmenu:textures/gui/buttons/big_button.png",
+            "alignment":"bottom_center",
             "action" : 
             {
                 "type" : "openGui",
@@ -63,10 +66,11 @@
         {
             "text" : "menu.options",
             "posX" : 50,
-            "posY" : 224,
+            "posY" : -150,
             "width" : 150,
             "height" : 20,
             "texture" : "custommainmenu:textures/gui/buttons/big_button.png",
+            "alignment":"bottom_center",
             "action" : 
             {
                 "type" : "openGui",
@@ -78,10 +82,11 @@
         {
             "text" : "menu.quit",
             "posX" : -75,
-            "posY" : 268,
+            "posY" : -118,
             "width" : 150,
             "height" : 20,
             "texture" : "custommainmenu:textures/gui/buttons/big_button.png",
+            "alignment":"bottom_center",
             "action" : 
             {
                 "type" : "quit"
@@ -92,9 +97,10 @@
         {
             "text" : "",
             "posX" : -40,
-            "posY" : 200,
+            "posY" : -150,
             "width" : 20,
             "height" : 20,
+            "alignment":"bottom_center",
             "action" : 
             {
                 "type" : "openGui",
@@ -106,10 +112,11 @@
         {
             "text" : "",
             "posX" : -40,
-            "posY" : 224,
+            "posY" : -174,
             "width" : 20,
             "height" : 20,
             "texture" : "custommainmenu:textures/gui/buttons.png",
+            "alignment":"bottom_center",
             "action" : 
             {
                 "type" : "refresh"

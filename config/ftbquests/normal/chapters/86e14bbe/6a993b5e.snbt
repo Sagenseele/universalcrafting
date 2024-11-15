@@ -23,6 +23,16 @@
 	rewards: [{
 		uid: "a93aca6e",
 		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemjournal"
+		}
+	},
+	{
+		uid: "11764078",
+		type: "item",
 		item: "contenttweaker:universal_points"
 	}]
 }

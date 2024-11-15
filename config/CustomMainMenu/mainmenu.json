@@ -1,14 +1,23 @@
 {
     "images":
     {
+        "background":
+        {
+            "image" : "custommainmenu:textures/gui/title/background/universalcrafting_background.png",
+            "posX" : -500,
+            "posY" : -250,
+            "width" : 1000,
+            "height" : 600,
+            "alignment" : "center"
+        },
         "title":
         {
-            "image" : "custommainmenu:textures/gui/title/background/universalcrafting.png",
-            "posX" : -400,
-            "posY" : -100,
-            "width" : 800,
-            "height" : 600,
-            "alignment" : "top_center"
+            "image" : "custommainmenu:textures/gui/title/universalcrafting_title.png",
+            "posX" : -154,
+            "posY" : -150,
+            "width" : 308,
+            "height" : 120,
+            "alignment" : "center"
         }
     },
     

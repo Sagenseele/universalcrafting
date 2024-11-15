@@ -44,10 +44,9 @@
 		consume_items: true
 	}],
 	rewards: [{
-		uid: "47d20744",
+		uid: "687b7441",
 		type: "gamestage",
-		title: "astralsorcery",
 		auto: "no_toast",
-		stage: ""
+		stage: "astralsorcery"
 	}]
 }

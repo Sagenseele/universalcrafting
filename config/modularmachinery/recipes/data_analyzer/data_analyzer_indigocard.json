@@ -1,6 +1,6 @@
 {
     "machine": "data_analyzer",
-    "registryName": "data_analyzer_redcard",
+    "registryName": "data_analyzer_indigocard",
     "recipeTime": 600,
     "requirements": [
         {

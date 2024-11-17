@@ -1,6 +1,7 @@
 import mods.thermalexpansion.Pulverizer;
 import mods.thermalexpansion.Refinery;
 
+
 //Infinity Booster Card
 recipes.removeByRecipeName("ae2wtlib:booster_card_old");
 
@@ -278,7 +279,7 @@ recipes.addShaped(<contenttweaker:cake_amalgamation>, [
 recipes.addShaped(<contenttweaker:orangecard>, [
         [<ore:ingotBoron>,<ore:ingotMagnesium>,<ore:ingotLithium>],
         [<ore:ingotInvar>, <ore:plateBasic>, <ore:ingotBronze>],
-        [<ore:blockRedstone>, <ore:blockSeared>, <ore:blockBone>]
+        [<minecraft:redstone>, <minecraft:blaze_powder>, <minecraft:dye:15>]
 ]);
 recipes.addShaped(<contenttweaker:greencard>, [
         [null,<bloodmagic:sigil_green_grove>.reuse(),<ore:ingotElectrum>],
@@ -298,6 +299,8 @@ recipes.addShaped("dragonstone", <botania:manaresource:9>, [
         [<mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>],
         [<mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>]
 ]);
+// Fix Diorite/Granite/Andesite Smashing
+mods.exnihilocreatio.Hammer.addRecipe(<minecraft:stone:0>, <minecraft:cobblestone>, 0, 1.0, 0.0);
 
 //Remove machine frame and IF machine recipes
 recipes.removeByRecipeName("industrialforegoing:bioreactor_thermal");

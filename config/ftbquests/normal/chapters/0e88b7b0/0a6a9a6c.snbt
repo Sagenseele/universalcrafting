@@ -37,7 +37,7 @@
 			tag: {
 				"everlastingabilities:abilityStoreStack": [{
 					level: 1,
-					name: "ability.abilities.everlastingabilities.nihgt_vision.name"
+					name: "ability.abilities.everlastingabilities.night_vision.name"
 				}]
 			}
 		}

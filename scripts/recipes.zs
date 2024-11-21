@@ -215,7 +215,12 @@ recipes.replaceAllOccurences(<ore:fusedQuartz>, <ore:blockGlassHardened>, <ender
 recipes.replaceAllOccurences(<ore:fusedQuartz>, <ore:blockGlassHardened>, <enderio:item_liquid_conduit:2>);
 
 //Charged Certus Quartz
-mods.bloodmagic.BloodAltar.addRecipe(<appliedenergistics2:material:1>, <appliedenergistics2:material>, 3, 5000,50,10);
+mods.bloodmagic.BloodAltar.addRecipe(<appliedenergistics2:material:1>, <appliedenergistics2:material>, 2, 5000,50,10);
+
+//Master Infusion Crystal
+recipes.replaceAllOccurences(<mysticalagriculture:crafting:4>, <extendedcrafting:material:24>, <mysticalagriculture:master_infusion_crystal>);
+
+//
 
 //Cooking for Blockheads
 recipes.replaceAllOccurences(<minecraft:diamond>, <ore:ingotGold>, <cookingforblockheads:recipe_book:2>);
@@ -288,7 +293,9 @@ recipes.addShaped(<contenttweaker:greencard>, [
 ]);
 
 // Misc
-recipes.replaceAllOccurences(<extendedcrafting:material:18>, <extendedcrafting:material:16>, <extendedcrafting:interface>);
+recipes.replaceAllOccurences(<extendedcrafting:material:18>, <extendedcrafting:material:11>, <extendedcrafting:interface>);
+recipes.replaceAllOccurences(<nuclearcraft:dust:8>, <minecraft:gold_ingot>, <nuclearcraft:solar_panel_basic>);
+recipes.removeByRecipeName("nuclearcraft:tile.nuclearcraft.solar_panel_basic_1");
 recipes.addShaped("pixiedust", <botania:manaresource:8>, [
         [null, null, <mysticalagriculture:elementium_essence>],
         [<mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>],

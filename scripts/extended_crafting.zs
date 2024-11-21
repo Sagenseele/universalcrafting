@@ -114,24 +114,24 @@ mods.extendedcrafting.TableCrafting.addShaped(3, <appliedenergistics2:material:1
 
 // Calculation Press
 mods.extendedcrafting.TableCrafting.addShaped(3, <appliedenergistics2:material:13>, [
-    [<tconstruct:large_plate>.withTag({Material: "bloodbronze"}), <tconstruct:large_plate>.withTag({Material: "constantan"}), <tconstruct:materials:11>, <tconstruct:materials:10>, <tconstruct:materials:9>, <tconstruct:large_plate>.withTag({Material: "energetic_alloy"}), <tconstruct:large_plate>.withTag({Material: "vibrant_alloy"})],
-    [<tconstruct:large_plate>.withTag({Material: "electrum"}), null, <tconstruct:throwball>, <tconstruct:throwball>, <tconstruct:throwball>, null, <tconstruct:large_plate>.withTag({Material: "electrical_steel"})],
+    [<tconstruct:large_plate>.withTag({Material: "bloodbronze"}), <tconstruct:large_plate>.withTag({Material: "constantan"}), <tconstruct:materials:11>, <tconstruct:materials:10>, <tconstruct:materials:9>, <tconstruct:large_plate>.withTag({Material: "copper"}), <tconstruct:large_plate>.withTag({Material: "tin"})],
+    [<tconstruct:large_plate>.withTag({Material: "electrum"}), null, <tconstruct:throwball>, <tconstruct:throwball>, <tconstruct:throwball>, null, <tconstruct:large_plate>.withTag({Material: "silver"})],
     [<tconstruct:materials:9>, <tconstruct:throwball>, <tconstruct:pan_head>.withTag({Material: "xu_enchanted_metal"}), <tconstruct:sharpening_kit>.withTag({Material: "paper"}), <tconstruct:pan_head>.withTag({Material: "boron"}), <tconstruct:throwball>, <tconstruct:materials:11>],
     [<tconstruct:materials:10>, <tconstruct:throwball>, <tconstruct:sharpening_kit>.withTag({Material: "paper"}), <tconstruct:large_plate>.withTag({Material: "manyullyn"}), <tconstruct:sharpening_kit>.withTag({Material: "paper"}), <tconstruct:throwball>, <tconstruct:materials:10>],
     [<tconstruct:materials:11>, <tconstruct:throwball>, <tconstruct:pan_head>.withTag({Material: "xu_demonic_metal"}), <tconstruct:sharpening_kit>.withTag({Material: "paper"}), <tconstruct:pan_head>.withTag({Material: "treatedwood"}), <tconstruct:throwball>, <tconstruct:materials:9>],
-    [<tconstruct:large_plate>.withTag({Material: "redstone_alloy"}), null, <tconstruct:throwball>, <tconstruct:throwball>, <tconstruct:throwball>, null, <tconstruct:large_plate>.withTag({Material: "bronze"})],
-    [<tconstruct:large_plate>.withTag({Material: "conductive_iron"}), <tconstruct:large_plate>.withTag({Material: "pulsating_iron"}), <tconstruct:materials:9>, <tconstruct:materials:10>, <tconstruct:materials:11>, <tconstruct:large_plate>.withTag({Material: "dark_steel"}), <tconstruct:large_plate>.withTag({Material: "steel"})]
+    [<tconstruct:large_plate>.withTag({Material: "bronze"}), null, <tconstruct:throwball>, <tconstruct:throwball>, <tconstruct:throwball>, null, <tconstruct:large_plate>.withTag({Material: "cactus"})],
+    [<tconstruct:large_plate>.withTag({Material: "nickel"}), <tconstruct:large_plate>.withTag({Material: "manyullyn"}), <tconstruct:materials:9>, <tconstruct:materials:10>, <tconstruct:materials:11>, <tconstruct:large_plate>.withTag({Material: "bone"}), <tconstruct:large_plate>.withTag({Material: "flint"})]
 ]);
 
 // Logic Press
 mods.extendedcrafting.TableCrafting.addShaped(3, <appliedenergistics2:material:15>, [
-    [<immersiveengineering:material:6>, <immersiveengineering:material:6>, <immersiveengineering:material:6>, <ore:niter>, <immersiveengineering:material:6>, <immersiveengineering:material:6>, <immersiveengineering:material:6>],
+    [<immersiveengineering:material:6>, <immersiveengineering:material:6>, <immersiveengineering:material:6>, <ore:dustSaltpeter>, <immersiveengineering:material:6>, <immersiveengineering:material:6>, <immersiveengineering:material:6>],
     [<immersiveengineering:material:6>, <ore:plateAluminum>, <ore:plateAluminum>, <ore:plateAluminum>, <ore:plateAluminum>, <ore:plateAluminum>, <immersiveengineering:material:6>],
     [<immersiveengineering:material:6>, <ore:plateAluminum>, null, <thermalfoundation:material:2050>, null, <ore:plateAluminum>, <immersiveengineering:material:6>],
-    [<ore:niter>, <ore:plateAluminum>, <thermalfoundation:material:2048>, <ore:gemRhodochrosite>, <thermalfoundation:material:2052>, <ore:plateAluminum>, <ore:niter>],
+    [<ore:dustSaltpeter>, <ore:plateAluminum>, <thermalfoundation:material:2048>, <ore:gemRhodochrosite>, <thermalfoundation:material:2052>, <ore:plateAluminum>, <ore:dustSaltpeter>],
     [<immersiveengineering:material:6>, <ore:plateAluminum>, null, <minecraft:blaze_rod>, null, <ore:plateAluminum>, <immersiveengineering:material:6>],
     [<immersiveengineering:material:6>, <ore:plateAluminum>, <ore:plateAluminum>, <ore:plateAluminum>, <ore:plateAluminum>, <ore:plateAluminum>, <immersiveengineering:material:6>],
-    [<immersiveengineering:material:6>, <immersiveengineering:material:6>, <immersiveengineering:material:6>, <ore:niter>, <immersiveengineering:material:6>, <immersiveengineering:material:6>, <immersiveengineering:material:6>]
+    [<immersiveengineering:material:6>, <immersiveengineering:material:6>, <immersiveengineering:material:6>, <ore:dustSaltpeter>, <immersiveengineering:material:6>, <immersiveengineering:material:6>, <immersiveengineering:material:6>]
 ]);
 
 // Engineering Press
@@ -246,9 +246,9 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <avaritia:resource:1>, [
 // Yellow Data Card
 mods.extendedcrafting.TableCrafting.addShaped(2, <contenttweaker:yellowcard>, [
     [<storagenetwork:controller>, <thermalexpansion:frame>, <teslacorelib:machine_case>, <thermalexpansion:frame>, <storagenetwork:controller>],
-    [<xnet:antenna_dish>, <appliedenergistics2:material:37>, <appliedenergistics2:material:37>, <appliedenergistics2:material:37>, <xnet:antenna_dish>],
+    [<xnet:antenna_dish>, <appliedenergistics2:material:36>, <appliedenergistics2:material:36>, <appliedenergistics2:material:36>, <xnet:antenna_dish>],
     [<xnet:antenna>, <storagenetwork:master>, <appliedenergistics2:io_port>, <storagenetwork:master>, <xnet:antenna>],
-    [<xnet:antenna_base>, <appliedenergistics2:material:37>, <appliedenergistics2:material:37>, <appliedenergistics2:material:37>, <xnet:antenna_base>],
+    [<xnet:antenna_base>, <appliedenergistics2:material:36>, <appliedenergistics2:material:36>, <appliedenergistics2:material:36>, <xnet:antenna_base>],
     [<storagenetwork:controller>, null, null, null, <storagenetwork:controller>]
 ]);
 

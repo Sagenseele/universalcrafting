@@ -2,7 +2,7 @@
 	x: 7.5d,
 	y: 1.5d,
 	text: [
-		"Green Hearts drop from the Ender Dragon"
+		"§eGreen Hearts§f drop from the §4Ender Dragon§f."
 	],
 	dependencies: [
 		"a01cf1d0"

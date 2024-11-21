@@ -4,6 +4,9 @@
 	x: 0.5d,
 	y: 2.0d,
 	description: "Flora and Mana",
+	text: [
+		"Contains §eResource Processing§f, §eMinecraft Spawner Manipulation§f, §5Tools§f, §eAccessoires§f and §5much more§f."
+	],
 	dependencies: [
 		"112177fb"
 	],

@@ -3,12 +3,12 @@
 	x: 3.0d,
 	y: -2.0d,
 	dependencies: [
-		"aee6fbb8",
 		"2917f3cc"
 	],
 	tasks: [{
 		uid: "b0731195",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
@@ -18,7 +18,8 @@
 				multiblock: "IP:Pumpjack"
 			}
 		}],
-		ignore_damage: true
+		ignore_damage: true,
+		ignore_nbt: 2b
 	}],
 	rewards: [{
 		uid: "a25a8bd3",

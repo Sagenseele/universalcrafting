@@ -2,7 +2,7 @@
 	x: 9.0d,
 	y: 3.0d,
 	text: [
-		"Blue Hearts drop from Evokers"
+		"§eBlue Hearts§f drop from §4Evokers§f."
 	],
 	dependencies: [
 		"970b96a7"

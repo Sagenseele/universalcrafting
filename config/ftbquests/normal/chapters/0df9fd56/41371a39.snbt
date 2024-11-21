@@ -1,6 +1,9 @@
 {
 	x: 1.223214285714299d,
 	y: 3.0089285714285765d,
+	text: [
+		"Produces 2 §eCobblestone§f/s"
+	],
 	dependencies: [
 		"9114174c"
 	],

@@ -3,6 +3,9 @@
 	icon: "solarflux:solar_panel_1",
 	x: -6.5d,
 	y: 11.5d,
+	text: [
+		"Contains §eEnergy Generation§f."
+	],
 	dependencies: [
 		"1c60f6ad"
 	],

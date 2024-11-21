@@ -4,7 +4,7 @@
 	y: -2.982142857142854d,
 	description: "Ultimate Tools",
 	text: [
-		"Craft your own tools, which level up as you use them. You can upgrade various parts by swapping them. Design your ultimate tool."
+		"Craft your own §5Tools§f, which §aLevel up§f as you use them. You can swap your §5Tools§f §eTool Parts§f in the §eTool Station§f. Design your ultimate §5Tool§f."
 	],
 	dependencies: [
 		"394da98a"

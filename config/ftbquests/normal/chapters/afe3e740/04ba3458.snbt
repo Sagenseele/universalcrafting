@@ -3,6 +3,10 @@
 	icon: "extrautils2:angelblock",
 	x: -8.5d,
 	y: 2.0d,
+	description: "Now with more utility",
+	text: [
+		"Contains §eUtility Items§f, §eEnergy Generation§f, §5Creative Flight§f and §5more§f."
+	],
 	dependencies: [
 		"112177fb"
 	],

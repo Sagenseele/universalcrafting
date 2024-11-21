@@ -2,6 +2,9 @@
 	x: 1.0d,
 	y: -1.5d,
 	description: "Physically accurate",
+	text: [
+		"Unlimited §eMilk§f source."
+	],
 	dependencies: [
 		"b3299cc6"
 	],

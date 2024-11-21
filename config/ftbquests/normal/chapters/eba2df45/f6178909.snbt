@@ -2,7 +2,7 @@
 	x: 3.0d,
 	y: -1.5d,
 	text: [
-		"Get Salt by putting seaweed into the harvestcraft grinder."
+		"Get §eSalt§f by putting §eSeaweed§f into the §dHarvestcraft§f §eGrinder§f."
 	],
 	dependencies: [
 		"b3299cc6"

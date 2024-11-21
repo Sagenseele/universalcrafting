@@ -8,6 +8,10 @@
 	},
 	x: -5.591071428571432d,
 	y: 18.403869047619075d,
+	description: "Farm (almost) every mob",
+	text: [
+		"Contains §3Multiblock Structures§f and §eResource Generation§f."
+	],
 	dependencies: [
 		"ddfd1bda"
 	],

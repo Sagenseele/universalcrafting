@@ -1,0 +1,23 @@
+{
+	x: 7.0d,
+	y: -2.0d,
+	text: [
+		"Accepts §ecompressed blocks§f and outputs §enormal blocks§f."
+	],
+	dependencies: [
+		"010d97b0"
+	],
+	tasks: [{
+		uid: "a857c6cd",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "excompressum:auto_compressed_hammer"
+		}]
+	}],
+	rewards: [{
+		uid: "545c5334",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

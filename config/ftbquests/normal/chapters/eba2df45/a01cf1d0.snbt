@@ -2,7 +2,7 @@
 	x: 7.5d,
 	y: 3.0d,
 	text: [
-		"Yellow Hearts drop from bosses"
+		"§eYellow Hearts§f drop from §4Bosses§f."
 	],
 	dependencies: [
 		"d3398a6f"

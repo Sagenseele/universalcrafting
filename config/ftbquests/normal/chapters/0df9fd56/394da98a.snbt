@@ -4,7 +4,15 @@
 	y: -1.5d,
 	description: "Tools for everyone!",
 	text: [
-		""
+		"Put your §eBlank Pattern§f into the §eStencil Table§f and select a pattern.",
+		"You can build the §ePattern Chest§f next to your §eStencil Table§f to access both inventories.",
+		"",
+		"Build the §ePart Builder§f next to the §ePattern Chest§f and put any valid material into it to craft a §eTool Part§f.",
+		"The same principle for the §ePattern Chest§f is applicable to the §ePart Chest§f.",
+		"",
+		"Put your §eTool Parts§f into the §eTool Station§f and select a §5Tool§f to craft.",
+		"",
+		"Voilá, your new §5Tool§f is ready to roll."
 	],
 	dependencies: [
 		"920e0e5c"

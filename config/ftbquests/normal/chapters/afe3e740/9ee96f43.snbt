@@ -4,6 +4,9 @@
 	x: -5.5d,
 	y: 4.0d,
 	description: "Automated Saplings",
+	text: [
+		"Contains §eResource Generation§f."
+	],
 	dependencies: [
 		"c3ed787a"
 	],

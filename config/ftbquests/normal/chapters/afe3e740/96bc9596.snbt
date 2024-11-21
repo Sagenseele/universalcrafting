@@ -3,6 +3,15 @@
 	icon: "mysticalagradditions:stuff 1 69",
 	x: -5.5863095238095255d,
 	y: 16.238392857142884d,
+	text: [
+		"Unlocks:",
+		"",
+		"- §eTier IV Seeds§f",
+		"- §eTier V Seeds§f",
+		"- §eTier VI Seeds§f",
+		"",
+		"Contains §eResource Generation§f, §5Tools§f, §5Armor§f and §5more§f."
+	],
 	dependencies: [
 		"a2178914"
 	],

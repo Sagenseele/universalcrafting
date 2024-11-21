@@ -1,6 +1,9 @@
 {
 	x: 2.0d,
 	y: 0.0d,
+	text: [
+		"A §3Multiblock Structure§f. Craft the §eInspectoris Scandalum§f to preview the different §5Tiers§f of the §eBlood Altar§f"
+	],
 	dependencies: [
 		"cfa3d9a0"
 	],

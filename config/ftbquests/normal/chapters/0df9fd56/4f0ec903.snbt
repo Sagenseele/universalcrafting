@@ -2,6 +2,9 @@
 	x: -7.0d,
 	y: -1.5d,
 	description: "Modern problems require modern tools",
+	text: [
+		"Unlocks more advanced §5Tools§f."
+	],
 	dependencies: [
 		"394da98a"
 	],

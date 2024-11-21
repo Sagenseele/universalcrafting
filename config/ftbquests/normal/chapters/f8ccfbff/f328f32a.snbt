@@ -2,7 +2,7 @@
 	x: -0.5d,
 	y: -4.0d,
 	text: [
-		"Let the block face into a pool of water and power it. Then throw a Certus Quarz/Nether Quartz/Fluix Crystal seed into the water and watch it grow."
+		"Let the §eblock§f face into a pool of §9Water§f and power it. Then throw a §eCertus Quarz§f/§eNether Quartz§f/§eFluix Crystal seed§f into the §9Water§f and watch it grow."
 	],
 	dependencies: [
 		"5267eead"

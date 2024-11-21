@@ -8,13 +8,15 @@
 	},
 	x: -2.5d,
 	y: 8.0d,
+	description: "The classic allrounder",
 	text: [
 		"Unlocks:",
-		"- Thermal Expansion",
-		"- Thermal Dynamics",
-		"- Thermal Cultivation",
 		"",
-		"Contains cables, machines and more"
+		"- §dThermal Expansion§f",
+		"- §dThermal Dynamics§f",
+		"- §dThermal Cultivation§f",
+		"",
+		"Contains §eCables§f, §eMachines§f and §5more§f."
 	],
 	dependencies: [
 		"4e57b751"
@@ -25,7 +27,7 @@
 		items: [{
 			item: "contenttweaker:orangecard"
 		}],
-		count: 64L,
+		count: 32L,
 		consume_items: true
 	}],
 	rewards: [{

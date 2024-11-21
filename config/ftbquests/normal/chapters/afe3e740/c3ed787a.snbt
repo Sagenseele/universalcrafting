@@ -10,6 +10,7 @@
 	tasks: [{
 		uid: "7448e106",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			item: "storagedrawers:controller"
 		}],
@@ -18,6 +19,7 @@
 	{
 		uid: "6e64dc83",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			item: "storagedrawers:upgrade_storage 1 4"
 		}],

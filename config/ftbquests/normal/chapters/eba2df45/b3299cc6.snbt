@@ -4,6 +4,9 @@
 	x: 2.0d,
 	y: -0.5d,
 	description: "Chefs' station",
+	text: [
+		"The §eKitchen Sink§f is an unlimited §9Water§f source."
+	],
 	dependencies: [
 		"32cd4bab"
 	],

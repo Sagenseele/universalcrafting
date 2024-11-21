@@ -3,7 +3,7 @@
 	y: -4.0d,
 	description: "Superior Crystal Grower",
 	text: [
-		"Can do everything a crystal growth accelerator can as well as creating fluix crystals."
+		"Can do §5Everything§f a §eCrystal Growth Accelerator§f can as well as creating fluix crystals. And all in his §einventory§f instead of world crafting."
 	],
 	dependencies: [
 		"f328f32a"

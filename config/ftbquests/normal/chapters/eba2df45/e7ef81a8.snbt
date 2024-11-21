@@ -1,0 +1,26 @@
+{
+	x: 4.5d,
+	y: -3.0d,
+	description: "...Propel like a Squid...",
+	dependencies: [
+		"ca590015"
+	],
+	tasks: [{
+		uid: "fb91dcd1",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:chickenring",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "424bd181",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

@@ -2,7 +2,7 @@
 	x: -3.0d,
 	y: 0.0d,
 	text: [
-		"Used to create water. Also fills while raining"
+		"Use to create §9water§f out of §eSaplings§f and §eLeaves§f. Also fills while §9raining§f."
 	],
 	dependencies: [
 		"920e0e5c"

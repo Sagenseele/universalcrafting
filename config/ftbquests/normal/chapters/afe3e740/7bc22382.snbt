@@ -3,6 +3,9 @@
 	icon: "mob_grinding_utils:saw",
 	x: -7.979166666666671d,
 	y: 6.166964285714293d,
+	text: [
+		"Contains §eMob Farm§f §5Tools§f."
+	],
 	dependencies: [
 		"0e573a5c"
 	],

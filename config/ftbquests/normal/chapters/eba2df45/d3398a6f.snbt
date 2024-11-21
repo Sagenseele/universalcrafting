@@ -1,6 +1,9 @@
 {
 	x: 6.0d,
 	y: 1.5d,
+	text: [
+		"§eRed Hearts§f drop from §4Mobs§f."
+	],
 	dependencies: [
 		"bce40e68"
 	],

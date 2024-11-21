@@ -3,6 +3,9 @@
 	icon: "exnihilocreatio:block_barrel0",
 	x: -4.0d,
 	y: 1.0d,
+	text: [
+		"Use for composting §eItems§f into §eDirt§f or for §9Fluid§f interactions."
+	],
 	dependencies: [
 		"920e0e5c"
 	],

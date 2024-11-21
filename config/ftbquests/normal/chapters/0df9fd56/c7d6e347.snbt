@@ -1,6 +1,9 @@
 {
 	x: -2.0d,
 	y: 1.0d,
+	text: [
+		"Put §9Water§f into a §eBarrel§f and §eRight Click§f on it with §eDust§f."
+	],
 	dependencies: [
 		"2434c531",
 		"2172a9cd"

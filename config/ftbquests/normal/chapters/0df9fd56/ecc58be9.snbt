@@ -3,6 +3,11 @@
 	x: -1.062499999999993d,
 	y: 3.4732142857142847d,
 	description: "Hot stuff",
+	text: [
+		"To build a smeltery, consult the §eMaterials and You§f book.",
+		"",
+		"You can §eRight Click§f on the §eSeared Drain§f with a §eBucket§f to insert §1Liquids§f into the §eSmeltery§f."
+	],
 	dependencies: [
 		"5ee8fd21"
 	],

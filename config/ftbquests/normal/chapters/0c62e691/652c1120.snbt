@@ -1,0 +1,28 @@
+{
+	x: 1.5d,
+	y: -2.5d,
+	dependencies: [
+		"dc3c201b"
+	],
+	tasks: [{
+		uid: "535a1c48",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalexpansion:satchel",
+			tag: {
+				Accessible: 1b
+			},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fea43e02",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

@@ -4,6 +4,9 @@
 	x: -7.0d,
 	y: 2.0d,
 	description: "Bigger Chests",
+	text: [
+		"Contains several §5Tiers§f of §eChests§f."
+	],
 	dependencies: [
 		"112177fb"
 	],

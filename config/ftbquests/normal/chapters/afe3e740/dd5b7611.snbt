@@ -7,13 +7,15 @@
 	text: [
 		"Unlocks:",
 		"",
-		"- Applied Energistics 2",
-		"- AE2Stuff",
-		"- AEAdditions",
-		"- Wireless Crafting Terminal",
-		"- Wireless Fluid Terminal",
-		"- Wireless Interface Terminal",
-		"- Wireless Processing Terminal"
+		"- §dApplied Energistics 2§f",
+		"- §dAE2Stuff§f",
+		"- §dAEAdditions§f",
+		"- §dWireless Crafting Terminal§f",
+		"- §dWireless Fluid Terminal§f",
+		"- §dWireless Interface Terminal§f",
+		"- §dWireless Processing Terminal§f",
+		"",
+		"Contains §eItem Storage§f, §eResource Processing§f, §eAuto-Crafting§f and §5much more§f."
 	],
 	dependencies: [
 		"4e57b751",

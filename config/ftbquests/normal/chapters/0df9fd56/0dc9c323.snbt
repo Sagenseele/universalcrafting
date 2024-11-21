@@ -1,0 +1,32 @@
+{
+	title: "Enchant your meshes!",
+	icon: {
+		id: "exnihilocreatio:item_mesh",
+		tag: {
+			ench: [{
+				lvl: 3,
+				id: 27
+			}]
+		},
+		Damage: 4s
+	},
+	x: 4.0d,
+	y: 1.0d,
+	description: "Increase the yield and speed",
+	text: [
+		"Works in an §eAuto Sieve§f too!"
+	],
+	dependencies: [
+		"01f3ecd5"
+	],
+	tasks: [{
+		uid: "52ddca02",
+		type: "checkmark",
+		disable_toast: true
+	}],
+	rewards: [{
+		uid: "2b903a72",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

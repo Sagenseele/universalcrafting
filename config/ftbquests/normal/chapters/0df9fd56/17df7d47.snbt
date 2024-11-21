@@ -1,9 +1,12 @@
 {
 	icon: "exnihilocreatio:block_auto_sifter",
-	x: 2.1651785714285765d,
-	y: -1.8794642857142918d,
+	x: 2.200892857142861d,
+	y: -1.96875d,
 	text: [
-		"Place below a sieve and power it with waterwheels to sift automatically."
+		"Place §bbelow§f a §eSieve§f and power it with §eWaterwheels§f to sift automatically. If placed in the center an §eAuto Sifter§f can sift a §b5x5 Area§f of §eSieves§f.",
+		"You can chain multiple §eWaterwheels§f.",
+		"",
+		"Good to use if combined with the §eAdvanced Item Collector§f from §dRandomThings§f."
 	],
 	dependencies: [
 		"2ca328d2"

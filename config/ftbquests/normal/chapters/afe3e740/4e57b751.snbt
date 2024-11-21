@@ -5,7 +5,7 @@
 	text: [
 		"Unlocks:",
 		"",
-		"- Extended Crafting Tables"
+		"- §eExtended Crafting Tables§f"
 	],
 	dependencies: [
 		"6611a95c"

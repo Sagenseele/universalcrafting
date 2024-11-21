@@ -1,0 +1,29 @@
+{
+	x: 7.5d,
+	y: -2.5d,
+	text: [
+		"Keep in your §eInventory§f to collect §5Time§f. Use it on blocks to spend time and accelerate the §eblocks tick rate§f."
+	],
+	tasks: [{
+		uid: "84cc21df",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "randomthings:timeinabottle",
+			tag: {
+				timeData: {}
+			}
+		}],
+		consume_items: false,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6c6d60f3",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

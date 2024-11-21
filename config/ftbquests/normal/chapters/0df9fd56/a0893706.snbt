@@ -1,0 +1,20 @@
+{
+	x: 3.5d,
+	y: -5.0d,
+	dependencies: [
+		"d358b0ef"
+	],
+	tasks: [{
+		uid: "3a36417d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "excompressum:auto_compressor"
+		}]
+	}],
+	rewards: [{
+		uid: "e5bd4cac",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

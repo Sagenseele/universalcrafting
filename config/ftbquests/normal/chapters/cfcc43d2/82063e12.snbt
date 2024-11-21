@@ -2,7 +2,7 @@
 	title: "Resonance of the Faceted Crystal",
 	icon: "bloodmagic:item_demon_crystal 1 3",
 	x: 4.5d,
-	y: -5.5d,
+	y: -5.0d,
 	dependencies: [
 		"d0344dfc",
 		"367d4613"

@@ -7,8 +7,10 @@
 	text: [
 		"Unlocks:",
 		"",
-		"- Deep Mob Learning",
-		"- Deep Mob Learning Bloodmagic Integration"
+		"- §dDeep Mob Learning§f",
+		"- §dDeep Mob Learning Bloodmagic Integration§f",
+		"",
+		"Contains §eResource Generation§f. E.g. for §dBlood Magic§f §eLife Essence§f and §eWill§f."
 	],
 	dependencies: [
 		"86cd078f"

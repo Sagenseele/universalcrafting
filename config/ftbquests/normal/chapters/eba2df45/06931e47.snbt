@@ -2,6 +2,9 @@
 	x: 1.5d,
 	y: 6.5d,
 	description: "Prone for Exploitation ;)",
+	text: [
+		"§5Doubles§f §eFurnace§f output."
+	],
 	dependencies: [
 		"c8f83afa"
 	],

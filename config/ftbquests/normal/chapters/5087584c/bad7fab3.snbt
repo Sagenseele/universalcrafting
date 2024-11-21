@@ -1,0 +1,18 @@
+{
+	x: -6.5d,
+	y: -1.0d,
+	size: 1.25d,
+	tasks: [{
+		uid: "51f2fcca",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "nuclearcraft:solar_panel_basic"
+		}]
+	}],
+	rewards: [{
+		uid: "80a1bc1d",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

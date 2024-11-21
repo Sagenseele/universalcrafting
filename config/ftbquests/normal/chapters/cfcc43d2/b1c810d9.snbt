@@ -1,6 +1,6 @@
 {
-	x: 4.5d,
-	y: -4.0d,
+	x: 4.535714285714285d,
+	y: -6.803571428571431d,
 	description: "Let it build the ritual",
 	dependencies: [
 		"d0344dfc"

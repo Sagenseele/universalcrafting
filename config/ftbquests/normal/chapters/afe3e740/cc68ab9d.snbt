@@ -4,6 +4,9 @@
 	x: -3.7360544217687206d,
 	y: 10.513350340136085d,
 	description: "Custom Machines",
+	text: [
+		"Contains §3Multiblock Structures§f."
+	],
 	dependencies: [
 		"1c60f6ad",
 		"4e57b751"
@@ -23,7 +26,7 @@
 		items: [{
 			item: "contenttweaker:yellowcard"
 		}],
-		count: 16L,
+		count: 8L,
 		consume_items: true
 	}],
 	rewards: [{

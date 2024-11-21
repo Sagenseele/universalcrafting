@@ -3,6 +3,10 @@
 	icon: "nuclearcraft:nuclear_furnace_idle",
 	x: -2.5d,
 	y: 2.0d,
+	description: "From easy to complicated",
+	text: [
+		"Contains §eResource Processing§f, §eEnergy Generation§f."
+	],
 	dependencies: [
 		"112177fb"
 	],

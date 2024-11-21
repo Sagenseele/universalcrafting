@@ -10,8 +10,11 @@
 	y: 8.0d,
 	text: [
 		"Unlocks:",
-		"- Immersive Engineering",
-		"- Immersive Petroleum"
+		"",
+		"- §dImmersive Engineering§f",
+		"- §dImmersive Petroleum§f",
+		"",
+		"Contains §3Multiblock Structures§f, §eAutomated Resource Processing§f, §eTools§f and §5more§f"
 	],
 	dependencies: [
 		"4e57b751"

@@ -1,0 +1,17 @@
+{
+	x: 9.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "2da92b7d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "bonsaitrees:bonsaipot 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "248107a4",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

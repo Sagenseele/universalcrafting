@@ -2,6 +2,9 @@
 	x: 8.5d,
 	y: -1.5d,
 	description: "Can I interest you in some seeds?",
+	text: [
+		"Exchange §eEmeralds§f for §eSeeds§f."
+	],
 	dependencies: [
 		"32cd4bab"
 	],

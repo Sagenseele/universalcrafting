@@ -1,8 +1,12 @@
 {
 	title: "Industrial Foregoing",
-	icon: "industrialforegoing:plastic",
+	icon: "industrialforegoing:crop_sower",
 	x: -4.421768707483011d,
 	y: 9.227636054421794d,
+	text: [
+		"Contains multiple §eMachines§f, which can do §5various§f tasks.",
+		"§eResource Generation§f, §eResource Processing§f, §eEnchantment Manipulation§f, §eMob Duplicating§f, §eFarming§f and §5much more§f."
+	],
 	dependencies: [
 		"7e06b75e"
 	],

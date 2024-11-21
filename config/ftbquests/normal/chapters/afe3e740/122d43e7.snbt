@@ -3,6 +3,10 @@
 	icon: "storagenetwork:master",
 	x: -5.0d,
 	y: 7.5d,
+	text: [
+		"Contains central §eItem Storage§f Mod, which can be attached to existing §eInventories§f like §eChests§f, §eDrawers§f, §eBarrels§f, §eMachines§f.",
+		"Additionally Simple §eAuto-Crafting§f."
+	],
 	dependencies: [
 		"4e57b751"
 	],
@@ -12,7 +16,7 @@
 		items: [{
 			item: "contenttweaker:orangecard"
 		}],
-		count: 64L,
+		count: 32L,
 		consume_items: true
 	}],
 	rewards: [{

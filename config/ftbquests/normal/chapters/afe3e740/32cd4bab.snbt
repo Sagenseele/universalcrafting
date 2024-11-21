@@ -3,6 +3,9 @@
 	icon: "harvestcraft:friedchickenitem",
 	x: 0.0818452380952408d,
 	y: 8.028125000000017d,
+	text: [
+		"Contains loads of §eFood Items§f with various buffs."
+	],
 	dependencies: [
 		"4e57b751"
 	],

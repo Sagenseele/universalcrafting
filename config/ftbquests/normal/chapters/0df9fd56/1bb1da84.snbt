@@ -1,0 +1,15 @@
+{
+	x: 5.0d,
+	y: -4.0d,
+	dependencies: [
+		"d358b0ef"
+	],
+	tasks: [{
+		uid: "c6d5f7e9",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "excompressum:auto_sieve"
+		}]
+	}]
+}

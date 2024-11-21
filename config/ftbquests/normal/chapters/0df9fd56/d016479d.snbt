@@ -1,0 +1,23 @@
+{
+	x: 6.629464285714313d,
+	y: -4.647321428571434d,
+	text: [
+		"Accepts §ecompressed blocks§f and outputs §Items§f. Can use an §5enchanted§f §eMesh§f"
+	],
+	dependencies: [
+		"1bb1da84"
+	],
+	tasks: [{
+		uid: "7c251901",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "excompressum:auto_heavy_sieve"
+		}]
+	}],
+	rewards: [{
+		uid: "7fb12329",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

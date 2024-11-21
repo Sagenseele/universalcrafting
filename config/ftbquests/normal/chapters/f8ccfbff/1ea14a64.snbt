@@ -4,7 +4,7 @@
 	x: -1.5d,
 	y: -2.0d,
 	text: [
-		"Presses cannot be found in meteorites anymore. They must be crafted."
+		"Presses §ccannot§f be found in meteorites anymore. They must be crafted."
 	],
 	dependencies: [
 		"dd5b7611"

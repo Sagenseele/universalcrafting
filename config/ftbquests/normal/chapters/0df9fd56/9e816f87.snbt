@@ -3,7 +3,7 @@
 	y: -3.9999999999999964d,
 	description: "Lemme smash",
 	text: [
-		"Smash cobble into gravel into sand into dust. Ease your burden by using the excavator, configurable in the keybindings."
+		"Smash §eCobblestone§f into §eGravel§F into §eSand§f into §eDust§f. Ease your burden by using the §eExcavator Mod§f, configurable in the §eKeybindings§f."
 	],
 	dependencies: [
 		"394da98a",

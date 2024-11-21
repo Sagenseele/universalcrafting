@@ -4,6 +4,9 @@
 	x: -3.726785714285711d,
 	y: 11.647916666666681d,
 	description: "Spectre is spooky",
+	text: [
+		"Contains §eUtility Items§f."
+	],
 	dependencies: [
 		"0e573a5c"
 	],

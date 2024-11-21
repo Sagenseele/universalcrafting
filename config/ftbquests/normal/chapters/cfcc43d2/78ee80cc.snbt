@@ -2,7 +2,7 @@
 	x: -0.5d,
 	y: 0.5d,
 	text: [
-		"Right Click to change through altar tiers. Sneak right click on altar to show preview."
+		"§eRight Click§f to change through altar §5Tiers§f. §eSneak§f and §eRight click§f on the §eBlood Altar§f to show the preview."
 	],
 	dependencies: [
 		"cfa3d9a0"

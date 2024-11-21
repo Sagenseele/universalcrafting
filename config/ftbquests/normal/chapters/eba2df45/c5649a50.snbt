@@ -1,0 +1,28 @@
+{
+	x: 5.5d,
+	y: -4.0d,
+	description: "...Fly like an angel.",
+	text: [
+		"Grants §5Flight§f."
+	],
+	dependencies: [
+		"e7ef81a8"
+	],
+	tasks: [{
+		uid: "1255b132",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:angelring"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1ef29ebd",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

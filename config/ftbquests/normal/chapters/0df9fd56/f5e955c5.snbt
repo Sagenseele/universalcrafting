@@ -2,9 +2,9 @@
 	x: -0.5d,
 	y: -1.5d,
 	text: [
-		"Use a silkworm on leaves to create infested leaves. Harvest those leaves with a crook to collect string.",
+		"Use a §eSilkworm§f on §eLeaves§f to create infested leaves. Harvest those infested leaves with a §eCrook§f to collect §eString§f.",
 		"",
-		"Good first food if grilled!"
+		"Good §eFirst Food§f if grilled!"
 	],
 	dependencies: [
 		"47707df2"

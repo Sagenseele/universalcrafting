@@ -3,6 +3,15 @@
 	icon: "mysticalagriculture:crafting",
 	x: -2.6220238095238173d,
 	y: 11.274107142857154d,
+	text: [
+		"Unlocks:",
+		"",
+		"- §eTier I Seeds§f",
+		"- §eTier II Seeds§f",
+		"- §eTier III Seeds§f",
+		"",
+		"Contains §eResource Generation§f."
+	],
 	dependencies: [
 		"cc68ab9d"
 	],
@@ -12,7 +21,8 @@
 		items: [{
 			item: "contenttweaker:greencard"
 		}],
-		count: 48L
+		count: 48L,
+		consume_items: true
 	},
 	{
 		uid: "122f1aba",
@@ -20,7 +30,8 @@
 		items: [{
 			item: "contenttweaker:yellowcard"
 		}],
-		count: 12L
+		count: 12L,
+		consume_items: true
 	}],
 	rewards: [{
 		uid: "711b6a3a",

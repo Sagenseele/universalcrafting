@@ -8,6 +8,7 @@
 	tasks: [{
 		uid: "35d13005",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
@@ -17,7 +18,8 @@
 				multiblock: "IP:DistillationTower"
 			}
 		}],
-		ignore_damage: true
+		ignore_damage: true,
+		ignore_nbt: 2b
 	}],
 	rewards: [{
 		uid: "5d97407f",

@@ -4,6 +4,9 @@
 	x: -4.0d,
 	y: 2.0d,
 	description: "Better Furnaces",
+	text: [
+		"Contains several §5Tiers§f of §eFurnaces§f."
+	],
 	dependencies: [
 		"112177fb"
 	],

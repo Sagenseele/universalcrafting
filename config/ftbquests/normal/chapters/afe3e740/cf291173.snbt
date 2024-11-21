@@ -3,6 +3,9 @@
 	icon: "aquaculture:fish 1 6",
 	x: -4.0d,
 	y: 14.5d,
+	text: [
+		"Contains multiple §eFood Items§f and §5Tools§f."
+	],
 	dependencies: [
 		"6d1bdd08"
 	],

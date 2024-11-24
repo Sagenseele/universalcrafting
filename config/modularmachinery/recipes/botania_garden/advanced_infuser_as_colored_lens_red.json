@@ -1,0 +1,31 @@
+{
+    "machine": "botania_garden",
+    "registryName": "botania_garden_rune_mana",
+    "recipeTime": 300,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "botania:rune@8",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "botania:manaresource@0",
+            "amount": 10
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "botania:manaresource@1",
+            "amount": 2
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "botania:rune@8",
+            "amount": 2
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "machine": "advanced_infuser",
+    "registryName": "advanced_infuser_as_colored_lens_red",
+    "recipeTime": 300,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "astralsorcery:itemcoloredlens@3",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:iron_ingot",
+            "amount": 8
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:flint",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:diamond",
+            "amount": 2
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "astralsorcery:itemcraftingcomponent@0",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "astralsorcery:itemcoloredlens@3",
+            "amount": 2
+        }
+    ]
+}

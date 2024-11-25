@@ -30,7 +30,7 @@
 		items: [{
 			item: "contenttweaker:redcard"
 		}],
-		count: 512L,
+		count: 256L,
 		consume_items: true
 	},
 	{

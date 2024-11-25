@@ -13,7 +13,8 @@
 		"Contains §eResource Generation§f. E.g. for §dBlood Magic§f §eLife Essence§f and §eWill§f."
 	],
 	dependencies: [
-		"86cd078f"
+		"86cd078f",
+		"6d1bdd08"
 	],
 	tasks: [{
 		uid: "2ef6bf64",
@@ -30,7 +31,7 @@
 		items: [{
 			item: "contenttweaker:redcard"
 		}],
-		count: 32L,
+		count: 16L,
 		consume_items: true
 	},
 	{

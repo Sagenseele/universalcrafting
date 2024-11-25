@@ -2,6 +2,48 @@
     "registryname": "data_analyzer",
     "localizedname": "Data Analyzer",
     "color":"6e6e6e",
+    "modifiers": [
+        
+        {
+            "elements":"appliedenergistics2:crafting_storage_4k",
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "description": "Replace the Crafting CPU Block with a better one results in faster crafting times.",
+            "modifier": {
+                "io":"input",
+                "target": "duration",
+                "operation": 1,
+                "multiplier": 0.75
+            }
+        },
+        {
+            "elements":"appliedenergistics2:crafting_storage_16k",
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "description": "Replace the Crafting CPU Block with a better one results in faster crafting times.",
+            "modifier": {
+                "io":"input",
+                "target": "duration",
+                "operation": 1,
+                "multiplier": 0.5
+            }
+        },
+        {
+            "elements":"appliedenergistics2:crafting_storage_64k",
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "description": "Replace the Crafting CPU Block with a better one results in faster crafting times.",
+            "modifier": {
+                "io":"input",
+                "target": "duration",
+                "operation": 1,
+                "multiplier": 0.25
+            }
+        }
+    ],
     "parts": [
         {
             "x": -2,
@@ -336,7 +378,7 @@
             "y": 1,
             "z": 1,
             "elements": [
-                "appliedenergistics2:crafting_storage_64k@2"
+                "appliedenergistics2:crafting_storage_1k@2"
             ]
         },
         {
@@ -392,7 +434,7 @@
             "y": 2,
             "z": 1,
             "elements": [
-                "appliedenergistics2:crafting_storage_64k@2"
+                "appliedenergistics2:crafting_accelerator@2"
             ]
         },
         {

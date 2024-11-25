@@ -7,6 +7,7 @@
             "type": "item",
             "io-type": "input",
             "item": "astralsorcery:itemcoloredlens@3",
+            "chance": 0,
             "amount": 1
         },
         {

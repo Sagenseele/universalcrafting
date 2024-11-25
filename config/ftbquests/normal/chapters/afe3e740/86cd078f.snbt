@@ -3,10 +3,9 @@
 	y: 14.4526785714286d,
 	shape: "gear",
 	dependencies: [
+		"8efcded8",
 		"04ba3458",
-		"a1a2b3c8",
-		"96bc9596",
-		"8efcded8"
+		"a1a2b3c8"
 	],
 	size: 1.25d,
 	tasks: [{

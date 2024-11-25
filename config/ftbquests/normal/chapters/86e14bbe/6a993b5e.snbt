@@ -5,6 +5,7 @@
 		"Place a vanilla crafting table in the vicinity of the collector crystal and craft the luminous crafting table."
 	],
 	dependencies: [
+		"d2890d49",
 		"0c43f117"
 	],
 	hide: true,

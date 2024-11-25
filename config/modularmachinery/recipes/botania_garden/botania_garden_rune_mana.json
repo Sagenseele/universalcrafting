@@ -7,6 +7,7 @@
             "type": "item",
             "io-type": "input",
             "item": "botania:rune@8",
+            "chance": 0,
             "amount": 1
         },
         {

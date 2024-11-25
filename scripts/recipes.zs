@@ -63,8 +63,8 @@ recipes.replaceAllOccurences(<ore:essencePrudentium>, <contenttweaker:crystal_pr
 recipes.replaceAllOccurences(<ore:essencePrudentium>, <contenttweaker:crystal_prudentium>, <mysticalagriculture:prudentium_apple>);
 
 //Intermedium Crystal
-mods.nuclearcraft.chemical_reactor.addRecipe([<liquid:solution_prudiferium> * 1000, <liquid:liquid_nitrogen> * 1000, <liquid:sludge_intermedium> * 250, <liquid:solution_nitric_prosperity> * 1750]);
-mods.thermalexpansion.Refinery.addRecipe(<liquid:water_intermedium> * 200, <contenttweaker:crystal_intermedium>, <liquid:sludge_intermedium> * 500, 2048);
+mods.nuclearcraft.chemical_reactor.addRecipe([<liquid:solution_prudiferium> * 1000, <liquid:liquid_nitrogen> * 100, <liquid:sludge_intermedium> * 500, <liquid:solution_nitric_prosperity> * 1500]);
+mods.thermalexpansion.Refinery.addRecipe(<liquid:water_intermedium> * 300, <contenttweaker:crystal_intermedium>, <liquid:sludge_intermedium> * 400, 2048);
 mods.nuclearcraft.crystallizer.addRecipe([<liquid:water_intermedium> * 200, <mysticalagriculture:crafting:2>]);
 mods.nuclearcraft.centrifuge.addRecipe([<liquid:solution_nitric_prosperity> * 1000, <liquid:liquid_nitrogen> * 830, <liquid:water_prosperity> * 170, null, null]);
 mods.nuclearcraft.crystallizer.addRecipe([<liquid:water_prosperity> * 200, <mysticalagriculture:crafting:5>]);

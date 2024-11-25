@@ -21,13 +21,13 @@ for i in 1 to 6 {
     var item_input = "item_input_" + (i+1);
     recipes.addShaped(item_input, IIArray[i], [
         [null, <minecraft:hopper>, null],
-        [<modularmachinery:itemmodularium>, IIArray[before], <modularmachinery:itemmodularium>],
-        [<minecraft:chest>, <modularmachinery:itemmodularium>, <minecraft:chest>]
+        [null, IIArray[before], null],
+        [<minecraft:chest>, null, <minecraft:chest>]
     ]);
     var item_output = "item_output_" + (i+1);
     recipes.addShaped(item_output, IOArray[i], [
-        [<minecraft:chest>, <modularmachinery:itemmodularium>, <minecraft:chest>],
-        [<modularmachinery:itemmodularium>, IOArray[before], <modularmachinery:itemmodularium>],
+        [<minecraft:chest>, null, <minecraft:chest>],
+        [null, IOArray[before], null],
         [null, <minecraft:hopper>, null]
     ]);
 }
@@ -38,13 +38,13 @@ for i in 1 to 7 {
     var fluid_input = "fluid_input_" + (i+1);
     recipes.addShaped(fluid_input, FIArray[i], [
         [null, <minecraft:hopper>, null],
-        [<modularmachinery:itemmodularium>, FIArray[before], <modularmachinery:itemmodularium>],
-        [<minecraft:bucket>, <modularmachinery:itemmodularium>, <minecraft:bucket>]
+        [null, FIArray[before], null],
+        [<minecraft:bucket>, null, <minecraft:bucket>]
     ]);
     var fluid_output = "fluid_output_" + (i+1);
     recipes.addShaped(fluid_output, FOArray[i], [
-        [<minecraft:bucket>, <modularmachinery:itemmodularium>, <minecraft:bucket>],
-        [<modularmachinery:itemmodularium>, FOArray[before], <modularmachinery:itemmodularium>],
+        [<minecraft:bucket>, null, <minecraft:bucket>],
+        [null, FOArray[before], null],
         [null, <minecraft:hopper>, null]
     ]);
 

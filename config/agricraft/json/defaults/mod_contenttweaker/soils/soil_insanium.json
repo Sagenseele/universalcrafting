@@ -1,5 +1,5 @@
 {
-    "path": "mod_mysticalagriculture/soils/soil_insanium.json",
+    "path": "mod_contenttweaker/soils/soil_insanium.json",
     "enabled": true,
     "id": "soil_insanium",
     "name": "Insanium Soil",

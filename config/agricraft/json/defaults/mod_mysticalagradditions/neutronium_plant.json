@@ -1,12 +1,12 @@
 {
-  "path": "mod_mysticalagriculture/plants/tier2_inferium_plant.json",
+  "path": "mod_mysticalagradditions/neutronium_plant.json",
   "enabled": true,
-  "id": "mysticalagriculture:tier2_inferium_plant",
-  "plant_name": "Tier2 Inferium Crop",
-  "seed_name": "Tier2 Inferium Seeds",
+  "id": "mysticalagradditions:neutronium_plant",
+  "plant_name": "Neutronium Crop",
+  "seed_name": "Neutronium Seeds",
   "seed_items": [
     {
-      "item": "mysticalagriculture:tier2_inferium_seeds",
+      "item": "mysticalagradditions:neutronium_seeds",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -18,10 +18,10 @@
   ],
   "description": {
     "translations": {},
-    "default": "Tier2 Inferium Seeds."
+    "default": "Neutronium Seeds."
   },
-  "growth_chance": 0.9,
-  "growth_bonus": 0.025,
+  "growth_chance": 0.85,
+  "growth_bonus": 0.02,
   "bonemeal": false,
   "tier": 1,
   "weedable": false,
@@ -34,11 +34,11 @@
   "products": {
     "products": [
       {
-        "min": 2,
-        "max": 8,
+        "min": 1,
+        "max": 5,
         "chance": 0.9,
         "required": true,
-        "item": "mysticalagriculture:crafting",
+        "item": "mysticalagradditions:neutronium_essence",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -53,11 +53,27 @@
     "soils": [
       "farmland_soil"
     ],
-    "conditions": []
+    "conditions": [
+      {
+        "amount": 1,
+        "min_x": 0,
+        "min_y": -2,
+        "min_z": 0,
+        "max_x": 0,
+        "max_y": -2,
+        "max_z": 0,
+        "item": "mysticalagradditions:special",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": true,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
   },
   "texture": {
     "render_type": "cross",
-    "seed_texture": "mysticalagriculture:items/inferium_seeds",
+    "seed_texture": "mysticalagradditions:items/neutronium_seeds",
     "plant_textures": [
       "mysticalagriculture:blocks/crop0",
       "mysticalagriculture:blocks/crop1",
@@ -66,7 +82,7 @@
       "mysticalagriculture:blocks/crop3",
       "mysticalagriculture:blocks/crop4",
       "mysticalagriculture:blocks/crop4",
-      "mysticalagriculture:blocks/inferium_crop"
+      "mysticalagradditions:blocks/neutronium_crop"
     ]
   }
 }

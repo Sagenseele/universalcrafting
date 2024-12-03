@@ -6,16 +6,6 @@ import mods.contenttweaker.Fluid;
 import mods.contenttweaker.ItemFood;
 import mods.contenttweaker.Color;
 
-//Nutrient Pulp
-var nutrient_pulp=VanillaFactory.createItem("nutrient_pulp");
-nutrient_pulp.register();
-
-//Nutrient Bar
-var nutrient_bar=VanillaFactory.createItemFood("nutrient_bar", 8);
-nutrient_bar.healAmount=16;
-nutrient_bar.saturation=0.75;
-nutrient_bar.alwaysEdible=true;
-nutrient_bar.register();
 
 //Universal Points
 var universal_points=VanillaFactory.createItem("universal_points");
@@ -181,3 +171,26 @@ cake_amalgamation.healAmount=24;
 cake_amalgamation.saturation=1;
 cake_amalgamation.alwaysEdible=true;
 cake_amalgamation.register();
+
+var nutrient_pulp=VanillaFactory.createItem("nutrient_pulp");
+nutrient_pulp.register();
+
+var nutrient_bar=VanillaFactory.createItemFood("nutrient_bar", 8);
+nutrient_bar.healAmount=16;
+nutrient_bar.saturation=0.75;
+nutrient_bar.alwaysEdible=true;
+nutrient_bar.register();
+
+//Fish Sigills
+var fish_freshwater_sigil=VanillaFactory.createItem("fish_freshwater_sigil");
+fish_freshwater_sigil.register();
+var fish_ocean_sigil=VanillaFactory.createItem("fish_ocean_sigil");
+fish_ocean_sigil.register();
+var fish_swamp_sigil=VanillaFactory.createItem("fish_swamp_sigil");
+fish_swamp_sigil.register();
+var fish_arctic_sigil=VanillaFactory.createItem("fish_arctic_sigil");
+fish_arctic_sigil.register();
+var fish_arid_sigil=VanillaFactory.createItem("fish_arid_sigil");
+fish_arid_sigil.register();
+var fish_special_sigil=VanillaFactory.createItem("fish_special_sigil");
+fish_special_sigil.register();

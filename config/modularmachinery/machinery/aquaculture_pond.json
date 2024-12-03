@@ -1,0 +1,617 @@
+{
+    "registryname": "aquaculture_pond",
+    "localizedname": "Aquaculture Pond",
+    "color":"061566",
+    "modifiers": [
+        {
+            "elements":"minecraft:sea_lantern",
+            "x": -4,
+            "y": 3,
+            "z": 6,
+            "modifier": {
+                "io":"input",
+                "target": "duration",
+                "operation": 0,
+                "multiplier": -20
+            }
+        },
+        {
+            "elements":"minecraft:sea_lantern",
+            "x": 4,
+            "y": 3,
+            "z": 6,
+            "modifier": {
+                "io":"input",
+                "target": "duration",
+                "operation": 0,
+                "multiplier": -20
+            }
+        },
+        {
+            "elements":"minecraft:sea_lantern",
+            "x": -4,
+            "y": 3,
+            "z": 0,
+            "modifier": {
+                "io":"input",
+                "target": "duration",
+                "operation": 0,
+                "multiplier": -20
+            }
+        },
+        {
+            "elements":"minecraft:sea_lantern",
+            "x": 4,
+            "y": 3,
+            "z": 0,
+            "description": "Add a §eSea Lantern§f above the §eFence§f pillars to produces fish §51 second§f faster, stacks §54 times§f for every sea lantern",
+            "modifier": {
+                "io":"input",
+                "target": "duration",
+                "operation": 0,
+                "multiplier": -20
+            }
+        }
+    ],
+    "parts": [
+        {
+            "x": -4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockoutputbus"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:water@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "minecraft:fence@0"
+            ]
+        }
+    ]}

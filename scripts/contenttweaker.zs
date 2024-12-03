@@ -58,7 +58,7 @@ var mod_token=VanillaFactory.createItem("mod_token");
 mod_token.rarity = "epic";
 mod_token.register();
 
-//Mystical Agriculture Seeds
+//Mystical Agriculture Crystals
 var crystal_inferium=VanillaFactory.createItem("crystal_inferium");
 crystal_inferium.register();
 var crystal_prudentium=VanillaFactory.createItem("crystal_prudentium");
@@ -71,6 +71,8 @@ var crystal_superium=VanillaFactory.createItem("crystal_superium");
 crystal_superium.register();
 var crystal_supremium=VanillaFactory.createItem("crystal_supremium");
 crystal_supremium.register();
+var crystal_insanium=VanillaFactory.createItem("crystal_insanium");
+crystal_insanium.register();
 var solid_supermedium=VanillaFactory.createItem("solid_supermedium");
 solid_supermedium.register();
 var trace_element_supermedium=VanillaFactory.createItem("trace_element_supermedium");

@@ -2,6 +2,21 @@
     "registryname": "crystal_cutter",
     "localizedname": "Crystal Cutter",
     "color":"30353d",
+    "modifiers": [
+        {
+            "elements":"astralsorcery:blockcustomore@1",
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "description": "Place §eStarmetal Ore§f below the §eEnd Rod§f to increase the speed of the Cutter by §5700%§f",
+            "modifier": {
+                "io":"input",
+                "target": "duration",
+                "operation": 1,
+                "multiplier": 0.125
+            }
+        }
+    ],
     "parts": [
         {
             "x": 1,

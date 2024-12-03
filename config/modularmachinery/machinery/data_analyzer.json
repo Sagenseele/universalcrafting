@@ -9,7 +9,7 @@
             "x": -2,
             "y": 1,
             "z": 1,
-            "description": "Replace the Crafting CPU Block with a better one results in faster crafting times.",
+            "description": "Replacing the Crafting Storage Block with a better one produces the item 33% faster.",
             "modifier": {
                 "io":"input",
                 "target": "duration",
@@ -22,7 +22,7 @@
             "x": -2,
             "y": 1,
             "z": 1,
-            "description": "Replace the Crafting CPU Block with a better one results in faster crafting times.",
+            "description": "Replacing the Crafting Storage Block with a better one produces the item 100% faster.",
             "modifier": {
                 "io":"input",
                 "target": "duration",
@@ -35,7 +35,7 @@
             "x": -2,
             "y": 1,
             "z": 1,
-            "description": "Replace the Crafting CPU Block with a better one results in faster crafting times.",
+            "description": "Replacing the Crafting Storage Block with a better one produces the item in 300% faster.",
             "modifier": {
                 "io":"input",
                 "target": "duration",

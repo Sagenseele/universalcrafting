@@ -1,0 +1,84 @@
+{
+    "machine": "aquaculture_pond",
+    "registryName": "fish_ocean",
+    "recipeTime": 100,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:fish_ocean_sigil",
+            "chance": 0,
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalfoundation:bait",
+            "chance": 0.5,
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "aquaculture:fish@8",
+            "chance": 0.11,
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "aquaculture:fish@9",
+            "chance": 0.11,
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "aquaculture:fish@10",
+            "chance": 0.11,
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "aquaculture:fish@11",
+            "chance": 0.11,
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "aquaculture:fish@12",
+            "chance": 0.11,
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "aquaculture:fish@13",
+            "chance": 0.11,
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "aquaculture:fish@14",
+            "chance": 0.11,
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "aquaculture:fish@15",
+            "chance": 0.11,
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "aquaculture:fish@16",
+            "chance": 0.11,
+            "amount": 1
+        }
+    ]
+}

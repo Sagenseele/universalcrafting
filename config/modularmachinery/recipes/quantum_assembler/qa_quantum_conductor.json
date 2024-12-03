@@ -23,7 +23,7 @@
         {
             "type": "fluid",
             "io-type": "input",
-            "fluid": "cryotheum_nak_hot",
+            "fluid": "cryotheum_nak",
             "amount": 1000
         },
         {

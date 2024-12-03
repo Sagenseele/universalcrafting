@@ -5,7 +5,7 @@
 	y: 2.0d,
 	description: "Now with more utility",
 	text: [
-		"Contains §eUtility Items§f, §eEnergy Generation§f, §5Creative Flight§f and §5more§f."
+		"Contains §eCables§f, §eUtility Items§f, §eEnergy Generation§f, §5Creative Flight§f and §5more§f."
 	],
 	dependencies: [
 		"112177fb"

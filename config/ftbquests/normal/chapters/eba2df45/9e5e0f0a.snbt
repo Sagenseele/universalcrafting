@@ -2,6 +2,16 @@
 	x: 6.5d,
 	y: -1.5d,
 	description: "Building Gadget Nr. 1",
+	text: [
+		"There are four different tiers of wands:",
+		"",
+		"- §eStone Wand§f",
+		"- §eIron Wand§f",
+		"- §eDiamond Wand§f",
+		"- §eUnbreakable Wand§f",
+		"",
+		"Each tier can place more §eBlocks§f than the tier before."
+	],
 	dependencies: [
 		"18c3041a"
 	],

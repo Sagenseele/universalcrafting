@@ -1,19 +1,19 @@
 {
-	x: 5.0d,
-	y: -4.0d,
+	x: 3.0357142857142847d,
+	y: -5.071428571428566d,
 	dependencies: [
 		"d358b0ef"
 	],
 	tasks: [{
-		uid: "c6d5f7e9",
+		uid: "326507b9",
 		type: "item",
 		disable_toast: true,
 		items: [{
-			item: "excompressum:auto_sieve"
+			item: "compacter:compacter"
 		}]
 	}],
 	rewards: [{
-		uid: "f2062cfd",
+		uid: "7c6d1b2d",
 		type: "item",
 		item: "contenttweaker:universal_points"
 	}]

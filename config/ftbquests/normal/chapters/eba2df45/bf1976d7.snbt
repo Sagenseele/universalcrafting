@@ -1,6 +1,9 @@
 {
 	x: 9.5d,
 	y: -2.5d,
+	text: [
+		"Place any §bInventory§f below it to collect resources from §eSaplings§f. Look into §dJEI§f for more information about compatible §eSaplings§f"
+	],
 	tasks: [{
 		uid: "2da92b7d",
 		type: "item",

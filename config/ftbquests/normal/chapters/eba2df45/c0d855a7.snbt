@@ -3,7 +3,7 @@
 	y: -0.5d,
 	description: "I'm mining...",
 	text: [
-		"Mines everything it faces"
+		"Mines §eBlocks§f infront of it."
 	],
 	dependencies: [
 		"04ba3458"

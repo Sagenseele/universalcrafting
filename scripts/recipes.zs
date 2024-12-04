@@ -309,6 +309,14 @@ recipes.addShaped("dragonstone", <botania:manaresource:9>, [
 // Fix Diorite/Granite/Andesite Smashing
 mods.exnihilocreatio.Hammer.addRecipe(<minecraft:stone:0>, <minecraft:cobblestone>, 0, 1.0, 0.0);
 
+//Aquaculture
+recipes.addShapeless(<contenttweaker:fish_freshwater_sigil>, [<minecraft:water_bucket>, <minecraft:sugar>]);
+recipes.addShapeless(<contenttweaker:fish_ocean_sigil>, [<minecraft:water_bucket>, <minecraft:redstone>]);
+recipes.addShapeless(<contenttweaker:fish_swamp_sigil>, [<minecraft:water_bucket>, <minecraft:glowstone>]);
+recipes.addShapeless(<contenttweaker:fish_arctic_sigil>, [<minecraft:water_bucket>, <minecraft:iron_ingot>]);
+recipes.addShapeless(<contenttweaker:fish_arid_sigil>, [<minecraft:water_bucket>, <minecraft:sand>, <minecraft:sand>]);
+recipes.addShapeless(<contenttweaker:fish_special_sigil>, [<minecraft:water_bucket>, <minecraft:nether_star>]);
+
 //Remove machine frame and IF machine recipes
 recipes.removeByRecipeName("industrialforegoing:bioreactor_thermal");
 recipes.removeByRecipeName("industrialforegoing:spores_recreator_thermal");

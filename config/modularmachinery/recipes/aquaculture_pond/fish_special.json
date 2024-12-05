@@ -21,28 +21,28 @@
             "type": "item",
             "io-type": "output",
             "item": "aquaculture:fish@35",
-            "chance": 0.1,
+            "chance": 0.05,
             "amount": 1
         },
         {
             "type": "item",
             "io-type": "output",
             "item": "aquaculture:fish@36",
-            "chance": 0.1,
+            "chance": 0.05,
             "amount": 1
         },
         {
             "type": "item",
             "io-type": "output",
             "item": "aquaculture:fish@37",
-            "chance": 0.1,
+            "chance": 0.05,
             "amount": 1
         },
         {
             "type": "item",
             "io-type": "output",
             "item": "aquaculture:fish@38",
-            "chance": 0.1,
+            "chance": 0.05,
             "amount": 1
         }
     ]

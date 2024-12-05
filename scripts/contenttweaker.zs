@@ -183,7 +183,7 @@ nutrient_bar.saturation=0.75;
 nutrient_bar.alwaysEdible=true;
 nutrient_bar.register();
 
-//Fish Sigills
+//Aquaculture
 var fish_freshwater_sigil=VanillaFactory.createItem("fish_freshwater_sigil");
 fish_freshwater_sigil.register();
 var fish_ocean_sigil=VanillaFactory.createItem("fish_ocean_sigil");
@@ -196,3 +196,5 @@ var fish_arid_sigil=VanillaFactory.createItem("fish_arid_sigil");
 fish_arid_sigil.register();
 var fish_special_sigil=VanillaFactory.createItem("fish_special_sigil");
 fish_special_sigil.register();
+var fish_paste=VanillaFactory.createFluid("fish_paste", Color.fromHex("FF91A4"));
+fish_paste.register();

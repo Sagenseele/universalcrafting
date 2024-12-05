@@ -306,6 +306,16 @@ recipes.addShaped("dragonstone", <botania:manaresource:9>, [
         [<mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>],
         [<mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>]
 ]);
+
+// Neptunium
+mods.nuclearcraft.melter.addRecipe([<ore:fishFreshwater>, <liquid:fish_paste> * 10]);
+mods.nuclearcraft.melter.addRecipe([<ore:fishOcean>, <liquid:fish_paste> * 10]);
+mods.nuclearcraft.melter.addRecipe([<ore:fishSwamp>, <liquid:fish_paste> * 20]);
+mods.nuclearcraft.melter.addRecipe([<ore:fishArctic>, <liquid:fish_paste> * 20]);
+mods.nuclearcraft.melter.addRecipe([<ore:fishArid>, <liquid:fish_paste> * 40]);
+mods.nuclearcraft.melter.addRecipe([<ore:fishSpecial>, <liquid:fish_paste> * 50]);
+mods.nuclearcraft.salt_mixer.addRecipe([<liquid:fish_paste> * 500, <liquid:diamond> * 666, <liquid:neptunium> * 72]);
+
 // Fix Diorite/Granite/Andesite Smashing
 mods.exnihilocreatio.Hammer.addRecipe(<minecraft:stone:0>, <minecraft:cobblestone>, 0, 1.0, 0.0);
 

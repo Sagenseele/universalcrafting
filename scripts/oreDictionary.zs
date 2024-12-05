@@ -13,7 +13,3 @@ fishSwamp.add(<aquaculture:fish:17>,<aquaculture:fish:18>,<aquaculture:fish:19>,
 fishArctic.add(<aquaculture:fish:24>,<aquaculture:fish:25>,<aquaculture:fish:26>,<aquaculture:fish:27>,<aquaculture:fish:28>,<aquaculture:fish:29>,<aquaculture:fish:30>);
 fishArid.add(<aquaculture:fish:31>,<aquaculture:fish:32>,<aquaculture:fish:33>,<aquaculture:fish:34>);
 fishSpecial.add(<aquaculture:fish:35>,<aquaculture:fish:36>,<aquaculture:fish:37>,<aquaculture:fish:38>);
-
-
-
-

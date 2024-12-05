@@ -306,6 +306,7 @@ recipes.addShaped("dragonstone", <botania:manaresource:9>, [
         [<mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>],
         [<mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>]
 ]);
+recipes.replaceAllOccurences(<appliedenergistics2:part:76>, <appliedenergistics2:part:56>, <appliedenergistics2:quantum_ring>);
 
 // Neptunium
 mods.nuclearcraft.melter.addRecipe([<ore:fishFreshwater>, <liquid:fish_paste> * 10]);

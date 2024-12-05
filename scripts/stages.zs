@@ -3,6 +3,7 @@ import crafttweaker.item.IItemStack;
 //Mod Stages
 //mods.ItemStages.stageModItems(String stage, String modid);
 mods.ItemStages.stageModItems("randomthings", "randomthings");
+mods.ItemStages.stageModItems("bloodmagic", "bloodmagic");
 mods.ItemStages.stageModItems("buildinggadets", "betterbuilderswands");
 mods.ItemStages.stageModItems("buildinggadets", "danknull");
 mods.ItemStages.stageModItems("storagedrawers", "storagedrawers");

@@ -528,7 +528,7 @@
             "y": 3,
             "z": 8,
             "elements": [
-                "minecraft:leaves@12"
+                "minecraft:leaves"
             ]
         },
         {
@@ -544,7 +544,7 @@
             "y": 3,
             "z": 8,
             "elements": [
-                "minecraft:leaves@12"
+                "minecraft:leaves"
             ]
         },
         {
@@ -560,7 +560,7 @@
             "y": 3,
             "z": 8,
             "elements": [
-                "minecraft:leaves@12"
+                "minecraft:leaves"
             ]
         },
         {
@@ -680,7 +680,7 @@
             "y": 4,
             "z": 8,
             "elements": [
-                "minecraft:leaves@12"
+                "minecraft:leaves"
             ]
         },
         {
@@ -904,7 +904,7 @@
             "y": 3,
             "z": 7,
             "elements": [
-                "minecraft:leaves@12"
+                "minecraft:leaves"
             ]
         },
         {
@@ -936,7 +936,7 @@
             "y": 3,
             "z": 7,
             "elements": [
-                "minecraft:leaves@12"
+                "minecraft:leaves"
             ]
         },
         {
@@ -1016,7 +1016,7 @@
             "y": 4,
             "z": 7,
             "elements": [
-                "minecraft:leaves@12"
+                "minecraft:leaves"
             ]
         },
         {
@@ -1040,7 +1040,7 @@
             "y": 4,
             "z": 7,
             "elements": [
-                "minecraft:leaves@12"
+                "minecraft:leaves"
             ]
         },
         {
@@ -1224,7 +1224,7 @@
             "y": 3,
             "z": 6,
             "elements": [
-                "minecraft:leaves@12"
+                "minecraft:leaves"
             ]
         },
         {
@@ -1240,7 +1240,7 @@
             "y": 3,
             "z": 6,
             "elements": [
-                "minecraft:leaves@12"
+                "minecraft:leaves"
             ]
         },
         {
@@ -1248,7 +1248,7 @@
             "y": 3,
             "z": 6,
             "elements": [
-                "minecraft:leaves@12"
+                "minecraft:leaves"
             ]
         },
         {
@@ -1328,7 +1328,7 @@
             "y": 4,
             "z": 6,
             "elements": [
-                "minecraft:leaves@12"
+                "minecraft:leaves"
             ]
         },
         {

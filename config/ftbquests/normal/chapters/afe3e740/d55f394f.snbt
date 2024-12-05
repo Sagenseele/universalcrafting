@@ -6,12 +6,9 @@
 			material: "oak"
 		}
 	},
-	x: -5.5d,
-	y: 2.0d,
+	x: -8.5d,
+	y: 4.5d,
 	description: "Dedicated Storage",
-	dependencies: [
-		"112177fb"
-	],
 	tasks: [{
 		uid: "1160e778",
 		type: "item",

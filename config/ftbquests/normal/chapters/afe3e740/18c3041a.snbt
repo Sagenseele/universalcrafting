@@ -6,8 +6,8 @@
 		},
 		id: "betterbuilderswands:wandunbreakable"
 	},
-	x: -1.0d,
-	y: 2.0d,
+	x: -11.0d,
+	y: 0.5d,
 	text: [
 		"Unlocks:",
 		"",

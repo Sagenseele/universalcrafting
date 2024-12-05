@@ -1,8 +1,8 @@
 {
 	title: "Furnace Overhaul",
 	icon: "furnaceoverhaul:iron_furnace",
-	x: -4.0d,
-	y: 2.0d,
+	x: -10.0d,
+	y: 4.5d,
 	description: "Better Furnaces",
 	text: [
 		"Contains several §5Tiers§f of §eFurnaces§f."

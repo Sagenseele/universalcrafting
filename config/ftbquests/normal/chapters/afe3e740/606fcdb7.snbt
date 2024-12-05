@@ -1,0 +1,24 @@
+{
+	title: "Bloodmagic",
+	icon: "bloodmagic:altar",
+	x: -10.0d,
+	y: 0.5d,
+	dependencies: [
+		"112177fb"
+	],
+	tasks: [{
+		uid: "4705e364",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "appliedenergistics2:material 1 45"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "88f57fff",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "bloodmagic"
+	}]
+}

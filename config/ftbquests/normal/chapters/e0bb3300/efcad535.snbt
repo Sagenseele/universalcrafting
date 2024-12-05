@@ -1,5 +1,6 @@
 {
 	title: "More Overlays",
+	icon: "thermalfoundation:material 1 24",
 	x: -0.5d,
 	y: 2.0d,
 	text: [

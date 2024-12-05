@@ -1,14 +1,16 @@
 {
 	title: "Ender IO",
 	icon: "enderio:item_material 1 20",
-	x: -7.5d,
-	y: 10.5d,
+	x: 2.0d,
+	y: -2.5d,
 	text: [
 		"Contains the best §eCables§f in existence. §9Fluid§f, §eItem§f, §6Energy§f, §cRedstone§f and §eME-Cables§f, which can be placed within one block.",
 		"Additionally §eResource Processing§f, §eMob Duplication§f, §eEnergy Generation§f and §5more§f."
 	],
+	hide_dependency_lines: true,
 	dependencies: [
-		"1c60f6ad"
+		"1c60f6ad",
+		"4e57b751"
 	],
 	tasks: [{
 		uid: "6601ee45",

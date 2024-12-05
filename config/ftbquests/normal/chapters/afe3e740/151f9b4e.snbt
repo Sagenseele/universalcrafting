@@ -1,8 +1,8 @@
 {
 	title: "Deep Mob Learning",
 	icon: "deepmoblearning:simulation_chamber",
-	x: -9.479166666666671d,
-	y: 16.2026785714286d,
+	x: 6.0d,
+	y: 0.5d,
 	description: "Digital Mob Farm",
 	text: [
 		"Unlocks:",
@@ -12,9 +12,11 @@
 		"",
 		"Contains §eResource Generation§f. E.g. for §dBlood Magic§f §eLife Essence§f and §eWill§f."
 	],
+	hide_dependency_lines: true,
 	dependencies: [
 		"86cd078f",
-		"6d1bdd08"
+		"4e57b751",
+		"a2178914"
 	],
 	tasks: [{
 		uid: "2ef6bf64",
@@ -29,9 +31,9 @@
 		uid: "9e2a2e69",
 		type: "item",
 		items: [{
-			item: "contenttweaker:redcard"
+			item: "contenttweaker:bluecard"
 		}],
-		count: 16L,
+		count: 32L,
 		consume_items: true
 	},
 	{

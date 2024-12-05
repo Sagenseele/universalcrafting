@@ -1,8 +1,8 @@
 {
 	title: "Early Mystical Agriculture",
 	icon: "mysticalagriculture:crafting",
-	x: -2.6220238095238173d,
-	y: 11.274107142857154d,
+	x: -0.5d,
+	y: 0.5d,
 	text: [
 		"Unlocks:",
 		"",
@@ -13,7 +13,7 @@
 		"Contains §eResource Generation§f."
 	],
 	dependencies: [
-		"cc68ab9d"
+		"1c60f6ad"
 	],
 	tasks: [{
 		uid: "e65c6e52",

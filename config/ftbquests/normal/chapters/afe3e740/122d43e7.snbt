@@ -1,12 +1,13 @@
 {
 	title: "Simple Storage Network",
 	icon: "storagenetwork:master",
-	x: -5.0d,
-	y: 7.5d,
+	x: -3.0d,
+	y: 0.5d,
 	text: [
 		"Contains central §eItem Storage§f Mod, which can be attached to existing §eInventories§f like §eChests§f, §eDrawers§f, §eBarrels§f, §eMachines§f.",
 		"Additionally Simple §eAuto-Crafting§f."
 	],
+	hide_dependency_lines: true,
 	dependencies: [
 		"4e57b751"
 	],

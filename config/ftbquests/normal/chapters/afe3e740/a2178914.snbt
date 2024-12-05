@@ -1,9 +1,9 @@
 {
-	x: -1.25d,
-	y: 16.25d,
+	x: 2.75d,
+	y: 2.5d,
 	shape: "gear",
 	dependencies: [
-		"968fa983",
+		"cc68ab9d",
 		"cf291173",
 		"32cd4bab"
 	],

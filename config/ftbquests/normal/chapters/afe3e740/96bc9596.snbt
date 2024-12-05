@@ -1,8 +1,8 @@
 {
 	title: "Advanced Mystical Agriculture",
 	icon: "mysticalagradditions:stuff 1 69",
-	x: -1.2395833333333286d,
-	y: 18.43169642857145d,
+	x: 4.0d,
+	y: 7.5d,
 	text: [
 		"Unlocks:",
 		"",
@@ -13,13 +13,13 @@
 		"Contains §eResource Generation§f, §5Tools§f, §5Armor§f and §5more§f."
 	],
 	dependencies: [
-		"a2178914"
+		"6d1bdd08"
 	],
 	tasks: [{
 		uid: "1849e925",
 		type: "item",
 		items: [{
-			item: "contenttweaker:redcard"
+			item: "contenttweaker:yellowcard"
 		}],
 		count: 32L,
 		consume_items: true
@@ -28,7 +28,7 @@
 		uid: "af16fa39",
 		type: "item",
 		items: [{
-			item: "contenttweaker:bluecard"
+			item: "contenttweaker:redcard"
 		}],
 		count: 16L,
 		consume_items: true

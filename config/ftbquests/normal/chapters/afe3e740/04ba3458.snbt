@@ -1,14 +1,14 @@
 {
 	title: "Extra Utilities 2",
 	icon: "extrautils2:angelblock",
-	x: -8.5d,
-	y: 2.0d,
+	x: -10.0d,
+	y: -1.5d,
 	description: "Now with more utility",
 	text: [
-		"Contains §eCables§f, §eUtility Items§f, §eEnergy Generation§f, §5Creative Flight§f and §5more§f."
+		"Contains §eCables§f, §eUtility Items§f, §eMining Dimension§f, §eEnergy Generation§f, §5Creative Flight§f and §5more§f."
 	],
 	dependencies: [
-		"112177fb"
+		"606fcdb7"
 	],
 	tasks: [{
 		uid: "1d1ea378",

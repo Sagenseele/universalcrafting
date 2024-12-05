@@ -19,15 +19,16 @@
 			}
 		}
 	},
-	x: -5.0d,
-	y: 11.5d,
+	x: 1.0d,
+	y: 7.0d,
 	text: [
 		"Contains a magic mod, which relates to §eStarlight§f and has an §5RPG§f Element.",
 		"Additionally §eResource Processing§f, §eResource Generation§f and new §5game mechanics§f."
 	],
+	hide_dependency_lines: true,
 	dependencies: [
 		"1c60f6ad",
-		"cc68ab9d"
+		"0e573a5c"
 	],
 	tasks: [{
 		uid: "3d1f750c",

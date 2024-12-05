@@ -1,15 +1,14 @@
 {
 	title: "Modular Machinery",
 	icon: "modularmachinery:blockcontroller",
-	x: -3.7360544217687206d,
-	y: 10.513350340136085d,
+	x: 0.0d,
+	y: 2.5d,
 	description: "Custom Machines",
 	text: [
 		"Contains §3Multiblock Structures§f."
 	],
 	dependencies: [
-		"1c60f6ad",
-		"4e57b751"
+		"1c60f6ad"
 	],
 	tasks: [{
 		uid: "54013204",

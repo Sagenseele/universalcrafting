@@ -1,21 +1,16 @@
 {
-	title: "Submit your resources.",
+	title: "Ex Nihilo",
+	icon: "exnihilocreatio:block_sieve",
 	disable_toast: true,
-	x: -4.0d,
-	y: 0.0d,
+	x: -10.5d,
+	y: 2.5d,
 	text: [
-		"You can send items into a task screen to submit. Select the quest you want to contribute to and insert the resource.",
-		"",
-		"If you got problems with recipes not showing, leave the game and join again to refresh them."
+		"§eCreate Resources§f from §eGravel§f, §eSand§f and §eDust§f."
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "ca337401",
 		type: "checkmark",
 		disable_toast: true
-	}],
-	rewards: [{
-		uid: "88626158",
-		type: "item",
-		item: "ftbquests:screen"
 	}]
 }

@@ -1,8 +1,8 @@
 {
 	title: "Applied Energistics",
 	icon: "appliedenergistics2:controller",
-	x: -6.5d,
-	y: 7.5d,
+	x: -3.0d,
+	y: 4.5d,
 	description: "Autocrafting/Storage/Automatism",
 	text: [
 		"Unlocks:",
@@ -17,6 +17,7 @@
 		"",
 		"Contains §eItem Storage§f, §eResource Processing§f, §eAuto-Crafting§f and §5much more§f."
 	],
+	hide_dependency_lines: true,
 	dependencies: [
 		"4e57b751",
 		"0e573a5c"

@@ -1,8 +1,8 @@
 {
 	title: "Iron Chest",
 	icon: "ironchest:iron_chest 1 5",
-	x: -7.0d,
-	y: 2.0d,
+	x: -11.0d,
+	y: 4.5d,
 	description: "Bigger Chests",
 	text: [
 		"Contains several §5Tiers§f of §eChests§f."

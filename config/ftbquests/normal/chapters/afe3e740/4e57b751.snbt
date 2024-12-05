@@ -1,6 +1,6 @@
 {
-	x: -3.0d,
-	y: 5.0d,
+	x: -6.875d,
+	y: 1.25d,
 	shape: "gear",
 	text: [
 		"Unlocks:",
@@ -8,7 +8,8 @@
 		"- §eExtended Crafting Tables§f"
 	],
 	dependencies: [
-		"6611a95c"
+		"6611a95c",
+		"112177fb"
 	],
 	size: 1.25d,
 	tasks: [{

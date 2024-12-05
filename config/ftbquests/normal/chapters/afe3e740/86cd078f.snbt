@@ -1,10 +1,10 @@
 {
-	x: -8.479166666666664d,
-	y: 14.4526785714286d,
+	x: 2.75d,
+	y: -0.5d,
 	shape: "gear",
 	dependencies: [
 		"8efcded8",
-		"04ba3458",
+		"cc68ab9d",
 		"a1a2b3c8"
 	],
 	size: 1.25d,

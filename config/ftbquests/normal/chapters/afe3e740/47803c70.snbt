@@ -1,10 +1,12 @@
 {
 	title: "XNet",
 	icon: "xnet:controller",
-	x: -7.5d,
-	y: 8.0d,
+	x: -4.0d,
+	y: 4.5d,
 	description: "Central Storage Connector",
+	hide_dependency_lines: true,
 	dependencies: [
+		"4e57b751",
 		"0e573a5c"
 	],
 	tasks: [{

@@ -1,10 +1,10 @@
 {
-	x: -7.0d,
-	y: 5.0d,
+	x: -6.875d,
+	y: 3.75d,
 	shape: "gear",
 	dependencies: [
-		"c6f33f57",
-		"9ee96f43"
+		"d55f394f",
+		"112177fb"
 	],
 	size: 1.25d,
 	tasks: [{

@@ -1,13 +1,15 @@
 {
 	title: "Aquaculture",
 	icon: "aquaculture:fish 1 6",
-	x: -4.0d,
-	y: 14.5d,
+	x: 2.0d,
+	y: 1.5d,
 	text: [
 		"Contains multiple §eFood Items§f and §5Tools§f."
 	],
+	hide_dependency_lines: true,
 	dependencies: [
-		"6d1bdd08"
+		"4e57b751",
+		"0e573a5c"
 	],
 	tasks: [{
 		uid: "8e250d12",
@@ -22,7 +24,7 @@
 		uid: "91ba6c53",
 		type: "item",
 		items: [{
-			item: "contenttweaker:redcard"
+			item: "contenttweaker:greencard"
 		}],
 		count: 16L,
 		consume_items: true

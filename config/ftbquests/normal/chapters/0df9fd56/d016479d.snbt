@@ -2,7 +2,7 @@
 	x: 6.629464285714313d,
 	y: -4.647321428571434d,
 	text: [
-		"Accepts §ecompressed blocks§f and outputs §Items§f. Can use an §5enchanted§f §eMesh§f"
+		"Accepts §ecompressed blocks§f and outputs §eItems§f. Can use an §5enchanted§f §eMesh§f"
 	],
 	dependencies: [
 		"1bb1da84"

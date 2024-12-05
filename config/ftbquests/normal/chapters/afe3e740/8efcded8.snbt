@@ -1,13 +1,15 @@
 {
 	title: "Solarflux Reborn",
 	icon: "solarflux:solar_panel_1",
-	x: -6.5d,
-	y: 11.5d,
+	x: 1.0d,
+	y: -2.0d,
 	text: [
 		"Contains §eEnergy Generation§f."
 	],
+	hide_dependency_lines: true,
 	dependencies: [
-		"1c60f6ad"
+		"1c60f6ad",
+		"4e57b751"
 	],
 	tasks: [{
 		uid: "e563dac8",

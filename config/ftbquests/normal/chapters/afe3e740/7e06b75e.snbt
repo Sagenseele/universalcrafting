@@ -7,7 +7,7 @@
 		id: "immersiveengineering:tool"
 	},
 	x: -4.0d,
-	y: 8.0d,
+	y: -0.5d,
 	text: [
 		"Unlocks:",
 		"",
@@ -16,7 +16,9 @@
 		"",
 		"Contains §3Multiblock Structures§f, §eAutomated Resource Processing§f, §eTools§f and §5more§f"
 	],
+	hide_dependency_lines: true,
 	dependencies: [
+		"606fcdb7",
 		"4e57b751"
 	],
 	tasks: [{

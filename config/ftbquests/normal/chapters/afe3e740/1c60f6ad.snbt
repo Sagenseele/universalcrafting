@@ -4,11 +4,11 @@
 	shape: "gear",
 	dependencies: [
 		"47803c70",
-		"4e57b751",
 		"bdf8a091",
 		"122d43e7",
 		"dd5b7611",
-		"0e573a5c"
+		"0e573a5c",
+		"4e57b751"
 	],
 	size: 1.25d,
 	tasks: [{

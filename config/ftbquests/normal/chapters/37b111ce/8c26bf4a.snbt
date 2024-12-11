@@ -1,0 +1,25 @@
+{
+	x: 4.0d,
+	y: 0.5d,
+	text: [
+		"Plant growing tube.",
+		"",
+		"Fill it with §9Water§f from §bbehind§f, put §eSoil§f into the §bbottom§f slot and a §eSeed§f on the §btop§f slot. Automatically output from the §btop front§f."
+	],
+	dependencies: [
+		"aee6fbb8"
+	],
+	tasks: [{
+		uid: "4956d179",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "immersiveengineering:metal_device1 1 13"
+		}]
+	}],
+	rewards: [{
+		uid: "17384f66",
+		type: "item",
+		item: "contenttweaker:universal_points"
+	}]
+}

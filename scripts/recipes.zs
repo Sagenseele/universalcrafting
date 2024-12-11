@@ -292,22 +292,6 @@ recipes.addShaped(<contenttweaker:greencard>, [
         [<ore:ingotElectrum>, <ore:slimecrystalGreen>, null]
 ]);
 
-// Misc
-recipes.replaceAllOccurences(<extendedcrafting:material:18>, <extendedcrafting:material:11>, <extendedcrafting:interface>);
-recipes.replaceAllOccurences(<nuclearcraft:dust:8>, <minecraft:gold_ingot>, <nuclearcraft:solar_panel_basic>);
-recipes.removeByRecipeName("nuclearcraft:tile.nuclearcraft.solar_panel_basic_1");
-recipes.addShaped("pixiedust", <botania:manaresource:8>, [
-        [null, null, <mysticalagriculture:elementium_essence>],
-        [<mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>],
-        [<mysticalagriculture:elementium_essence>, null, null]
-]);
-recipes.addShaped("dragonstone", <botania:manaresource:9>, [
-        [null, <mysticalagriculture:elementium_essence>, null],
-        [<mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>],
-        [<mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>]
-]);
-recipes.replaceAllOccurences(<appliedenergistics2:part:76>, <appliedenergistics2:part:56>, <appliedenergistics2:quantum_ring>);
-
 // Neptunium
 mods.nuclearcraft.melter.addRecipe([<ore:fishFreshwater>, <liquid:fish_paste> * 10]);
 mods.nuclearcraft.melter.addRecipe([<ore:fishOcean>, <liquid:fish_paste> * 10]);
@@ -327,6 +311,30 @@ recipes.addShapeless(<contenttweaker:fish_swamp_sigil>, [<minecraft:water_bucket
 recipes.addShapeless(<contenttweaker:fish_arctic_sigil>, [<minecraft:water_bucket>, <minecraft:iron_ingot>]);
 recipes.addShapeless(<contenttweaker:fish_arid_sigil>, [<minecraft:water_bucket>, <minecraft:sand>, <minecraft:sand>]);
 recipes.addShapeless(<contenttweaker:fish_special_sigil>, [<minecraft:water_bucket>, <minecraft:nether_star>]);
+
+// Misc
+recipes.replaceAllOccurences(<extendedcrafting:material:18>, <extendedcrafting:material:11>, <extendedcrafting:interface>);
+recipes.replaceAllOccurences(<nuclearcraft:dust:8>, <minecraft:gold_ingot>, <nuclearcraft:solar_panel_basic>);
+recipes.removeByRecipeName("nuclearcraft:tile.nuclearcraft.solar_panel_basic_1");
+recipes.addShaped("pixiedust", <botania:manaresource:8>, [
+        [null, null, <mysticalagriculture:elementium_essence>],
+        [<mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>],
+        [<mysticalagriculture:elementium_essence>, null, null]
+]);
+recipes.addShaped("dragonstone", <botania:manaresource:9>, [
+        [null, <mysticalagriculture:elementium_essence>, null],
+        [<mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>],
+        [<mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>, <mysticalagriculture:elementium_essence>]
+]);
+recipes.replaceAllOccurences(<appliedenergistics2:part:76>, <appliedenergistics2:part:56>, <appliedenergistics2:quantum_ring>);
+
+recipes.replaceAllOccurences(<minecraft:shears>, <ore:toolShears>, <immersiveengineering:material:20>);
+recipes.replaceAllOccurences(<minecraft:shears>, <ore:toolShears>, <immersiveengineering:material:21>);
+recipes.replaceAllOccurences(<minecraft:shears>, <ore:toolShears>, <immersiveengineering:material:22>);
+recipes.replaceAllOccurences(<minecraft:shears>, <ore:toolShears>, <immersiveengineering:material:23>);
+
+
+
 
 //Remove machine frame and IF machine recipes
 recipes.removeByRecipeName("industrialforegoing:bioreactor_thermal");

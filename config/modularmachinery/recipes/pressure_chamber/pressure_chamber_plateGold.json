@@ -11,14 +11,14 @@
         {
             "type": "item",
             "io-type": "input",
-            "item": "ore:ingotGold",
+            "item": "ore:blockGold",
             "amount": 1
         },
         {
             "type": "item",
             "io-type": "output",
             "item": "thermalfoundation:material@33",
-            "amount": 1
+            "amount": 9
         }
     ]
 }

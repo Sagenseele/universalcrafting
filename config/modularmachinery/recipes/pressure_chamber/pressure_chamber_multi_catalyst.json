@@ -1,7 +1,7 @@
 {
     "machine": "pressure_chamber",
-    "registryName": "pressure_chamber_plateIridium",
-    "recipeTime": 1,
+    "registryName": "pressure_chamber_multi_catalyst",
+    "recipeTime": 20,
     "requirements": [
         {
             "type": "energy",
@@ -11,14 +11,14 @@
         {
             "type": "item",
             "io-type": "input",
-            "item": "ore:blockIridium",
+            "item": "contentweaker:multiingot",
             "amount": 1
         },
         {
             "type": "item",
             "io-type": "output",
-            "item": "thermalfoundation:material@327",
-            "amount": 9
+            "item": "contentweaker:multi_catalyst",
+            "amount": 1
         }
     ]
 }

@@ -11,14 +11,14 @@
         {
             "type": "item",
             "io-type": "input",
-            "item": "ore:ingotTin",
+            "item": "ore:blockTin",
             "amount": 1
         },
         {
             "type": "item",
             "io-type": "output",
             "item": "thermalfoundation:material@321",
-            "amount": 1
+            "amount": 9
         }
     ]
 }

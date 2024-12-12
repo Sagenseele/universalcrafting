@@ -11,14 +11,14 @@
         {
             "type": "item",
             "io-type": "input",
-            "item": "ore:ingotElectrum",
+            "item": "ore:blockElectrum",
             "amount": 1
         },
         {
             "type": "item",
             "io-type": "output",
             "item": "thermalfoundation:material@353",
-            "amount": 1
+            "amount": 9
         }
     ]
 }

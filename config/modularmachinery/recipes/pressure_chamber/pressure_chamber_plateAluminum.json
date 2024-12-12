@@ -11,14 +11,14 @@
         {
             "type": "item",
             "io-type": "input",
-            "item": "ore:ingotAluminum",
+            "item": "ore:blockAluminum",
             "amount": 1
         },
         {
             "type": "item",
             "io-type": "output",
             "item": "thermalfoundation:material@324",
-            "amount": 1
+            "amount": 9
         }
     ]
 }

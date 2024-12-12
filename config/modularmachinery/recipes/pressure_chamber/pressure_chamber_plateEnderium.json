@@ -11,14 +11,14 @@
         {
             "type": "item",
             "io-type": "input",
-            "item": "ore:ingotEnderium",
+            "item": "ore:blockEnderium",
             "amount": 1
         },
         {
             "type": "item",
             "io-type": "output",
             "item": "thermalfoundation:material@359",
-            "amount": 1
+            "amount": 9
         }
     ]
 }

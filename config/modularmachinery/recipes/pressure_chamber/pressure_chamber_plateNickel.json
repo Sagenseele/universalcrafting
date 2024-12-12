@@ -11,14 +11,14 @@
         {
             "type": "item",
             "io-type": "input",
-            "item": "ore:ingotNickel",
+            "item": "ore:blockNickel",
             "amount": 1
         },
         {
             "type": "item",
             "io-type": "output",
             "item": "thermalfoundation:material@325",
-            "amount": 1
+            "amount": 9
         }
     ]
 }
